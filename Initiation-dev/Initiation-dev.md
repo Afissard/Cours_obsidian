@@ -8,7 +8,6 @@ type: folder_brief_live
 - [[ALG1 présentation de l'algorithmie]]
 - **[[go]]**
 	- **[[tuto1-src]]**
-- [[Golang]]
 - [[Présentation]]
 
 %% End Waypoint %%
