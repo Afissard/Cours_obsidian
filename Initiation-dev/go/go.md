@@ -1,4 +1,13 @@
-Présentation
+# go Overview
+ 
+```ccard
+type: folder_brief_live
+```
+%% Begin Waypoint %%
+- **[[tuto1-src]]**
+
+%% End Waypoint %%
+## Présentation du langage
 - impératif
 - concurrent (multi thread ?)
 - type statique
