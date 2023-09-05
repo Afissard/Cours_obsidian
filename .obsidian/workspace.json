@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f6a821732d386c",
+        "id": "d47b804d056afff7",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab46db12605fb46",
+            "id": "ae60eeecfac8cbf6",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture-système/Initiation Linux/linux_tp1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Initiation Linux/linux_tp1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Initiation Linux/linux_tp1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture-système/Initiation Linux/linux_tp1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +140,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1ab46db12605fb46",
+  "active": "ae60eeecfac8cbf6",
   "lastOpenFiles": [
+    "Architecture-système/Initiation Linux/fichierBinaire.pdf",
+    "Architecture-système/Initiation Linux/fichierTexte.txt",
+    "Architecture-système/Initiation Linux/Initiation Linux.md",
+    "Architecture-système/Architecture-système.md",
     "Architecture-système/Initiation Linux/linux_tp1.md",
     "Architecture-système/Initiation Linux/accueil.pdf",
     "README.md",
