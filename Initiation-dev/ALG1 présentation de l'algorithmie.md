@@ -16,10 +16,12 @@ Voir diapo sur #Madoc R101, page 5/10.
 ### Problème 
 Etant donnés 2 entiers positifs *a* et *b*, calculer le plus grand diviseur commun de *a* et *b*.
 ### Algorithme
-Tant que *b* != 0 : 
+```python
+while b != 0 : 
 	b = a 
 	b = b % a # rappel % = modulo
-Retourner a
+return a
+````
 ## Exemple de problème algorithmique
 - Biologie : problème d'alignement de séquences d'ADN
 - Internet : problème de routage, recherche de classement de données, de compression
