@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d47b804d056afff7",
+        "id": "52fc70a33c869c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ae60eeecfac8cbf6",
+            "id": "63def978cf665727",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -140,8 +140,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ae60eeecfac8cbf6",
+  "active": "63def978cf665727",
   "lastOpenFiles": [
+    "README.md",
+    "communication/communication.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/Présentation.md",
+    "Initiation-dev/Golang.md",
+    "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+    "communication/Présentation de la matière.md",
+    "communication",
     "Initiation-dev/go/tuto1-src/tuto1-src.md",
     "Initiation-dev/go/tuto1-src/tuto1-bases.pdf",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
@@ -150,7 +158,6 @@
     "Architecture-système/Initiation Linux/fichierTexte.txt",
     "Architecture-système/Initiation Linux/linux_tp1.md",
     "Architecture-système/Initiation Linux/accueil.pdf",
-    "README.md",
     "LICENSE"
   ]
 }

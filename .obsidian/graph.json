@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:Initiation-dev  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:communication  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
