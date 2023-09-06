@@ -18,23 +18,15 @@
             }
           },
           {
-            "id": "670e9dff67c20f70",
+            "id": "e92a17b49d12189b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "de004ab5b11b4a29",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md"
+                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md"
               }
             }
           },
@@ -174,41 +166,41 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "670e9dff67c20f70",
+  "active": "7dc0e07ceed5e462",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths-discret/Maths-discret.md",
+    "Maths/Maths-discret/Logique/tp1/PolyExercices_tp_maths_discretes_2023.pdf",
+    "Maths/PolyExercices_td_maths_discretes_2023.pdf",
+    "Architecture-système/Architecture-système.md",
+    "communication/communication.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Maths/Maths.md",
     "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+    "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
+    "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
+    "Maths/Maths-discret/Logique/tp1/logique/main.py",
+    "Maths/Maths-discret/Logique/tp1/logique/logic_gate.py",
+    "Maths/Maths-discret/Logique/tp1/logique",
+    "Maths/Maths-discret/Logique/tp1/base/main.py",
+    "Maths/Maths-discret/Logique/tp1/base",
+    "Maths/Maths-discret/Logique/tp1",
+    "conflict-files-obsidian-git.md",
     "SAE/Sudoku (maths)/Sudoku (maths).md",
-    "SAE/Sudoku (maths)",
     "SAE/SAE.md",
-    "SAE",
     "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
     "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
     "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
     "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md",
-    "Maths/Maths-discret/Logique/Opérations",
-    "Maths/Maths-discret/Logique/Logique.md",
-    "Maths/Maths-discret/Logique",
-    "Maths/Maths-discret/Maths-discret.md",
-    "Maths/Maths.md",
-    "Maths/Maths-discret",
-    "Maths",
     "Initiation-dev/go/go.md",
-    "communication/communication.md",
     "Initiation-dev/Golang.md",
-    "Initiation-dev/Initiation-dev.md",
     "README.md",
     "Initiation-dev/Présentation.md",
     "communication/Présentation de la matière.md",
-    "communication",
     "Initiation-dev/go/tuto1-src/tuto1-src.md",
-    "Initiation-dev/go/tuto1-src/tuto1-bases.pdf",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
-    "Architecture-système/Architecture-système.md",
-    "Architecture-système/Initiation Linux/fichierBinaire.pdf",
-    "Architecture-système/Initiation Linux/fichierTexte.txt",
     "Architecture-système/Initiation Linux/linux_tp1.md"
   ]
 }

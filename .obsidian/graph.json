@@ -29,14 +29,14 @@
       }
     },
     {
-      "query": "path:Maths ",
+      "query": "path:SAE  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:SAE  ",
+      "query": "path:Maths  ",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -49,14 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.351133280127694,
+  "centerStrength": 0.4002079002079,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 1.0000000000000009,
-=======
-  "scale": 0.7102354745024354,
->>>>>>> origin/main
+  "scale": 0.6554983534946922,
   "close": true
 }
