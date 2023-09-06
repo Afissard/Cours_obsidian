@@ -152,6 +152,12 @@
   },
   "active": "63def978cf665727",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/Technologie de réalisation.md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Introduction/Histoire des ordinateurs.md",
+    "Architecture-système/Architecture-système.md",
+    "Architecture-système/Introduction",
+    "Maths/Maths.md",
     "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Logique.md",
     "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
@@ -171,7 +177,6 @@
     "SAE/Sans titre.md",
     "SAE/Sudoku (maths)",
     "SAE",
-    "Maths/Maths.md",
     "Maths/Maths-discret",
     "Maths/Maths-discret/Manipulation d'ensemble",
     "Communication/Communication.md",
@@ -181,12 +186,7 @@
     "Initiation-dev/ALG1 présentation de l'algorithmie.md",
     "Initiation-dev/Golang.md",
     "Initiation-dev/Présentation.md",
-    "Communication/Présentation de la matière.md",
     "Communication",
-    "Initiation-dev/go/tuto1-src/tuto1-bases.pdf",
-    "Architecture-système/Initiation Linux/Initiation Linux.md",
-    "Architecture-système/Architecture-système.md",
-    "Architecture-système/Initiation Linux/fichierBinaire.pdf",
-    "Architecture-système/Initiation Linux/linux_tp1.md"
+    "Initiation-dev/go/tuto1-src/tuto1-bases.pdf"
   ]
 }
