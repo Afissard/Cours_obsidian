@@ -152,6 +152,10 @@
   },
   "active": "63def978cf665727",
   "lastOpenFiles": [
+    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
+    "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
     "SAE/SAE.md",
     "conflict-files-obsidian-git.md",
     "README.md",
@@ -159,7 +163,6 @@
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
     "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
-    "Maths/Maths-discret/Logique/Logique.md",
     "SAE/Sudoku (maths)/Sudoku (maths).md",
     "Maths/Maths-discret/Logique/Opérations",
     "Initiation-dev/go/go.md",
