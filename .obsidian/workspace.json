@@ -178,6 +178,23 @@
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+    "SAE/Sudoku (maths)/Sudoku (maths).md",
+    "SAE/Sudoku (maths)",
+    "SAE/SAE.md",
+    "SAE",
+    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
+    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
+    "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
+    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
+    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md",
+    "Maths/Maths-discret/Logique/Opérations",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths-discret/Logique",
+    "Maths/Maths-discret/Maths-discret.md",
+    "Maths/Maths.md",
+    "Maths/Maths-discret",
+    "Maths",
     "Initiation-dev/go/go.md",
     "communication/communication.md",
     "Initiation-dev/Golang.md",
@@ -192,8 +209,6 @@
     "Architecture-système/Architecture-système.md",
     "Architecture-système/Initiation Linux/fichierBinaire.pdf",
     "Architecture-système/Initiation Linux/fichierTexte.txt",
-    "Architecture-système/Initiation Linux/linux_tp1.md",
-    "Architecture-système/Initiation Linux/accueil.pdf",
-    "LICENSE"
+    "Architecture-système/Initiation Linux/linux_tp1.md"
   ]
 }
