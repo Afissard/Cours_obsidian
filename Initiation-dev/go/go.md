@@ -8,7 +8,7 @@ type: folder_brief_live
 - **[[tuto1-src]]**
 
 %% End Waypoint %%
-## Présentation du langage
+## Présentation du langage #go
 - impératif
 - concurrent (multi thread ?)
 - type statique

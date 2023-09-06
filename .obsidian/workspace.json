@@ -120,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-09-06.md"
+              }
             }
           },
           {
@@ -146,29 +148,43 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63def978cf665727",
+  "active": "7dc0e07ceed5e462",
   "lastOpenFiles": [
+    "2023-09-06.md",
+    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
+    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md",
+    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "SAE/Sudoku (maths)/Sudoku (maths).md",
+    "Maths/Maths-discret/Logique/Opérations",
     "Initiation-dev/go/go.md",
-    "communication/communication.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Maths/Maths-discret/Maths-discret.md",
+    "SAE/Sans titre.md",
+    "SAE/Sudoku (maths)",
+    "SAE",
+    "Maths/Maths.md",
+    "Maths/Maths-discret",
+    "Maths/Maths-discret/Manipulation d'ensemble",
+    "Communication/Communication.md",
+    "Maths/Maths-discret/Logique",
+    "Maths",
     "Initiation-dev/go/tuto1-src/tuto1-src.md",
     "Initiation-dev/ALG1 présentation de l'algorithmie.md",
     "conflict-files-obsidian-git.md",
     "Initiation-dev/Golang.md",
-    "Initiation-dev/Initiation-dev.md",
     "README.md",
     "Initiation-dev/Présentation.md",
-    "communication/Présentation de la matière.md",
-    "communication",
+    "Communication/Présentation de la matière.md",
+    "Communication",
     "Initiation-dev/go/tuto1-src/tuto1-bases.pdf",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
     "Architecture-système/Architecture-système.md",
     "Architecture-système/Initiation Linux/fichierBinaire.pdf",
-    "Architecture-système/Initiation Linux/fichierTexte.txt",
-    "Architecture-système/Initiation Linux/linux_tp1.md",
-    "Architecture-système/Initiation Linux/accueil.pdf",
-    "LICENSE"
+    "Architecture-système/Initiation Linux/linux_tp1.md"
   ]
 }
