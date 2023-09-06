@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+                "file": "Architecture-système/Initiation Linux/Initiation Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+                "file": "Architecture-système/Initiation Linux/Initiation Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+                "file": "Architecture-système/Initiation Linux/Initiation Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md"
+                "file": "Architecture-système/Initiation Linux/Initiation Linux.md"
               }
             }
           },
@@ -166,16 +166,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7dc0e07ceed5e462",
+  "active": "e92a17b49d12189b",
   "lastOpenFiles": [
+    "Architecture-système/Architecture-système.md",
+    "Maths/Maths.md",
+    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Logique.md",
     "Maths/Maths-discret/Maths-discret.md",
     "Maths/Maths-discret/Logique/tp1/PolyExercices_tp_maths_discretes_2023.pdf",
     "Maths/PolyExercices_td_maths_discretes_2023.pdf",
-    "Architecture-système/Architecture-système.md",
     "communication/communication.md",
     "Initiation-dev/Initiation-dev.md",
-    "Maths/Maths.md",
     "Initiation-dev/ALG1 présentation de l'algorithmie.md",
     "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
     "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
@@ -188,7 +189,6 @@
     "conflict-files-obsidian-git.md",
     "SAE/Sudoku (maths)/Sudoku (maths).md",
     "SAE/SAE.md",
-    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
     "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
     "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
