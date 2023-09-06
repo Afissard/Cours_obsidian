@@ -16,33 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "670e9dff67c20f70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de004ab5b11b4a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Initiation-dev/ALG1 présentation de l'algorithmie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,19 +149,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "670e9dff67c20f70",
+  "active": "63def978cf665727",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Initiation-dev/ALG1 présentation de l'algorithmie.md",
     "Initiation-dev/go/go.md",
     "communication/communication.md",
+    "Initiation-dev/go/tuto1-src/tuto1-src.md",
+    "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+    "conflict-files-obsidian-git.md",
     "Initiation-dev/Golang.md",
     "Initiation-dev/Initiation-dev.md",
     "README.md",
     "Initiation-dev/Présentation.md",
     "communication/Présentation de la matière.md",
     "communication",
-    "Initiation-dev/go/tuto1-src/tuto1-src.md",
     "Initiation-dev/go/tuto1-src/tuto1-bases.pdf",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
     "Architecture-système/Architecture-système.md",
