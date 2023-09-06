@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
 %% Begin Waypoint %%
 - **[[Maths-discret]]**
+- [[PolyExercices_td_maths_discretes_2023.pdf]]
 
 %% End Waypoint %%
 
