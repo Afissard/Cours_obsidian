@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83623e069a4c4eb4",
+        "id": "52fc70a33c869c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3906f7c6b21754",
+            "id": "63def978cf665727",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "right": {
     "id": "f4bb37fc8ab1f965",
@@ -141,52 +141,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3906f7c6b21754",
+  "active": "63def978cf665727",
   "lastOpenFiles": [
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "Anglais Technique/Anglais Technique.md",
     "Anglais Technique/Introduction.md",
-    "Initiation-dev/go/tuto1-src/tuto1-bases.pdf",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/Initiation-dev.md",
+    "Anglais Technique/Anglais Technique.md",
+    "conflict-files-obsidian-git.md",
+    "Anglais Technique/Sans titre.md",
     "Architecture-système/Architecture-système.md",
+    "Anglais Technique/TP n1",
+    "Anglais Technique",
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/TD n1.md",
-    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
     "Architecture-système/Calculs-Booléen--Circuit-Combinatoire",
-    "Anglais Technique",
-    "Nouveau Document texte.txt",
     "Architecture-système/Introduction/cours r103 semaine 1.pdf",
-    "Architecture-système/Initiation Linux/Initiation Linux.md",
+    "Maths/PolyExercices_td_maths_discretes_2023.pdf",
+    "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
+    "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
+    "Maths/Maths-discret/Logique/tp1/logique/main.py",
+    "Maths/Maths-discret/Logique/tp1/logique/logic_gate.py",
+    "Maths/Maths-discret/Logique/tp1/base/main.py",
     "Architecture-système/Introduction/Technologie de réalisation.md",
     "Architecture-système/Introduction/Histoire des ordinateurs.md",
-    "Architecture-système/Introduction",
     "Maths/Maths.md",
     "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Logique.md",
-    "Maths/Maths-discret/Maths-discret.md",
-    "Maths/Maths-discret/Logique/tp1/PolyExercices_tp_maths_discretes_2023.pdf",
-    "Maths/PolyExercices_td_maths_discretes_2023.pdf",
-    "communication/communication.md",
-    "Initiation-dev/ALG1 présentation de l'algorithmie.md",
-    "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
-    "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
-    "SAE/Sudoku (maths)/Sudoku (maths).md",
-    "SAE/SAE.md",
-    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
     "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
     "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
+    "SAE/SAE.md",
+    "README.md",
+    "2023-09-06.md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
-    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md"
+    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md",
+    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
+    "SAE/Sudoku (maths)/Sudoku (maths).md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Maths/Maths-discret/Maths-discret.md",
+    "SAE/Sans titre.md"
   ]
 }
