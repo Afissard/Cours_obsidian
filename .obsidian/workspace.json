@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture-système/Introduction/Introduction.md",
+                "file": "Anglais Technique/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Introduction/Introduction.md",
+                "file": "Anglais Technique/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Introduction/Introduction.md",
+                "file": "Anglais Technique/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture-système/Introduction/Introduction.md"
+                "file": "Anglais Technique/Introduction.md"
               }
             }
           },
@@ -170,20 +170,24 @@
   "active": "6d3d7e83d29735e2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Anglais Technique/Introduction.md",
+    "Anglais Technique/Sans titre.md",
+    "Architecture-système/Architecture-système.md",
+    "Anglais Technique/TP n1",
+    "Anglais Technique",
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Introduction/TD n1.md",
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire",
+    "Architecture-système/Introduction/cours r103 semaine 1.pdf",
     "Maths/PolyExercices_td_maths_discretes_2023.pdf",
     "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
     "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
     "Maths/Maths-discret/Logique/tp1/logique/main.py",
     "Maths/Maths-discret/Logique/tp1/logique/logic_gate.py",
     "Maths/Maths-discret/Logique/tp1/base/main.py",
-    "Maths/Maths-discret/Logique/tp1/PolyExercices_tp_maths_discretes_2023.pdf",
-    "Maths/Maths-discret/Logique/tp1/logique",
-    "Maths/Maths-discret/Logique/tp1/base",
-    "Maths/Maths-discret/Logique/tp1",
     "Architecture-système/Introduction/Technologie de réalisation.md",
-    "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/Histoire des ordinateurs.md",
-    "Architecture-système/Architecture-système.md",
     "Maths/Maths.md",
     "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Logique.md",
@@ -200,9 +204,6 @@
     "Initiation-dev/Initiation-dev.md",
     "Maths/Maths-discret/Maths-discret.md",
     "SAE/Sans titre.md",
-    "Communication/Communication.md",
-    "Initiation-dev/go/tuto1-src/tuto1-src.md",
-    "Initiation-dev/ALG1 présentation de l'algorithmie.md",
-    "Initiation-dev/Golang.md"
+    "Communication/Communication.md"
   ]
 }
