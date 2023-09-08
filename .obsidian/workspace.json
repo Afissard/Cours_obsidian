@@ -20,12 +20,24 @@
           {
             "id": "b42542706024f16f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md",
+                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1f8cb7a12d361299",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/Partie 2 cours.pdf"
               }
             }
           }
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md",
+                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md",
+                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md"
+                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md"
               }
             }
           },
@@ -169,8 +181,17 @@
   },
   "active": "b42542706024f16f",
   "lastOpenFiles": [
-    "Gestion-de-Projet/plan du cours.md",
+    "Gestion-de-Projet/Entreprise/Partie 2 cours.pdf",
+    "Gestion-de-Projet/Entreprise/Etude de marché.md",
     "Gestion-de-Projet/Entreprise/Definition et généralité.md",
+    "README.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Gestion-de-Projet/Entreprise/Partie 1 cours.pdf",
+    "Gestion-de-Projet/Entreprise/Informations travail TP.pdf",
+    "Gestion-de-Projet/Entreprise/Travail en groupe.pdf",
+    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
+    "Gestion-de-Projet/plan du cours.md",
     "Anglais Technique/Anglais Technique.md",
     "Gestion-de-Projet/Entreprise",
     "Gestion-de-Projet",
@@ -185,10 +206,6 @@
     "Architecture-système/Introduction/TD n1.md",
     "Architecture-système/Calculs-Booléen--Circuit-Combinatoire",
     "Architecture-système/Introduction/cours r103 semaine 1.pdf",
-    "Maths/PolyExercices_td_maths_discretes_2023.pdf",
-    "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
-    "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
-    "Maths/Maths-discret/Logique/tp1/logique/main.py",
     "Architecture-système/Introduction/Technologie de réalisation.md",
     "Architecture-système/Introduction/Histoire des ordinateurs.md",
     "Maths/Maths.md",
@@ -197,13 +214,8 @@
     "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
     "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
     "SAE/SAE.md",
-    "README.md",
     "2023-09-06.md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
-    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md",
-    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
-    "SAE/Sudoku (maths)/Sudoku (maths).md",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/Initiation-dev.md"
+    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md"
   ]
 }

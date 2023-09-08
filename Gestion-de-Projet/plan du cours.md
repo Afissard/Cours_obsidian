@@ -1,4 +1,4 @@
-- entreprise
+- entreprise, definition et généralité
 - classification des entreprise
 - management des hommes
 - stratégie d'entreprise
