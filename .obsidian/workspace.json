@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b42542706024f16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/Definition et généralité.md"
+              }
             }
           },
           {
@@ -150,10 +167,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63def978cf665727",
+  "active": "b42542706024f16f",
   "lastOpenFiles": [
-    "Anglais Technique/Introduction.md",
+    "Gestion-de-Projet/plan du cours.md",
+    "Gestion-de-Projet/Entreprise/Definition et généralité.md",
     "Anglais Technique/Anglais Technique.md",
+    "Gestion-de-Projet/Entreprise",
+    "Gestion-de-Projet",
+    "Anglais Technique/Introduction.md",
     "conflict-files-obsidian-git.md",
     "Anglais Technique/Sans titre.md",
     "Architecture-système/Architecture-système.md",
@@ -168,8 +189,6 @@
     "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
     "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
     "Maths/Maths-discret/Logique/tp1/logique/main.py",
-    "Maths/Maths-discret/Logique/tp1/logique/logic_gate.py",
-    "Maths/Maths-discret/Logique/tp1/base/main.py",
     "Architecture-système/Introduction/Technologie de réalisation.md",
     "Architecture-système/Introduction/Histoire des ordinateurs.md",
     "Maths/Maths.md",
@@ -185,8 +204,6 @@
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
     "SAE/Sudoku (maths)/Sudoku (maths).md",
     "Initiation-dev/go/go.md",
-    "Initiation-dev/Initiation-dev.md",
-    "Maths/Maths-discret/Maths-discret.md",
-    "SAE/Sans titre.md"
+    "Initiation-dev/Initiation-dev.md"
   ]
 }
