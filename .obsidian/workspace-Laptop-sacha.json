@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "b4d8eaba0c08ace1",
+    "type": "split",
+    "children": [
+      {
+        "id": "83623e069a4c4eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a3906f7c6b21754",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9d6e4607637bb51",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c31ba47ff65caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc0e07ceed5e462",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3fddbc4996eaae2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d242628c43554de8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4bb37fc8ab1f965",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc4efc79a7cf0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e622c5ceca380f5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "718034e0d02300d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7ad57f1645a90a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb555c2d7b55f31f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f06cf46efe6cf929",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "0a3906f7c6b21754",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Initiation-dev/Initiation-dev.md",
+    "README.md",
+    "Anglais Technique/Anglais Technique.md",
+    "Anglais Technique/Introduction.md",
+    "Initiation-dev/go/tuto1-src/tuto1-bases.pdf",
+    "Initiation-dev/go/go.md",
+    "Architecture-système/Architecture-système.md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Introduction/TD n1.md",
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire",
+    "Anglais Technique",
+    "Nouveau Document texte.txt",
+    "Architecture-système/Introduction/cours r103 semaine 1.pdf",
+    "Architecture-système/Initiation Linux/Initiation Linux.md",
+    "Architecture-système/Introduction/Technologie de réalisation.md",
+    "Architecture-système/Introduction/Histoire des ordinateurs.md",
+    "Architecture-système/Introduction",
+    "Maths/Maths.md",
+    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths-discret/Maths-discret.md",
+    "Maths/Maths-discret/Logique/tp1/PolyExercices_tp_maths_discretes_2023.pdf",
+    "Maths/PolyExercices_td_maths_discretes_2023.pdf",
+    "communication/communication.md",
+    "Initiation-dev/ALG1 présentation de l'algorithmie.md",
+    "Maths/Maths-discret/Logique/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
+    "Maths/Maths-discret/Logique/tp1/logique/__pycache__",
+    "SAE/Sudoku (maths)/Sudoku (maths).md",
+    "SAE/SAE.md",
+    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
+    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
+    "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
+    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
+    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md"
+  ]
+}

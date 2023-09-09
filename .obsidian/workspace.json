@@ -16,33 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b42542706024f16f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1f8cb7a12d361299",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/Partie 2 cours.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/Etude de marché.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,10 +150,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b42542706024f16f",
+  "active": "63def978cf665727",
   "lastOpenFiles": [
-    "Gestion-de-Projet/Entreprise/Partie 2 cours.pdf",
+    "Architecture-système/Initiation Linux/trav/monrep/sousrep/jeux",
+    "Architecture-système/Initiation Linux/trav/monrep/sousrep2",
+    "Architecture-système/Initiation Linux/trav/monrep/sousrep1",
+    "communication/communication.md",
+    "Communication/Présentation de la matière.md",
+    "communication/Présentation de la matière.md",
+    "communication/Communication.md",
+    "communication",
+    "Communication/Communication.md",
     "Gestion-de-Projet/Entreprise/Etude de marché.md",
+    "Gestion-de-Projet/Entreprise/Partie 2 cours.pdf",
     "Gestion-de-Projet/Entreprise/Definition et généralité.md",
     "README.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
@@ -200,22 +180,14 @@
     "Anglais Technique/Sans titre.md",
     "Architecture-système/Architecture-système.md",
     "Anglais Technique/TP n1",
-    "Anglais Technique",
     "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/TD n1.md",
-    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire",
-    "Architecture-système/Introduction/cours r103 semaine 1.pdf",
     "Architecture-système/Introduction/Technologie de réalisation.md",
     "Architecture-système/Introduction/Histoire des ordinateurs.md",
     "Maths/Maths.md",
     "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Logique.md",
-    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
-    "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
-    "SAE/SAE.md",
-    "2023-09-06.md",
-    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅).md",
-    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄).md"
+    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md"
   ]
 }
