@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,6 +153,8 @@
   },
   "active": "63def978cf665727",
   "lastOpenFiles": [
+    "Initiation-dev/Présentation.md",
+    "Initiation-dev/Initiation-dev.md",
     "Maths/Maths-discret/Maths-discret.md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅, +).md",
     "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄, .).md",
@@ -180,8 +183,6 @@
     "Maths/Maths-discret/Logique/Opérations/Implique (→)-Laptop-sacha.md",
     "Maths/Maths-discret/Logique/Opérations/Equivaut (↔)-Laptop-sacha.md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Logique-Laptop-sacha.md",
     "LICENSE-Laptop-sacha",
     "Initiation-dev/go/tuto1-src/src/vars2-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/vars-Laptop-sacha.go",
