@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "75a03a0a4074b733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Maths.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 216.5
   },
   "right": {
     "id": "f4bb37fc8ab1f965",
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Maths.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +150,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75a03a0a4074b733",
+  "active": "63def978cf665727",
   "lastOpenFiles": [
+    "Maths/Maths-discret/Maths-discret.md",
+    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅, +).md",
+    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄, .).md",
+    "Maths/Maths-discret/Logique/Propriété/Propriété.md",
+    "Maths/Maths-discret/Logique/Propriété/Neutre & Absorption.md",
+    "Maths/Maths-discret/Logique/Propriété",
+    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
+    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths.md",
+    "README.md",
+    "Architecture-système/Architecture-système.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
     "SAE/SAE.md",
     "SAE/Sudoku (maths)/Sudoku (maths).md",
     "SAE/Sudoku (maths)/Sudoku (maths)-Laptop-sacha.md",
@@ -186,25 +182,12 @@
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅)-Laptop-sacha.md",
     "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄)-Laptop-sacha.md",
     "Maths/Maths-discret/Logique/Logique-Laptop-sacha.md",
-    "Maths/Maths-Laptop-sacha.md",
     "LICENSE-Laptop-sacha",
     "Initiation-dev/go/tuto1-src/src/vars2-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/vars-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/tabs4-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/tabs3-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/tabs2-Laptop-sacha.go",
-    "Initiation-dev/go/tuto1-src/src/tabs-Laptop-sacha.go",
-    "Initiation-dev/Présentation-Laptop-sacha.md",
-    "Architecture-système/Introduction/Technologie de réalisation-Laptop-sacha.md",
-    "Architecture-système/Introduction/TD n1-Laptop-sacha.md",
-    "Architecture-système/Introduction/Histoire des ordinateurs-Laptop-sacha.md",
-    "Architecture-système/Initiation Linux/linux_tp1-Laptop-sacha.md",
-    "Architecture-système/Initiation Linux/Initiation Linux-Laptop-sacha.md",
-    "Architecture-système/Architecture-système-Laptop-sacha.md",
-    "Anglais Technique/Anglais Technique-Laptop-sacha.md",
-    "communication/communication.md",
-    "Communication/Présentation de la matière.md",
-    "communication/Présentation de la matière.md",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas"
   ]
 }

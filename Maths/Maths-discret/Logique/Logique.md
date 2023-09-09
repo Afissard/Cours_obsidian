@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
 %% Begin Waypoint %%
 - **[[Opérations]]**
+- **[[Propriété]]**
 - **tp1**
 	- **base**
 		- [[main.py]]
