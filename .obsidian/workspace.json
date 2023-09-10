@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "propri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,18 +152,23 @@
   },
   "active": "63def978cf665727",
   "lastOpenFiles": [
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule logiquement équivalentes (≡).md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule Tautologique.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
+    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+    "Propriété.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule (in)satisfiable.md",
+    "Maths/Maths.md",
     "Initiation-dev/Présentation.md",
     "Initiation-dev/Initiation-dev.md",
     "Maths/Maths-discret/Maths-discret.md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅, +).md",
     "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄, .).md",
-    "Maths/Maths-discret/Logique/Propriété/Propriété.md",
-    "Maths/Maths-discret/Logique/Propriété/Neutre & Absorption.md",
-    "Maths/Maths-discret/Logique/Propriété",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Neutre & Absorption.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
-    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
-    "Maths/Maths-discret/Logique/Logique.md",
-    "Maths/Maths.md",
     "README.md",
     "Architecture-système/Architecture-système.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
@@ -175,14 +179,9 @@
     "README-Laptop-sacha.md",
     "conflict-files-obsidian-git.md",
     "communication/Présentation de la matière-Laptop-sacha.md",
-    "Maths/Maths-discret/Maths-discret-Laptop-sacha.md",
     "Maths/Maths-discret/Logique/tp1/logique/main-Laptop-sacha.py",
     "Maths/Maths-discret/Logique/tp1/logique/logic_gate-Laptop-sacha.py",
     "Maths/Maths-discret/Logique/tp1/base/main-Laptop-sacha.py",
-    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Implique (→)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅)-Laptop-sacha.md",
     "LICENSE-Laptop-sacha",
     "Initiation-dev/go/tuto1-src/src/vars2-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/vars-Laptop-sacha.go",
