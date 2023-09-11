@@ -1,0 +1,1 @@
+Groupe de 4, 15 min de passage, tout sujets tant qu'interressant, note commune.

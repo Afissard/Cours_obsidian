@@ -120,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -150,9 +152,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63def978cf665727",
+  "active": "7dc0e07ceed5e462",
   "lastOpenFiles": [
+    "Initiation-dev/ALG2 Recherche d'éléments.md",
+    "conflict-files-obsidian-git.md",
+    "Initiation-dev/Pourquoi étudier l'algorithmique.md",
+    "communication/Résumé_exercice/Entrainement.md",
+    "communication/Résumé de texte.md",
+    "communication/Résumé_exercice",
+    "communication/Exposé.md",
+    "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
     "Maths/Maths-discret/Maths-discret.md",
+    "Maths/Maths.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Neutre & Absorption.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule Tautologique.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule logiquement équivalentes (≡).md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule (in)satisfiable.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅, +).md",
     "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄, .).md",
     "Maths/Maths-discret/Logique/Propriété/Propriété.md",
@@ -160,34 +179,17 @@
     "Maths/Maths-discret/Logique/Propriété",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
     "Maths/Maths-discret/Logique/Opérations/Opérations.md",
-    "Maths/Maths-discret/Logique/Logique.md",
-    "Maths/Maths.md",
     "README.md",
     "Architecture-système/Architecture-système.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
     "SAE/SAE.md",
-    "SAE/Sudoku (maths)/Sudoku (maths).md",
-    "SAE/Sudoku (maths)/Sudoku (maths)-Laptop-sacha.md",
-    "SAE/SAE-Laptop-sacha.md",
-    "README-Laptop-sacha.md",
-    "conflict-files-obsidian-git.md",
-    "communication/Présentation de la matière-Laptop-sacha.md",
-    "Maths/Maths-discret/Maths-discret-Laptop-sacha.md",
     "Maths/Maths-discret/Logique/tp1/logique/main-Laptop-sacha.py",
     "Maths/Maths-discret/Logique/tp1/logique/logic_gate-Laptop-sacha.py",
     "Maths/Maths-discret/Logique/tp1/base/main-Laptop-sacha.py",
-    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Implique (→)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄)-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Logique-Laptop-sacha.md",
     "LICENSE-Laptop-sacha",
     "Initiation-dev/go/tuto1-src/src/vars2-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/vars-Laptop-sacha.go",
     "Initiation-dev/go/tuto1-src/src/tabs4-Laptop-sacha.go",
-    "Initiation-dev/go/tuto1-src/src/tabs3-Laptop-sacha.go",
-    "Initiation-dev/go/tuto1-src/src/tabs2-Laptop-sacha.go",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas"
   ]
 }
