@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "af484fca53bc4f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md"
               }
             }
           },
@@ -132,9 +147,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "6e409f99644a1661",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -152,16 +175,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7dc0e07ceed5e462",
+  "active": "af484fca53bc4f1b",
   "lastOpenFiles": [
-    "Initiation-dev/ALG2 Recherche d'éléments.md",
-    "conflict-files-obsidian-git.md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Architecture-système.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
     "Initiation-dev/Pourquoi étudier l'algorithmique.md",
+    "communication/communication.md",
+    "communication/Résumé_exercice/Résumé_exercice.md",
     "communication/Résumé_exercice/Entrainement.md",
+    "conflict-files-obsidian-git.md",
+    "Initiation-dev/ALG2 Recherche d'éléments.md",
     "communication/Résumé de texte.md",
     "communication/Résumé_exercice",
     "communication/Exposé.md",
-    "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
     "Maths/Maths-discret/Logique/Logique.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
     "Maths/Maths-discret/Maths-discret.md",
@@ -178,11 +206,6 @@
     "Maths/Maths-discret/Logique/Propriété/Neutre & Absorption.md",
     "Maths/Maths-discret/Logique/Propriété",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
-    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
-    "README.md",
-    "Architecture-système/Architecture-système.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
-    "SAE/SAE.md",
     "Maths/Maths-discret/Logique/tp1/logique/main-Laptop-sacha.py",
     "Maths/Maths-discret/Logique/tp1/logique/logic_gate-Laptop-sacha.py",
     "Maths/Maths-discret/Logique/tp1/base/main-Laptop-sacha.py",

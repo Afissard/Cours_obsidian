@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- [[Codage des entiers naturels et relatifs]]
 - [[cours r103 semaine 1.pdf]]
 - [[Histoire des ordinateurs]]
 - [[TD n1]]
