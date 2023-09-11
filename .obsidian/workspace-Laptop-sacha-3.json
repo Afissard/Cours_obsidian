@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1aee35b33431e933",
+        "id": "571e81df30a76721",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bd56b1fe2b6d05",
+            "id": "36d795a21d8ccd02",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "communication/communication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 300
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "communication/communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "communication/communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "communication/communication.md"
+              }
             }
           }
         ]
@@ -141,23 +147,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e5bd56b1fe2b6d05",
+  "active": "36d795a21d8ccd02",
   "lastOpenFiles": [
-    "Initiation-dev/Initiation-dev.md",
-    "Initiation-dev/ALG2 Recherche d'éléments.md",
-    "communication/communication.md",
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
-    "Architecture-système/Architecture-système.md",
-    "communication/Résumé_exercice/Résumé_exercice.md",
-    "communication/Résumé_exercice/Entrainement.md",
-    "Maths/Maths.md",
-    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
-    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Neutre & Absorption-Laptop-sacha.md",
-    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule logiquement équivalentes (≡)-Laptop-sacha.md",
-    "conflict-files-obsidian-git.md",
     "communication/Exposé.md",
+    "communication/communication.md",
     "Maths/Maths-discret/Maths-discret.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule (in)satisfiable.md"
   ]
 }

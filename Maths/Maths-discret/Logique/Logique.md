@@ -3,9 +3,10 @@
 ```ccard
 type: folder_brief_live
 ```
+
 %% Begin Waypoint %%
 - **[[Opérations]]**
-- **[[Propriété]]**
+- **[[Propriété-et-Definitions]]**
 - **tp1**
 	- **base**
 		- [[main.py]]
