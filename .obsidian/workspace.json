@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 241.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -143,10 +143,11 @@
   },
   "active": "e5bd56b1fe2b6d05",
   "lastOpenFiles": [
+    "Anglais Technique/Anglais Technique.md",
+    "Initiation-dev/ALG2 Recherche d'éléments.md",
     "Initiation-dev/Initiation-dev.md",
     "Maths/Maths.md",
     "conflict-files-obsidian-git.md",
-    "Initiation-dev/ALG2 Recherche d'éléments.md",
     "communication/communication.md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
