@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "4d51c4393f3ffa10",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.10"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,6 +133,16 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "f92634b381d09202",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -141,7 +162,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e5bd56b1fe2b6d05",
+  "active": "4d51c4393f3ffa10",
   "lastOpenFiles": [
     "Anglais Technique/Anglais Technique.md",
     "Initiation-dev/ALG2 Recherche d'éléments.md",
