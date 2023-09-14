@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "b4d8eaba0c08ace1",
+    "type": "split",
+    "children": [
+      {
+        "id": "52fc70a33c869c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63def978cf665727",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "e492b55a82139fc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9d6e4607637bb51",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c31ba47ff65caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc0e07ceed5e462",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3fddbc4996eaae2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d242628c43554de8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "f4bb37fc8ab1f965",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc4efc79a7cf0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e622c5ceca380f5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "718034e0d02300d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7ad57f1645a90a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb555c2d7b55f31f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f06cf46efe6cf929",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e409f99644a1661",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fa0840fc706d187",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e492b55a82139fc9",
+  "lastOpenFiles": [
+    "Dev-Web/Introduction HTML5.md",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice01.html",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice02.html",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/pages/portfolio/index.html",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/pages/blog/index.html",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/pages/about/index.html",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/pages/portfolio",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/pages/blog",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/pages/about",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/pages",
+    "Dev-Web/tp1/r1.02/td/workspace/TD1/exercice03/index.html",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/vendor/fontawesome/webfonts/fa-solid-900.svg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/vendor/fontawesome/webfonts/fa-regular-400.svg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/vendor/fontawesome/webfonts/fa-brands-400.svg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/images/T_7_front-600x600.jpg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/images/T_5_front-600x600.jpg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/images/T_4_front-600x600.jpg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/images/T_2_front-600x600.jpg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/images/T_1_front-600x600.jpg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/images/poster_3_up-600x600.jpg",
+    "Dev-Web/tp1/r1.02/td/workspace/TD2/assets/images/poster_2_up-600x600.jpg",
+    "Dev-Web/tp1/r1.02/README.md",
+    "Dev-Web/Introduction Web.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/tp_création_entreprise.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Explication.md",
+    "Architecture-système/Architecture-système.md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
+    "Architecture-système/Introduction/Technologie de réalisation.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/Pourquoi étudier l'algorithmique.md",
+    "communication/communication.md",
+    "communication/Résumé_exercice/Résumé_exercice.md",
+    "communication/Résumé_exercice/Entrainement.md",
+    "conflict-files-obsidian-git.md",
+    "Initiation-dev/ALG2 Recherche d'éléments.md",
+    "communication/Résumé de texte.md",
+    "communication/Exposé.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
+    "Maths/Maths-discret/Maths-discret.md",
+    "Maths/Maths.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Neutre & Absorption.md",
+    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas"
+  ]
+}
