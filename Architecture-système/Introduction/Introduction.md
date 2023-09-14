@@ -12,7 +12,6 @@ type: folder_brief_live
 - [[Technologie de réalisation]]
 
 %% End Waypoint %%
-
 #Madoc: R103
 
 durée de la ressource : 6 semaine

@@ -5,7 +5,6 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Formule (in)satisfiable-Laptop-sacha]]
 - [[Formule (in)satisfiable]]
 - [[Formule logiquement équivalentes (≡)]]
 - [[Formule Tautologique]]

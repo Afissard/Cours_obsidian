@@ -21,9 +21,11 @@
             "id": "4d51c4393f3ffa10",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.10"
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md"
+              }
             }
           },
           {
@@ -164,6 +170,8 @@
   },
   "active": "4d51c4393f3ffa10",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Anglais Technique/Anglais Technique.md",
     "Initiation-dev/ALG2 Recherche d'éléments.md",
     "Initiation-dev/Initiation-dev.md",
