@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:Dev-Web  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 14,
   "linkStrength": 1,
   "linkDistance": 300,
-  "scale": 0.3746463080320631,
-  "close": true
+  "scale": 0.24558003805788245,
+  "close": false
 }

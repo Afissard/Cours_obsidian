@@ -11,6 +11,6 @@ type: folder_brief_live
 - [[Informations travail TP.pdf]]
 - [[Partie 1 cours.pdf]]
 - [[Partie 2 cours.pdf]]
-- [[Travail en groupe.pdf]]
+- **[[tp_création_entreprise]]**
 
 %% End Waypoint %%

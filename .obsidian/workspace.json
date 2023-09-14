@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1aee35b33431e933",
+        "id": "cf4b9bd087cef54a",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bd56b1fe2b6d05",
+            "id": "746281088a85e3a8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "4d51c4393f3ffa10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 429.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +151,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4d51c4393f3ffa10",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "README.md",
+    "Dev-Web/tp1/r1.02/Readme-R102.md",
+    "Dev-Web/tp1/r1.02/r1.02.md",
+    "Dev-Web/tp1/tp1.md",
+    "Dev-Web/Dev-Web.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/tp_création_entreprise.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule (in)satisfiable-Laptop-sacha.md",
     "Anglais Technique/Anglais Technique.md",
     "Initiation-dev/ALG2 Recherche d'éléments.md",
     "Initiation-dev/Initiation-dev.md",
@@ -183,7 +174,6 @@
     "Architecture-système/Architecture-système.md",
     "communication/Résumé_exercice/Résumé_exercice.md",
     "communication/Résumé_exercice/Entrainement.md",
-    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Neutre & Absorption-Laptop-sacha.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule logiquement équivalentes (≡)-Laptop-sacha.md",
     "communication/Exposé.md",
