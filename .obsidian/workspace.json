@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62b1df0541f8b97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md"
+                "file": "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md"
               }
             }
           },
@@ -182,12 +194,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c0366dfc9826dcd7",
+  "active": "62b1df0541f8b97e",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/tp_étude_de_marché/TP étude de marché.md",
+    "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",
+    "Gestion-de-Projet/Entreprise/Etude de marché.md",
+    "Gestion-de-Projet/Entreprise/tp_étude_de_marché",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Fiscalité (frauduleuse).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/tp_création_entreprise.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Consignes",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Consignes/Explication.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
@@ -207,9 +223,6 @@
     "Maths/Maths.md",
     "conflict-files-obsidian-git.md",
     "communication/communication.md",
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Architecture-système.md",
-    "communication/Résumé_exercice/Résumé_exercice.md",
-    "communication/Résumé_exercice/Entrainement.md"
+    "Architecture-système/Introduction/Introduction.md"
   ]
 }
