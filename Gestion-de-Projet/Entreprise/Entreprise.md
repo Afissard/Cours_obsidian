@@ -12,8 +12,6 @@ type: folder_brief_live
 - [[Partie 1 cours.pdf]]
 - [[Partie 2 cours.pdf]]
 - **[[tp_création_entreprise]]**
-- **tp_étude_de_marché**
-	- [[Produit]]
-	- [[TP étude de marché]]
+- **[[tp_étude_de_marché]]**
 
 %% End Waypoint %%
