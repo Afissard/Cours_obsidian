@@ -6,7 +6,9 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[Asteria]]
-- [[Explication]]
-- [[Travail en groupe.pdf]]
+- **Consignes**
+	- [[Explication]]
+	- [[Travail en groupe.pdf]]
+- [[Fiscalité (frauduleuse)]]
 
 %% End Waypoint %%
