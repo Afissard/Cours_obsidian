@@ -10,5 +10,6 @@ type: folder_brief_live
 - [[Formule Tautologique]]
 - [[Neutre & Absorption]]
 - [[Simplification et De Morgan]]
+- [[Toolbox]]
 
 %% End Waypoint %%
