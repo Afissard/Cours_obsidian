@@ -1,4 +1,4 @@
-Je met ici toute mes prise de note et cours de mon BUT Informatique.
+Je met ici toute mes prise de note et cours de mon BUT Informatique (à lire idéalement avec Obsidian).
 ## Liste des matières / cours
 - [[Architecture-système]]
 - [[communication]]
