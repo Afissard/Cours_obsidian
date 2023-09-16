@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- **[[Classification]]**
 - [[Definition et généralité]]
 - [[Etude de marché]]
 - [[fonctionement-économique.canvas]]
