@@ -16,8 +16,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "9d32b20560c09ff4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,12 +160,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "9d32b20560c09ff4",
   "lastOpenFiles": [
-    "Dev-Web/tp1/r1.02/r1.02.md",
     "Dev-Web/tp1/r1.02/r1.02-Laptop-sacha.md",
     "Dev-Web/tp1/tp1.md",
     "Dev-Web/tp1/r1.02/Readme-R102.md",
+    "Dev-Web/tp1/r1.02/r1.02.md",
     "Gestion-de-Projet/Entreprise/Classification/Classification.md",
     "Gestion-de-Projet/Entreprise/Classification",
     "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",

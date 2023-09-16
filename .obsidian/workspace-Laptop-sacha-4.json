@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "bc20b6d7c0d751ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev-Web/tp1/r1.02/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev-Web/tp1/r1.02/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev-Web/tp1/r1.02/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev-Web/tp1/r1.02/readme.md"
+              }
             }
           },
           {
@@ -151,12 +168,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "bc20b6d7c0d751ed",
   "lastOpenFiles": [
+    "Dev-Web/tp1/r1.02/readme.md",
     "Dev-Web/tp1/r1.02/r1.02.md",
-    "Dev-Web/tp1/r1.02/r1.02-Laptop-sacha.md",
-    "Dev-Web/tp1/tp1.md",
     "Dev-Web/tp1/r1.02/Readme-R102.md",
+    "Dev-Web/tp1/tp1.md",
     "Gestion-de-Projet/Entreprise/Classification/Classification.md",
     "Gestion-de-Projet/Entreprise/Classification",
     "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",
@@ -180,6 +197,7 @@
     "Dev-Web/Dev-Web.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule (in)satisfiable-Laptop-sacha.md",
-    "Anglais Technique/Anglais Technique.md"
+    "Anglais Technique/Anglais Technique.md",
+    "Maths/Maths.md"
   ]
 }
