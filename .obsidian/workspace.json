@@ -153,6 +153,10 @@
   },
   "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Communication/Exposé/Exposé.md",
+    "Communication/communication.md",
+    "Communication/Exposé.md",
+    "Communication/Exposé/Préparation.md",
     "Communication/Résumé de texte.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
@@ -160,8 +164,6 @@
     "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md",
     "Communication/Présentation de la matière.md",
     "Communication/Résumé_exercice/Résumé_exercice.md",
-    "Communication/Exposé/Préparation.md",
-    "Communication/communication.md",
     "Communication/Exposé",
     "Architecture-système/Introduction/Codage à virgule flottante.md",
     "Architecture-système/Introduction/cours r103 semaine 1.pdf",
@@ -188,8 +190,6 @@
     "Initiation-dev/go/go.md",
     "Initiation-dev/ALG2 Recherche d'éléments.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Toolbox.md",
-    "README.md",
-    "Dev-Web/tp1/r1.02/r1.02.md",
-    "Dev-Web/tp1/r1.02/r1.02-Laptop-sacha.md"
+    "README.md"
   ]
 }
