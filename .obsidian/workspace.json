@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md"
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md"
               }
             }
           },
@@ -182,8 +182,11 @@
   },
   "active": "81fd58310f282998",
   "lastOpenFiles": [
-    "Communication/Résumé de texte.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png",
     "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md",
+    "Communication/Présentation de la matière.md",
+    "Communication/Résumé de texte.md",
     "Communication/Résumé_exercice/Résumé_exercice.md",
     "Communication/Exposé/Préparation.md",
     "Communication/communication.md",
@@ -215,8 +218,6 @@
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Toolbox.md",
     "README.md",
     "Dev-Web/tp1/r1.02/r1.02.md",
-    "Dev-Web/tp1/r1.02/r1.02-Laptop-sacha.md",
-    "Dev-Web/tp1/tp1.md",
-    "Dev-Web/tp1/r1.02/Readme-R102.md"
+    "Dev-Web/tp1/r1.02/r1.02-Laptop-sacha.md"
   ]
 }
