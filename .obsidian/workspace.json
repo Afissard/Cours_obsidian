@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "88ab4d5d477daaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md"
+              }
             }
           },
           {
@@ -151,8 +168,27 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "88ab4d5d477daaf1",
   "lastOpenFiles": [
+    "Initiation-dev/go/Tests/Tests.md",
+    "Initiation-dev/go/Tests/DEV2 les Tests.md",
+    "Initiation-dev/go/Tests",
+    "Initiation-dev/go/Sans titre.md",
+    "Initiation-dev/go/Modules/Les modules en GO.md",
+    "Initiation-dev/go/Modules/demo_pack/test.go",
+    "Initiation-dev/go/Modules/demo_pack",
+    "Initiation-dev/go/Modules/demo-pack/test.go",
+    "Initiation-dev/go/Modules/demo-pack",
+    "Initiation-dev/go/Modules/main.exe",
+    "Initiation-dev/go/Modules/go.mod",
+    "Initiation-dev/go/Modules/Modules.md",
+    "Initiation-dev/go/Modules/Modules 1.md",
+    "Initiation-dev/go/Modules/main.go",
+    "Initiation-dev/go/amphi/Nouveau document texte.txt",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/Modules",
+    "Initiation-dev/ALG2 Recherche d'éléments.md",
+    "Initiation-dev/Initiation-dev.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Toolbox.md",
     "README.md",
     "Dev-Web/tp1/r1.02/r1.02.md",
@@ -160,7 +196,6 @@
     "Dev-Web/tp1/tp1.md",
     "Dev-Web/tp1/r1.02/Readme-R102.md",
     "Gestion-de-Projet/Entreprise/Classification/Classification.md",
-    "Gestion-de-Projet/Entreprise/Classification",
     "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",
     "Gestion-de-Projet/Entreprise/tp_étude_de_marché/tp_étude_de_marché.md",
     "Gestion-de-Projet/Entreprise/tp_étude_de_marché/TP étude de marché.md",
@@ -168,19 +203,8 @@
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Fiscalité (frauduleuse).md",
     "Gestion-de-Projet/Entreprise/Etude de marché.md",
-    "Gestion-de-Projet/Entreprise/tp_étude_de_marché",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Consignes",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Consignes/Explication.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
-    "Architecture-système/Introduction/Codage des entiers naturels et relatifs.md",
-    "Initiation-dev/Pourquoi étudier l'algorithmique.md",
-    "Initiation-dev/ALG2 Recherche d'éléments.md",
-    "Initiation-dev/ALG1 présentation de l'algorithmie.md",
-    "Initiation-dev/Initiation-dev.md",
-    "Dev-Web/Dev-Web.md",
-    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
-    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Formule (in)satisfiable-Laptop-sacha.md",
-    "Anglais Technique/Anglais Technique.md"
+    "Gestion-de-Projet/Gestion-de-Projet.md"
   ]
 }
