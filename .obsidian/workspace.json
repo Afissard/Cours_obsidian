@@ -18,18 +18,19 @@
             }
           },
           {
-            "id": "32e4bdffe9bf0af0",
+            "id": "6720d1cdb73a4223",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+                "file": "Initiation-dev/Initiation-dev.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Initiation-dev/Initiation-dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Initiation-dev/Initiation-dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Initiation-dev/Initiation-dev.md"
+              }
             }
           },
           {
@@ -163,8 +168,26 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "6720d1cdb73a4223",
   "lastOpenFiles": [
+    "Initiation-dev/Developpement/test.pdf",
+    "Initiation-dev/Initiation-dev.md",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
+    "Initiation-dev/Algo/cm2-recherche.pdf",
+    "Initiation-dev/Structure_de_donnée/arbres.pdf",
+    "Initiation-dev/Structure_de_donnée/listes.pdf",
+    "Initiation-dev/Structure_de_donnée/dico.pdf",
+    "Initiation-dev/Algo/tri.pdf",
+    "Initiation-dev/Algo/recursivite.pdf",
+    "Initiation-dev/Developpement/version.pdf",
+    "Initiation-dev/Algo",
+    "Initiation-dev/Nouveau dossier",
+    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
+    "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅, +).md",
+    "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
+    "Maths/Maths-discret/Logique/Opérations/Implique (→).md",
+    "Maths/Maths-discret/Logique/Opérations/Equivaut (↔).md",
+    "Maths/Maths-discret/Logique/Opérations/Conjonction (ET, AND, ˄, .).md",
     "Maths/Maths-discret/Logique/Opérations/Opérations.md",
     "Maths/Maths-discret/Logique/Logique.md",
     "Maths/Maths.md",
@@ -180,28 +203,9 @@
     "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md",
     "Communication/Présentation de la matière.md",
     "Communication/Résumé_exercice/Résumé_exercice.md",
-    "Communication/Exposé",
     "Architecture-système/Introduction/Codage à virgule flottante.md",
-    "Architecture-système/Introduction/cours r103 semaine 1.pdf",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
-    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
-    "Architecture-système/Architecture-système.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
-    "Initiation-dev/Initiation-dev.md",
-    "Initiation-dev/go/Tests/DEV2 les Tests.md",
-    "Initiation-dev/go/Tests/Tests.md",
-    "Initiation-dev/go/Tests",
-    "Initiation-dev/go/Sans titre.md",
-    "Initiation-dev/go/Modules/Les modules en GO.md",
-    "Initiation-dev/go/Modules/demo_pack/test.go",
-    "Initiation-dev/go/Modules/demo_pack",
-    "Initiation-dev/go/Modules/demo-pack/test.go",
-    "Initiation-dev/go/Modules/demo-pack",
-    "Initiation-dev/go/Modules/main.exe",
-    "Initiation-dev/go/Modules/go.mod",
-    "Initiation-dev/go/Modules/Modules.md",
-    "Initiation-dev/go/Modules/Modules 1.md",
-    "Initiation-dev/go/Modules/main.go"
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md"
   ]
 }

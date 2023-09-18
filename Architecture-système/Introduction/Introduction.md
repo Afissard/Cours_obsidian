@@ -9,6 +9,8 @@ type: folder_brief_live
 - [[Codage des entiers naturels et relatifs]]
 - [[cours r103 semaine 1.pdf]]
 - [[Histoire des ordinateurs]]
+- [[r103-cm-semaine2.pdf]]
+- [[r103-cm-semaine3.pdf]]
 - [[TD n1]]
 - [[Technologie de réalisation]]
 
