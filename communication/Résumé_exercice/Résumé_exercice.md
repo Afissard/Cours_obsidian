@@ -5,6 +5,6 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Entrainement]]
+- [[Voici le temps du monde fini - Albert Jacquard]]
 
 %% End Waypoint %%
