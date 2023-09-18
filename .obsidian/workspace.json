@@ -16,6 +16,18 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "32e4bdffe9bf0af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -153,8 +165,12 @@
   },
   "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Maths/Maths-discret/Logique/Opérations/Opérations.md",
+    "Maths/Maths-discret/Logique/Logique.md",
+    "Maths/Maths.md",
+    "Communication/Communication.md",
+    "README.md",
     "Communication/Exposé/Exposé.md",
-    "Communication/communication.md",
     "Communication/Exposé.md",
     "Communication/Exposé/Préparation.md",
     "Communication/Résumé de texte.md",
@@ -186,10 +202,6 @@
     "Initiation-dev/go/Modules/go.mod",
     "Initiation-dev/go/Modules/Modules.md",
     "Initiation-dev/go/Modules/Modules 1.md",
-    "Initiation-dev/go/Modules/main.go",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/ALG2 Recherche d'éléments.md",
-    "Maths/Maths-discret/Logique/Propriété-et-Definitions/Toolbox.md",
-    "README.md"
+    "Initiation-dev/go/Modules/main.go"
   ]
 }

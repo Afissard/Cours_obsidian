@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Exposé]]
+- **[[Exposé]]**
 - [[Présentation de la matière]]
 - [[Résumé de texte]]
 - **[[Résumé_exercice]]**
