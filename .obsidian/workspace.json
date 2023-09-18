@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md",
+                "file": "Architecture-système/Introduction/Codage à virgule flottante.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Initiation-dev/go/Tests/DEV2 les Tests.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +163,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "88ab4d5d477daaf1",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Initiation-dev/go/Tests/Tests.md",
+    "Architecture-système/Introduction/Codage à virgule flottante.md",
+    "Architecture-système/Introduction/cours r103 semaine 1.pdf",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Initiation Linux/Initiation Linux.md",
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
+    "Architecture-système/Architecture-système.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/Tests/DEV2 les Tests.md",
+    "Initiation-dev/go/Tests/Tests.md",
     "Initiation-dev/go/Tests",
     "Initiation-dev/go/Sans titre.md",
     "Initiation-dev/go/Modules/Les modules en GO.md",
@@ -186,9 +189,7 @@
     "Initiation-dev/go/Modules/main.go",
     "Initiation-dev/go/amphi/Nouveau document texte.txt",
     "Initiation-dev/go/go.md",
-    "Initiation-dev/go/Modules",
     "Initiation-dev/ALG2 Recherche d'éléments.md",
-    "Initiation-dev/Initiation-dev.md",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Toolbox.md",
     "README.md",
     "Dev-Web/tp1/r1.02/r1.02.md",
@@ -198,13 +199,6 @@
     "Gestion-de-Projet/Entreprise/Classification/Classification.md",
     "Gestion-de-Projet/Entreprise/tp_étude_de_marché/Produit.md",
     "Gestion-de-Projet/Entreprise/tp_étude_de_marché/tp_étude_de_marché.md",
-    "Gestion-de-Projet/Entreprise/tp_étude_de_marché/TP étude de marché.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Fiscalité (frauduleuse).md",
-    "Gestion-de-Projet/Entreprise/Etude de marché.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Consignes/Explication.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md"
+    "Gestion-de-Projet/Entreprise/tp_étude_de_marché/TP étude de marché.md"
   ]
 }
