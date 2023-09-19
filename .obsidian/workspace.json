@@ -18,12 +18,14 @@
             }
           },
           {
-            "id": "6720d1cdb73a4223",
+            "id": "f64cdfc42d986ac4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf"
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf"
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md"
               }
             }
           },
@@ -166,10 +168,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6720d1cdb73a4223",
+  "active": "f64cdfc42d986ac4",
   "lastOpenFiles": [
-    "Architecture-système/Introduction/r103-cm-semaine2.pdf",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
+    "Gestion-de-Projet/Entreprise/Management des Hommes",
+    "Gestion-de-Projet/Entreprise/Classification/Classification.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+    "Architecture-système/Introduction/r103-cm-semaine2.pdf",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Architecture-système.md",
     "Communication/Communication.md",
@@ -182,8 +189,6 @@
     "Initiation-dev/Structure_de_donnée/dico.pdf",
     "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/recursivite.pdf",
-    "Initiation-dev/Developpement/version.pdf",
-    "Initiation-dev/Algo",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅, +).md",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
@@ -202,9 +207,6 @@
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png",
     "Communication/Résumé_exercice/Voici le temps du monde fini - Albert Jacquard.md",
-    "Communication/Présentation de la matière.md",
-    "Communication/Résumé_exercice/Résumé_exercice.md",
-    "Architecture-système/Introduction/Codage à virgule flottante.md",
-    "Architecture-système/Initiation Linux/Initiation Linux.md"
+    "Communication/Présentation de la matière.md"
   ]
 }

@@ -10,6 +10,8 @@ type: folder_brief_live
 - [[Etude de marché]]
 - [[fonctionement-économique.canvas]]
 - [[Informations travail TP.pdf]]
+- **Management des Hommes**
+	- [[Evolution de la conception de l'Homme au travail]]
 - [[Partie 1 cours.pdf]]
 - [[Partie 2 cours.pdf]]
 - **[[tp_création_entreprise]]**
