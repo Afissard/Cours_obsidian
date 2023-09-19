@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "1cbf1aa3d9e6ef04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Exposé/Préparation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Exposé/Préparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Exposé/Préparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Communication/Exposé/Préparation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +151,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1cbf1aa3d9e6ef04",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Communication/Exposé/Préparation.md",
     "Communication/Communication.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
@@ -201,7 +185,6 @@
     "README.md",
     "Communication/Exposé/Exposé.md",
     "Communication/Exposé.md",
-    "Communication/Exposé/Préparation.md",
     "Communication/Résumé de texte.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
