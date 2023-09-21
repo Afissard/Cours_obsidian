@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "12a3336022f21594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +151,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "12a3336022f21594",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Dev-Web/Introduction/Introduction.md",
     "Dev-Web/DM web/Presentation du travail.md",
+    "Dev-Web/Introduction/Introduction.md",
     "Dev-Web/DM web",
     "Dev-Web/Introduction/Introduction CSS.md",
     "Dev-Web/Introduction",
