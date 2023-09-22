@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "852035f59dd3965e",
+            "id": "b34845d87ba2c32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais Technique/Writing a Review/The Review.md",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais Technique/Writing a Review/The Review.md",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais Technique/Writing a Review/The Review.md",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anglais Technique/Writing a Review/The Review.md"
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md"
               }
             }
           },
@@ -168,10 +168,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "852035f59dd3965e",
+  "active": "b34845d87ba2c32d",
   "lastOpenFiles": [
-    "Anglais Technique/Writing a Review",
     "Anglais Technique/Writing a Review/The Review.md",
+    "Anglais Technique/Writing a Review",
     "Anglais Technique/Anglais Technique.md",
     "Dev-Web/Dev-Web.md",
     "Dev-Web/DM web/Presentation du travail.md",
@@ -196,7 +196,6 @@
     "Initiation-dev/Algo/cm2-recherche.pdf",
     "Initiation-dev/Structure_de_donnée/arbres.pdf",
     "Initiation-dev/Structure_de_donnée/listes.pdf",
-    "Initiation-dev/Structure_de_donnée/dico.pdf",
     "Maths/Maths-discret/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
     "Maths/Maths-discret/Logique/Opérations/Disjonction (OU, OR, ˅, +).md",
     "Maths/Maths-discret/Logique/Opérations/Négation (NON, NOT, ¬).md",
