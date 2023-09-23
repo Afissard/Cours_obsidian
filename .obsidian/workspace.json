@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b34845d87ba2c32d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +151,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b34845d87ba2c32d",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
     "Dev-Web/tp1/r1.02/td/workspace/TD1/forms/form8.html",
     "Dev-Web/tp1/r1.02/td/workspace/TD1/forms/form7.html",
     "Dev-Web/tp1/r1.02/td/workspace/TD1/forms/form5.html",
@@ -179,14 +163,12 @@
     "Dev-Web/tp1/r1.02/td/workspace/TD1/forms/form1.html",
     "Dev-Web/tp1/r1.02/td/workspace/TD1/forms/form6.html",
     "Dev-Web/tp1/r1.02/td/workspace/TD1/forms",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
     "Anglais Technique/Writing a Review/The Review.md",
     "Anglais Technique/Writing a Review",
     "Anglais Technique/Anglais Technique.md",
     "Dev-Web/Dev-Web.md",
     "Dev-Web/DM web/Presentation du travail.md",
     "Dev-Web/Introduction/Introduction.md",
-    "Dev-Web/DM web",
     "Dev-Web/Introduction/Introduction CSS.md",
     "Communication/Exposé/Préparation.md",
     "Communication/Communication.md",
