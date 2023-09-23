@@ -18,27 +18,31 @@
             }
           },
           {
-            "id": "ddb06853905eb333",
+            "id": "fccee274b8d1013e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Prédicats/Prédicats.md",
+                "file": "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "fccee274b8d1013e",
+            "id": "984e7fb7b458c255",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -180,14 +184,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "fccee274b8d1013e",
+  "active": "984e7fb7b458c255",
   "lastOpenFiles": [
+    "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
+    "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
+    "Maths/Logique/Prédicats/Prédicats.md",
     "Maths/Logique/Propriété-et-Definitions/1 formulaire algèbres_de_Boole.pdf",
     "Maths/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
     "Maths/Logique/Opérations Booléen/Opérations Booléen.md",
-    "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
-    "Maths/Logique/Prédicats/Prédicats.md",
-    "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
     "Maths/Logique/Prédicats/Prédicat.md",
     "Maths/Logique/Prédicats/Propositions.md",
     "SAE/SAE.md",
@@ -217,7 +221,6 @@
     "Gestion-de-Projet/Entreprise/Management des Hommes",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/r103-cm-semaine2.pdf",
-    "Initiation-dev/Developpement/test.pdf",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]

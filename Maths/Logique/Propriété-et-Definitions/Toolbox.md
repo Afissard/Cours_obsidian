@@ -20,3 +20,12 @@
 - (A+B)+C = A+(B+C)
 - (A.B).C = A.(B.C)
 # Prédicats :
+- Négation :
+	- -(∀x, F(x)) = ∃x, -F(x)
+	- -(∃x, F(x)) = ∀x, -F(x) 
+- Elimination :
+	- ∀x, (∀y, F(y)) = ∀y, F(y) si x n'apparait pas dans F
+	- ∃x, (∃y, F(y)) = ∃y, F(y) si x n'apparait pas dans F
+- Permutation :
+- Distribution :
+- Changement de portée :
