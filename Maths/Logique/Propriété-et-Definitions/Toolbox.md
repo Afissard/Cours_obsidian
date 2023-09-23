@@ -1,4 +1,5 @@
 #IMPORTANT
+# Logique Booléen
 - A<=>B = (A=>B).(B=>A)
 - -(A+B) = -A.-B
 - -(A.B) = -A+-B
@@ -18,3 +19,4 @@
 - A.B = B.A
 - (A+B)+C = A+(B+C)
 - (A.B).C = A.(B.C)
+# Prédicats
