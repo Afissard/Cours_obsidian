@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "01f3957c7aee42fb",
+            "id": "ddb06853905eb333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Prédicats/Définition Prédicat.md",
+                "file": "Maths/Logique/Prédicats/Prédicats.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee62ec94d2fc0fc7",
+            "id": "fccee274b8d1013e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Prédicats/Définition Prédicat.md",
+                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Prédicats/Définition Prédicat.md",
+                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Prédicats/Définition Prédicat.md",
+                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Prédicats/Définition Prédicat.md"
+                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md"
               }
             }
           },
@@ -180,15 +180,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ee62ec94d2fc0fc7",
+  "active": "fccee274b8d1013e",
   "lastOpenFiles": [
+    "Maths/Logique/Propriété-et-Definitions/1 formulaire algèbres_de_Boole.pdf",
+    "Maths/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
+    "Maths/Logique/Opérations Booléen/Opérations Booléen.md",
+    "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
+    "Maths/Logique/Prédicats/Prédicats.md",
+    "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
+    "Maths/Logique/Prédicats/Prédicat.md",
+    "Maths/Logique/Prédicats/Propositions.md",
     "SAE/SAE.md",
     "SAE/Sudoku/Sudoku.md",
     "Maths-discret.md",
-    "Maths/Logique/Prédicats/Définition Prédicat.md",
-    "Maths/Logique/Prédicats/Prédicats.md",
-    "Maths/Logique/Opérations/Opérations.md",
-    "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
     "Maths/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
     "Maths/Logique/Logique.md",
     "Maths/Logique/Prédicats",
@@ -211,12 +215,8 @@
     "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes",
-    "Gestion-de-Projet/Entreprise/Classification/Classification.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/r103-cm-semaine2.pdf",
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Architecture-système.md",
     "Initiation-dev/Developpement/test.pdf",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"

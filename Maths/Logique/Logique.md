@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
 
 %% Begin Waypoint %%
-- **[[Opérations]]**
+- **[[Opérations Booléen]]**
 - [[PolyExercices_td_maths_discretes_2023.pdf]]
 - **[[Prédicats]]**
 - **[[Propriété-et-Definitions]]**

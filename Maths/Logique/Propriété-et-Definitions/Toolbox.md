@@ -1,10 +1,10 @@
 #IMPORTANT
-# Logique Booléen
+# Logique Booléen :
 - A<=>B = (A=>B).(B=>A)
 - -(A+B) = -A.-B
 - -(A.B) = -A+-B
 - **A=>B = -A+B**
-- -(-B) = A
+- -(-A) = A
 - **A.(B+C) = (A.B)+A.C)**
 - **A+(B.C) = (A+B).(A+C)**
 - A.A = A
@@ -19,4 +19,4 @@
 - A.B = B.A
 - (A+B)+C = A+(B+C)
 - (A.B).C = A.(B.C)
-# Prédicats
+# Prédicats :
