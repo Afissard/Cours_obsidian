@@ -18,20 +18,6 @@
             }
           },
           {
-            "id": "fccee274b8d1013e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "984e7fb7b458c255",
             "type": "leaf",
             "pinned": true,
@@ -45,8 +31,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,10 +165,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "984e7fb7b458c255",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
     "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
+    "Maths/Logique/Opérations Booléen/Conjonction (ET, AND, ˄, .).md",
+    "Dev-Web/tp1/r1.02/r1.02.md",
+    "Dev-Web/Dev-Web.md",
+    "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
     "Maths/Logique/Prédicats/Prédicats.md",
     "Maths/Logique/Propriété-et-Definitions/1 formulaire algèbres_de_Boole.pdf",
     "Maths/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
@@ -208,7 +192,6 @@
     "Anglais Technique/Writing a Review/The Review.md",
     "Anglais Technique/Writing a Review",
     "Anglais Technique/Anglais Technique.md",
-    "Dev-Web/Dev-Web.md",
     "Dev-Web/DM web/Presentation du travail.md",
     "Dev-Web/Introduction/Introduction.md",
     "Dev-Web/DM web",
@@ -217,7 +200,6 @@
     "Communication/Exposé/Préparation.md",
     "Communication/Communication.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/r103-cm-semaine2.pdf",
