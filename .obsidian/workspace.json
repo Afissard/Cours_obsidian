@@ -10,12 +10,39 @@
           {
             "id": "746281088a85e3a8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "176b2effe8738999",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initiation-dev/Algo/ALG3 Récursivité.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "65901a694c1b67aa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Initiation-dev/Algo/recursivite.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -82,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Initiation-dev/Algo/ALG3 Récursivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Initiation-dev/Algo/ALG3 Récursivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Initiation-dev/Algo/ALG3 Récursivité.md"
+              }
             }
           },
           {
@@ -150,24 +180,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "176b2effe8738999",
   "lastOpenFiles": [
+    "Initiation-dev/Algo/recursivite.pdf",
+    "Initiation-dev/Algo/ALG3 Récursivité.md",
+    "Initiation-dev/Algo/src_recursivite/sous-chaine.go",
+    "Initiation-dev/Algo/src_recursivite/recursif-iteratif.go",
+    "Initiation-dev/Algo/src_recursivite/fibonacci.go",
+    "Initiation-dev/Algo/src_recursivite/fibonacci-tail.go",
+    "Initiation-dev/Algo/src_recursivite/fibonacci-dyn.go",
+    "Initiation-dev/Algo/src_recursivite",
+    "Initiation-dev/src/src/src_recursivite/sous-chaine.go",
+    "Initiation-dev/src/src/src_recursivite/recursif-iteratif.go",
+    "Initiation-dev/src/src/src_recursivite/fibonacci.go",
+    "Initiation-dev/src/src/src_recursivite/fibonacci-tail.go",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/Initiation-dev.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école Classique.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
     "Communication/Exposé/Exposé.md",
     "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
-    "Communication/Résumé exercice/lu342060qndt.tmp",
-    "Communication/Résumé exercice/lu342060qndq.tmp",
-    "Communication/Résumé exercice/lu342060qndn.tmp",
-    "Communication/Résumé exercice/lu342060qndk.tmp",
-    "Communication/Résumé exercice/lu342060qndh.tmp",
-    "Communication/Résumé exercice/lu342060qnde.tmp",
-    "Communication/Résumé exercice/lu342060qndb.tmp",
-    "Communication/Résumé exercice/lu342060qnd8.tmp",
-    "Communication/Résumé exercice/lu342060qnd5.tmp",
-    "Communication/Résumé exercice/lu342060qnd2.tmp",
     "Communication/Résumé exercice/Résumé exercice.md",
     "Communication/Communication.md",
     "SAE/Sudoku/Sudoku.md",
@@ -184,10 +218,6 @@
     "Maths/Logique/Propriété-et-Definitions/Formule (in)satisfiable.md",
     "Maths/Logique/Opérations Booléen/Opérations Booléen.md",
     "Maths/Logique/Opérations Booléen/Négation (NON, NOT, ¬).md",
-    "Maths/Logique/Opérations Booléen/Implique (→).md",
-    "Maths/Logique/Opérations Booléen/Equivaut (↔).md",
-    "Maths/Logique/Opérations Booléen/Disjonction (OU, OR, ˅, +).md",
-    "Maths/Logique/Opérations Booléen/Conjonction (ET, AND, ˄, .).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
