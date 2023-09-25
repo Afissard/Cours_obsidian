@@ -8,6 +8,8 @@ type: folder_brief_live
 - **[[Exposé]]**
 - [[Présentation de la matière]]
 - [[Résumé de texte]]
-- **[[Résumé_exercice]]**
+- **Résumé exercice**
+	- [[Résumé_exercice]]
+	- [[Voici le temps du monde fini - Albert Jacquard]]
 
 %% End Waypoint %%

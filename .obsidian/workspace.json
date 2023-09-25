@@ -10,14 +10,25 @@
           {
             "id": "746281088a85e3a8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
+            }
+          },
+          {
+            "id": "8c8ff89026c92062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md"
+              }
             }
           },
           {
@@ -151,20 +166,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "8c8ff89026c92062",
   "lastOpenFiles": [
+    "Communication/Résumé exercice/lu342060qndt.tmp",
+    "Communication/Résumé exercice/lu342060qndq.tmp",
+    "Communication/Résumé exercice/lu342060qndn.tmp",
+    "Communication/Résumé exercice/lu342060qndk.tmp",
+    "Communication/Résumé exercice/lu342060qndh.tmp",
+    "Communication/Résumé exercice/lu342060qnde.tmp",
+    "Communication/Résumé exercice/lu342060qndb.tmp",
+    "Communication/Résumé exercice/lu342060qnd8.tmp",
+    "Communication/Résumé exercice/lu342060qnd5.tmp",
+    "Communication/Résumé exercice/lu342060qnd2.tmp",
+    "Communication/Résumé exercice/lu342060qncz.tmp",
+    "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
+    "Communication/Résumé exercice/Résumé exercice.md",
+    "Communication/Communication.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
     "SAE/Sudoku/Sudoku.md",
-    "SAE/Sudoku",
-    "Maths/Logique/TP/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
-    "Maths/Logique/TP/tp1/logique/__pycache__/logic_gate.cpython-310-Laptop-sacha.pyc",
-    "Maths/Logique/TP/tp1/logique/__pycache__",
-    "Maths/Logique/TP/tp1/logique/main.py",
-    "Maths/Logique/TP/tp1/logique/main-Laptop-sacha.py",
-    "Maths/Logique/TP/tp1/logique/logic_gate.py",
-    "Maths/Logique/TP/tp1/logique/logic_gate-Laptop-sacha.py",
-    "Maths/Logique/TP/tp1/base/main.py",
-    "Maths/Logique/TP/tp1/PolyExercices_tp_maths_discretes_2023.pdf",
     "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
     "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
     "Maths/Logique/Prédicats/Prédicats.md",
@@ -185,10 +204,6 @@
     "Maths/Logique/Logique.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
     "Anglais Technique/Writing a Review/The Review.md",
-    "Anglais Technique/Anglais Technique.md",
-    "Dev-Web/Dev-Web.md",
-    "Dev-Web/DM web/Presentation du travail.md",
-    "Dev-Web/Introduction/Introduction.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
