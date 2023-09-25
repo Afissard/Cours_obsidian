@@ -11,7 +11,8 @@ type: folder_brief_live
 - [[fonctionement-économique.canvas]]
 - [[Informations travail TP.pdf]]
 - **Management des Hommes**
-	- [[Evolution de la conception de l'Homme au travail]]
+	- [[L'école Classique]]
+	- [[L'école des Relations Humaines]]
 - [[Partie 1 cours.pdf]]
 - [[Partie 2 cours.pdf]]
 - **[[tp_création_entreprise]]**

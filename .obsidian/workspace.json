@@ -11,24 +11,15 @@
             "id": "746281088a85e3a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8c8ff89026c92062",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md"
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md"
               }
             }
           },
@@ -166,8 +158,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8c8ff89026c92062",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/Management des Hommes/L'école Classique.md",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Communication/Exposé/Exposé.md",
+    "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
     "Communication/Résumé exercice/lu342060qndt.tmp",
     "Communication/Résumé exercice/lu342060qndq.tmp",
     "Communication/Résumé exercice/lu342060qndn.tmp",
@@ -178,11 +176,8 @@
     "Communication/Résumé exercice/lu342060qnd8.tmp",
     "Communication/Résumé exercice/lu342060qnd5.tmp",
     "Communication/Résumé exercice/lu342060qnd2.tmp",
-    "Communication/Résumé exercice/lu342060qncz.tmp",
-    "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
     "Communication/Résumé exercice/Résumé exercice.md",
     "Communication/Communication.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "SAE/Sudoku/Sudoku.md",
     "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
     "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
@@ -201,9 +196,6 @@
     "Maths/Logique/Opérations Booléen/Equivaut (↔).md",
     "Maths/Logique/Opérations Booléen/Disjonction (OU, OR, ˅, +).md",
     "Maths/Logique/Opérations Booléen/Conjonction (ET, AND, ˄, .).md",
-    "Maths/Logique/Logique.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
-    "Anglais Technique/Writing a Review/The Review.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
