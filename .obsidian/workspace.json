@@ -18,20 +18,19 @@
             }
           },
           {
-            "id": "984e7fb7b458c255",
+            "id": "7186bdcfba32ee90",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion-de-Projet/Gestion-de-Projet.md"
+              }
             }
           },
           {
@@ -165,7 +168,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "7186bdcfba32ee90",
   "lastOpenFiles": [
     "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
     "Maths/Logique/Opérations Booléen/Conjonction (ET, AND, ˄, .).md",
