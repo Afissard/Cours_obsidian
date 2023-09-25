@@ -5,7 +5,8 @@ type: folder_brief_live
 ```
 %% Begin Waypoint %%
 - **[[Logique]]**
-- **Manipulation d'ensemble**
+- **Maths-discret**
+	- **Manipulation d'ensemble**
 
 %% End Waypoint %%
 

@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "7186bdcfba32ee90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion-de-Projet/Gestion-de-Projet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,44 +151,44 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7186bdcfba32ee90",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Maths/Logique/Propriété-et-Definitions/TOOLBOX.md",
-    "Maths/Logique/Opérations Booléen/Conjonction (ET, AND, ˄, .).md",
-    "Dev-Web/tp1/r1.02/r1.02.md",
-    "Dev-Web/Dev-Web.md",
+    "SAE/Sudoku/Sudoku.md",
+    "SAE/Sudoku",
+    "Maths/Logique/TP/tp1/logique/__pycache__/logic_gate.cpython-310.pyc",
+    "Maths/Logique/TP/tp1/logique/__pycache__/logic_gate.cpython-310-Laptop-sacha.pyc",
+    "Maths/Logique/TP/tp1/logique/__pycache__",
+    "Maths/Logique/TP/tp1/logique/main.py",
+    "Maths/Logique/TP/tp1/logique/main-Laptop-sacha.py",
+    "Maths/Logique/TP/tp1/logique/logic_gate.py",
+    "Maths/Logique/TP/tp1/logique/logic_gate-Laptop-sacha.py",
+    "Maths/Logique/TP/tp1/base/main.py",
+    "Maths/Logique/TP/tp1/PolyExercices_tp_maths_discretes_2023.pdf",
+    "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
     "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
     "Maths/Logique/Prédicats/Prédicats.md",
-    "Maths/Logique/Propriété-et-Definitions/1 formulaire algèbres_de_Boole.pdf",
-    "Maths/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
-    "Maths/Logique/Opérations Booléen/Opérations Booléen.md",
     "Maths/Logique/Prédicats/Prédicat.md",
     "Maths/Logique/Prédicats/Propositions.md",
-    "SAE/SAE.md",
-    "SAE/Sudoku/Sudoku.md",
-    "Maths-discret.md",
+    "Maths/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
     "Maths/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
+    "Maths/Logique/Propriété-et-Definitions/Neutre & Absorption.md",
+    "Maths/Logique/Propriété-et-Definitions/Formule logiquement équivalentes (≡).md",
+    "Maths/Logique/Propriété-et-Definitions/Formule Tautologique.md",
+    "Maths/Logique/Propriété-et-Definitions/Formule (in)satisfiable.md",
+    "Maths/Logique/Opérations Booléen/Opérations Booléen.md",
+    "Maths/Logique/Opérations Booléen/Négation (NON, NOT, ¬).md",
+    "Maths/Logique/Opérations Booléen/Implique (→).md",
+    "Maths/Logique/Opérations Booléen/Equivaut (↔).md",
+    "Maths/Logique/Opérations Booléen/Disjonction (OU, OR, ˅, +).md",
+    "Maths/Logique/Opérations Booléen/Conjonction (ET, AND, ˄, .).md",
     "Maths/Logique/Logique.md",
-    "Maths/Logique/Prédicats",
-    "Maths/Logique/TP",
-    "Maths/Logique/PolyExercices_td_maths_discretes_2023.pdf",
-    "Maths/Maths.md",
-    "Maths/Maths-discret/Maths-discret.md",
-    "conflict-files-obsidian-git.md",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
     "Anglais Technique/Writing a Review/The Review.md",
-    "Anglais Technique/Writing a Review",
     "Anglais Technique/Anglais Technique.md",
+    "Dev-Web/Dev-Web.md",
     "Dev-Web/DM web/Presentation du travail.md",
     "Dev-Web/Introduction/Introduction.md",
-    "Dev-Web/DM web",
     "Dev-Web/Introduction/Introduction CSS.md",
-    "Dev-Web/Introduction",
-    "Communication/Exposé/Préparation.md",
-    "Communication/Communication.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Evolution de la conception de l'Homme au travail.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes",
-    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
-    "Architecture-système/Introduction/r103-cm-semaine2.pdf",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
