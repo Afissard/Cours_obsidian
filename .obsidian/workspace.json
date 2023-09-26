@@ -18,16 +18,19 @@
             }
           },
           {
-            "id": "65901a694c1b67aa",
+            "id": "b2b960c20b226a6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Initiation-dev/Algo/recursivite.pdf"
+                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md"
+              }
             }
           },
           {
@@ -161,19 +168,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "b2b960c20b226a6e",
   "lastOpenFiles": [
+    "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
+    "Communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
+    "communication/Résumé exercice/lu1231672vllu.tmp",
+    "communication/Résumé exercice/lu1231672vllr.tmp",
+    "communication/Résumé exercice/lu1231672vllo.tmp",
+    "communication/Résumé exercice/lu1231672vlll.tmp",
+    "communication/Résumé exercice/lu1231672vlli.tmp",
+    "Communication/Résumé exercices/Résumé exercices.md",
+    "Communication/communication.md",
+    "communication/Résumé exercice/lu1231672vlld.tmp",
     "Initiation-dev/Algo/ALG3 Récursivité.md",
     "Initiation-dev/Algo/recursivite.pdf",
     "Initiation-dev/Algo/src_recursivite/sous-chaine.go",
     "Initiation-dev/Algo/src_recursivite/recursif-iteratif.go",
     "Initiation-dev/Algo/src_recursivite/fibonacci.go",
-    "Initiation-dev/Algo/src_recursivite/fibonacci-tail.go",
-    "Initiation-dev/Algo/src_recursivite/fibonacci-dyn.go",
-    "Initiation-dev/Algo/src_recursivite",
-    "Initiation-dev/src/src/src_recursivite/sous-chaine.go",
-    "Initiation-dev/src/src/src_recursivite/recursif-iteratif.go",
-    "Initiation-dev/src/src/src_recursivite/fibonacci.go",
     "Initiation-dev/go/go.md",
     "Initiation-dev/Initiation-dev.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
@@ -195,9 +206,6 @@
     "Maths/Logique/Propriété-et-Definitions/Neutre & Absorption.md",
     "Maths/Logique/Propriété-et-Definitions/Formule logiquement équivalentes (≡).md",
     "Maths/Logique/Propriété-et-Definitions/Formule Tautologique.md",
-    "Maths/Logique/Propriété-et-Definitions/Formule (in)satisfiable.md",
-    "Maths/Logique/Opérations Booléen/Opérations Booléen.md",
-    "Maths/Logique/Opérations Booléen/Négation (NON, NOT, ¬).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
