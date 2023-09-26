@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "89e36f73923cec59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md"
+              }
             }
           },
           {
@@ -151,8 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "89e36f73923cec59",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Communication/Résumé exercices/Résumé exercices.md",
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
@@ -172,8 +191,6 @@
     "Initiation-dev/Initiation-dev.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école Classique.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Communication/Exposé/Exposé.md",
     "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
     "Communication/Résumé exercice/Résumé exercice.md",
