@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b2b960c20b226a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +151,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2b960c20b226a6e",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Communication/Résumé exercices/Résumé exercices.md",
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
     "communication/Résumé exercice/lu1231672vllu.tmp",
@@ -177,7 +161,6 @@
     "communication/Résumé exercice/lu1231672vllo.tmp",
     "communication/Résumé exercice/lu1231672vlll.tmp",
     "communication/Résumé exercice/lu1231672vlli.tmp",
-    "Communication/Résumé exercices/Résumé exercices.md",
     "Communication/communication.md",
     "communication/Résumé exercice/lu1231672vlld.tmp",
     "Initiation-dev/Algo/ALG3 Récursivité.md",
