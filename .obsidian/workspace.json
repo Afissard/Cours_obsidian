@@ -18,15 +18,15 @@
             }
           },
           {
-            "id": "19774bc53bd2d5b3",
+            "id": "93512c29234440e8",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf"
-              },
-              "pinned": true
+                "file": "Dev-Web/DM web/Presentation du travail.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf",
+                "file": "Dev-Web/DM web/Presentation du travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf",
+                "file": "Dev-Web/DM web/Presentation du travail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf"
+                "file": "Dev-Web/DM web/Presentation du travail.md"
               }
             }
           },
@@ -168,12 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19774bc53bd2d5b3",
+  "active": "93512c29234440e8",
   "lastOpenFiles": [
-    "README.md",
-    "Dev-Web/Introduction/r1.02_cm_2023.pdf",
-    "Dev-Web/Introduction/Introduction.md",
+    "Dev-Web/DM web/Presentation du travail.md",
     "Dev-Web/Introduction/Introduction CSS.md",
+    "Dev-Web/Introduction/r1.02_cm_2023.pdf",
+    "README.md",
+    "Dev-Web/Introduction/Introduction.md",
     "Dev-Web/tp1/tp1.md",
     "Dev-Web/Dev-Web.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
@@ -205,7 +206,6 @@
     "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
     "Maths/Logique/Prédicats/Prédicats.md",
     "Maths/Logique/Prédicats/Prédicat.md",
-    "Maths/Logique/Prédicats/Propositions.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]

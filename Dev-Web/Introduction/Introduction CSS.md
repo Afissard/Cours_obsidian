@@ -23,3 +23,11 @@ mise à jour dynamic selon la taille de la page (dans le même genre que les dim
 Plus modern et toujours plus flexible et customisable : https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox
 
 # CSS Grid
+Mozilla doc : 
+- https://developer.mozilla.org/fr/docs/Web/CSS/CSS_grid_layout
+- https://developer.mozilla.org/fr/docs/Web/CSS/grid
+- https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Grids
+Sinon allez voir le pdf de #Madoc 
+
+# Z Index
+Permet de mettre en avant (au dessus de la page) une "autre page" exemple page des cookies, on ne peut pas clicker à côté.
