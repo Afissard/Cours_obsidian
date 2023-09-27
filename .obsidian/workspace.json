@@ -18,19 +18,61 @@
             }
           },
           {
-            "id": "93512c29234440e8",
+            "id": "0b1e52dee344c67c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3d91b43ca1560ee5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fffd5bf8328d7bd1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "492a96568565db0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md",
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev-Web/DM web/Presentation du travail.md"
+                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md"
               }
             }
           },
@@ -168,8 +210,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93512c29234440e8",
+  "active": "fffd5bf8328d7bd1",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Fiscalité (frauduleuse).md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/tp_création_entreprise.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Dev-Web/DM web/Presentation du travail.md",
     "Dev-Web/Introduction/Introduction CSS.md",
     "Dev-Web/Introduction/r1.02_cm_2023.pdf",
@@ -178,8 +228,6 @@
     "Dev-Web/tp1/tp1.md",
     "Dev-Web/Dev-Web.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Communication/Résumé exercices/Résumé exercices.md",
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
@@ -201,12 +249,6 @@
     "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
     "Communication/Résumé exercice/Résumé exercice.md",
     "Communication/Communication.md",
-    "SAE/Sudoku/Sudoku.md",
-    "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
-    "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
-    "Maths/Logique/Prédicats/Prédicats.md",
-    "Maths/Logique/Prédicats/Prédicat.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }

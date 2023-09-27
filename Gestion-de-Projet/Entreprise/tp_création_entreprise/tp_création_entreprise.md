@@ -10,6 +10,8 @@ type: folder_brief_live
 - **Consignes**
 	- [[Explication]]
 	- [[Travail en groupe.pdf]]
+- [[Faisabilité Technologique]]
 - [[Fiscalité (frauduleuse)]]
+- [[Startup (stage 1)]]
 
 %% End Waypoint %%

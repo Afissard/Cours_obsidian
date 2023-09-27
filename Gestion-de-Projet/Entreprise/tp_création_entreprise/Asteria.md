@@ -18,7 +18,3 @@ Organisation du projet minier autour d'un asteroid *x* (ceinture entre les plan�
 ## DLC : Partie 4 (1 siècle et plus)  Exploitation du Soleil comme source d'énérgie :
 - On a 1 siècle pour trouver une solution
 
-
-
----
-#TODO Faire un sketch du logo sur Blockbench.
