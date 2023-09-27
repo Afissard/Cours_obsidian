@@ -18,15 +18,15 @@
             }
           },
           {
-            "id": "89e36f73923cec59",
+            "id": "19774bc53bd2d5b3",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf"
+              },
+              "pinned": true
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
+                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
+                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md"
+                "file": "Dev-Web/Introduction/r1.02_cm_2023.pdf"
               }
             }
           },
@@ -168,8 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89e36f73923cec59",
+  "active": "19774bc53bd2d5b3",
   "lastOpenFiles": [
+    "README.md",
+    "Dev-Web/Introduction/r1.02_cm_2023.pdf",
+    "Dev-Web/Introduction/Introduction.md",
+    "Dev-Web/Introduction/Introduction CSS.md",
+    "Dev-Web/tp1/tp1.md",
+    "Dev-Web/Dev-Web.md",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
     "Communication/Résumé exercices/Résumé exercices.md",
@@ -186,10 +193,8 @@
     "Initiation-dev/Algo/recursivite.pdf",
     "Initiation-dev/Algo/src_recursivite/sous-chaine.go",
     "Initiation-dev/Algo/src_recursivite/recursif-iteratif.go",
-    "Initiation-dev/Algo/src_recursivite/fibonacci.go",
     "Initiation-dev/go/go.md",
     "Initiation-dev/Initiation-dev.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école Classique.md",
     "Communication/Exposé/Exposé.md",
     "Communication/Résumé exercice/Voici le temps du monde fini - Albert Jacquard.md",
@@ -201,11 +206,6 @@
     "Maths/Logique/Prédicats/Prédicats.md",
     "Maths/Logique/Prédicats/Prédicat.md",
     "Maths/Logique/Prédicats/Propositions.md",
-    "Maths/Logique/Propriété-et-Definitions/Simplification et De Morgan.md",
-    "Maths/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
-    "Maths/Logique/Propriété-et-Definitions/Neutre & Absorption.md",
-    "Maths/Logique/Propriété-et-Definitions/Formule logiquement équivalentes (≡).md",
-    "Maths/Logique/Propriété-et-Definitions/Formule Tautologique.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]

@@ -18,3 +18,8 @@ Penser à utiliser la vue dev du navigateur pour bien visualiser les effets de m
 mise à jour dynamic selon la taille de la page (dans le même genre que les dimension en %) toujours plus de flexibilité, mais obsolète voir flex
 
 > On feras tout ça en TP btw, se sera plus clair en pratique
+
+# Flexbox
+Plus modern et toujours plus flexible et customisable : https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox
+
+# CSS Grid

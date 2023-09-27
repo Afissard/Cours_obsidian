@@ -8,3 +8,6 @@ Je met ici toute mes prise de note et cours de mon BUT Informatique (à lire id�
 - [[SAE]]
 - [[Anglais Technique]]
 - [[Gestion-de-Projet]]
+
+## Liens utiles
+- GitLab de l'université : https://gitlab.univ-nantes.fr/pub/but/but1/
