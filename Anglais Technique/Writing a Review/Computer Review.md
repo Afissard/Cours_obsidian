@@ -16,4 +16,4 @@ Sale assistant from PCmag.com (I'm also Indian business man running a bullshit Y
 
 # Reviewing the Raspberry 4 for gaming competition for less than 200$.
 
-We, at IndianPCmag.com, have a solution for every broke gamer : the Raspberry pi4 is a very suitable computer to stream any kind of thing from the internet, with it's ethernet port, 8GB of ram and two excellent Micro HDMI that goes up to 4K display, you have all the requirement for a streaming computer for only 126$ if you take the full kit, with the money left you could easily bought a subscription for cloud gaming.
+We, at IndianPCmag.com, have a solution for every broke gamer : the Raspberry pi4 is a very suitable computer to stream anything from the internet, with its ethernet port, 8GB of ram and two excellent Micro HDMI that goes up to 4K display, you have all the requirements for a streaming computer for only $126 if you take the full kit, with the money left over you could easily buy a subscription for cloud gaming. Once that's done all you have to do is win some top cash prizes and finally buy a real computer.
