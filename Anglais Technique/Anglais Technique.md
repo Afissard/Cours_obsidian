@@ -10,6 +10,7 @@ type: folder_brief_live
 - **Writing a Review**
 	- [[Computer Review]]
 	- **Video Game Review**
+		- [[game review]]
 		- [[What is a good video game]]
 
 %% End Waypoint %%
