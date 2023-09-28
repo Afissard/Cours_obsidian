@@ -16,73 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "0b1e52dee344c67c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3d91b43ca1560ee5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fffd5bf8328d7bd1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "63ee5e3d09d7aaa1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "492a96568565db0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,10 +151,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63ee5e3d09d7aaa1",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Fiscalité (frauduleuse).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
