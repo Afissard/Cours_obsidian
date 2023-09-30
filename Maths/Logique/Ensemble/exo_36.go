@@ -73,22 +73,21 @@ func ensemble_planete() {
 			ensemble_P = append(ensemble_P, Roswell[x].Planete)
 		}
 	}
-	fmt.Println(ensemble_P)
+	fmt.Println("Ensemble des planètes des prisoniers", ensemble_P)
 }
 
 func ensemble_cellules_vide() {
 	var ensemble_nonC = []int{}
 	for x := 0; x < cells; x++ {
-		al, is_taken := Roswell_dict[x]
-		if !is_taken {
+		if _, is_taken := Roswell_dict[x]; !is_taken {
 			ensemble_nonC = append(ensemble_nonC, x)
-		} else {
-			fmt.Println("Cell number :", x, "is taken by : ", al)
 		}
 	}
+	fmt.Println("Enssemble des cellues vides :", ensemble_nonC)
 }
 
 func main() {
 	Init_all()
-	ensemble_planete()
+	//ensemble_planete()
+	ensemble_cellules_vide()
 }
