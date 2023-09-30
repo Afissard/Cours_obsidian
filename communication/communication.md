@@ -9,7 +9,7 @@ type: folder_brief_live
 - [[Présentation de la matière]]
 - [[Résumé de texte]]
 - **Résumé exercices**
-	- [[Résumé exercice]]
+	- [[Résumé exercices]]
 	- [[sacha_chauvle_résumé.odt]]
 	- [[Voici le temps du monde fini - Albert Jacquard]]
 
