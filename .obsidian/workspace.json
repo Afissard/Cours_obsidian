@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "392a1089a54a8b93",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf"
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf"
+              }
             }
           },
           {
@@ -151,45 +168,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "392a1089a54a8b93",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/r103-cm-semaine2.pdf",
+    "Architecture-système/Introduction/cours r103 semaine 1.pdf",
+    "Architecture-système/Introduction/Codage à virgule flottante.md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Architecture-système.md",
+    "Maths/Maths.md",
+    "Maths/Logique/Logique.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
     "Maths/Logique/Ensemble/exo_36.go",
     "Maths/Logique/Ensemble/exo_36",
     "Maths/Logique/Ensemble/exo_36.py",
     "Maths/Logique/Ensemble/Nouveau Document texte.txt",
     "Maths/Logique/Ensemble",
     "Maths/Logique/Nouveau dossier",
-    "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
     "Initiation-dev/go/exercices-introdev/README_introdev.md",
     "README.md",
-    "Initiation-dev/go/go.md",
     "Dev-Web/tp1/tp1.md",
     "Initiation-dev/go/exercices-introdev/DONE.md",
-    "Initiation-dev/Initiation-dev.md",
-    "communication/communication.md",
-    "communication/Résumé exercices/Résumé exercices.md",
-    "communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
-    "communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
+    "Communication/communication.md",
+    "Communication/Résumé exercices/Résumé exercices.md",
+    "Communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
+    "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Résumé exercice.md",
     "Initiation-dev/go/exercices-introdev/tri/vraifaux/vraifaux_test.go",
     "Initiation-dev/go/exercices-introdev/tri/valabs/valabs_test.go",
     "Initiation-dev/go/exercices-introdev/tri/tri/tri.go",
-    "Initiation-dev/go/exercices-introdev/tri/tri/tri_test.go",
-    "Initiation-dev/go/exercices-introdev/tri/vraifaux/vraifaux.go",
     "Anglais Technique/Anglais Technique.md",
     "Communication/communication.md",
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Introduction/Codage à virgule flottante.md",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
     "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
-    "Architecture-système/Architecture-système.md",
     "Anglais Technique/Writing a Review/Video Game Review/game review.md",
     "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Anglais Technique/Writing a Review/Computer Review.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
