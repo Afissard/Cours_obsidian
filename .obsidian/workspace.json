@@ -151,10 +151,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Initiation-dev/go/exercices-introdev/DONE.md",
+    "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
+    "Initiation-dev/go/exercices-introdev/README_introdev.md",
+    "README.md",
     "Initiation-dev/go/go.md",
+    "Dev-Web/tp1/tp1.md",
+    "Initiation-dev/go/exercices-introdev/DONE.md",
     "Initiation-dev/Initiation-dev.md",
     "communication/communication.md",
     "communication/Résumé exercices/Résumé exercices.md",
@@ -171,7 +175,6 @@
     "Initiation-dev/go/exercices-introdev/tri/tri2/tri2_test.go",
     "Initiation-dev/go/exercices-introdev/tri/pairsimpairs/tri_test.go",
     "Initiation-dev/go/exercices-introdev/tri/tri2/tri2.go",
-    "Initiation-dev/go/exercices-introdev/README.md",
     "Anglais Technique/Anglais Technique.md",
     "Communication/communication.md",
     "Architecture-système/Introduction/Introduction.md",
@@ -187,10 +190,7 @@
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Fiscalité (frauduleuse).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }
