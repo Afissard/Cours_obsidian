@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "eedf5e142cb61879",
+            "id": "1b9eb8d98e159983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/game review.md",
+                "file": "Initiation-dev/Initiation-dev.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/game review.md",
+                "file": "Initiation-dev/Initiation-dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/game review.md",
+                "file": "Initiation-dev/Initiation-dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/game review.md"
+                "file": "Initiation-dev/Initiation-dev.md"
               }
             }
           },
@@ -168,8 +168,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eedf5e142cb61879",
+  "active": "1b9eb8d98e159983",
   "lastOpenFiles": [
+    "Cours_obsidian.7z",
+    "Anglais Technique/Anglais Technique.md",
+    "Communication/communication.md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Introduction/Codage à virgule flottante.md",
+    "Architecture-système/Initiation Linux/Initiation Linux.md",
+    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
+    "Architecture-système/Architecture-système.md",
     "Anglais Technique/Writing a Review/Video Game Review/game review.md",
     "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
@@ -178,7 +186,6 @@
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Vocabulary",
-    "Anglais Technique/Anglais Technique.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
@@ -195,19 +202,12 @@
     "Dev-Web/tp1/tp1.md",
     "Dev-Web/Dev-Web.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
-    "Communication/Résumé exercices/Résumé exercices.md",
-    "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
-    "Communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
     "communication/Résumé exercice/lu1231672vllu.tmp",
     "communication/Résumé exercice/lu1231672vllr.tmp",
     "communication/Résumé exercice/lu1231672vllo.tmp",
     "communication/Résumé exercice/lu1231672vlll.tmp",
     "communication/Résumé exercice/lu1231672vlli.tmp",
-    "Communication/communication.md",
     "communication/Résumé exercice/lu1231672vlld.tmp",
-    "Initiation-dev/Algo/ALG3 Récursivité.md",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/Initiation-dev.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }
