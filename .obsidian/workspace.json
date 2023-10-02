@@ -28,9 +28,37 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fe17f6731d40fe72",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture-système/Introduction/Codage à virgule flottante.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f81a2bcc32468146",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf"
+                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md"
               }
             }
           },
@@ -168,11 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "392a1089a54a8b93",
+  "active": "f81a2bcc32468146",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/Codage à virgule flottante.md",
+    "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
+    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/r103-cm-semaine2.pdf",
     "Architecture-système/Introduction/cours r103 semaine 1.pdf",
-    "Architecture-système/Introduction/Codage à virgule flottante.md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Architecture-système.md",
     "Maths/Maths.md",
@@ -196,8 +226,6 @@
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Résumé exercice.md",
     "Initiation-dev/go/exercices-introdev/tri/vraifaux/vraifaux_test.go",
-    "Initiation-dev/go/exercices-introdev/tri/valabs/valabs_test.go",
-    "Initiation-dev/go/exercices-introdev/tri/tri/tri.go",
     "Anglais Technique/Anglais Technique.md",
     "Communication/communication.md",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
