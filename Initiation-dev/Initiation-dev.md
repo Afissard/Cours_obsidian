@@ -9,6 +9,7 @@ type: folder_brief_live
 	- [[ALG1 présentation de l'algorithmie]]
 	- [[ALG2 Recherche d'éléments]]
 	- [[ALG3 Récursivité]]
+	- [[ALG4 Algorithmes de tri]]
 	- [[cm2-recherche.pdf]]
 	- [[recursivite.pdf]]
 	- **src_recursivite**

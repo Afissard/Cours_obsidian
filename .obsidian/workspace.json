@@ -20,12 +20,31 @@
           {
             "id": "fd015757821153c8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1132adaa639feb2e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Initiation-dev/Algo/tri.pdf"
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md"
+              }
             }
           },
           {
@@ -159,17 +182,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "fd015757821153c8",
   "lastOpenFiles": [
+    "Initiation-dev/Algo/tri.pdf",
+    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
     "Initiation-dev/Initiation-dev.md",
+    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Architecture-système.md",
     "Cours_obsidian.7z",
     "Anglais Technique/Anglais Technique.md",
     "Communication/communication.md",
-    "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/Codage à virgule flottante.md",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
     "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
-    "Architecture-système/Architecture-système.md",
     "Anglais Technique/Writing a Review/Video Game Review/game review.md",
     "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
@@ -192,13 +218,10 @@
     "README.md",
     "Dev-Web/Introduction/Introduction.md",
     "Dev-Web/tp1/tp1.md",
-    "Dev-Web/Dev-Web.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/L'école des Relations Humaines.md",
     "communication/Résumé exercice/lu1231672vllu.tmp",
     "communication/Résumé exercice/lu1231672vllr.tmp",
     "communication/Résumé exercice/lu1231672vllo.tmp",
     "communication/Résumé exercice/lu1231672vlll.tmp",
-    "communication/Résumé exercice/lu1231672vlli.tmp",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }
