@@ -18,29 +18,15 @@
             }
           },
           {
-            "id": "fd015757821153c8",
+            "id": "f71a2c0293bc9d15",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+                "file": "Initiation-dev/Initiation-dev.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1132adaa639feb2e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Initiation-dev/Algo/tri.pdf"
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+                "file": "Initiation-dev/Initiation-dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+                "file": "Initiation-dev/Initiation-dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-dev/Algo/ALG4 Algorithmes de tri.md"
+                "file": "Initiation-dev/Initiation-dev.md"
               }
             }
           },
@@ -182,10 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd015757821153c8",
+  "active": "f71a2c0293bc9d15",
   "lastOpenFiles": [
-    "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+    "Initiation-dev/Algo/tri.pdf",
+    "conflict-files-obsidian-git.md",
+    "Maths/Logique/Ensemble/exo_36.go",
+    "Maths/Logique/Ensemble",
+    "Initiation-dev/go/exercices-introdev",
+    "Cours-obsidian_release-001.7z",
     "Initiation-dev/Initiation-dev.md",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/Introduction.md",
@@ -214,14 +205,8 @@
     "Gestion-de-Projet/Gestion-de-Projet.md",
     "Dev-Web/DM web/Presentation du travail.md",
     "Dev-Web/Introduction/Introduction CSS.md",
-    "Dev-Web/Introduction/r1.02_cm_2023.pdf",
     "README.md",
     "Dev-Web/Introduction/Introduction.md",
-    "Dev-Web/tp1/tp1.md",
-    "communication/Résumé exercice/lu1231672vllu.tmp",
-    "communication/Résumé exercice/lu1231672vllr.tmp",
-    "communication/Résumé exercice/lu1231672vllo.tmp",
-    "communication/Résumé exercice/lu1231672vlll.tmp",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }

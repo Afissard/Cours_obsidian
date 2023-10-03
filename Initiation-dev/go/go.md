@@ -5,9 +5,62 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- **exercices-introdev**
 - **[[Modules]]**
 - **[[Tests]]**
 - **[[tuto1-src]]**
+- **tuto2-src**
+	- **my-src**
+		- **p1**
+			- [[prog1.go]]
+		- **p2**
+			- [[prog2.go]]
+		- **p3**
+			- [[prog3.go]]
+		- **p4**
+			- [[go.mod]]
+			- [[prog4.go]]
+	- **src**
+		- [[args.go]]
+		- [[array.go]]
+		- [[flag.go]]
+		- [[methode.go]]
+		- [[methode2.go]]
+		- [[pointeurs.go]]
+		- [[pointeurs2.go]]
+		- [[slice.go]]
+		- [[slice2.go]]
+		- [[slice3.go]]
+		- [[slice4.go]]
+		- [[slice5.go]]
+		- [[slice6.go]]
+		- [[slice7.go]]
+		- [[slice8.go]]
+		- [[slice9.go]]
+		- [[tabtab.go]]
+		- [[unefonction.go]]
+		- [[valeur-reference.go]]
+		- [[valeur-reference2.go]]
+	- [[tuto2-pointeurs.pdf]]
+	- [[tuto2-src.tgz]]
+- **tuto3-src**
+	- [[app]]
+	- [[fichier]]
+	- [[go.mod]]
+	- [[main.go]]
+	- [[notes.csv]]
+	- **prog**
+		- [[fnApp.go]]
+		- [[go.mod]]
+		- [[main.go]]
+		- [[rApp.go]]
+	- **src**
+		- [[bufio.go]]
+		- [[create.go]]
+		- [[fscanln.go]]
+		- [[readfile.go]]
+		- [[write.go]]
+	- [[tuto3-fichiers.pdf]]
 
 %% End Waypoint %%
 ## Présentation du langage #go
