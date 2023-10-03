@@ -17,7 +17,6 @@ Choisir une representation pour les xi :
 - comment concilier précision et amplitude de la plage des nombre representable
 - la représentation garentit-elle l'unicité de la representation
 - la representation permet elle une réalisation materiel efficace des fonctions arithmétiques
-
 ## Representation à virgule fixe
 nombre de bit allouer au entier et fractionnaire fixe.
 ### Avantage
