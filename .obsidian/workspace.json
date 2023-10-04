@@ -18,35 +18,19 @@
             }
           },
           {
-            "id": "c02cc5c6207b8425",
+            "id": "fe57958760eeca41",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais Technique/Vocabulary/Useful expression for writing review.md",
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fc647b87b42748d0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -113,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md"
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md"
               }
             }
           },
@@ -185,8 +168,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc647b87b42748d0",
+  "active": "fe57958760eeca41",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
+    "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
+    "Gestion-de-Projet/Entreprise/TP",
+    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
+    "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
+    "Gestion-de-Projet/Entreprise/Partie 3.pptx",
+    "Gestion-de-Projet/Entreprise/Partie 2 Gestion de projet -1.pdf",
+    "Gestion-de-Projet/Entreprise/Classification/Classification.md",
+    "Gestion-de-Projet/Entreprise/Stratégie",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles/Vers les tendance actuel.md",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Sans titre.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Anglais Technique/Vocabulary/Useful expression for writing review.md",
     "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
@@ -198,33 +196,19 @@
     "Communication/Résumé exercices/Résumé exercices.md",
     "Communication/communication.md",
     "Architecture-système/Architecture-système.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/Codage à virgule flottante.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Startup (stage 1).md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Fiscalité (frauduleuse).md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Faisabilité Technologique.md",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Entreprise/Etude de marché.md",
-    "Initiation-dev/Initiation-dev.md",
-    "conflict-files-obsidian-git.md",
-    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Startup (stage 1).md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité (frauduleuse).md",
     "Initiation-dev/Algo/tri.pdf",
     "Maths/Logique/Ensemble/exo_36.go",
     "Maths/Logique/Ensemble",
     "Initiation-dev/go/exercices-introdev",
-    "Cours-obsidian_release-001.7z",
-    "Cours_obsidian.7z",
-    "Architecture-système/Initiation Linux/Initiation Linux.md",
-    "Anglais Technique/Writing a Review/Video Game Review",
-    "Anglais Technique/Sans titre",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
-    "Anglais Technique/Vocabulary",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }
