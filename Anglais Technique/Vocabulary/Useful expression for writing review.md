@@ -1,6 +1,11 @@
 # General review
 - Let me tell you why you should buy/try it
-- 
+- Using the latest ...
+- Combining x and y
+- X is the best ~ I have ever seen
+- In my opinion, as far I'm concerned (better than according to me)
+- avoid "you can", replaced by you're able to, it allow you to, ...
+- is the world best selling game
 # Computer Review
 - featuring a x-computer-part
 - paired with x-computer-part
@@ -29,3 +34,4 @@
 - Unfortunately, this game dos not have the best graphics
 - When it first came out, it was full of bugs, some of theme became features
 - The graphics are not the best
+- You can play it with your friends (if you have some)
