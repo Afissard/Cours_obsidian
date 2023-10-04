@@ -44,8 +44,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "42557225ae3da16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md"
+              }
             }
           },
           {
@@ -179,10 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "42557225ae3da16f",
   "lastOpenFiles": [
     "Anglais Technique/Vocabulary/Useful expression for writing review.md",
+    "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
     "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
+    "Anglais Technique/Important Informations (Eval).md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Writing a Review/Video Game Review/game review.md",
     "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
@@ -202,7 +221,6 @@
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
-    "Anglais Technique/Important Informations.md",
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Résumé exercices/Résumé exercices.md",
     "Communication/communication.md",
@@ -213,7 +231,6 @@
     "Architecture-système/Introduction/Codage à virgule flottante.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Startup (stage 1).md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité (frauduleuse).md",
     "Initiation-dev/Algo/tri.pdf",
     "Maths/Logique/Ensemble/exo_36.go",
     "Maths/Logique/Ensemble",
