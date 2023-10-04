@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf4b9bd087cef54a",
+        "id": "72559ba5c47072ed",
         "type": "tabs",
         "children": [
           {
@@ -18,18 +18,35 @@
             }
           },
           {
-            "id": "de7925eb091cf749",
+            "id": "c02cc5c6207b8425",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
+                "file": "Anglais Technique/Vocabulary/Useful expression for writing review.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fc647b87b42748d0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -95,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anglais Technique/Vocabulary/Useful expression for writing review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anglais Technique/Vocabulary/Useful expression for writing review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anglais Technique/Vocabulary/Useful expression for writing review.md"
+              }
             }
           },
           {
@@ -163,8 +185,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "c02cc5c6207b8425",
   "lastOpenFiles": [
+    "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
+    "Anglais Technique/Vocabulary/Useful expression for writing review.md",
+    "Anglais Technique/Vocabulary/Vocabulary.md",
+    "Anglais Technique/Writing a Review/Video Game Review/game review.md",
+    "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
+    "Anglais Technique/Anglais Technique.md",
+    "Anglais Technique/Important Informations.md",
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Résumé exercices/Résumé exercices.md",
     "Communication/communication.md",
@@ -190,19 +219,12 @@
     "Initiation-dev/go/exercices-introdev",
     "Cours-obsidian_release-001.7z",
     "Cours_obsidian.7z",
-    "Anglais Technique/Anglais Technique.md",
     "Architecture-système/Initiation Linux/Initiation Linux.md",
-    "Architecture-système/Calculs-Booléen--Circuit-Combinatoire/Algèbre de Bool (circuit logique).md",
-    "Anglais Technique/Writing a Review/Video Game Review/game review.md",
-    "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
-    "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Writing a Review/Video Game Review",
     "Anglais Technique/Sans titre",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
-    "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Vocabulary",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
-    "Dev-Web/DM web/Presentation du travail.md",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }

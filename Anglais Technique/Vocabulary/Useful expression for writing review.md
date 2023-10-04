@@ -1,0 +1,28 @@
+# General review
+- Let me tell you why you should buy/try it
+- 
+# Computer Review
+- featuring a x-computer-part
+- paired with x-computer-part
+- in comparaison x is better than y
+- good performance, power
+- capacity for upgrade
+- serve you well for the next few years
+- x-brand delivers an exemptional x-thing
+- leave a decent amount of place for upgrade
+- sweet looking design
+- an ample port of selection
+# Video Game review
+- A must see
+- A third/first person game
+- stunning environnement, open world
+- enjoyable pc/console game
+- game option
+- player role
+- invoke strong nostalgia/other feeling
+- game genre : JRPG, RPG, FPS, RTS, Gacha-game, simulation game, survival game
+- elaborated design, skill, attribute system.
+- In x-game, the adventure start with ... / you have to ... / you find yourself in ...
+- If you are the sort of player who likes to compare their level to the other / to take risk / challenge / love thrill
+- then this game is for you
+- 
