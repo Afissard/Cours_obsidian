@@ -25,4 +25,7 @@
 - In x-game, the adventure start with ... / you have to ... / you find yourself in ...
 - If you are the sort of player who likes to compare their level to the other / to take risk / challenge / love thrill
 - then this game is for you
-- 
+- It really is epic / special
+- Unfortunately, this game dos not have the best graphics
+- When it first came out, it was full of bugs, some of theme became features
+- The graphics are not the best
