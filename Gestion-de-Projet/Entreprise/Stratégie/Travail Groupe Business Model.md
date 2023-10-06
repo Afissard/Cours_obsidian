@@ -1,5 +1,6 @@
 # Diversification et Spécialisation
 # Diversification 
+... 
 # Spécialisation
 Source : https://www.leblogdudirigeant.com/la-strategie-de-specialisation/
 Le but de cette stratégie est de se focaliser sur un domaine d'activité stratégie (DAS). En dirigeant les investissements, le marketing et les compétences vers le développement de l’activité de l’entreprise dans ce marché jusqu’à y occuper une position dominante et un avantage concurrentiel.

@@ -18,47 +18,19 @@
             }
           },
           {
-            "id": "0c5665f7f44801de",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5844a7888fa88646",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anglais Technique/Vocabulary/Useful expression for writing review.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "42557225ae3da16f",
+            "id": "7cd2699ddf1d5502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md"
+                "file": "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md"
               }
             }
           },
@@ -196,20 +168,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42557225ae3da16f",
+  "active": "7cd2699ddf1d5502",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
+    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Communication/communication.md",
+    "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
     "Anglais Technique/Vocabulary/Useful expression for writing review.md",
     "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
-    "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
     "Anglais Technique/Important Informations (Eval).md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Writing a Review/Video Game Review/game review.md",
     "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
     "Anglais Technique/Anglais Technique.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
-    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
     "Gestion-de-Projet/Entreprise/TP",
-    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Gestion-de-Projet/Entreprise/Partie 3.pptx",
     "Gestion-de-Projet/Entreprise/Partie 2 Gestion de projet -1.pdf",
@@ -220,10 +194,8 @@
     "Gestion-de-Projet/Entreprise/Management des Hommes/Sans titre.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Résumé exercices/Résumé exercices.md",
-    "Communication/communication.md",
     "Architecture-système/Architecture-système.md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
