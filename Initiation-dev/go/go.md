@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **exercices-introdev**
+- **[[exercices-introdev]]**
 - **[[Modules]]**
 - **[[Tests]]**
 - **[[tuto1-src]]**

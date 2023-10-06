@@ -57,8 +57,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,8 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f81a2bcc32468146",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
+    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Travail en groupe.pdf",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
@@ -227,15 +226,11 @@
     "Anglais Technique/Vocabulary/Useful expression for writing review.md",
     "Anglais Technique/Important Informations (Eval).md",
     "Architecture-système/Introduction/Codage à virgule flottante.md",
-    "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
-    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Architecture-système.md",
     "Maths/Maths.md",
     "Maths/Logique/Logique.md",
     "Initiation-dev/Initiation-dev.md",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
