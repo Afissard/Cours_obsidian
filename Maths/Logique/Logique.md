@@ -5,10 +5,7 @@ type: folder_brief_live
 ```
 
 %% Begin Waypoint %%
-- **Ensemble**
-	- [[Ensemble classique]]
-	- [[Ensemble et généralités]]
-	- [[exo_36.go]]
+- **[[Ensemble]]**
 - **[[Opérations Booléen]]**
 - [[PolyExercices_td_maths_discretes_2023.pdf]]
 - **[[Prédicats]]**

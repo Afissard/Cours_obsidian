@@ -18,33 +18,21 @@
             }
           },
           {
-            "id": "29f4b3affeaf629b",
+            "id": "0e419667bfc9eb91",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
+                "file": "Maths/Logique/Ensemble/Ensemble et généralités.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e69d1f09ef9db09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Logique/Ensemble/Ensemble classique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Ensemble classique.md",
+                "file": "Maths/Logique/Ensemble/Ensemble et généralités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Ensemble classique.md",
+                "file": "Maths/Logique/Ensemble/Ensemble et généralités.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Ensemble classique.md"
+                "file": "Maths/Logique/Ensemble/Ensemble et généralités.md"
               }
             }
           },
@@ -182,12 +170,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e69d1f09ef9db09f",
+  "active": "0e419667bfc9eb91",
   "lastOpenFiles": [
-    "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Ensemble/Ensemble classique.md",
+    "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
+    "Maths/Logique/Prédicats/Prédicat définition.md",
     "Maths/Logique/Prédicats/Prédicats.md",
+    "Maths/Logique/Ensemble/Ensemble.md",
     "Maths/Logique/Logique.md",
     "Maths/Maths.md",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
@@ -220,8 +210,6 @@
     "Gestion-de-Projet/Entreprise/Partie 2 Gestion de projet -1.pdf",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles/Vers les tendance actuel.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles",
-    "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
-    "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"

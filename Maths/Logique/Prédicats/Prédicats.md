@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Prédicat]]
+- [[Prédicat définition]]
 - [[Propositions]]
 - [[Quantificateurs (∀ & ∃)]]
 
