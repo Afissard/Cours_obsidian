@@ -1,0 +1,5 @@
+- ℕ : ensemble des entiers naturel (positifs)
+- ℤ : ensemble des entiers relatifs 
+- ⅅ : ensemble des nombres décimaux
+- ℚ : ensemble des nombres rationnels (de la forme *a/b* avec *a* et *b* entiers)
+- ℝ : ensemble des nombres réels

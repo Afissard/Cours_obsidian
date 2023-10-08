@@ -18,25 +18,13 @@
             }
           },
           {
-            "id": "392a1089a54a8b93",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Architecture-système/Introduction/r103-cm-semaine3.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fe17f6731d40fe72",
+            "id": "29f4b3affeaf629b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture-système/Introduction/Codage à virgule flottante.md",
+                "file": "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
                 "mode": "source",
                 "source": false
               },
@@ -44,20 +32,19 @@
             }
           },
           {
-            "id": "f81a2bcc32468146",
+            "id": "e69d1f09ef9db09f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
+                "file": "Maths/Logique/Ensemble/Ensemble classique.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Logique/Ensemble/Ensemble classique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Logique/Ensemble/Ensemble classique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Logique/Ensemble/Ensemble classique.md"
+              }
             }
           },
           {
@@ -191,12 +182,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "e69d1f09ef9db09f",
   "lastOpenFiles": [
+    "Maths/Logique/Ensemble/Ensemble et généralités.md",
+    "Maths/Logique/Ensemble/Ensemble classique.md",
+    "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
+    "Maths/Logique/Prédicats/Prédicats.md",
+    "Maths/Logique/Logique.md",
+    "Maths/Maths.md",
+    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+    "Architecture-système/Introduction/Codage à virgule flottante.md",
+    "Architecture-système/Architecture-système.md",
     "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
-    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Travail en groupe.pdf",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
@@ -223,14 +222,6 @@
     "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles",
     "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
     "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
-    "Anglais Technique/Vocabulary/Useful expression for writing review.md",
-    "Anglais Technique/Important Informations (Eval).md",
-    "Architecture-système/Introduction/Codage à virgule flottante.md",
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Architecture-système.md",
-    "Maths/Maths.md",
-    "Maths/Logique/Logique.md",
-    "Initiation-dev/Initiation-dev.md",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
