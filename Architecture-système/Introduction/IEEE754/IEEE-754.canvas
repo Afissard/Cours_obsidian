@@ -9,11 +9,12 @@
 		{"id":"e1b6f81f9292cc04","type":"text","text":"1000 0010","x":-200,"y":100,"width":165,"height":80},
 		{"id":"76acdffa500ad78c","type":"text","text":"0100 0000 ...","x":-35,"y":100,"width":165,"height":80},
 		{"id":"edb378b8c8be3bdf","type":"text","text":"Exemple avec 10<sub>10</sub>, simple précision (32 bits):","x":-680,"y":100,"width":315,"height":80},
-		{"id":"8da37b45f494e010","x":-1020,"y":-160,"width":340,"height":200,"type":"text","text":"Norme créer pour encoder tout nombres flottant en simple (32 bits) ou double (64 bits) précision.\n(Et accessoirement augmenter artificiellement le taux d'echec des élèves du BUT info de Nantes)"},
 		{"id":"70a34fdc7801a7f2","type":"text","text":"Simple precision : 8 bits\nSe calcule tel que : Exp = 127 + nbr_après_virgule_binaire\n\nDouble précision : 11 bits\nSe calcule tel que : Exp = 1023 - nbr_après_virgule_binaire\n","x":-305,"y":-460,"width":525,"height":180},
 		{"id":"06f428dcb188734e","type":"text","text":"Simple précision : 23 bits\nDouble précision : 52 bits\n\nEcriture normalisé :\nCorrespond à l'écriture scientifique d'un nombre (ex : 2,85<sup>3</sup> = 2850) mais en binaire. Pour cela on retire tout les 0 de poids fort, ainsi que le premier 1 qui est implicite puisque nécessaire à l'encodage du nombre.\n","x":180,"y":-240,"width":420,"height":300},
-		{"id":"02b66472b9bf5904","x":-501,"y":220,"width":273,"height":100,"type":"text","text":"Exp = 127 + 3\nExp = 130\n-> 130<sub>10</sub> = 1000 0010<sub>2</sub>"},
-		{"id":"e3c1afacf6068139","x":100,"y":220,"width":345,"height":120,"type":"text","text":"10<sub>10</sub> = 1010<sub>2</sub>\n1010<sub>2</sub> = *... 0000* 1010<sub>2</sub>\nEcriture scientifique : (1)010 *00 ... 0*"}
+		{"id":"02b66472b9bf5904","type":"text","text":"Exp = 127 + 3\nExp = 130\n-> 130<sub>10</sub> = 1000 0010<sub>2</sub>","x":-501,"y":220,"width":273,"height":100},
+		{"id":"e3c1afacf6068139","type":"text","text":"10<sub>10</sub> = 1010<sub>2</sub>\n1010<sub>2</sub> = *... 0000* 1010<sub>2</sub>\nEcriture scientifique : (1)010 *00 ... 0*","x":100,"y":220,"width":345,"height":120},
+		{"id":"8da37b45f494e010","type":"text","text":"Norme créer pour encoder tout nombres flottant en simple (32 bits) ou double (64 bits) précision.\n\n(Et accessoirement augmenter artificiellement le taux d'echec des élèves du BUT info de Nantes. En vrai nan allez ici : https://www.wikihow.com/Convert-a-Number-from-Decimal-to-IEEE-754-Floating-Point-Representation)","x":-1160,"y":-320,"width":460,"height":300},
+		{"id":"d69d4553053fb978","type":"text","text":"**Exceptions ssi exposant = 0xFF & :**\n- **mantisse ≠ 0 -> NAN (Not A Number)**\n- **signe = 0 & mantisse = 0 -> +∞**\n- **signe = 1 & mantisse = 0 -> -∞**","x":-1140,"y":10,"width":420,"height":160}
 	],
 	"edges":[
 		{"id":"0d584a533f2b70af","fromNode":"70a34fdc7801a7f2","fromSide":"bottom","toNode":"12773f2ee96b88e7","toSide":"top"},
@@ -21,6 +22,7 @@
 		{"id":"f2fc37d78c0282c0","fromNode":"8da37b45f494e010","fromSide":"right","toNode":"33a3d9d924073bcc","toSide":"left"},
 		{"id":"d8727afba4b95e5d","fromNode":"06f428dcb188734e","fromSide":"left","toNode":"2608de82052113e5","toSide":"top"},
 		{"id":"1a28275c9e688319","fromNode":"02b66472b9bf5904","fromSide":"right","toNode":"e1b6f81f9292cc04","toSide":"bottom"},
-		{"id":"69b2892bc22e22c3","fromNode":"e3c1afacf6068139","fromSide":"left","toNode":"76acdffa500ad78c","toSide":"bottom"}
+		{"id":"69b2892bc22e22c3","fromNode":"e3c1afacf6068139","fromSide":"left","toNode":"76acdffa500ad78c","toSide":"bottom"},
+		{"id":"9c37163da2aefed4","fromNode":"d69d4553053fb978","fromSide":"right","toNode":"33a3d9d924073bcc","toSide":"left"}
 	]
 }

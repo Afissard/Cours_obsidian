@@ -13,4 +13,4 @@ Par ailleurs, e = 0xFF est réservé pour les valeurs spéciales :
 - NaN : Not a Number, quand f ≠ 0 
 - +∞ : quand s = 0 et f = 0 
 - −∞ : quand s = 1 et f = 0
-(s : exposant, e : exposant, f : mantisse)
+(s : signe, e : exposant, f : mantisse)
