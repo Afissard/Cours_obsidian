@@ -1,4 +1,4 @@
-# communication Overview
+# Communication Overview
  
 ```ccard
 type: folder_brief_live
@@ -8,9 +8,6 @@ type: folder_brief_live
 - **[[Exposé]]**
 - [[Présentation de la matière]]
 - [[Résumé de texte]]
-- **Résumé exercices**
-	- [[Résumé exercices]]
-	- [[sacha_chauvle_résumé.odt]]
-	- [[Voici le temps du monde fini - Albert Jacquard]]
+- **[[Résumé exercices]]**
 
 %% End Waypoint %%

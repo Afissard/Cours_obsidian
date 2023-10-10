@@ -26,28 +26,15 @@
               "state": {
                 "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "viewState": {
-                  "x": -276.9972095515964,
-                  "y": -78.85678260439761,
-                  "zoom": -0.2500000000000003
+                  "x": -118.37978586871867,
+                  "y": -96.1271881920188,
+                  "zoom": -0.666666666666667
                 }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "43003267c7af52d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +169,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e0f135e25569de3",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+    "Communication/Communication.md",
+    "Communication/communication.md",
+    "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
     "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Informations travail TP.pdf",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
@@ -201,8 +188,6 @@
     "Gestion-de-Projet/Entreprise/Gestion des risques",
     "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
     "Gestion-de-Projet/Entreprise/Comptabilité",
-    "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
-    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Architecture-système/Introduction/Codage à virgule flottante.md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/IEEE754",
@@ -222,9 +207,6 @@
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
     "Gestion-de-Projet/Entreprise/TP/tp_étude_de_marché/tp_étude_de_marché.md",
     "Gestion-de-Projet/Entreprise/TP/tp_étude_de_marché/Produit.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Startup (stage 1).md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité (frauduleuse).md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
