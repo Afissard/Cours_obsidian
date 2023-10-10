@@ -18,17 +18,15 @@
             }
           },
           {
-            "id": "a310361dbdcb18c8",
+            "id": "aa277bf8ae61d832",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
+                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
+                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
+                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md"
+                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md"
               }
             }
           },
@@ -170,8 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a310361dbdcb18c8",
+  "active": "aa277bf8ae61d832",
   "lastOpenFiles": [
+    "Communication/communication.md",
+    "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Chapitre 3 partie 2.pdf",
     "Gestion-de-Projet/Entreprise/Stratégie/Chapitre 4 stratégie partie 1.pdf",
     "Gestion-de-Projet/Entreprise/Chapitre 4 stratégie partie 1.pdf",
@@ -179,12 +181,10 @@
     "Gestion-de-Projet/Entreprise/Partie 3.pptx",
     "Gestion-de-Projet/Entreprise/Partie 2 Gestion de projet -1.pdf",
     "Gestion-de-Projet/Entreprise/Partie 1 cours.pdf",
-    "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
     "Gestion-de-Projet/Entreprise/Marché/Partie 2 cours.pdf",
     "Gestion-de-Projet/Entreprise/Marché",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Informations travail TP.pdf",
-    "Gestion-de-Projet/Entreprise/Comptabilité",
     "Gestion-de-Projet/Entreprise/Gestion des risques/Risques possibles pour une entreprise.md",
     "conflict-files-obsidian-git.md",
     "Maths/Logique/Prédicats/Prédicat définition.md",
@@ -197,7 +197,6 @@
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
-    "Communication/communication.md",
     "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
     "Anglais Technique/Vocabulary/Useful expression for writing review.md",
     "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
@@ -210,7 +209,6 @@
     "Gestion-de-Projet/Entreprise/Classification/Classification.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles/Vers les tendance actuel.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Sans titre.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
