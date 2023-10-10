@@ -26,8 +26,8 @@
               "state": {
                 "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "viewState": {
-                  "x": -118.37978586871867,
-                  "y": -96.1271881920188,
+                  "x": -59.8470649441488,
+                  "y": -47.9805636988537,
                   "zoom": -0.666666666666667
                 }
               },
@@ -174,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e0f135e25569de3",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Communication/Communication.md",
     "Communication/communication.md",
@@ -205,7 +206,6 @@
     "Maths/Logique/Prédicats/Prédicats.md",
     "Maths/Logique/Ensemble/Ensemble.md",
     "Maths/Logique/Logique.md",
-    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
     "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
