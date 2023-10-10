@@ -12,7 +12,7 @@ Organisation du projet minier autour d'un asteroid *x* (ceinture entre les plan�
 - libération du "colis" avec impulsion minimal en direction du Soleil
 - destruction garantis dans le Soleil
 ## Partie 3 (an 50, dev en 50 ans et +) : Solution à la surpopulation terrestre
-- Déplacer toute exploitation économique dans l'espace (voir [[Fiscalité (frauduleuse)]] comme notre siège social). Mettre toute les usine en orbite -> facilité avec apport de matériaux depuis l'espace.
+- Déplacer toute exploitation économique dans l'espace (voir [[Fiscalité et Business Model (frauduleuse)]] comme notre siège social). Mettre toute les usine en orbite -> facilité avec apport de matériaux depuis l'espace.
 - Faire de la Terre une Trantor/Coruscant
 - Si plus de place sur Terre, colonie sur la Lune puis Mars (plans sur près d'un siècle)
 ## DLC : Partie 4 (1 siècle et plus)  Exploitation du Soleil comme source d'énérgie :

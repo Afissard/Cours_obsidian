@@ -1,1 +1,0 @@
-Pour évité toute imposition, le siège social sera basé en orbite terrestre haut

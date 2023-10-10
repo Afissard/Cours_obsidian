@@ -18,19 +18,33 @@
             }
           },
           {
-            "id": "aa277bf8ae61d832",
+            "id": "5045ed65c0d0df41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f47ef495541e4599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md"
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md"
               }
             }
           },
@@ -168,11 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa277bf8ae61d832",
+  "active": "f47ef495541e4599",
   "lastOpenFiles": [
-    "Communication/communication.md",
-    "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
+    "Communication/communication.md",
     "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Chapitre 3 partie 2.pdf",
     "Gestion-de-Projet/Entreprise/Stratégie/Chapitre 4 stratégie partie 1.pdf",
@@ -196,7 +213,6 @@
     "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
     "Anglais Technique/Vocabulary/Useful expression for writing review.md",
     "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
@@ -207,8 +223,6 @@
     "Anglais Technique/Anglais Technique.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Gestion-de-Projet/Entreprise/Classification/Classification.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles/Vers les tendance actuel.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Sans titre.md",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"

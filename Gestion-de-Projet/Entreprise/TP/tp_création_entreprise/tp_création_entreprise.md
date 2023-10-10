@@ -11,7 +11,7 @@ type: folder_brief_live
 	- [[Explication]]
 	- [[Travail en groupe.pdf]]
 - [[Faisabilité Technologique]]
-- [[Fiscalité (frauduleuse)]]
+- [[Fiscalité et Business Model (frauduleuse)]]
 - [[Informations travail TP.pdf]]
 - [[Startup (stage 1)]]
 
