@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -154,6 +153,14 @@
   },
   "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Maths/Logique/Prédicats/Prédicat définition.md",
+    "Maths/Logique/Ensemble/Ensemble.md",
+    "Maths/Logique/Ensemble/Ensemble et généralités.md",
+    "Maths/Logique/Ensemble/Ensemble classique.md",
+    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+    "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
+    "Architecture-système/Introduction/IEEE754",
     "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
@@ -180,17 +187,10 @@
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
     "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Résumé exercices/Résumé exercices.md",
-    "Architecture-système/Architecture-système.md",
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Introduction/Codage à virgule résumé Tanguy.md",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
-    "Architecture-système/Introduction/Codage à virgule flottante.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Startup (stage 1).md",
     "Initiation-dev/Algo/tri.pdf",
     "Maths/Logique/Ensemble/exo_36.go",
     "Maths/Logique/Ensemble",
-    "Initiation-dev/go/exercices-introdev",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
