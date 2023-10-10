@@ -21,3 +21,6 @@ Passif -> patrimoine net (capitaux propres) -> dettes
 La partie passif finance la partie active
 
 Exercice calculs du montant du capital social et répartition des parts sociales. #Madoc 
+## Compte de résultat
+Produits - Charges  : si positif -> gain / si négatif -> perte
+exemple sur #Madoc 
