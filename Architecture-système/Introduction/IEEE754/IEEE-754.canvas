@@ -9,7 +9,7 @@
 		{"id":"e1b6f81f9292cc04","type":"text","text":"1000 0010","x":-200,"y":100,"width":165,"height":80},
 		{"id":"76acdffa500ad78c","type":"text","text":"0100 0000 ...","x":-35,"y":100,"width":165,"height":80},
 		{"id":"edb378b8c8be3bdf","type":"text","text":"Exemple avec 10<sub>10</sub>, simple précision (32 bits):","x":-680,"y":100,"width":315,"height":80},
-		{"id":"70a34fdc7801a7f2","type":"text","text":"Simple precision : 8 bits\nSe calcule tel que : Exp = 127 + nbr_après_virgule_binaire\n\nDouble précision : 11 bits\nSe calcule tel que : Exp = 1023 - nbr_après_virgule_binaire\n","x":-305,"y":-460,"width":525,"height":180},
+		{"id":"70a34fdc7801a7f2","type":"text","text":"Simple precision : 8 bits\nSe calcule tel que : Exp = 127 (biais) + nbr_après_virgule_binaire\n\nDouble précision : 11 bits\nSe calcule tel que : Exp = 1023 (biais) - nbr_après_virgule_binaire\n","x":-305,"y":-460,"width":578,"height":180},
 		{"id":"06f428dcb188734e","type":"text","text":"Simple précision : 23 bits\nDouble précision : 52 bits\n\nEcriture normalisé :\nCorrespond à l'écriture scientifique d'un nombre (ex : 2,85<sup>3</sup> = 2850) mais en binaire. Pour cela on retire tout les 0 de poids fort, ainsi que le premier 1 qui est implicite puisque nécessaire à l'encodage du nombre.\n","x":180,"y":-240,"width":420,"height":300},
 		{"id":"02b66472b9bf5904","type":"text","text":"Exp = 127 + 3\nExp = 130\n-> 130<sub>10</sub> = 1000 0010<sub>2</sub>","x":-501,"y":220,"width":273,"height":100},
 		{"id":"e3c1afacf6068139","type":"text","text":"10<sub>10</sub> = 1010<sub>2</sub>\n1010<sub>2</sub> = *... 0000* 1010<sub>2</sub>\nEcriture scientifique : (1)010 *00 ... 0*","x":100,"y":220,"width":345,"height":120},

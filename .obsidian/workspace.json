@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "72559ba5c47072ed",
+        "id": "cf4b9bd087cef54a",
         "type": "tabs",
         "children": [
           {
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "9083bb0c74475b9c",
+            "id": "4e0f135e25569de3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -26,12 +26,24 @@
               "state": {
                 "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "viewState": {
-                  "x": -264.84472230912394,
-                  "y": -21.951270903699783,
-                  "zoom": -0.6514288339982237
+                  "x": -276.9972095515964,
+                  "y": -78.85678260439761,
+                  "zoom": -0.2500000000000003
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "43003267c7af52d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -64,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,49 +186,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9083bb0c74475b9c",
+  "active": "4e0f135e25569de3",
   "lastOpenFiles": [
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Architecture-système.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
     "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
-    "Communication/communication.md",
-    "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Chapitre 3 partie 2.pdf",
-    "Gestion-de-Projet/Entreprise/Stratégie/Chapitre 4 stratégie partie 1.pdf",
-    "Gestion-de-Projet/Entreprise/Chapitre 4 stratégie partie 1.pdf",
-    "Gestion-de-Projet/Entreprise/Chapitre 3 partie 2.pdf",
-    "Gestion-de-Projet/Entreprise/Partie 3.pptx",
-    "Gestion-de-Projet/Entreprise/Partie 2 Gestion de projet -1.pdf",
-    "Gestion-de-Projet/Entreprise/Partie 1 cours.pdf",
-    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
-    "Gestion-de-Projet/Entreprise/Marché/Partie 2 cours.pdf",
-    "Gestion-de-Projet/Entreprise/Marché",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Informations travail TP.pdf",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
+    "Gestion-de-Projet/Entreprise/Stratégie/Chapitre 4 stratégie partie 1.pdf",
+    "Gestion-de-Projet/Entreprise/Marché/Partie 2 cours.pdf",
+    "Gestion-de-Projet/Entreprise/Marché/Etude de marché.md",
+    "Gestion-de-Projet/Entreprise/Marché",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Partie 3.pptx",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Chapitre 3 partie 2.pdf",
     "Gestion-de-Projet/Entreprise/Gestion des risques/Risques possibles pour une entreprise.md",
-    "conflict-files-obsidian-git.md",
-    "Maths/Logique/Prédicats/Prédicat définition.md",
-    "Maths/Logique/Ensemble/Ensemble.md",
+    "Gestion-de-Projet/Entreprise/Gestion des risques",
+    "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
+    "Gestion-de-Projet/Entreprise/Comptabilité",
+    "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
+    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+    "Architecture-système/Introduction/Codage à virgule flottante.md",
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Introduction/IEEE754",
+    "Architecture-système/Architecture-système.md",
+    "Maths/Maths.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Ensemble/Ensemble classique.md",
-    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
-    "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
-    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
-    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
-    "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
-    "Anglais Technique/Vocabulary/Useful expression for writing review.md",
-    "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
-    "Anglais Technique/Important Informations (Eval).md",
-    "Anglais Technique/Vocabulary/Vocabulary.md",
-    "Anglais Technique/Writing a Review/Video Game Review/game review.md",
+    "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
+    "Maths/Logique/Prédicats/Prédicat définition.md",
+    "Maths/Logique/Prédicats/Prédicats.md",
+    "Maths/Logique/Ensemble/Ensemble.md",
+    "Maths/Logique/Logique.md",
+    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
+    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_étude_de_marché/tp_étude_de_marché.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_étude_de_marché/Produit.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Startup (stage 1).md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité (frauduleuse).md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }
