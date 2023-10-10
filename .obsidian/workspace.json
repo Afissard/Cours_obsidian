@@ -16,8 +16,23 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a310361dbdcb18c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md"
+              }
             }
           },
           {
@@ -151,8 +170,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "a310361dbdcb18c8",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/Partie 2 Gestion de projet -1.pdf",
+    "Gestion-de-Projet/Entreprise/Partie 1 cours.pdf",
+    "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
+    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
+    "Gestion-de-Projet/Entreprise/Marché/Partie 2 cours.pdf",
+    "Gestion-de-Projet/Entreprise/Marché",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Informations travail TP.pdf",
+    "Gestion-de-Projet/Entreprise/Comptabilité",
+    "Gestion-de-Projet/Entreprise/Gestion des risques/Risques possibles pour une entreprise.md",
+    "Gestion-de-Projet/Entreprise/Gestion des risques",
     "conflict-files-obsidian-git.md",
     "Maths/Logique/Prédicats/Prédicat définition.md",
     "Maths/Logique/Ensemble/Ensemble.md",
@@ -176,21 +205,11 @@
     "Anglais Technique/Anglais Technique.md",
     "Gestion-de-Projet/Entreprise/TP",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
-    "Gestion-de-Projet/Entreprise/Partie 3.pptx",
-    "Gestion-de-Projet/Entreprise/Partie 2 Gestion de projet -1.pdf",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Partie 3.pptx",
     "Gestion-de-Projet/Entreprise/Classification/Classification.md",
-    "Gestion-de-Projet/Entreprise/Stratégie",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles/Vers les tendance actuel.md",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Tandances Actuelles",
     "Gestion-de-Projet/Entreprise/Management des Hommes/Sans titre.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "Communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
-    "Communication/Résumé exercices/Résumé exercices.md",
-    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
-    "Initiation-dev/Algo/tri.pdf",
-    "Maths/Logique/Ensemble/exo_36.go",
-    "Maths/Logique/Ensemble",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"

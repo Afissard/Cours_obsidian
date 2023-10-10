@@ -12,6 +12,7 @@ type: folder_brief_live
 	- [[Travail en groupe.pdf]]
 - [[Faisabilité Technologique]]
 - [[Fiscalité (frauduleuse)]]
+- [[Informations travail TP.pdf]]
 - [[Startup (stage 1)]]
 
 %% End Waypoint %%

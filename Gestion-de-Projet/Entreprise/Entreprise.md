@@ -6,19 +6,23 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - **[[Classification]]**
+- **Comptabilité**
+	- [[La comptabilité]]
 - [[Definition et généralité]]
-- [[Etude de marché]]
 - [[fonctionement-économique.canvas]]
-- [[Informations travail TP.pdf]]
+- **Gestion des risques**
+	- [[Risques possibles pour une entreprise]]
 - **Management des Hommes**
 	- [[L'école Classique]]
 	- [[L'école des Relations Humaines]]
+	- [[Partie 3.pptx]]
 	- **Tandances Actuelles**
 		- [[Vers les tendance actuel]]
+- **Marché**
+	- [[Etude de marché]]
+	- [[Partie 2 cours.pdf]]
 - [[Partie 1 cours.pdf]]
-- [[Partie 2 cours.pdf]]
 - [[Partie 2 Gestion de projet -1.pdf]]
-- [[Partie 3.pptx]]
 - **[[Stratégie]]**
 	- [[Business_Model_Canvas.png]]
 	- [[Stratégie d'entreprise (chap 4)]]
