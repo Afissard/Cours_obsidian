@@ -19,3 +19,5 @@ Actif -> patrimoine brut ->actif immobilisé / circulant
 Passif -> patrimoine net (capitaux propres) -> dettes
 #Madoc 
 La partie passif finance la partie active
+
+Exercice calculs du montant du capital social et répartition des parts sociales. #Madoc 
