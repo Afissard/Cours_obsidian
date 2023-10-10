@@ -34,7 +34,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas"
+              }
             }
           },
           {
@@ -169,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "4e0f135e25569de3",
   "lastOpenFiles": [
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Communication/Communication.md",
