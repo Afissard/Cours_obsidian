@@ -18,33 +18,24 @@
             }
           },
           {
-            "id": "5045ed65c0d0df41",
+            "id": "9083bb0c74475b9c",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
-                "mode": "source",
-                "source": false
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+                "viewState": {
+                  "x": -264.84472230912394,
+                  "y": -21.951270903699783,
+                  "zoom": -0.6514288339982237
+                }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f47ef495541e4599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md"
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas"
               }
             }
           },
@@ -182,12 +174,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f47ef495541e4599",
+  "active": "9083bb0c74475b9c",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/Introduction.md",
+    "Architecture-système/Architecture-système.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
     "Communication/communication.md",
     "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
@@ -219,10 +214,7 @@
     "Anglais Technique/Important Informations (Eval).md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Writing a Review/Video Game Review/game review.md",
-    "Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
-    "Anglais Technique/Anglais Technique.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
-    "Gestion-de-Projet/Entreprise/Classification/Classification.md",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
