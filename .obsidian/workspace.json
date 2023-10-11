@@ -16,26 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "4e0f135e25569de3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-                "viewState": {
-                  "x": -77.05143983550792,
-                  "y": -62.071995582067245,
-                  "zoom": -0.666666666666667
-                }
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +152,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e0f135e25569de3",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Communication/Communication.md",
     "Communication/communication.md",
     "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
