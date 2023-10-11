@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "f0ba1fb5e9ea61d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Initiation-dev/Algo/quicksort.png"
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -84,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Initiation-dev/Algo/quicksort.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Initiation-dev/Algo/quicksort.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Initiation-dev/Algo/quicksort.png"
+              }
             }
           },
           {
@@ -152,8 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "f0ba1fb5e9ea61d9",
   "lastOpenFiles": [
+    "Initiation-dev/Algo/tri.pdf",
+    "Initiation-dev/Algo/quicksort.png",
+    "conflict-files-obsidian-git.md",
+    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Communication/Communication.md",
@@ -173,8 +195,6 @@
     "Gestion-de-Projet/Entreprise/Comptabilité/La comptabilité.md",
     "Gestion-de-Projet/Entreprise/Comptabilité",
     "Architecture-système/Introduction/Codage à virgule flottante.md",
-    "Architecture-système/Introduction/Introduction.md",
-    "Architecture-système/Introduction/IEEE754",
     "Architecture-système/Architecture-système.md",
     "Maths/Maths.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
@@ -186,10 +206,7 @@
     "Maths/Logique/Logique.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exercices-introdev.md",
-    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_étude_de_marché/tp_étude_de_marché.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_étude_de_marché/Produit.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",

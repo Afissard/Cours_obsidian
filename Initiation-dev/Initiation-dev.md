@@ -11,6 +11,7 @@ type: folder_brief_live
 	- [[ALG3 Récursivité]]
 	- [[ALG4 Algorithmes de tri]]
 	- [[cm2-recherche.pdf]]
+	- [[quicksort.png]]
 	- [[recursivite.pdf]]
 	- **src_recursivite**
 		- [[fibonacci-dyn.go]]
