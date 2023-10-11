@@ -16,8 +16,26 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "cd68c1499c935109",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+                "viewState": {
+                  "x": -92.92954361819386,
+                  "y": -311.1471079486637,
+                  "zoom": -0.5543121258391038
+                }
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas"
+              }
             }
           },
           {
@@ -152,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Architecture-système.md",
@@ -177,7 +200,6 @@
     "Gestion-de-Projet/Entreprise/Marché",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Informations travail TP.pdf",
     "Gestion-de-Projet/Entreprise/Gestion des risques/Risques possibles pour une entreprise.md",
-    "conflict-files-obsidian-git.md",
     "Maths/Logique/Prédicats/Prédicat définition.md",
     "Maths/Logique/Ensemble/Ensemble.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
