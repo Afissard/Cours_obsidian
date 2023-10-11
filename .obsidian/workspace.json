@@ -16,26 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "9083bb0c74475b9c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-                "viewState": {
-                  "x": -264.84472230912394,
-                  "y": -21.951270903699783,
-                  "zoom": -0.6514288339982237
-                }
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +152,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9083bb0c74475b9c",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Architecture-système.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
@@ -203,7 +182,6 @@
     "Maths/Logique/Ensemble/Ensemble.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Ensemble/Ensemble classique.md",
-    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
@@ -213,7 +191,6 @@
     "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
     "Anglais Technique/Important Informations (Eval).md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
-    "Anglais Technique/Writing a Review/Video Game Review/game review.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
