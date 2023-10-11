@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais Technique/Class Survey/Class Survey.md",
+                "file": "Anglais Technique/Vocabulary/How to question.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais Technique/Class Survey/Class Survey.md",
+                "file": "Anglais Technique/Vocabulary/How to question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais Technique/Class Survey/Class Survey.md",
+                "file": "Anglais Technique/Vocabulary/How to question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anglais Technique/Class Survey/Class Survey.md"
+                "file": "Anglais Technique/Vocabulary/How to question.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "d8533a6b56189a15",
   "lastOpenFiles": [
+    "Anglais Technique/INFORMATION.md",
+    "Anglais Technique/Vocabulary/How to question.md",
+    "Anglais Technique/Important Informations (Eval).md",
     "Anglais Technique/Anglais Technique.md",
-    "Anglais Technique/Class Survey/Class Survey.md",
     "Anglais Technique/Class Survey",
     "Maths/Maths.md",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
@@ -206,8 +208,6 @@
     "Maths/Logique/Ensemble/Ensemble classique.md",
     "Architecture-système/Introduction/IEEE754/Codage à virgule résumé Tanguy.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Travail Groupe Business Model.md",
-    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie d'entreprise (chap 4).md",
-    "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
