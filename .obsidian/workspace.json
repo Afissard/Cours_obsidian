@@ -29,8 +29,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/Algo/quicksort.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/Algo/quicksort.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Initiation-dev/Algo/quicksort.png"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0ba1fb5e9ea61d9",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/quicksort.png",
+    "Initiation-dev/Algo/tri.pdf",
     "conflict-files-obsidian-git.md",
     "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
     "Initiation-dev/Initiation-dev.md",
