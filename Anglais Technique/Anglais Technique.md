@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- **[[Class Survey]]**
 - [[Important Informations (Eval)]]
 - [[Introduction]]
 - **[[Vocabulary]]**
