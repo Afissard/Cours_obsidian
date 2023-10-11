@@ -26,10 +26,24 @@
               "state": {
                 "file": "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
                 "viewState": {
-                  "x": -92.92954361819386,
-                  "y": -311.1471079486637,
-                  "zoom": -0.5543121258391038
+                  "x": -69.57332071893472,
+                  "y": -8.872035622785678,
+                  "zoom": -1.0492197818530695
                 }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8fe368a2c12a55fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true
             }
@@ -174,10 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "cd68c1499c935109",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Maths/Logique/Propriété-et-Definitions/Toolbox.md",
+    "Maths/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
+    "Maths/Logique/Logique.md",
+    "Maths/Maths.md",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+    "conflict-files-obsidian-git.md",
     "Architecture-système/Introduction/Introduction.md",
     "Architecture-système/Architecture-système.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
@@ -210,9 +228,6 @@
     "Gestion-de-Projet/Entreprise/Stratégie/Stratégie.md",
     "Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
     "Anglais Technique/Vocabulary/Useful expression for writing review.md",
-    "Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
-    "Anglais Technique/Important Informations (Eval).md",
-    "Anglais Technique/Vocabulary/Vocabulary.md",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
