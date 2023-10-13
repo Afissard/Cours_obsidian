@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "0566064d62f25918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Initiation-dev/Developpement/DEV3 Gestion de version.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/Developpement/DEV3 Gestion de version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/Developpement/DEV3 Gestion de version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Initiation-dev/Developpement/DEV3 Gestion de version.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +151,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0566064d62f25918",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Initiation-dev/Developpement/DEV3 Gestion de version.md",
+    "conflict-files-obsidian-git.md",
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/go/go.md",
     "Initiation-dev/Initiation-dev.md",
