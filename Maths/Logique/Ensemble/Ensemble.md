@@ -6,6 +6,7 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[Complémentaire]]
+- [[Différence d'ensemble]]
 - [[Egalité ensembliste]]
 - [[Ensemble disjoints]]
 - [[Ensemble et généralités]]

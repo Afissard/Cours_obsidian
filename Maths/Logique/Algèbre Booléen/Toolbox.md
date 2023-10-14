@@ -1,4 +1,4 @@
-#IMPORTANT 
+#IMPORTANT : résumé des notions algébrique vu en cours de maths discrètes.
 # Logique, [[Algèbre Booléen]] :
 - A<=>B = (A=>B).(B=>A)
 - -(A + B) = -A . -B
