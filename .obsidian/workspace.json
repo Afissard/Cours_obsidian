@@ -16,18 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "f0ba1fb5e9ea61d9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Initiation-dev/Algo/quicksort.png"
-              },
-              "pinned": true
-            }
           }
         ]
       }
