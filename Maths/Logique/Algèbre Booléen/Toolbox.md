@@ -1,5 +1,5 @@
 #IMPORTANT 
-# Logique Booléen [[Opérations Booléen]] :
+# Logique, [[Algèbre Booléen]] :
 - A<=>B = (A=>B).(B=>A)
 - -(A + B) = -A . -B
 - -(A . B) = -A + -B
