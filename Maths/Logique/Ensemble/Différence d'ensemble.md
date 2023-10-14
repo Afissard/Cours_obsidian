@@ -8,3 +8,13 @@ Sur un ensemble fini E et des sous ensemble de E on a les résultat suivants :
 - *card(Ā) = card(E) - card(A)*
 - Si A<sub>1</sub>, A<sub>2</sub>, ... , A<sub>p</sub> de E forment une partition ([[Partition d'ensemble]]) de E, alors : *card(A<sub>1</sub>) + card(A<sub>2</sub>) + ... + card(A<sub>p</sub>) = card(E)*
 Soient A et B deux sous ensemble de Ω :
+- A ∪ A = A
+- A ∩ A = A
+- A \\ A = ∅
+- A ∆ A = ∅
+- A ∪ Ω = Ω
+- A ∩ Ω = A
+- A ∪ ∅ = A
+- A ∩ ∅ = ∅
+- Si B ⊂ A : A ∪ B = A
+- Si B ⊂ A : A ∩ B = B

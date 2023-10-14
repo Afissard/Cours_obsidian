@@ -8,6 +8,7 @@ type: folder_brief_live
 - [[Complémentaire]]
 - [[Différence d'ensemble]]
 - [[Egalité ensembliste]]
+- [[Ensemble des partie]]
 - [[Ensemble disjoints]]
 - [[Ensemble et généralités]]
 - [[exo_36.go]]
@@ -15,6 +16,7 @@ type: folder_brief_live
 - [[Intersection (∩)]]
 - [[Liste des ensembles classique]]
 - [[Partition d'ensemble]]
+- [[Produit Cartésien]]
 - [[Union (∪)]]
 
 %% End Waypoint %%

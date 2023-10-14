@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "cd4be73b1658d2fa",
+            "id": "955e059e773ad10d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Différence d'ensemble.md",
+                "file": "Maths/Logique/Ensemble/Produit Cartésien.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Différence d'ensemble.md",
+                "file": "Maths/Logique/Ensemble/Produit Cartésien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Différence d'ensemble.md",
+                "file": "Maths/Logique/Ensemble/Produit Cartésien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Différence d'ensemble.md"
+                "file": "Maths/Logique/Ensemble/Produit Cartésien.md"
               }
             }
           },
@@ -182,19 +182,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd4be73b1658d2fa",
+  "active": "955e059e773ad10d",
   "lastOpenFiles": [
-    "Maths/Logique/Ensemble/Partition d'ensemble.md",
-    "Maths/Logique/Ensemble/Différence d'ensemble.md",
-    "Maths/Logique/Ensemble/Ensemble disjoints.md",
-    "Maths/Logique/Ensemble/Complémentaire.md",
-    "Maths/Logique/Ensemble/Union (∪).md",
-    "Maths/Logique/Ensemble/Liste des ensembles classique.md",
-    "Maths/Logique/Ensemble/Intersection (∩).md",
-    "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
-    "Maths/Logique/Ensemble/Ensemble et généralités.md",
-    "Maths/Logique/Ensemble/Egalité ensembliste.md",
     "Maths/Logique/Algèbre Booléen/Toolbox.md",
+    "Maths/Logique/Ensemble/Ensemble des partie.md",
+    "Maths/Logique/Ensemble/Egalité ensembliste.md",
+    "Maths/Logique/Ensemble/Différence d'ensemble.md",
+    "Maths/Logique/Ensemble/Complémentaire.md",
+    "Maths/Logique/Ensemble/Ensemble disjoints.md",
+    "Maths/Logique/Ensemble/Ensemble et généralités.md",
+    "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
+    "Maths/Logique/Ensemble/Intersection (∩).md",
+    "Maths/Logique/Ensemble/Partition d'ensemble.md",
+    "Maths/Logique/Ensemble/Produit Cartésien.md",
+    "Maths/Logique/Ensemble/Liste des ensembles classique.md",
+    "Maths/Logique/Ensemble/Union (∪).md",
     "Maths/Logique/Logique.md",
     "Opérations Booléen.md",
     "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
@@ -214,9 +216,7 @@
     "Base de Données/Introduction_R1_05.pdf",
     "Base de Données/Introduction aux base de donnée et SQL.md",
     "Base de Données/Chapitre1_R1_05.pdf",
-    "Base de Données/Base de Données.md",
     "Base de Données",
-    "Anglais Technique/Vocabulary/How to question.md",
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/Algo/tri.pdf",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
