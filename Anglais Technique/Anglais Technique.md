@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Important Informations (Eval)]]
+- [[INFORMATION]]
 - [[Introduction]]
 - **[[Vocabulary]]**
 - **Writing a Review**

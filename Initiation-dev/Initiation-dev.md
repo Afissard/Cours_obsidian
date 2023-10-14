@@ -22,6 +22,11 @@ type: folder_brief_live
 	- [[tri.pdf]]
 - [[baseop.tgz]]
 - **Developpement**
+	- [[DEV3 Gestion de version]]
+	- **Structure_de_donnée**
+		- [[arbres.pdf]]
+		- [[dico.pdf]]
+		- [[listes.pdf]]
 	- [[test.pdf]]
 	- [[version.pdf]]
 - **[[go]]**
@@ -59,9 +64,5 @@ type: folder_brief_live
 		- [[src (2).tar]]
 	- [[src (2).tgz]]
 	- [[src.tgz]]
-- **Structure_de_donnée**
-	- [[arbres.pdf]]
-	- [[dico.pdf]]
-	- [[listes.pdf]]
 
 %% End Waypoint %%
