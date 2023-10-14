@@ -1,3 +1,4 @@
+- ∅ : ensemble vide
 - ℕ : ensemble des entiers naturel (positifs)
 - ℤ : ensemble des entiers relatifs 
 - ⅅ : ensemble des nombres décimaux
