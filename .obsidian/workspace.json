@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md"
+              }
             }
           },
           {
@@ -205,13 +210,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "daf6b4f2ebee35d0",
   "lastOpenFiles": [
-    "Maths/Logique/Opérations Booléen/Toolbox.md",
     "Maths/Logique/Ensemble/Ensemble.md",
+    "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
+    "Maths/Logique/Opérations Booléen/Toolbox.md",
     "Maths/Logique/Ensemble/Egalité ensembliste.md",
     "Maths/Logique/Opérations Booléen/Opérations Booléen.md",
-    "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Ensemble/Liste des ensembles classique.md",
     "Maths/Logique/Prédicats/Prédicats.md",
