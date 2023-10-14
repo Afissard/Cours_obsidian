@@ -18,18 +18,33 @@
             }
           },
           {
-            "id": "155b76387adc9fe3",
+            "id": "c2c7f577ce686b5f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Logique/Algèbre Booléen/Toolbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f384517fa409e178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Opération Ensemblistes.md",
+                "file": "Maths/Logique/Ensemble/Partition d'ensemble.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Logique/Ensemble/Partition d'ensemble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Logique/Ensemble/Partition d'ensemble.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Logique/Ensemble/Partition d'ensemble.md"
+              }
             }
           },
           {
@@ -163,12 +182,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "f384517fa409e178",
   "lastOpenFiles": [
-    "Maths/Logique/Ensemble/Opération Ensemblistes.md",
+    "Maths/Logique/Ensemble/Partition d'ensemble.md",
     "Maths/Logique/Algèbre Booléen/Toolbox.md",
-    "Opérations Booléen.md",
+    "Maths/Logique/Ensemble/Complémentaire.md",
+    "Maths/Logique/Ensemble/Intersection (∩).md",
+    "Maths/Logique/Ensemble/Union (∪).md",
     "Maths/Logique/Logique.md",
+    "Opérations Booléen.md",
     "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
     "Maths/Logique/Algèbre Booléen/Equivaut (↔).md",
     "Maths/Logique/Ensemble/Ensemble.md",
@@ -197,9 +219,6 @@
     "Anglais Technique/INFORMATION.md",
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/Algo/tri.pdf",
-    "conflict-files-obsidian-git.md",
-    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
-    "Initiation-dev/Initiation-dev.md",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Informations travail TP.pdf",
