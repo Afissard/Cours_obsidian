@@ -18,31 +18,34 @@
             }
           },
           {
-            "id": "b8ab7c15432fae36",
+            "id": "5808067b652fa1db",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Réflexive.md",
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "5808067b652fa1db",
+            "id": "94dad003416e56f1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md",
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,11 +179,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5808067b652fa1db",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Maths/Logique/Ensemble/Relations/Irreflexive.md",
-    "Maths/Logique/Ensemble/Relations/Symétrique.md",
+    "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
+    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+    "Maths/Logique/Ensemble/Relations/Transitive.md",
     "Maths/Logique/Ensemble/Relations/Réflexive.md",
+    "Maths/Logique/Ensemble/Relations/Anti-Symétrique.md",
+    "Maths/Logique/Ensemble/Relations/Symétrique.md",
+    "Maths/Logique/Ensemble/Relations/Irreflexive.md",
     "Maths/Logique/Ensemble/Relations/Relation binaire.md",
     "Maths/Maths.md",
     "Initiation-dev/Initiation-dev.md",
@@ -205,10 +208,6 @@
     "Maths/Logique/Ensemble/Ensemble disjoints.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
-    "Maths/Logique/Ensemble/Intersection (∩).md",
-    "Maths/Logique/Ensemble/Liste des ensembles classique.md",
-    "Maths/Logique/Ensemble/Union (∪).md",
-    "Maths/Logique/Logique.md",
     "Initiation-dev/Developpement/Structure_de_donnée/listes.pdf",
     "Initiation-dev/Developpement/Structure_de_donnée/dico.pdf",
     "Initiation-dev/Developpement/Structure_de_donnée/arbres.pdf",
