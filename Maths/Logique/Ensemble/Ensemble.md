@@ -18,6 +18,7 @@ type: folder_brief_live
 - [[Liste des ensembles classique]]
 - [[Partition d'ensemble]]
 - [[Produit Cartésien (E ⨯ F)]]
+- **[[Relations]]**
 - [[Union (∪)]]
 
 %% End Waypoint %%

@@ -18,15 +18,17 @@
             }
           },
           {
-            "id": "955e059e773ad10d",
+            "id": "1c0b8979e59513ed",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Cardinaux d'ensembles.md",
+                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Cardinaux d'ensembles.md",
+                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Cardinaux d'ensembles.md",
+                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Cardinaux d'ensembles.md"
+                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md"
               }
             }
           },
@@ -168,10 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "955e059e773ad10d",
+  "active": "1c0b8979e59513ed",
   "lastOpenFiles": [
-    "Maths/Logique/Ensemble/Partition d'ensemble.md",
+    "Maths/Maths.md",
+    "Maths/Logique/Ensemble/Relations/Relation binaire.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/Developpement/Developpement.md",
+    "Initiation-dev/Algo/Algo.md",
+    "Maths/Logique/Ensemble/Relations/Relations.md",
+    "Maths/Logique/Ensemble/Ensemble.md",
+    "Maths/Logique/Ensemble/Relations",
     "Maths/Logique/Ensemble/Cardinaux d'ensembles.md",
+    "Maths/Logique/Ensemble/Partition d'ensemble.md",
     "Maths/Logique/Ensemble/Produit Cartésien (E ⨯ F).md",
     "Maths/Logique/Algèbre Booléen/Toolbox.md",
     "Maths/Logique/Ensemble/Ensemble des partie.md",
@@ -188,18 +199,10 @@
     "Opérations Booléen.md",
     "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
     "Maths/Logique/Algèbre Booléen/Equivaut (↔).md",
-    "Maths/Logique/Ensemble/Ensemble.md",
-    "Maths/Logique/Prédicats/Prédicats.md",
-    "Maths/Logique/Prédicats/Quantificateurs (∀ & ∃).md",
-    "Maths/Logique/Prédicats/Propositions.md",
-    "Maths/Logique/Prédicats/Prédicat définition.md",
-    "Maths/Logique/Propriété-et-Definitions/Propriété-et-Definitions.md",
-    "Maths/Maths.md",
     "Initiation-dev/Developpement/Structure_de_donnée/listes.pdf",
     "Initiation-dev/Developpement/Structure_de_donnée/dico.pdf",
     "Initiation-dev/Developpement/Structure_de_donnée/arbres.pdf",
     "Initiation-dev/Developpement/Structure_de_donnée",
-    "Initiation-dev/Developpement/DEV3 Gestion de version.md",
     "Base de Données/Introduction_R1_05.pdf",
     "Base de Données/Chapitre1_R1_05.pdf",
     "Base de Données",
@@ -207,7 +210,6 @@
     "Initiation-dev/Algo/tri.pdf",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Architecture-système/Introduction/r103-cm-semaine3.pdf",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Informations travail TP.pdf",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
