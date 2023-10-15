@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Architecture-système  ",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:communication  ",
+      "query": "path:Communication  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -76,11 +76,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.501133280127694,
   "repelStrength": 14.989604989605,
   "linkStrength": 1,
   "linkDistance": 300,
   "scale": 0.18425748694467065,
-  "close": true
+  "close": false
 }
