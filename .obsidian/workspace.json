@@ -18,21 +18,31 @@
             }
           },
           {
-            "id": "1c0b8979e59513ed",
+            "id": "b8ab7c15432fae36",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md",
+                "file": "Maths/Logique/Ensemble/Relations/Réflexive.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "5808067b652fa1db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md",
+                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md",
+                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation binaire.md"
+                "file": "Maths/Logique/Ensemble/Relations/Symétrique.md"
               }
             }
           },
@@ -170,10 +180,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c0b8979e59513ed",
+  "active": "5808067b652fa1db",
   "lastOpenFiles": [
-    "Maths/Maths.md",
+    "Maths/Logique/Ensemble/Relations/Irreflexive.md",
+    "Maths/Logique/Ensemble/Relations/Symétrique.md",
+    "Maths/Logique/Ensemble/Relations/Réflexive.md",
     "Maths/Logique/Ensemble/Relations/Relation binaire.md",
+    "Maths/Maths.md",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/Developpement/Developpement.md",
@@ -196,9 +209,6 @@
     "Maths/Logique/Ensemble/Liste des ensembles classique.md",
     "Maths/Logique/Ensemble/Union (∪).md",
     "Maths/Logique/Logique.md",
-    "Opérations Booléen.md",
-    "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
-    "Maths/Logique/Algèbre Booléen/Equivaut (↔).md",
     "Initiation-dev/Developpement/Structure_de_donnée/listes.pdf",
     "Initiation-dev/Developpement/Structure_de_donnée/dico.pdf",
     "Initiation-dev/Developpement/Structure_de_donnée/arbres.pdf",
