@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- [[Cardinaux d'ensembles]]
 - [[Complémentaire]]
 - [[Différence d'ensemble]]
 - [[Egalité ensembliste]]
@@ -16,7 +17,7 @@ type: folder_brief_live
 - [[Intersection (∩)]]
 - [[Liste des ensembles classique]]
 - [[Partition d'ensemble]]
-- [[Produit Cartésien]]
+- [[Produit Cartésien (E ⨯ F)]]
 - [[Union (∪)]]
 
 %% End Waypoint %%
