@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "d1f2732a0dc565b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "5808067b652fa1db",
             "type": "leaf",
             "pinned": true,
@@ -45,7 +55,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "d1f2732a0dc565b2",
   "lastOpenFiles": [
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
