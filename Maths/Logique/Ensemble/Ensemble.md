@@ -14,7 +14,9 @@ type: folder_brief_live
 - [[Ensemble et généralités]]
 - [[exo_36.go]]
 - **Fonctions**
+	- [[Fonction bijective]]
 	- [[Fonction injective]]
+	- [[Fonction surjective]]
 	- [[Fonctions ensemblistes]]
 - [[Inclusion (⊂, ⊃)]]
 - [[Intersection (∩)]]
