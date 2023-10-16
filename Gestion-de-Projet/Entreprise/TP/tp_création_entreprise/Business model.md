@@ -20,6 +20,7 @@
 - Brevets et recherche -> ressources humaine
 # Value proposition
 Asteria peut fournir l'entierté des marché lié à la fabrication en ressources rares et précieuses à des prix défiant toute concurrence dans les condition de la Terre (~2040)
+Si le projet Asteria ne peut être mener jusqu'au bout, nous pouvons vendre nos brevets après avoir réaliser des preuve de faisabilité.  
 # Customer relationship
 - B to B -> les entreprise on besoin de matière première pour continuer leur industrie et donc vendre
 # Channel
