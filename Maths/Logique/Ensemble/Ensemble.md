@@ -13,6 +13,9 @@ type: folder_brief_live
 - [[Ensemble disjoints]]
 - [[Ensemble et généralités]]
 - [[exo_36.go]]
+- **Fonctions**
+	- [[Fonction injective]]
+	- [[Fonctions ensemblistes]]
 - [[Inclusion (⊂, ⊃)]]
 - [[Intersection (∩)]]
 - [[Liste des ensembles classique]]

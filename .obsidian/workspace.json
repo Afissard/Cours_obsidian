@@ -18,26 +18,12 @@
             }
           },
           {
-            "id": "dfba19f296ca4e8a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f2ceb3f47f65ff90",
+            "id": "52ac60141a79c6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Liste des ensembles classique.md",
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md"
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction injective.md"
               }
             }
           },
@@ -182,11 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfba19f296ca4e8a",
+  "active": "52ac60141a79c6dc",
   "lastOpenFiles": [
+    "Maths/Logique/Ensemble/Fonctions/Fonctions ensemblistes.md",
+    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
+    "Maths/Logique/Ensemble/Fonctions",
+    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Liste des ensembles classique.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
-    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Ensemble.md",
     "Maths/Logique/Ensemble/Complémentaire.md",
@@ -200,7 +189,6 @@
     "Base de Données/Nouveau dossier",
     "Base de Données/tp1/Chauvel-Sacha_TP1-1.ods",
     "Base de Données/tp1/Introduction_R1_05.pdf",
-    "Base de Données/tp1/TP1-1.csv",
     "Maths/Logique/Ensemble/Relations/Relations.md",
     "Maths/Maths.md",
     "Initiation-dev/Initiation-dev.md",
@@ -218,8 +206,6 @@
     "Maths/Logique/Algèbre Booléen/Conjonction (ET, AND, ˄, .).md",
     "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
     "Maths/Logique/Ensemble/Union (∪).md",
-    "Maths/Logique/Ensemble/Relations/Transitive.md",
-    "Maths/Logique/Ensemble/Relations/Symétrique.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
