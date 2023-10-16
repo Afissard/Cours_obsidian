@@ -7,6 +7,7 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - [[Chapitre1_R1_05.pdf]]
 - [[Chapitre2_R1_05.pdf]]
+- [[cour_titouan_diapo_bdd.odp]]
 - [[Introduction aux base de donnée et SQL]]
 - [[Introduction_R1_05.pdf]]
 - **TP**

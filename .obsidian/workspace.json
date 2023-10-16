@@ -44,9 +44,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3fb0877550613a39",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Base de Données/Chapitre2_R1_05.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
+                "file": "Base de Données/Chapitre2_R1_05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
+                "file": "Base de Données/Chapitre2_R1_05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md"
+                "file": "Base de Données/Chapitre2_R1_05.pdf"
               }
             }
           },
@@ -184,14 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b9f221c58acd524",
+  "active": "3fb0877550613a39",
   "lastOpenFiles": [
+    "Base de Données/cour_titouan_diapo_bdd.odp",
+    "Base de Données/diapo_bdd.odp",
+    "Base de Données/Base de Données.md",
+    "Maths/Maths.md",
+    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
     "Base de Données/Chapitre2_R1_05.pdf",
     "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction bijective.md",
     "Maths/Logique/Ensemble/Ensemble.md",
-    "Maths/Maths.md",
     "Initiation-dev/Initiation-dev.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
@@ -211,15 +224,12 @@
     "Initiation-dev/Structure de donnée/src/mapdeleteelement.go",
     "Initiation-dev/Structure de donnée/src/mapcreation.go",
     "Initiation-dev/Structure de donnée/src/mapaddelement.go",
-    "Initiation-dev/Structure de donnée/src",
-    "Base de Données/tp1/TP1_exam2.csv",
     "Maths/Logique/Ensemble/Fonctions/Fonctions ensemblistes.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Liste des ensembles classique.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Complémentaire.md",
-    "Base de Données/Base de Données.md",
     "Maths/Logique/Ensemble/Relations/Relations.md",
     "Initiation-dev/Developpement/Developpement.md",
     "Initiation-dev/Algo/quicksort.png",
