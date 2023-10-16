@@ -14,4 +14,11 @@ Un ordre (≼/≽) est dit total si deux éléments sont toujours comparables : 
 Un ordre qui n'est pas total est dit partiel.
 # Ordre : minorant / majorant
 ## Minorant
-On dit que x ∈ E est un minorant de F si tout élément de F est plus grand que x pour : ∀y ∈ F, x ≼ y
+On dit que x ∈ E est un minorant de F si tout élément de F est plus grand que x pour : *∀y ∈ F, x ≼ y*. Si un minorant de F est un élément de F on dit que c'est le plus petit élément de F.
+## Majorant
+On dit que x ∈ E est un majorant de F si tout élément de F est plus petit que x pour : *∀y ∈ F, y ≼ x*. Si un majorant de F est un élément de F on dit que c'est le plus grand élément de F.
+# Ordre : minimal / maximal
+## Minimal
+x ∈ F est un élément minimal de F quand aucun élément de F n'est strictement plus petit : *∀y ∈ F, y ≼ x ⇒ y = x*
+## Maximal
+x ∈ F est un élément maximal de F quand aucun élément de F n'est strictement plus grand : *∀y ∈ F, x ≼ y ⇒ y = x*
