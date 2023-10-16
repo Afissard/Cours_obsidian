@@ -18,12 +18,14 @@
             }
           },
           {
-            "id": "7792d95e370a3afd",
+            "id": "dfba19f296ca4e8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md"
+              }
             }
           },
           {
@@ -162,8 +168,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7792d95e370a3afd",
+  "active": "dfba19f296ca4e8a",
   "lastOpenFiles": [
+    "Base de Données/TP/tp1/Introduction_R1_05.pdf",
+    "Base de Données/TP/tp1/TP1_exam2.csv",
+    "Base de Données/TP/tp1/TP1-1.csv",
+    "Base de Données/TP/tp1/Chauvel-Sacha_TP1-1.ods",
+    "Base de Données/TP/tp1",
+    "Base de Données/TP",
+    "Base de Données/Nouveau dossier",
+    "Base de Données/tp1/Chauvel-Sacha_TP1-1.ods",
+    "Base de Données/tp1/Introduction_R1_05.pdf",
+    "Base de Données/tp1/TP1-1.csv",
+    "Base de Données/tp1/TP1_exam2.csv",
+    "Maths/Logique/Ensemble/Relations/Relations.md",
+    "Maths/Logique/Ensemble/Ensemble.md",
+    "Maths/Maths.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/Developpement/Developpement.md",
     "Maths/Logique/Algèbre Booléen/Toolbox.md",
     "Maths/Logique/Algèbre Booléen/Simplification et De Morgan.md",
     "Maths/Logique/Algèbre Booléen/Négation (NON, NOT, ¬).md",
@@ -176,32 +198,16 @@
     "Maths/Logique/Algèbre Booléen/Disjonction (OU, OR, ˅, +).md",
     "Maths/Logique/Algèbre Booléen/Conjonction (ET, AND, ˄, .).md",
     "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
-    "Maths/Logique/Algèbre Booléen/1 formulaire algèbres_de_Boole.pdf",
-    "Maths/Logique/Algèbre Booléen",
     "Maths/Logique/Ensemble/Union (∪).md",
     "Maths/Logique/Ensemble/Relations/Transitive.md",
     "Maths/Logique/Ensemble/Relations/Symétrique.md",
     "Maths/Logique/Ensemble/Relations/Réflexive.md",
-    "Maths/Logique/Ensemble/Relations/Relations.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Relations/Relation binaire.md",
     "Maths/Logique/Ensemble/Relations/Irreflexive.md",
-    "Maths/Logique/Ensemble/Relations/Anti-Symétrique.md",
-    "Maths/Logique/Ensemble/Relations",
-    "Maths/Logique/Ensemble/Produit Cartésien (E ⨯ F).md",
-    "Maths/Logique/Ensemble/Partition d'ensemble.md",
-    "Maths/Logique/Ensemble/Liste des ensembles classique.md",
-    "Maths/Logique/Ensemble/Intersection (∩).md",
     "Initiation-dev/Algo/quicksort.png",
-    "Base de Données/Chapitre1_R1_05.pdf",
-    "Base de Données/Introduction_R1_05.pdf",
-    "Base de Données",
-    "Anglais Technique/Class Survey",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Gestion-de-Projet/Entreprise/Management des Hommes/Chapitre 3 partie 2.pdf",
-    "Gestion-de-Projet/Entreprise/Stratégie/Chapitre 4 stratégie partie 1.pdf",
-    "Gestion-de-Projet/Entreprise/Chapitre 4 stratégie partie 1.pdf",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
