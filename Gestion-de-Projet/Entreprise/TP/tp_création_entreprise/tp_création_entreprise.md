@@ -7,6 +7,7 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - [[Asteria_logo_1.png]]
 - [[Asteria]]
+- [[Business model]]
 - **Consignes**
 	- [[Explication]]
 	- [[Travail en groupe.pdf]]
