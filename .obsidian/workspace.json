@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf4b9bd087cef54a",
+        "id": "72559ba5c47072ed",
         "type": "tabs",
         "children": [
           {
@@ -18,34 +18,17 @@
             }
           },
           {
-            "id": "5808067b652fa1db",
+            "id": "7792d95e370a3afd",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "94dad003416e56f1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "currentVersion": "1.4.16"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,50 +162,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "7792d95e370a3afd",
   "lastOpenFiles": [
+    "Maths/Logique/Algèbre Booléen/Toolbox.md",
+    "Maths/Logique/Algèbre Booléen/Simplification et De Morgan.md",
+    "Maths/Logique/Algèbre Booléen/Négation (NON, NOT, ¬).md",
+    "Maths/Logique/Algèbre Booléen/Neutre & Absorption.md",
+    "Maths/Logique/Algèbre Booléen/Implique (→).md",
+    "Maths/Logique/Algèbre Booléen/Formule Tautologique.md",
+    "Maths/Logique/Algèbre Booléen/Formule logiquement équivalentes (≡).md",
+    "Maths/Logique/Algèbre Booléen/Formule (in)satisfiable.md",
+    "Maths/Logique/Algèbre Booléen/Equivaut (↔).md",
+    "Maths/Logique/Algèbre Booléen/Disjonction (OU, OR, ˅, +).md",
+    "Maths/Logique/Algèbre Booléen/Conjonction (ET, AND, ˄, .).md",
+    "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
+    "Maths/Logique/Algèbre Booléen/1 formulaire algèbres_de_Boole.pdf",
+    "Maths/Logique/Algèbre Booléen",
+    "Maths/Logique/Ensemble/Union (∪).md",
+    "Maths/Logique/Ensemble/Relations/Transitive.md",
+    "Maths/Logique/Ensemble/Relations/Symétrique.md",
+    "Maths/Logique/Ensemble/Relations/Réflexive.md",
+    "Maths/Logique/Ensemble/Relations/Relations.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
-    "Maths/Logique/Ensemble/Relations/Transitive.md",
-    "Maths/Logique/Ensemble/Relations/Réflexive.md",
-    "Maths/Logique/Ensemble/Relations/Anti-Symétrique.md",
-    "Maths/Logique/Ensemble/Relations/Symétrique.md",
-    "Maths/Logique/Ensemble/Relations/Irreflexive.md",
     "Maths/Logique/Ensemble/Relations/Relation binaire.md",
-    "Maths/Maths.md",
-    "Initiation-dev/Initiation-dev.md",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/Developpement/Developpement.md",
-    "Initiation-dev/Algo/Algo.md",
-    "Maths/Logique/Ensemble/Relations/Relations.md",
-    "Maths/Logique/Ensemble/Ensemble.md",
+    "Maths/Logique/Ensemble/Relations/Irreflexive.md",
+    "Maths/Logique/Ensemble/Relations/Anti-Symétrique.md",
     "Maths/Logique/Ensemble/Relations",
-    "Maths/Logique/Ensemble/Cardinaux d'ensembles.md",
-    "Maths/Logique/Ensemble/Partition d'ensemble.md",
     "Maths/Logique/Ensemble/Produit Cartésien (E ⨯ F).md",
-    "Maths/Logique/Algèbre Booléen/Toolbox.md",
-    "Maths/Logique/Ensemble/Ensemble des partie.md",
-    "Maths/Logique/Ensemble/Egalité ensembliste.md",
-    "Maths/Logique/Ensemble/Différence d'ensemble.md",
-    "Maths/Logique/Ensemble/Complémentaire.md",
-    "Maths/Logique/Ensemble/Ensemble disjoints.md",
-    "Maths/Logique/Ensemble/Ensemble et généralités.md",
-    "Maths/Logique/Ensemble/Inclusion (⊂, ⊃).md",
-    "Initiation-dev/Developpement/Structure_de_donnée/listes.pdf",
-    "Initiation-dev/Developpement/Structure_de_donnée/dico.pdf",
-    "Initiation-dev/Developpement/Structure_de_donnée/arbres.pdf",
-    "Initiation-dev/Developpement/Structure_de_donnée",
-    "Base de Données/Introduction_R1_05.pdf",
-    "Base de Données/Chapitre1_R1_05.pdf",
-    "Base de Données",
+    "Maths/Logique/Ensemble/Partition d'ensemble.md",
+    "Maths/Logique/Ensemble/Liste des ensembles classique.md",
+    "Maths/Logique/Ensemble/Intersection (∩).md",
     "Initiation-dev/Algo/quicksort.png",
-    "Initiation-dev/Algo/tri.pdf",
+    "Base de Données/Chapitre1_R1_05.pdf",
+    "Base de Données/Introduction_R1_05.pdf",
+    "Base de Données",
+    "Anglais Technique/Class Survey",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Architecture-système/Introduction/r103-cm-semaine3.pdf",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/Management des Hommes/Chapitre 3 partie 2.pdf",
+    "Gestion-de-Projet/Entreprise/Stratégie/Chapitre 4 stratégie partie 1.pdf",
+    "Gestion-de-Projet/Entreprise/Chapitre 4 stratégie partie 1.pdf",
+    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }
