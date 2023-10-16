@@ -20,16 +20,31 @@
           {
             "id": "dfba19f296ca4e8a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f2ceb3f47f65ff90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Logique/Ensemble/Liste des ensembles classique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md"
+              }
             }
           },
           {
@@ -163,8 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "dfba19f296ca4e8a",
   "lastOpenFiles": [
+    "Maths/Logique/Ensemble/Liste des ensembles classique.md",
+    "Maths/Logique/Ensemble/Ensemble et généralités.md",
+    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Ensemble.md",
     "Maths/Logique/Ensemble/Complémentaire.md",
@@ -198,9 +220,6 @@
     "Maths/Logique/Ensemble/Union (∪).md",
     "Maths/Logique/Ensemble/Relations/Transitive.md",
     "Maths/Logique/Ensemble/Relations/Symétrique.md",
-    "Maths/Logique/Ensemble/Relations/Réflexive.md",
-    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
-    "Maths/Logique/Ensemble/Relations/Relation binaire.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
