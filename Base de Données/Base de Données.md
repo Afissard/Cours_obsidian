@@ -6,8 +6,15 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[Chapitre1_R1_05.pdf]]
+- [[Chapitre2_R1_05.pdf]]
+- [[cour_titouan_diapo_bdd.odp]]
 - [[Introduction aux base de donnée et SQL]]
 - [[Introduction_R1_05.pdf]]
+- **tp1**
+	- [[Chauvel-Sacha_TP1-1.ods]]
+	- [[Introduction_R1_05.pdf]]
+	- [[TP1_exam2.csv]]
+	- [[TP1-1.csv]]
 
 %% End Waypoint %%
 AC1 : création de, consultation, mise à jour d'une BD
