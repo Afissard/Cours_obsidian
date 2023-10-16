@@ -34,17 +34,29 @@
           {
             "id": "9e8c191c60abb9b3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-dev/Initiation-dev.md",
+                "file": "Initiation-dev/Structure de donnée/STR1 structure de données récursives.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d77d97b22973149f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Initiation-dev/Structure de donnée/listes.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/Initiation-dev.md",
+                "file": "Initiation-dev/Structure de donnée/listes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/Initiation-dev.md",
+                "file": "Initiation-dev/Structure de donnée/listes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-dev/Initiation-dev.md"
+                "file": "Initiation-dev/Structure de donnée/listes.pdf"
               }
             }
           },
@@ -182,30 +194,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e8c191c60abb9b3",
+  "active": "d77d97b22973149f",
   "lastOpenFiles": [
+    "Initiation-dev/Structure de donnée/arbres.pdf",
+    "Initiation-dev/Structure de donnée/STR1 structure de données récursives.md",
+    "README.md",
+    "Initiation-dev/Structure de donnée/Structure de donnée.md",
+    "Initiation-dev/Structure de donnée/dico.pdf",
+    "Initiation-dev/Structure de donnée/listes.pdf",
+    "Initiation-dev/Structure de donnée/src/maprange.go",
+    "Initiation-dev/Structure de donnée/src/mapgetelement.go",
+    "Initiation-dev/Structure de donnée/src/mapdeleteelement.go",
+    "Initiation-dev/Structure de donnée/src/mapcreation.go",
+    "Initiation-dev/Structure de donnée/src/mapaddelement.go",
+    "Initiation-dev/Structure de donnée/src",
+    "Base de Données/tp1/TP1_exam2.csv",
+    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
+    "Initiation-dev/Initiation-dev.md",
     "Maths/Maths.md",
     "Maths/Logique/Ensemble/Ensemble.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
     "Maths/Logique/Ensemble/Fonctions/Fonctions ensemblistes.md",
-    "Maths/Logique/Ensemble/Fonctions",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Liste des ensembles classique.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Complémentaire.md",
     "Base de Données/Base de Données.md",
-    "Base de Données/TP/tp1/Introduction_R1_05.pdf",
-    "Base de Données/TP/tp1/TP1_exam2.csv",
-    "Base de Données/TP/tp1/TP1-1.csv",
-    "Base de Données/TP/tp1/Chauvel-Sacha_TP1-1.ods",
-    "Base de Données/TP/tp1",
-    "Base de Données/TP",
-    "Base de Données/Nouveau dossier",
-    "Base de Données/tp1/Chauvel-Sacha_TP1-1.ods",
-    "Base de Données/tp1/Introduction_R1_05.pdf",
     "Maths/Logique/Ensemble/Relations/Relations.md",
-    "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/Developpement/Developpement.md",
     "Maths/Logique/Algèbre Booléen/Toolbox.md",
     "Maths/Logique/Algèbre Booléen/Simplification et De Morgan.md",
@@ -216,10 +231,6 @@
     "Maths/Logique/Algèbre Booléen/Formule logiquement équivalentes (≡).md",
     "Maths/Logique/Algèbre Booléen/Formule (in)satisfiable.md",
     "Maths/Logique/Algèbre Booléen/Equivaut (↔).md",
-    "Maths/Logique/Algèbre Booléen/Disjonction (OU, OR, ˅, +).md",
-    "Maths/Logique/Algèbre Booléen/Conjonction (ET, AND, ˄, .).md",
-    "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
-    "Maths/Logique/Ensemble/Union (∪).md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
