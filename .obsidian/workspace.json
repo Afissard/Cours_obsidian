@@ -18,45 +18,21 @@
             }
           },
           {
-            "id": "52ac60141a79c6dc",
+            "id": "4686cd9c9f0e3230",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "2b9f221c58acd524",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3fb0877550613a39",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Base de Données/Chapitre2_R1_05.pdf"
-              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Chapitre2_R1_05.pdf",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Chapitre2_R1_05.pdf",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Données/Chapitre2_R1_05.pdf"
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md"
               }
             }
           },
@@ -194,25 +170,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fb0877550613a39",
+  "active": "4686cd9c9f0e3230",
   "lastOpenFiles": [
+    "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
+    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+    "Maths/Logique/Ensemble/Relations/Relation binaire.md",
+    "Maths/Logique/Ensemble/Relations/Réflexive.md",
+    "Maths/Logique/Ensemble/Relations/Irreflexive.md",
+    "Maths/Logique/Ensemble/Relations/Relations.md",
+    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
+    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
+    "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/cour_titouan_diapo_bdd.odp",
     "Base de Données/diapo_bdd.odp",
     "Base de Données/Base de Données.md",
     "Maths/Maths.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
-    "Base de Données/Chapitre2_R1_05.pdf",
-    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction bijective.md",
     "Maths/Logique/Ensemble/Ensemble.md",
     "Initiation-dev/Initiation-dev.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Faisabilité Technologique.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Initiation-dev/Structure de donnée/STR1 structure de données récursives.md",
     "Initiation-dev/Structure de donnée/listes.pdf",
     "Initiation-dev/Structure de donnée/arbres.pdf",
@@ -223,15 +205,9 @@
     "Initiation-dev/Structure de donnée/src/mapgetelement.go",
     "Initiation-dev/Structure de donnée/src/mapdeleteelement.go",
     "Initiation-dev/Structure de donnée/src/mapcreation.go",
-    "Initiation-dev/Structure de donnée/src/mapaddelement.go",
     "Maths/Logique/Ensemble/Fonctions/Fonctions ensemblistes.md",
-    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Liste des ensembles classique.md",
     "Maths/Logique/Ensemble/Ensemble et généralités.md",
-    "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
-    "Maths/Logique/Ensemble/Complémentaire.md",
-    "Maths/Logique/Ensemble/Relations/Relations.md",
-    "Initiation-dev/Developpement/Developpement.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
