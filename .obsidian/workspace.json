@@ -16,23 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "4686cd9c9f0e3230",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +151,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4686cd9c9f0e3230",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Relations/Relation binaire.md",
@@ -180,7 +162,6 @@
     "Maths/Logique/Ensemble/Relations/Relations.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
