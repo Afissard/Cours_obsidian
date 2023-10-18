@@ -2,9 +2,9 @@
 # Concept du  Projet
 ## Partie 1  (an 0, dev en 20 ans) : Entreprise d'exploitation minière et gazière à l'échelle du système solaire
 Organisation du projet minier autour d'un asteroid *x* (ceinture entre les planètes tellurique et gazeuses) :
-- Envoyer une station de réception en basse éloigné de la Terre
-	- avec envois des module par petite 
-- Avoir un convois spatial entre la terre et la station minière
+- Envoyer une station de réception en orbite basse autour de la Terre
+	- Construction des station et des vaisseau de convois en kit dans l'espace
+- Convois spatial entre la terre et la station minière
 - Station minière en orbite autour de la cible à exploité (asteroid/géante gazeuse/planète/lune)
 ## Partie 2  (an 10, dev en 10 ans) : Entreprise de gestion (et destruction) de déchets en tout genre
 - Mise en orbite terrestre des déchets
