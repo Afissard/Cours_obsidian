@@ -5,9 +5,10 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- **[[Help Desk]]**
 - [[INFORMATION]]
 - [[Introduction]]
-- **[[Vocabulary]]**
+- **[[Anglais Technique/Vocabulary/Vocabulary]]**
 - **Writing a Review**
 	- [[Computer Review]]
 	- **Video Game Review**

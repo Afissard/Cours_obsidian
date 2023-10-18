@@ -16,8 +16,38 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "88491a196002b830",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -66.27372182932902,
+                  "zoom": -0.3671598553657532
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "88f63f5530317f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anglais Technique/Help Desk/Vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anglais Technique/Help Desk/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anglais Technique/Help Desk/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anglais Technique/Help Desk/Vocabulary.md"
+              }
             }
           },
           {
@@ -151,8 +185,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "88f63f5530317f58",
   "lastOpenFiles": [
+    "Anglais Technique/Vocabulary/How to question.md",
+    "Anglais Technique/Help Desk/Vocabulary.md",
+    "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+    "Anglais Technique/Help Desk/Troubleshooting.md",
+    "Anglais Technique/Help Desk/Typical Helpdesk (problems, enquiries).md",
+    "Anglais Technique/Help Desk/Help Desk.md",
+    "Anglais Technique/INFORMATION.md",
+    "Anglais Technique/Help Desk",
+    "Anglais Technique/Anglais Technique.md",
+    "README.md",
+    "Initiation-système/Initiation-système.md",
+    "Initiation-système/OS (ou histoire & culture informatique).md",
+    "Initiation-système/Introduction aux système d'exploitation.md",
+    "Initiation-système",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
@@ -171,24 +219,11 @@
     "Base de Données/Base de Données.md",
     "Maths/Maths.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction bijective.md",
-    "Maths/Logique/Ensemble/Ensemble.md",
-    "Initiation-dev/Initiation-dev.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Fiscalité et Business Model (frauduleuse).md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Faisabilité Technologique.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
-    "Initiation-dev/Structure de donnée/STR1 structure de données récursives.md",
     "Initiation-dev/Structure de donnée/listes.pdf",
     "Initiation-dev/Structure de donnée/arbres.pdf",
-    "README.md",
-    "Initiation-dev/Structure de donnée/Structure de donnée.md",
     "Initiation-dev/Structure de donnée/dico.pdf",
     "Initiation-dev/Structure de donnée/src/maprange.go",
     "Initiation-dev/Structure de donnée/src/mapgetelement.go",
-    "Initiation-dev/Structure de donnée/src/mapdeleteelement.go",
-    "Initiation-dev/Structure de donnée/src/mapcreation.go",
-    "Maths/Logique/Ensemble/Fonctions/Fonctions ensemblistes.md",
-    "Maths/Logique/Ensemble/Liste des ensembles classique.md",
-    "Maths/Logique/Ensemble/Ensemble et généralités.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
