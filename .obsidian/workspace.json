@@ -16,38 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "88491a196002b830",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -66.27372182932902,
-                  "zoom": -0.3671598553657532
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "88f63f5530317f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anglais Technique/Help Desk/Social loafing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais Technique/Help Desk/Social loafing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais Technique/Help Desk/Social loafing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anglais Technique/Help Desk/Social loafing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,11 +152,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
-    "Anglais Technique/Help Desk/Troubleshooting.md",
-    "Anglais Technique/Help Desk/Social loafing.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+    "Anglais Technique/Help Desk/Social loafing.md",
+    "Anglais Technique/Help Desk/Troubleshooting.md",
     "Anglais Technique/Help Desk/Help Desk.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Help Desk/Vocabulary.md",
@@ -219,7 +185,6 @@
     "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/cour_titouan_diapo_bdd.odp",
     "Base de Données/diapo_bdd.odp",
-    "Base de Données/Base de Données.md",
     "Initiation-dev/Structure de donnée/listes.pdf",
     "Initiation-dev/Structure de donnée/arbres.pdf",
     "Initiation-dev/Structure de donnée/dico.pdf",
