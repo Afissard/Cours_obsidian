@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "0d085879d8a2e52d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -84,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Information.md"
+              }
             }
           },
           {
@@ -152,8 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "0d085879d8a2e52d",
   "lastOpenFiles": [
+    "Communication/Résumé de texte.md",
+    "Communication/Information.md",
+    "Communication/Présentation de la matière.md",
+    "Communication/Communication.md",
     "conflict-files-obsidian-git.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Anglais Technique/Help Desk/Social loafing.md",
@@ -179,10 +199,6 @@
     "Maths/Logique/Ensemble/Relations/Irreflexive.md",
     "Maths/Logique/Ensemble/Relations/Relations.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/cour_titouan_diapo_bdd.odp",
     "Base de Données/diapo_bdd.odp",
