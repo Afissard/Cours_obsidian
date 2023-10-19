@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "0d085879d8a2e52d",
+            "id": "273aeb1919881aed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Information.md",
+                "file": "PPP/Règle de validation d'une UE.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Information.md",
+                "file": "PPP/Règle de validation d'une UE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Information.md",
+                "file": "PPP/Règle de validation d'une UE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Information.md"
+                "file": "PPP/Règle de validation d'une UE.md"
               }
             }
           },
@@ -168,12 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d085879d8a2e52d",
+  "active": "273aeb1919881aed",
   "lastOpenFiles": [
-    "Communication/Résumé de texte.md",
-    "Communication/Information.md",
-    "Communication/Présentation de la matière.md",
+    "PPP/Règle de validation d'une UE.md",
+    "PPP",
     "Communication/Communication.md",
+    "Communication/Information.md",
+    "Communication/Résumé de texte.md",
+    "Communication/Présentation de la matière.md",
     "conflict-files-obsidian-git.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Anglais Technique/Help Desk/Social loafing.md",
@@ -198,7 +200,6 @@
     "Maths/Logique/Ensemble/Relations/Réflexive.md",
     "Maths/Logique/Ensemble/Relations/Irreflexive.md",
     "Maths/Logique/Ensemble/Relations/Relations.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
     "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/cour_titouan_diapo_bdd.odp",
     "Base de Données/diapo_bdd.odp",
@@ -206,7 +207,6 @@
     "Initiation-dev/Structure de donnée/arbres.pdf",
     "Initiation-dev/Structure de donnée/dico.pdf",
     "Initiation-dev/Structure de donnée/src/maprange.go",
-    "Initiation-dev/Structure de donnée/src/mapgetelement.go",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
