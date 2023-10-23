@@ -147,7 +147,7 @@ def determine_valuations(list_var):
     envisageables pour les variables de list_var
 
     Interpretation ? :
-    Donné les combinaison possible à la place des None
+    Donnée les combinaison possible à la place des None
     '''
     list_valuation = []
     for i in range(len(list_var)-1) :
@@ -156,6 +156,8 @@ def determine_valuations(list_var):
             list_valuation.append(determine_valuations(list_var))   # récursivité -> arbre des combinaison possible
             list_var[i] = False
             list_valuation.append(determine_valuations(list_var))
+    
+    return list_valuation
 
 
 # test de determine_valuations
