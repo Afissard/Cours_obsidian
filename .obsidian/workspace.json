@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "196a259ec96d5b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "196a259ec96d5b9a",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
     "Initiation-dev/Algo/recursivite.pdf",
     "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
