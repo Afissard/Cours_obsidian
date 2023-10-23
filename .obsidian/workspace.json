@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "273aeb1919881aed",
+            "id": "24a2c10d27149205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPP/Règle de validation d'une UE.md",
+                "file": "Anglais Technique/INFORMATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPP/Règle de validation d'une UE.md",
+                "file": "Anglais Technique/INFORMATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPP/Règle de validation d'une UE.md",
+                "file": "Anglais Technique/INFORMATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPP/Règle de validation d'une UE.md"
+                "file": "Anglais Technique/INFORMATION.md"
               }
             }
           },
@@ -168,8 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "273aeb1919881aed",
+  "active": "24a2c10d27149205",
   "lastOpenFiles": [
+    "Anglais Technique/Help Desk/Help Desk.md",
+    "Anglais Technique/INFORMATION.md",
+    "Anglais Technique/Anglais Technique.md",
+    "Architecture-système/Introduction/Introduction.md",
     "PPP/Règle de validation d'une UE.md",
     "PPP",
     "Communication/Communication.md",
@@ -180,14 +184,11 @@
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Anglais Technique/Help Desk/Social loafing.md",
     "Anglais Technique/Help Desk/Troubleshooting.md",
-    "Anglais Technique/Help Desk/Help Desk.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Help Desk/Vocabulary.md",
     "Anglais Technique/Vocabulary/How to question.md",
     "Anglais Technique/Help Desk/Typical Helpdesk (problems, enquiries).md",
-    "Anglais Technique/INFORMATION.md",
     "Anglais Technique/Help Desk",
-    "Anglais Technique/Anglais Technique.md",
     "README.md",
     "Initiation-système/Initiation-système.md",
     "Initiation-système/OS (ou histoire & culture informatique).md",
@@ -199,7 +200,6 @@
     "Maths/Logique/Ensemble/Relations/Relation binaire.md",
     "Maths/Logique/Ensemble/Relations/Réflexive.md",
     "Maths/Logique/Ensemble/Relations/Irreflexive.md",
-    "Maths/Logique/Ensemble/Relations/Relations.md",
     "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/cour_titouan_diapo_bdd.odp",
     "Base de Données/diapo_bdd.odp",
