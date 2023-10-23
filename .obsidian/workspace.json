@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,10 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9755e4b99bc58e9",
+  "active": "196a259ec96d5b9a",
   "lastOpenFiles": [
-    "Initiation-dev/Algo/Algo.md",
+    "Initiation-dev/Algo/recursivite.pdf",
     "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
+    "Initiation-dev/Algo/Algo.md",
     "Initiation-dev/Initiation-dev.md",
     "Anglais Technique/Anglais Technique.md",
     "Anglais Technique/Help Desk/Help Desk.md",
@@ -200,7 +200,6 @@
     "Initiation-système",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
-    "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/cour_titouan_diapo_bdd.odp",
     "Base de Données/diapo_bdd.odp",
