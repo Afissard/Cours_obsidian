@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md"
+                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md"
               }
             }
           },
@@ -170,14 +170,14 @@
   },
   "active": "c84f3244a8fd1dda",
   "lastOpenFiles": [
-    "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
+    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
+    "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
     "Maths/Logique/Ensemble/Relations/Relation binaire.md",
     "Maths/Logique/Ensemble/Relations/Relations.md",
     "Maths/Logique/Ensemble/Ensemble disjoints.md",
     "Maths/Logique/Ensemble/Ensemble.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction bijective.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
     "conflict-files-obsidian-git.md",
