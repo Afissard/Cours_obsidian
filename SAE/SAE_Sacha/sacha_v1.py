@@ -157,7 +157,6 @@ def determine_valuations(list_var):
             list_var[i] = False
             list_valuation.append(determine_valuations(list_var))
 
-    
 
 # test de determine_valuations
 list_var1=[True,None,False,None]
