@@ -9,6 +9,7 @@ type: folder_brief_live
 - [[ALG2 Recherche d'éléments]]
 - [[ALG3 Récursivité]]
 - [[ALG4 Algorithmes de tri]]
+- [[ALG5 recursivité et programmation dynamique]]
 - [[cm2-recherche.pdf]]
 - [[quicksort.png]]
 - [[recursivite.pdf]]

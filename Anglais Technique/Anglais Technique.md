@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- **[[Help Desk]]**
 - [[INFORMATION]]
 - [[Introduction]]
 - **[[Vocabulary]]**

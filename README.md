@@ -1,7 +1,7 @@
 Je met ici toute mes prise de note et cours de mon BUT Informatique (à lire idéalement avec Obsidian).
 ## Liste des matières / cours
 - [[Architecture-système]]
-- [[communication]]
+- [[Communication]]
 - [[Initiation-dev]]
 - [[Dev-Web]]
 - [[Maths]]
@@ -9,6 +9,7 @@ Je met ici toute mes prise de note et cours de mon BUT Informatique (à lire id�
 - [[Anglais Technique]]
 - [[Gestion-de-Projet]]
 - [[Base de Données]]
+- [[Initiation-système]]
 
 ## Liens utiles
 - GitLab de l'université : https://gitlab.univ-nantes.fr/pub/but/but1/

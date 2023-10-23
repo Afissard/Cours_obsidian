@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "26ba686a77037c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAE/SAE_Sacha/SAE_Sacha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
+                "file": "SAE/SAE_Sacha/SAE_Sacha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
+                "file": "SAE/SAE_Sacha/SAE_Sacha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md"
+                "file": "SAE/SAE_Sacha/SAE_Sacha.md"
               }
             }
           },
@@ -155,8 +168,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "26ba686a77037c79",
   "lastOpenFiles": [
+    "SAE/SAE_Sacha/SAE_Sacha.md",
+    "SAE/SAE.md",
+    "conflict-files-obsidian-git.md",
+    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
+    "SAE/SAE_Sacha/src_origine/sae_s1_02_etu_a2 copy.py",
+    "SAE/SAE_Sacha/pdf/SAE_S1_04.pdf",
+    "SAE/SAE_Sacha/pdf/Diapo_exemples_SAE_S102.pdf",
+    "SAE/SAE_Sacha/src_origine",
+    "SAE/SAE_Sacha/sacha_v1.py",
+    "SAE/SAE_Sacha/pdf",
+    "SAE/SAE_Sacha",
+    "comparaison_algo",
+    "Communication/communication.md",
+    "Communication/Information.md",
+    "PPP/Règle de validation d'une UE.md",
+    "PPP",
+    "Initiation-système/OS (ou histoire & culture informatique).md",
+    "Initiation-système/Initiation-système.md",
+    "Initiation-système/Introduction aux système d'exploitation.md",
+    "Initiation-système",
+    "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
+    "Anglais Technique/Help Desk/Vocabulary.md",
+    "Anglais Technique/Help Desk/Help Desk.md",
+    "Anglais Technique/Help Desk/Social loafing.md",
+    "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+    "Anglais Technique/Help Desk/Troubleshooting.md",
     "Maths/Logique/Ensemble/Fonctions/Fonction injective.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Equivalance.md",
     "Maths/Logique/Ensemble/Relations/Relation d'Ordre.md",
@@ -167,32 +206,7 @@
     "Maths/Logique/Ensemble/Fonctions/Fonction bijective.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "conflict-files-obsidian-git.md",
     "Maths/Logique/Ensemble/Fonctions/Fonctions ensemblistes.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
-    "Maths/Logique/Ensemble/Fonctions",
-    "Initiation-dev/Structure de donnée/src/maprange.go",
-    "Initiation-dev/Structure de donnée/src/mapgetelement.go",
-    "Initiation-dev/Structure de donnée/src/mapdeleteelement.go",
-    "Initiation-dev/Structure de donnée/src/mapcreation.go",
-    "Initiation-dev/Structure de donnée/src/mapaddelement.go",
-    "Initiation-dev/Structure de donnée/Structure de donnée.md",
-    "Initiation-dev/Structure de donnée/STR1 structure de données récursives.md",
-    "Initiation-dev/Structure de donnée/src",
-    "Initiation-dev/Structure de donnée/listes.pdf",
-    "Initiation-dev/Structure de donnée/dico.pdf",
-    "Initiation-dev/Structure de donnée/arbres.pdf",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
-    "Maths/Logique/Ensemble/Relations/Transitive.md",
-    "Maths/Logique/Ensemble/Relations/Réflexive.md",
-    "Maths/Logique/Ensemble/Relations/Anti-Symétrique.md",
-    "Maths/Logique/Ensemble/Relations/Symétrique.md",
-    "Maths/Logique/Ensemble/Relations/Irreflexive.md",
-    "Maths/Maths.md",
-    "Initiation-dev/Initiation-dev.md",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/Developpement/Developpement.md",
-    "Initiation-dev/Algo/Algo.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
