@@ -85,7 +85,7 @@ def evaluer_clause(clause, list_var):
 
     return result
 
-"""
+
 # Test de evaluer_clause
 clause1=[1,-2,3,-4]
 list_var1=[True,True,False,None]
@@ -105,7 +105,7 @@ test("essai cas 5 evaluer_clause : ",evaluer_clause(clause5,list_var5),False)
 clause6=[1,2,3]
 list_var6=[False,False,True]
 test("essai cas 6 evaluer_clause : ",evaluer_clause(clause6,list_var6),True)
-"""
+
 
 def evaluer_cnf(formule,list_var):
     '''
@@ -157,6 +157,7 @@ def determine_valuations(list_var):
             list_var[i] = False
             list_valuation.append(determine_valuations(list_var))
     
+    print(list_valuation)
     return list_valuation
 
 
