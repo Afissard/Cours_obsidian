@@ -20,3 +20,4 @@ Il s'agit donc de trouver et de proposer des solutions, à savoir, un certain no
 - Voici quelques liens utiles pour ce travail :
 	- [https://youmatter.world/fr/sobriete-numerique-9-gestes-simples-appliquer-quotidien-ademe/](https://youmatter.world/fr/sobriete-numerique-9-gestes-simples-appliquer-quotidien-ademe/)
 	- [https://www.bl-evolution.com/sobriete-numerique-bonnes-pratiques-numerique-responsable/](https://www.bl-evolution.com/sobriete-numerique-bonnes-pratiques-numerique-responsable/)
+	- https://longuevieauxobjets.gouv.fr/acheter-durable/indice-de-reparabilite
