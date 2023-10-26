@@ -38,3 +38,22 @@ Fix problems
 - driver problem -> reinstall the latest version
 - printer connection (USB) -> check the physical connection
 	- seems connected -> is the wire, or port not working -> try change wire or port (cross testing)
+- Ink or paper level -> refill what is needed -> tell her step by step and check between each step by asking (photo ?)
+- Paper jam or not in the right way
+# Let's create a problem and fix it
+## The problem
+keyboard not working
+## Solution
+### Questions
+- What is the problème -> keyboard
+- Is that just one or few keys or the full keyboard
+- what type of keyboard (wired, Bluetooth of integrated)
+- what they were doing / have done -> coffee on the keyboard ?
+### How to fix
+- If some key doesn't work :
+	- If the keyboard is a mechanical keyboard, you could try to replace the faulty key's contact
+	- If they can't dismantle the keyboard, juste replace it, he's dead.
+- If the whole keyboard is not working :
+	- Try update the driver
+	- Maybe the connection is not working, change port & wire (cross testing)
+	- Else, change keyboard
