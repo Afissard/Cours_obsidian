@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "Anglais Technique/Help Desk/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "Anglais Technique/Help Desk/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "Anglais Technique/Help Desk/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md"
+                "file": "Anglais Technique/Help Desk/Troubleshooting.md"
               }
             }
           },
@@ -170,13 +170,15 @@
   },
   "active": "d632474d33c92ed5",
   "lastOpenFiles": [
+    "Anglais Technique/Help Desk/Sans titre.md",
+    "Anglais Technique/Help Desk/Help Desk.md",
+    "SAE/Economie/Environnement économique et écologique.md",
     "SAE/lu8072c6ursc.tmp",
     "SAE/lu8072c6urs9.tmp",
     "SAE/lu8072c6urs6.tmp",
     "SAE/lu8072c6urs3.tmp",
     "SAE/lu8072c6urs0.tmp",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "SAE/Economie/Environnement économique et écologique.md",
     "SAE/Economie/Economie.md",
     "SAE/SAE.md",
     "SAE/lu8072c6urrs.tmp",
@@ -190,13 +192,11 @@
     "README.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/SAE1.06 et 04.odt",
-    "SAE/Base de Données",
     "PPP/Règle de validation d'une UE.md",
     "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
     "Initiation-dev/Algo/Algo.md",
     "Initiation-dev/Initiation-dev.md",
-    "Anglais Technique/Help Desk/Help Desk.md",
     "Anglais Technique/INFORMATION.md",
     "Architecture-système/Introduction/Introduction.md",
     "Communication/Communication.md",
