@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "d632474d33c92ed5",
+            "id": "de7d009f22739c03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais Technique/Help Desk/Troubleshooting.md",
+                "file": "SAE/Economie/Environnement économique et écologique.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais Technique/Help Desk/Troubleshooting.md",
+                "file": "SAE/Economie/Environnement économique et écologique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais Technique/Help Desk/Troubleshooting.md",
+                "file": "SAE/Economie/Environnement économique et écologique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anglais Technique/Help Desk/Troubleshooting.md"
+                "file": "SAE/Economie/Environnement économique et écologique.md"
               }
             }
           },
@@ -168,8 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d632474d33c92ed5",
+  "active": "de7d009f22739c03",
   "lastOpenFiles": [
+    "SAE/Economie/Economie.md",
+    "Anglais Technique/Anglais Technique.md",
+    "Anglais Technique/Help Desk/Troubleshooting.md",
     "Anglais Technique/Help Desk/Sans titre.md",
     "Anglais Technique/Help Desk/Help Desk.md",
     "SAE/Economie/Environnement économique et écologique.md",
@@ -179,14 +182,12 @@
     "SAE/lu8072c6urs3.tmp",
     "SAE/lu8072c6urs0.tmp",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "SAE/Economie/Economie.md",
     "SAE/SAE.md",
     "SAE/lu8072c6urrs.tmp",
     "SAE/lu8072c6urrp.tmp",
     "SAE/lu8072c6urrm.tmp",
     "SAE/lu8072c6urrj.tmp",
     "Anglais Technique/Vocabulary/Vocabulary.md",
-    "Anglais Technique/Anglais Technique.md",
     "Anglais Technique/Help Desk/Vocabulary.md",
     "PPP/PPP.md",
     "README.md",
@@ -206,7 +207,6 @@
     "conflict-files-obsidian-git.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Anglais Technique/Help Desk/Social loafing.md",
-    "Anglais Technique/Help Desk/Troubleshooting.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",

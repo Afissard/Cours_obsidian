@@ -57,3 +57,6 @@ keyboard not working
 	- Try update the driver
 	- Maybe the connection is not working, change port & wire (cross testing)
 	- Else, change keyboard
+# Other exemple
+- no internet connection
+- over heating problem
