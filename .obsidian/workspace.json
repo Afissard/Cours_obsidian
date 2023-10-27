@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-système/Gestion des fichier.md",
+                "file": "Initiation-système/Gestion des fichier et périphérique.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-système/Gestion des fichier.md",
+                "file": "Initiation-système/Gestion des fichier et périphérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-système/Gestion des fichier.md",
+                "file": "Initiation-système/Gestion des fichier et périphérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-système/Gestion des fichier.md"
+                "file": "Initiation-système/Gestion des fichier et périphérique.md"
               }
             }
           },
@@ -171,7 +171,7 @@
   "active": "bfec34c6ba78f99c",
   "lastOpenFiles": [
     "Initiation-système/Gestion de la mémoire.md",
-    "Initiation-système/Gestion des fichier.md",
+    "Initiation-système/Gestion des fichier et périphérique.md",
     "Initiation-système/Gestion des processus.md",
     "Initiation-système/Initiation-système.md",
     "SAE/SAE.md",
