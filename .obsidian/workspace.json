@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-système/Gestion des fichier et périphérique.md",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-système/Gestion des fichier et périphérique.md",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-système/Gestion des fichier et périphérique.md",
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-système/Gestion des fichier et périphérique.md"
+                "file": "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md"
               }
             }
           },
@@ -170,10 +171,16 @@
   },
   "active": "bfec34c6ba78f99c",
   "lastOpenFiles": [
-    "Initiation-système/Gestion de la mémoire.md",
-    "Initiation-système/Gestion des fichier et périphérique.md",
-    "Initiation-système/Gestion des processus.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Travail en groupe.pdf",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
+    "Gestion-de-Projet/Entreprise/Entreprise.md",
+    "Gestion-de-Projet/Gestion-de-Projet.md",
     "Initiation-système/Initiation-système.md",
+    "Initiation-système/Gestion des fichier et périphérique.md",
+    "Initiation-système/Gestion de la mémoire.md",
+    "Initiation-système/Gestion des processus.md",
     "SAE/SAE.md",
     "SAE/Economie/Environnement économique et écologique.md",
     "SAE/Economie/Economie.md",
@@ -196,16 +203,10 @@
     "PPP/PPP.md",
     "README.md",
     "SAE/Base de Données/Base de Données.md",
-    "SAE/SAE1.06 et 04.odt",
     "PPP/Règle de validation d'une UE.md",
     "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
     "Initiation-dev/Algo/Algo.md",
-    "Initiation-dev/Initiation-dev.md",
-    "Anglais Technique/INFORMATION.md",
-    "Architecture-système/Introduction/Introduction.md",
-    "Communication/Communication.md",
-    "Communication/Information.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
