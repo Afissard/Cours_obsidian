@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-système/Initiation-système.md",
+                "file": "Initiation-système/Gestion des fichier.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-système/Initiation-système.md",
+                "file": "Initiation-système/Gestion des fichier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-système/Initiation-système.md",
+                "file": "Initiation-système/Gestion des fichier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-système/Initiation-système.md"
+                "file": "Initiation-système/Gestion des fichier.md"
               }
             }
           },
@@ -170,6 +170,10 @@
   },
   "active": "bfec34c6ba78f99c",
   "lastOpenFiles": [
+    "Initiation-système/Gestion de la mémoire.md",
+    "Initiation-système/Gestion des fichier.md",
+    "Initiation-système/Gestion des processus.md",
+    "Initiation-système/Initiation-système.md",
     "SAE/SAE.md",
     "SAE/Economie/Environnement économique et écologique.md",
     "SAE/Economie/Economie.md",
@@ -202,11 +206,7 @@
     "Architecture-système/Introduction/Introduction.md",
     "Communication/Communication.md",
     "Communication/Information.md",
-    "Communication/Résumé de texte.md",
-    "Communication/Présentation de la matière.md",
-    "conflict-files-obsidian-git.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "Anglais Technique/Help Desk/Social loafing.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
