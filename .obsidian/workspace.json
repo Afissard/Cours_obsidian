@@ -16,35 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b6f3a1916af6b6e0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Base de Données/Chapitre2_R1_05.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "655f357f1de3e85c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31b0a0e5642a52b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base de Données/TP/TP3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -113,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/TP/TP3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/TP/TP3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/TP/TP3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +152,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31b0a0e5642a52b6",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
     "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/TP/TP3.md",
