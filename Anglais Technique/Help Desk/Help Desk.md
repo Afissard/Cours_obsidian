@@ -5,9 +5,9 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- [[Question Vocabulary]]
 - [[Social loafing]]
 - [[Troubleshooting]]
 - [[Typical Helpdesk.canvas]]
-- [[Vocabulary]]
 
 %% End Waypoint %%
