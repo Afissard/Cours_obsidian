@@ -18,14 +18,12 @@
             }
           },
           {
-            "id": "3c8a26d0f39653c1",
+            "id": "984daa70511368ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Base de Données/Introduction aux base de donnée et SQL.md",
-                "mode": "source",
-                "source": false
+                "file": "Initiation-dev/Developpement/divers-1.pdf"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Introduction aux base de donnée et SQL.md",
+                "file": "Initiation-dev/Developpement/divers-1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Introduction aux base de donnée et SQL.md",
+                "file": "Initiation-dev/Developpement/divers-1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Données/Introduction aux base de donnée et SQL.md"
+                "file": "Initiation-dev/Developpement/divers-1.pdf"
               }
             }
           },
@@ -168,24 +166,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c8a26d0f39653c1",
+  "active": "984daa70511368ae",
   "lastOpenFiles": [
-    "Base de Données/Chapitre2_R1_05.pdf",
-    "Base de Données/Introduction aux base de donnée et SQL.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/Developpement/divers-1.pdf",
+    "Initiation-dev/src/src_dev4/listev2/type_test.go",
+    "Initiation-dev/src/src_dev4/listev2/type.go",
+    "Initiation-dev/src/src_dev4/listev2/tri_test.go",
+    "Initiation-dev/src/src_dev4/listev2/tri.go",
+    "Initiation-dev/src/src_dev4/listev2/liste.go",
+    "Initiation-dev/src/src_dev4/listev2/go.mod",
+    "Initiation-dev/src/src_dev4/listev1/type_test.go",
+    "Initiation-dev/src/src_dev4/listev1/type.go",
+    "Initiation-dev/src/src_dev4/listev1/tri_test.go",
     "Base de Données/Base de Données.md",
+    "Base de Données/Introduction aux base de donnée et SQL.md",
     "Communication/Reporterre/Interview de Gaël Giraud.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Help Desk/Question Vocabulary.md",
     "Anglais Technique/Anglais Technique.md",
     "Communication/Reporterre/Reporterre.md",
     "Communication/Exposé/Exposé.md",
-    "Communication/Reporterre",
     "Communication/Information.md",
     "Communication/Communication.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Travail en groupe.pdf",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
     "Gestion-de-Projet/Entreprise/Entreprise.md",
     "Gestion-de-Projet/Gestion-de-Projet.md",
@@ -198,14 +204,6 @@
     "SAE/Economie/Economie.md",
     "Anglais Technique/Help Desk/Troubleshooting.md",
     "Anglais Technique/Help Desk/Sans titre.md",
-    "SAE/lu8072c6ursc.tmp",
-    "SAE/lu8072c6urs9.tmp",
-    "SAE/lu8072c6urs6.tmp",
-    "SAE/lu8072c6urs3.tmp",
-    "SAE/lu8072c6urs0.tmp",
-    "SAE/lu8072c6urrs.tmp",
-    "SAE/lu8072c6urrp.tmp",
-    "SAE/lu8072c6urrm.tmp",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",

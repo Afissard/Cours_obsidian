@@ -42,6 +42,20 @@ type: folder_brief_live
 				- [[maprange.go]]
 		- [[src (2).tar]]
 	- [[src (2).tgz]]
+	- **src_dev4**
+		- **listev1**
+			- [[go.mod]]
+			- [[tri_test.go]]
+			- [[tri.go]]
+			- [[type_test.go]]
+			- [[type.go]]
+		- **listev2**
+			- [[go.mod]]
+			- [[liste.go]]
+			- [[tri_test.go]]
+			- [[tri.go]]
+			- [[type_test.go]]
+			- [[type.go]]
 	- [[src.tgz]]
 - **[[Structure de donnée]]**
 
