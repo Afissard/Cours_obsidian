@@ -14,6 +14,8 @@ Il s'agit donc de trouver et de proposer des solutions, à savoir, un certain no
 - Le questionnaire sera corrigé avant sa diffusion sur Google Forms.
 ## Partie 2
 Analysez les résultats fournis par Google Forms de votre enquête.
+- https://docs.google.com/forms/d/1nWkIoqiQgkhlFeumn-N58bq9zY1ylp5eCIFuLfMHnSo/edit#responses
+- https://docs.google.com/spreadsheets/d/1X1qF-FxJvofR7oEPKet3oPKUPn2QKYQL_mJl84Jzbno/edit?resourcekey#gid=1481629605
 ## Partie 3
 A partir de votre analyse, précisez l'ensemble des solutions et vos recommandations permettant de sensibiliser à la réduction de l'impact environnemental de l'usage du numérique.
 - La structure de la rédaction du dossier sera imposée : Introduction, développement, conclusion.
