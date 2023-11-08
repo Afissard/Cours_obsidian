@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "5a176f67363ec803",
+            "id": "0256ac39ca07858e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "Anglais Technique/Help Desk/Training IT Support Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "Anglais Technique/Help Desk/Training IT Support Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "Anglais Technique/Help Desk/Training IT Support Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md"
+                "file": "Anglais Technique/Help Desk/Training IT Support Test.md"
               }
             }
           },
@@ -168,10 +168,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a176f67363ec803",
+  "active": "0256ac39ca07858e",
   "lastOpenFiles": [
-    "SAE/Economie/Environnement économique et écologique.md",
+    "Anglais Technique/Help Desk/Troubleshooting.md",
+    "Anglais Technique/Writing a Review/Computer Review.md",
+    "Anglais Technique/Help Desk/Training IT Support Test.md",
+    "Anglais Technique/Help Desk/Marking criteria.md",
+    "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+    "Anglais Technique/Help Desk/Social loafing.md",
+    "Anglais Technique/Help Desk/Question Vocabulary.md",
+    "Anglais Technique/Help Desk/Help Desk.md",
+    "Anglais Technique/Anglais Technique.md",
     "SAE/Economie/Consigne rédaction dossier.md",
+    "SAE/Economie/Environnement économique et écologique.md",
     "SAE/Economie/Economie.md",
     "SAE/SAE.md",
     "Communication/Reporterre/Interview de Gaël Giraud.md",
@@ -195,19 +204,10 @@
     "Initiation-dev/Initiation-dev.md",
     "Base de Données/Introduction aux base de donnée et SQL.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
-    "Anglais Technique/Help Desk/Question Vocabulary.md",
-    "Anglais Technique/Anglais Technique.md",
     "Communication/Exposé/Exposé.md",
     "Communication/Information.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/tp_création_entreprise.md",
-    "Gestion-de-Projet/Entreprise/Entreprise.md",
-    "Gestion-de-Projet/Gestion-de-Projet.md",
-    "Initiation-système/Initiation-système.md",
-    "Initiation-système/Gestion des fichier et périphérique.md",
-    "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",

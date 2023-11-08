@@ -3,7 +3,6 @@ Getting to the root (= the real cause) of the problem.
 - for more detail
 - for clarification
 To find better solutions
-
 # What is troubleshooting
 Fix problems
 # Exemple of troubleshooting (mum's printer)
