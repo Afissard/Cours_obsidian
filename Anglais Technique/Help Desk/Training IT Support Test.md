@@ -9,3 +9,4 @@ issue : the document
 name : Hams
 email : h.schmidtt@tech.com
 problem : no error message, ink present -> old file and delete the request
+solution : send the issue to the tech service, this will be fix in the next update
