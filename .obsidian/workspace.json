@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "f865b91ed86f2e36",
+            "id": "5a176f67363ec803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md"
+                "file": "SAE/Economie/Consigne rédaction dossier.md"
               }
             }
           },
@@ -168,10 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f865b91ed86f2e36",
+  "active": "5a176f67363ec803",
   "lastOpenFiles": [
+    "SAE/Economie/Environnement économique et écologique.md",
+    "SAE/Economie/Consigne rédaction dossier.md",
     "SAE/Economie/Economie.md",
     "SAE/SAE.md",
+    "Communication/Reporterre/Interview de Gaël Giraud.md",
+    "Communication/Reporterre/Reporterre.md",
+    "Communication/Communication.md",
     "Base de Données/Base de Données.md",
     "conflict-files-obsidian-git.md",
     "Base de Données/Chapitre2_R1_05.pdf",
@@ -189,14 +194,11 @@
     "Base de Données/TP/tp2",
     "Initiation-dev/Initiation-dev.md",
     "Base de Données/Introduction aux base de donnée et SQL.md",
-    "Communication/Reporterre/Interview de Gaël Giraud.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Anglais Technique/Help Desk/Question Vocabulary.md",
     "Anglais Technique/Anglais Technique.md",
-    "Communication/Reporterre/Reporterre.md",
     "Communication/Exposé/Exposé.md",
     "Communication/Information.md",
-    "Communication/Communication.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria.md",
     "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Consignes/Explication.md",
@@ -205,8 +207,6 @@
     "Gestion-de-Projet/Gestion-de-Projet.md",
     "Initiation-système/Initiation-système.md",
     "Initiation-système/Gestion des fichier et périphérique.md",
-    "Initiation-système/Gestion de la mémoire.md",
-    "Initiation-système/Gestion des processus.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
