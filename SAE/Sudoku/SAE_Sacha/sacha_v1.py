@@ -182,46 +182,61 @@ def resol_sat_force_brute(formule, list_var):
     l1 : une liste de valuations rendant la formule vraie ou une liste vide
     '''
     if None in list_var :
-        print(formule)
         list_var = determine_valuations(list_var)
     for i in list_var :
         satis = evaluer_cnf(formule, i)
-        print(satis)
-        if i :
+
+        if satis :
             return satis, i
     return False, []
 
 # test resol_sat_force_brute
-for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1],[-1,2,3]]
-list_var_for1=[None,None,None,None]
-test('test1 resol_sat_force_brute : ',resol_sat_force_brute(for1,list_var_for1),(True,[True, False, True, True]))
+# for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1],[-1,2,3]]
+# list_var_for1=[None,None,None,None]
+# test('test1 resol_sat_force_brute : ',resol_sat_force_brute(for1,list_var_for1),(True,[True, False, True, True]))
 
-for2=[[1,4,-5],[-1,-5],[2,-3,5],[2,-4],[2,4,5],[-1,-2],[-1,2,-3],[-2,4,-5],[1,-2]]
-list_var_for2=[None,None,None,None,None]
-test('test2 resol_sat_force_brute : ',resol_sat_force_brute(for2,list_var_for2),(False,[]))
+# for2=[[1,4,-5],[-1,-5],[2,-3,5],[2,-4],[2,4,5],[-1,-2],[-1,2,-3],[-2,4,-5],[1,-2]]
+# list_var_for2=[None,None,None,None,None]
+# test('test2 resol_sat_force_brute : ',resol_sat_force_brute(for2,list_var_for2),(False,[]))
 
-for3=[[-1,-2],[-1,2,-3,4],[2,3,4],[3],[1,-4],[-1,2],[1,2]]
-list_var_for3=[None,None,None,None]
-test('test3 resol_sat_force_brute : ',resol_sat_force_brute(for3,list_var_for3),(True,[False, True, True, False]))
+# for3=[[-1,-2],[-1,2,-3,4],[2,3,4],[3],[1,-4],[-1,2],[1,2]]
+# list_var_for3=[None,None,None,None]
+# test('test3 resol_sat_force_brute : ',resol_sat_force_brute(for3,list_var_for3),(True,[False, True, True, False]))
 
-for4=[[-1,-2],[-1,2,-3,4],[2,3,4],[3],[1,-4],[-1,2],[1,2]]
-list_var_for4=[None,None,None,True]
-test('test4 resol_sat_force_brute : ',resol_sat_force_brute(for4,list_var_for4),(False,[]))
-
-
+# for4=[[-1,-2],[-1,2,-3,4],[2,3,4],[3],[1,-4],[-1,2],[1,2]]
+# list_var_for4=[None,None,None,True]
+# test('test4 resol_sat_force_brute : ',resol_sat_force_brute(for4,list_var_for4),(False,[]))
 
 
-def enlever_litt_for(formule,litteral):
-    '''Arguments :
+
+
+def enlever_litt_for(formule, litteral):
+    '''
+    Arguments :
     formule : comme précédemment
     litteral : un entier non nul traduisant la valeur logique prise par une variable
     Renvoie : la formule simplifiée
     '''
-    
+    for i in formule :
+        for j in i :
+            clauseVrai = False
+            print(i, j, clauseVrai)
+            if litteral == abs(j) and not(clauseVrai): # pourquoi redeviens False ?!
+                if j>0:
+                    formule.remove(i)
+                    clauseVrai = True
+                    print("j>0", formule, clauseVrai)
+                else :
+                    i.remove(j)
+                    print("j<0", i)
+            print(clauseVrai)
+    print(formule)
+    return formule
+
 # test de enlever_litt_for
-# for1=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4]]
-# litt1=4
-# test('essai cas 1 enlever_litt_for : ',enlever_litt_for(for1,litt1),[[-1, 2, 3], [-1, -2, -5], []])
+for1=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4]]
+litt1=4
+test('essai cas 1 enlever_litt_for : ',enlever_litt_for(for1,litt1),[[-1, 2, 3], [-1, -2, -5], []])
 
 
 def init_formule_simpl_for(formule_init,list_var):
