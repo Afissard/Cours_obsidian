@@ -182,7 +182,7 @@ def resol_sat_force_brute(formule, list_var):
     '''
     Arguments : une liste de listes d'entiers non nuls traduisant une formule,
     une liste de booléens informant de valeurs logiques connues (ou None dans le 
-    cas contraire) pour un ensemble de variables
+    cas contraire) pour un ensemble de variables.
     Renvoie : SAT,l1
     avec SAT : booléen indiquant la satisfiabilité de la formule
     l1 : une liste de valuations rendant la formule vraie ou une liste vide
