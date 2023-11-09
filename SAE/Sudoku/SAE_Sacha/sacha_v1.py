@@ -71,13 +71,13 @@ def evaluer_clause(clause, list_var):
     for i in clause:
         var = get(abs(i), list_var) # sélection la variable correspondant à la clause (absolue)
         if var == None :            # si var inconnue (None) -> pas calculable -> pass
-            unknown = True           # True si présance d'une var inconnue
+            unknown = True          # True si présance d'une var inconnue
         else :
-            if i<0 : var = not(var) # si clause negative -> inverse la valeur
-        
+            if i<0 : 
+                var = not(var) # si clause negative -> inverse la valeur
             result = result or var  # calcul de la clause
-        
-        if result : return result   # si un résultat True alors clause True
+        if result : 
+            return result   # si un résultat True alors clause True
     
     if not(result) and unknown :     # si résultat False et présance d'une var inconnue donc potentiellement True alors result = None
         result = None
@@ -107,7 +107,7 @@ list_var6=[False,False,True]
 test("essai cas 6 evaluer_clause : ",evaluer_clause(clause6,list_var6),True)
 """
 
-def evaluer_cnf(formule,list_var):
+def evaluer_cnf(formule, list_var):
     '''
     Arguments : une liste de listes d'entiers non nuls traduisant une formule,une liste de booléens 
     informant de valeurs logiques connues (ou None dans le cas contraire) pour un ensemble de variables
@@ -151,29 +151,22 @@ def determine_valuations(list_var):
     '''
     list_valuation = []
     if None not in list_var :
-        list_valuation.append(list_var) # passe test 3 donc à garder d'une manière ou d'une autre
+        list_valuation.append(list_var)
     else :
+        # découpe de la liste à la position du None & change la val pour True & False
         valuation_1 = copy.deepcopy(list_var)
         valuation_2 = copy.deepcopy(list_var)
         posNone = list_var.index(None)
         valuation_1[posNone] = True
         valuation_2[posNone] = False
         
-        if None in valuation_1 : # redondance avec 1er if ? ...
-            new_valuation_1 = determine_valuations(valuation_1)
-            list_valuation.append(new_valuation_1[0])
-            list_valuation.append(new_valuation_1[1])
-            new_valuation_2 = determine_valuations(valuation_2)
-            list_valuation.append(new_valuation_2[0])
-            list_valuation.append(new_valuation_2[1])
-        else :
-            list_valuation.append(valuation_1)
-            list_valuation.append(valuation_2)
+        # boucle récursive
+        list_valuation += determine_valuations(valuation_1)
+        list_valuation += determine_valuations(valuation_2)
 
-    print(list_valuation)
-    return list_valuation # ça marche mais pas assez (manque le test 4, fusion finale ?)
+    return list_valuation
 
-
+"""
 # test de determine_valuations
 list_var1=[True,None,False,None]
 print(test_determine_valuations('res_test_determine_valuations cas 1 : ',list_var1,[[True, True, False, True], [True, False, False, True], [True, True, False, False], [True, False, False, False]]))
@@ -183,7 +176,7 @@ list_var3=[False,True,True,False]
 print(test_determine_valuations('res_test_determine_valuations cas 3 : ',list_var3,[[False, True, True, False]]))
 list_var4=[None,None,None]
 print(test_determine_valuations('res_test_determine_valuations cas 4 : ',list_var4,[[True, True, True], [False, True, True], [True, False, True], [False, False, True], [True, True, False], [False, True, False], [True, False, False], [False, False, False]]))
-
+"""
 
 def resol_sat_force_brute(formule, list_var):
     '''
@@ -195,7 +188,7 @@ def resol_sat_force_brute(formule, list_var):
     l1 : une liste de valuations rendant la formule vraie ou une liste vide
     '''
 
-'''
+# test resol_sat_force_brute
 for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1],[-1,2,3]]
 list_var_for1=[None,None,None,None]
 test('test1 resol_sat_force_brute : ',resol_sat_force_brute(for1,list_var_for1),(True,[True, False, True, True]))
@@ -211,7 +204,7 @@ test('test3 resol_sat_force_brute : ',resol_sat_force_brute(for3,list_var_for3),
 for4=[[-1,-2],[-1,2,-3,4],[2,3,4],[3],[1,-4],[-1,2],[1,2]]
 list_var_for4=[None,None,None,True]
 test('test4 resol_sat_force_brute : ',resol_sat_force_brute(for4,list_var_for4),(False,[]))
-'''
+
 
 
 
