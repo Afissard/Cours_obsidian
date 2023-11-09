@@ -85,27 +85,25 @@ def evaluer_clause(clause, list_var):
 
     return result
 
-"""
 # Test de evaluer_clause
-clause1=[1,-2,3,-4]
-list_var1=[True,True,False,None]
-test("essai cas 1 evaluer_clause : ",evaluer_clause(clause1,list_var1),True)
-clause2=[1,-2,3,-4]
-list_var2=[False,True,False,None]
-test("essai cas 2 evaluer_clause : ",evaluer_clause(clause2,list_var2),None)
-clause3=[1,-2,3,-4]
-list_var3=[None,True,False,True]
-test("essai cas 3 evaluer_clause : ",evaluer_clause(clause3,list_var3),None)
-clause4=[1,-3]
-list_var4=[False,False,True]
-test("essai cas 4 evaluer_clause : ",evaluer_clause(clause4,list_var4),False)
-clause5=[]
-list_var5=[False,False,True]
-test("essai cas 5 evaluer_clause : ",evaluer_clause(clause5,list_var5),False)
-clause6=[1,2,3]
-list_var6=[False,False,True]
-test("essai cas 6 evaluer_clause : ",evaluer_clause(clause6,list_var6),True)
-"""
+# clause1=[1,-2,3,-4]
+# list_var1=[True,True,False,None]
+# test("essai cas 1 evaluer_clause : ",evaluer_clause(clause1,list_var1),True)
+# clause2=[1,-2,3,-4]
+# list_var2=[False,True,False,None]
+# test("essai cas 2 evaluer_clause : ",evaluer_clause(clause2,list_var2),None)
+# clause3=[1,-2,3,-4]
+# list_var3=[None,True,False,True]
+# test("essai cas 3 evaluer_clause : ",evaluer_clause(clause3,list_var3),None)
+# clause4=[1,-3]
+# list_var4=[False,False,True]
+# test("essai cas 4 evaluer_clause : ",evaluer_clause(clause4,list_var4),False)
+# clause5=[]
+# list_var5=[False,False,True]
+# test("essai cas 5 evaluer_clause : ",evaluer_clause(clause5,list_var5),False)
+# clause6=[1,2,3]
+# list_var6=[False,False,True]
+# test("essai cas 6 evaluer_clause : ",evaluer_clause(clause6,list_var6),True)
 
 def evaluer_cnf(formule, list_var):
     '''
@@ -127,16 +125,14 @@ def evaluer_cnf(formule, list_var):
 
     return result
     
-"""
 # Test evaluer_cnf
-for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1]]
-list_var_for1_test1=[True,False,False,None]
-test('test1 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test1),True)
-list_var_for1_test2=[None,False,False,None]
-test('test2 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test2),None)
-list_var_for1_test3=[True,False,True,False]
-test('test3 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test3),False)
-"""
+# for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1]]
+# list_var_for1_test1=[True,False,False,None]
+# test('test1 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test1),True)
+# list_var_for1_test2=[None,False,False,None]
+# test('test2 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test2),None)
+# list_var_for1_test3=[True,False,True,False]
+# test('test3 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test3),False)
 
 def determine_valuations(list_var):
     '''
@@ -166,17 +162,15 @@ def determine_valuations(list_var):
 
     return list_valuation
 
-"""
 # test de determine_valuations
-list_var1=[True,None,False,None]
-print(test_determine_valuations('res_test_determine_valuations cas 1 : ',list_var1,[[True, True, False, True], [True, False, False, True], [True, True, False, False], [True, False, False, False]]))
-list_var2=[None,False,True,None,True,False]
-print(test_determine_valuations('res_test_determine_valuations cas 2 : ',list_var2,[[True, False, True, True, True, False], [False, False, True, True, True, False], [True, False, True, False, True, False], [False, False, True, False, True, False]]))
-list_var3=[False,True,True,False]
-print(test_determine_valuations('res_test_determine_valuations cas 3 : ',list_var3,[[False, True, True, False]]))
-list_var4=[None,None,None]
-print(test_determine_valuations('res_test_determine_valuations cas 4 : ',list_var4,[[True, True, True], [False, True, True], [True, False, True], [False, False, True], [True, True, False], [False, True, False], [True, False, False], [False, False, False]]))
-"""
+# list_var1=[True,None,False,None]
+# print(test_determine_valuations('res_test_determine_valuations cas 1 : ',list_var1,[[True, True, False, True], [True, False, False, True], [True, True, False, False], [True, False, False, False]]))
+# list_var2=[None,False,True,None,True,False]
+# print(test_determine_valuations('res_test_determine_valuations cas 2 : ',list_var2,[[True, False, True, True, True, False], [False, False, True, True, True, False], [True, False, True, False, True, False], [False, False, True, False, True, False]]))
+# list_var3=[False,True,True,False]
+# print(test_determine_valuations('res_test_determine_valuations cas 3 : ',list_var3,[[False, True, True, False]]))
+# list_var4=[None,None,None]
+# print(test_determine_valuations('res_test_determine_valuations cas 4 : ',list_var4,[[True, True, True], [False, True, True], [True, False, True], [False, False, True], [True, True, False], [False, True, False], [True, False, False], [False, False, False]]))
 
 def resol_sat_force_brute(formule, list_var):
     '''
@@ -224,33 +218,31 @@ def enlever_litt_for(formule,litteral):
     Renvoie : la formule simplifiée
     '''
     
-'''
-for1=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4]]
-litt1=4
-test('essai cas 1 enlever_litt_for : ',enlever_litt_for(for1,litt1),[[-1, 2, 3], [-1, -2, -5], []])
-'''
+# test de enlever_litt_for
+# for1=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4]]
+# litt1=4
+# test('essai cas 1 enlever_litt_for : ',enlever_litt_for(for1,litt1),[[-1, 2, 3], [-1, -2, -5], []])
+
 
 def init_formule_simpl_for(formule_init,list_var):
     '''
     Renvoie : La formule simplifiée en tenant compte des valeurs logiques renseignées dans list_var
     '''
 
-'''
-list_var_for1=[False, None, None, False, None]
-for1=[[-5, -3, 4, -1], [3], [5, -2], [-2, 1, -4], [1, -3]]
-cor_for1=[[3], [5, -2], [-3]]
-test_for('test1_init_formule_simpl_for : ',init_formule_simpl_for(for1,list_var_for1),cor_for1)
+# list_var_for1=[False, None, None, False, None]
+# for1=[[-5, -3, 4, -1], [3], [5, -2], [-2, 1, -4], [1, -3]]
+# cor_for1=[[3], [5, -2], [-3]]
+# test_for('test1_init_formule_simpl_for : ',init_formule_simpl_for(for1,list_var_for1),cor_for1)
 
-list_var_for2= [False, True, False, True, False]
-for2= [[3, 2, 1], [-1, -2, 5]]
-cor_for2=[]
-test_for('test2_init_formule_simpl_for : ',init_formule_simpl_for(for2,list_var_for2),cor_for2)
+# list_var_for2= [False, True, False, True, False]
+# for2= [[3, 2, 1], [-1, -2, 5]]
+# cor_for2=[]
+# test_for('test2_init_formule_simpl_for : ',init_formule_simpl_for(for2,list_var_for2),cor_for2)
 
-list_var_for3= [None, None, None, True, None]
-for3= [[-5, -1], [-1, -3], [4], [-4, 1], [-2, -1, 3]]
-cor_for3=[[-5, -1], [-1, -3], [1], [-2, -1, 3]]
-test_for('test3_init_formule_simpl_for : ',init_formule_simpl_for(for3,list_var_for3),cor_for3)
-'''
+# list_var_for3= [None, None, None, True, None]
+# for3= [[-5, -1], [-1, -3], [4], [-4, 1], [-2, -1, 3]]
+# cor_for3=[[-5, -1], [-1, -3], [1], [-2, -1, 3]]
+# test_for('test3_init_formule_simpl_for : ',init_formule_simpl_for(for3,list_var_for3),cor_for3)
 
 def retablir_for(formule_init,list_chgmts):
     '''Arguments : une formule initiale et une liste de changements à apporter sur 
