@@ -187,6 +187,15 @@ def resol_sat_force_brute(formule, list_var):
     avec SAT : booléen indiquant la satisfiabilité de la formule
     l1 : une liste de valuations rendant la formule vraie ou une liste vide
     '''
+    if None in list_var :
+        print(formule)
+        list_var = determine_valuations(list_var)
+    for i in list_var :
+        satis = evaluer_cnf(formule, i)
+        print(satis)
+        if i :
+            return satis, i
+    return False, []
 
 # test resol_sat_force_brute
 for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1],[-1,2,3]]
