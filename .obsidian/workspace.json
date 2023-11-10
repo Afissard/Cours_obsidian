@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf4b9bd087cef54a",
+        "id": "72559ba5c47072ed",
         "type": "tabs",
         "children": [
           {
@@ -18,18 +18,19 @@
             }
           },
           {
-            "id": "2d60b2a49203e856",
+            "id": "8f48c386205cb6d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Sudoku/Sudoku.md",
+                "file": "Anglais Technique/Help Desk/Help Desk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anglais Technique/Help Desk/Help Desk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anglais Technique/Help Desk/Help Desk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anglais Technique/Help Desk/Help Desk.md"
+              }
             }
           },
           {
@@ -163,51 +168,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "746281088a85e3a8",
+  "active": "8f48c386205cb6d4",
   "lastOpenFiles": [
-    "SAE/Sudoku/Sudoku.md",
-    "SAE/Sudoku/SAE_Sacha/pdf/Diapo_exemples_SAE_S102.pdf",
-    "SAE/Base de Données/Base de Données.md",
-    "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "SAE/Economie/Economie.md",
-    "SAE/Base de Données/SAE_S1_04.pdf",
-    "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
-    "SAE/Economie/Consigne rédaction dossier.md",
-    "Communication/Reporterre/Interview de Gaël Giraud.md",
-    "Communication/Reporterre/Reporterre.md",
-    "Communication/Reporterre",
-    "Initiation-dev/src/src_dev4/listev2/type_test.go",
-    "Initiation-dev/src/src_dev4/listev2/tri_test.go",
-    "Initiation-dev/src/src_dev4/listev2/type.go",
-    "Initiation-dev/src/src_dev4/listev2/tri.go",
-    "Initiation-dev/src/src_dev4/listev2/liste.go",
-    "Initiation-dev/src/src_dev4/listev2/go.mod",
-    "Initiation-dev/src/src_dev4/listev1/type_test.go",
-    "Base de Données/TP/tp2/MCD/MCD.svg",
-    "Base de Données/TP/tp2/tp2_save.md",
-    "Base de Données/TP/TP3.md",
     "Anglais Technique/Help Desk/Training IT Support Test.md",
+    "SAE/Base de Données/SAE_S1_04.pdf",
+    "Anglais Technique/Help Desk/Social loafing.md",
     "Anglais Technique/Help Desk/Question Vocabulary.md",
     "Anglais Technique/Help Desk/Marking criteria.md",
-    "SAE/SAE_Sacha/SAE_Sacha.md",
-    "SAE/Economie/Environnement économique et écologique.md",
-    "PPP/PPP.md",
-    "Initiation-système/Gestion des processus.md",
-    "Initiation-système/Gestion des fichier et périphérique.md",
-    "Initiation-système/Gestion de la mémoire.md",
+    "Anglais Technique/Help Desk/Help Desk.md",
+    "Anglais Technique/Anglais Technique.md",
     "SAE/SAE.md",
-    "conflict-files-obsidian-git.md",
-    "Maths/Logique/Ensemble/Fonctions/Fonction surjective.md",
-    "Communication/communication.md",
-    "Communication/Information.md",
-    "PPP/Règle de validation d'une UE.md",
+    "SAE/Economie/Economie.md",
+    "SAE/Economie/Consigne rédaction dossier.md",
+    "Anglais Technique/Help Desk/Troubleshooting.md",
+    "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+    "SAE/Economie/Environnement économique et écologique.md",
+    "Communication/Reporterre/Interview de Gaël Giraud.md",
+    "Communication/Reporterre/Reporterre.md",
+    "Communication/Communication.md",
+    "Base de Données/Base de Données.md",
+    "conflict-files-obsidian-git.md",
+    "Base de Données/Chapitre2_R1_05.pdf",
+    "Base de Données/TP/TP3.md",
+    "Base de Données/TP/tp2/tp2_save.md",
+    "Base de Données/Chapitre3_R1_05.pdf",
+    "Base de Données/TP/tp2/Chapitre1_R1_05-3.pdf",
+    "Base de Données/TP/tp1/Introduction_R1_05.pdf",
+    "Base de Données/TP/tp2/MCD/MCD_url.url",
+    "Base de Données/TP/tp2/MCD/MCD.svg",
+    "Base de Données/TP/tp2/MCD/MCD.mcd",
+    "Base de Données/TP/tp2/MCD/MCD_geo.json",
+    "Base de Données/TP/tp2/MCD",
+    "Base de Données/TP/tp2/MCD.zip",
+    "Initiation-dev/Initiation-dev.md",
+    "Base de Données/Introduction aux base de donnée et SQL.md",
+    "Anglais Technique/Vocabulary/Vocabulary.md",
+    "Communication/Exposé/Exposé.md",
+    "Communication/Information.md",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
     "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
     "Anglais Technique/Vocabulary/Compound Word.canvas",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/Asteria_logo_1.png",
+    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
     "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
   ]
 }

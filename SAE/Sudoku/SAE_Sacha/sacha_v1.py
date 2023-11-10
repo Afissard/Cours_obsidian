@@ -266,7 +266,7 @@ def init_formule_simpl_for(formule_init, list_var):
 # cor_for3=[[-5, -1], [-1, -3], [1], [-2, -1, 3]]
 # test_for('test3_init_formule_simpl_for : ',init_formule_simpl_for(for3,list_var_for3),cor_for3)
 
-def retablir_for(formule_init,list_chgmts):
+def retablir_for(formule_init, list_chgmts):
     '''
     Arguments : une formule initiale et une liste de changements à apporter sur 
     un ensemble de variables (chaque changement étant une liste [i,bool] avec i 
@@ -309,62 +309,68 @@ def progress(list_var, list_chgmts):
     l2 : nouvelle list_chgmts 
     '''
     #TODO: here
+    nextNone = list_var.index(None)
+    list_var[nextNone] = True
+    list_chgmts.append([nextNone, True])
+    return list_var, list_chgmts
 
 # test de progress
-list_var=[True, None, None, None, None]
-list_chgmts=[[0, True]]
-l1=[True, True, None, None, None]
-l2=[[0, True], [1, True]]
-test("essai cas 1 progress : ",progress(list_var,list_chgmts),(l1,l2))
+# list_var=[True, None, None, None, None]
+# list_chgmts=[[0, True]]
+# l1=[True, True, None, None, None]
+# l2=[[0, True], [1, True]]
+# test("essai cas 1 progress : ",progress(list_var,list_chgmts),(l1,l2))
 
-list_var=[True, False, False, None, None]
-list_chgmts=[[0, True], [1, False], [2, False]]
-l1=[True, False, False, True, None]
-l2=[[0, True], [1, False], [2, False], [3, True]]
-test("essai cas 2 progress : ",progress(list_var,list_chgmts),(l1,l2))
+# list_var=[True, False, False, None, None]
+# list_chgmts=[[0, True], [1, False], [2, False]]
+# l1=[True, False, False, True, None]
+# l2=[[0, True], [1, False], [2, False], [3, True]]
+# test("essai cas 2 progress : ",progress(list_var,list_chgmts),(l1,l2))
 
-list_var=[None, None, None, None, None]
-list_chgmts=[]
-l1=[True, None, None, None, None]
-l2=[[0, True]]
-test("essai cas 3 progress : ",progress(list_var,list_chgmts),(l1,l2))
+# list_var=[None, None, None, None, None]
+# list_chgmts=[]
+# l1=[True, None, None, None, None]
+# l2=[[0, True]]
+# test("essai cas 3 progress : ",progress(list_var,list_chgmts),(l1,l2))
 
-list_var=[False, None, None, None, None]
-list_chgmts=[[0, False]]
-l1=[False, True, None, None, None]
-l2=[[0, False], [1, True]]
-test("essai cas 4 progress : ",progress(list_var,list_chgmts),(l1,l2))
+# list_var=[False, None, None, None, None]
+# list_chgmts=[[0, False]]
+# l1=[False, True, None, None, None]
+# l2=[[0, False], [1, True]]
+# test("essai cas 4 progress : ",progress(list_var,list_chgmts),(l1,l2))
 
-list_var=[True, False, None, None, None]
-list_chgmts=[]
-l1=[True, False, True, None, None]
-l2=[[2, True]]
-test("essai cas 5 progress : ",progress(list_var,list_chgmts),(l1,l2))
+# list_var=[True, False, None, None, None]
+# list_chgmts=[]
+# l1=[True, False, True, None, None]
+# l2=[[2, True]]
+# test("essai cas 5 progress : ",progress(list_var,list_chgmts),(l1,l2))
 
-list_var=[True, False, False, None, None]
-list_chgmts=[[2, False]]
-l1=[True, False, False, True, None]
-l2=[[2, False], [3, True]]
-test("essai cas 6 progress : ",progress(list_var,list_chgmts),(l1,l2))
+# list_var=[True, False, False, None, None]
+# list_chgmts=[[2, False]]
+# l1=[True, False, False, True, None]
+# l2=[[2, False], [3, True]]
+# test("essai cas 6 progress : ",progress(list_var,list_chgmts),(l1,l2))
 
-def progress_simpl_for(formule,list_var,list_chgmts):
+def progress_simpl_for(formule, list_var,list_chgmts):
     '''
-    Arguments : formule,list_var, list_chgmts définies comme précédemment
-    Renvoie : form,l1,l2
+    Arguments : formule, list_var, list_chgmts définies comme précédemment
+    Renvoie : form, l1, l2
     form : nouvelle formule
     l1 : nouvelle list_var 
     l2 : nouvelle list_chgmts 
     '''
+    list_var, list_chgmts = progress(list_var, list_chgmts)
+    formule = retablir_for(formule, list_chgmts)
+    return formule, list_var, list_chgmts
     
     
 # test de progress_simpl_for
-# formule= [[1, 2, 4, -5], [-1, 2, 3, -4], [-1, -2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]] 
-# list_var= [None, None, None, None, None] 
-# list_chgmts= []
-# cor_form,cor_l1,cor_l2= ([[2, 3, -4], [-2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]],[True, None, None, None, None],[[0, True]])
+# formule = [[1, 2, 4, -5], [-1, 2, 3, -4], [-1, -2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]] 
+# list_var = [None, None, None, None, None] 
+# list_chgmts = []
+# cor_form,cor_l1,cor_l2 = ([[2, 3, -4], [-2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]],[True, None, None, None, None],[[0, True]])
 # test('essai1_progress_simpl_for : ',progress_simpl_for(formule,list_var,list_chgmts),(cor_form,cor_l1,cor_l2))
- 
- 
+
 # formule= [[-5], [5]] 
 # list_var= [True, True, True, False, None] 
 # list_chgmts= [[0, True], [1, True], [2, True], [3, False]]
