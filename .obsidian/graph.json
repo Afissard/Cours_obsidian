@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Architecture-système  ",
@@ -85,9 +85,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.501133280127694,
-  "repelStrength": 14.989604989605,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 300,
-  "scale": 0.1951756780914217,
+  "linkDistance": 250,
+  "scale": 0.12793733563113693,
   "close": true
 }

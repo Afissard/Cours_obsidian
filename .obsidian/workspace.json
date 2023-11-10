@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Sudoku/Sudoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Sudoku/Sudoku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/Sudoku/Sudoku.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,15 +163,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d60b2a49203e856",
+  "active": "746281088a85e3a8",
   "lastOpenFiles": [
+    "SAE/Sudoku/Sudoku.md",
     "SAE/Sudoku/SAE_Sacha/pdf/Diapo_exemples_SAE_S102.pdf",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Economie/Economie.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
-    "SAE/Sudoku/Sudoku.md",
     "SAE/Economie/Consigne rédaction dossier.md",
     "Communication/Reporterre/Interview de Gaël Giraud.md",
     "Communication/Reporterre/Reporterre.md",
@@ -188,7 +183,6 @@
     "Initiation-dev/src/src_dev4/listev2/liste.go",
     "Initiation-dev/src/src_dev4/listev2/go.mod",
     "Initiation-dev/src/src_dev4/listev1/type_test.go",
-    "Initiation-dev/src/src_dev4/listev1/type.go",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Base de Données/TP/tp2/tp2_save.md",
     "Base de Données/TP/TP3.md",
