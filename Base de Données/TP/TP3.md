@@ -5,6 +5,19 @@
 3. clés de la relation : C, D sont les clés primaire de cette relation
 4. Dépendance fonctionnelle A->B, A->C ? Oui pour A->B et non pour A->C.
 # 1.2
+1. Y a t'il des clef candidates ? : oui deux : CD, BD
+2. Dépendance fonctionnel : A->B oui mais pas A->C
+## 1.3
+1. A est la clef de la relation R(A, B, C), on peut le prouvé avec, ici la propriété de transitivité, puis que A->B et B->C alors A->C donc A->B∪C donc A est la clef primaire.
+2. Forme normale (plusieurs formes (3 Forme Normale dans le cour, mais 5 au total) : 1NF, 2NF, 3NF) de la relation : 2NF, la clef est composé d'un seul attribut alors tout le reste en dépend donc forme normale n°2 et donc valide aussi la forme normale n°1.
+3. Est ce que la relation présenté est conforme à R ? C ne dépend pas de B donc inconforme. Autre analyse : analyse détaillé du tableau : celui donné est en 3NF or R est en 2NF.
+## 1.4
+Soit la relation R(A,B,C,D,E) munie de l’ensemble de dépendances fonctionnelles suivant: F= {A → B, A → D, A → E, E → C}
+1. Clef de R : A->BDE & E->C donc par transitivité A->C donc A est clef
+2. Forme normale de R : 1NF et 2NF : tout dépend de A par transitivité, pas 3NF
+## 1.5
+Soit la relation R(A,B,C,D,E) munie de l’ensemble de dépendances fonctionnelles suivant: F= {A → B, C → E, AE → D }
+1. hum
 # Exo 2
 ## 2.1
 ```
