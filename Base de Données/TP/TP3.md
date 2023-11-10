@@ -17,7 +17,47 @@ Soit la relation R(A,B,C,D,E) munie de l’ensemble de dépendances fonctionnell
 2. Forme normale de R : 1NF et 2NF : tout dépend de A par transitivité, pas 3NF
 ## 1.5
 Soit la relation R(A,B,C,D,E) munie de l’ensemble de dépendances fonctionnelles suivant: F= {A → B, C → E, AE → D }
-1. hum
+1. Pseudo transitivité avec C->E et AE->D donc AC->D
+2. Forme normal de la relation : 1NF, la dépendance n'est que par augmentation (dependence indirecte)
+# 1.6
+1. Quelles sont les dépendances fonctionnelles incorporées dans cette relation ? :
+	- D->B, 
+	- A->E, C->E, D->E
+	- Donc B->E
+1. Quelles sont les clés candidates de la relation ? : ACD
+2. Quelle la forme normale de la relation ? : 1NF car C->E, D->B
+## 1.7
+Quelle est l'interet des forme normales ? Donnez de exemples.
+Cette forme permet de limiter les doublons
+R1 (1NF)
+
+| A   | B   | C   |
+| --- | --- | --- |
+| 1   | 2   | 3   |
+| 1   | 3   | 1   |
+| 2   | 1   | 2   |
+| 3   | 2   | 3   |
+| 4    |2     |3     |
+R2 (2NF)
+
+| A   | B   | C   |
+| --- | --- | --- |
+| 1   | 2   | 3   |
+| 2   | 3   | 3   |
+| 3   | 1   | 1   |
+| 4   | 1   | 2   |
+| 5   | 3   | 1    |
+R3 (3NF)
+
+| A   | B   | C   |
+| --- | --- | --- |
+| 1   | 3   | 2   |
+| 2   | 2   | 3   |
+| 3   | 3   | 4   |
+| 4   | 2   | 5   |
+| 5   | 3   | 4   | 
+## 1.8
+
 # Exo 2
 ## 2.1
 ```
@@ -47,12 +87,14 @@ Vente(#idvendeur, #noserie, date, montant)
 	- idvendeur : seul les vendeurs enregistré dans la base de donnée sont autorisé à vendre
 2. Tuples de relation : (vendeur, voiture)
 	Voiture :
+	
 	| n°serie | modèle | marque  | prix  |
 	| ------- | ------ | ------- | ----- |
-	| 1A10    | SUV    | Renault | 5000€ |
-	| 2C15    | Megane | Renault  | 3000€ |
+	| 1A10    | SUV    | Renault | 5000€ | 
+	| 2C15    | Megane | Renault | 3000€ |
 	
 	Vendeur :
+	
 	| id  | nom  | tél            |
 	| --- | ---- | -------------- |
 	| 01  | Alex | 09 00 66 60 00 |

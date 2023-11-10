@@ -8,6 +8,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c0e469c057a7266c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "b84497c0afeb0c7a",
             "type": "leaf",
             "state": {
@@ -18,7 +26,7 @@
             }
           },
           {
-            "id": "c0e469c057a7266c",
+            "id": "c8c812c43222086c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -97,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/TP/TP3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/TP/TP3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/TP/TP3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +182,8 @@
   },
   "active": "c0e469c057a7266c",
   "lastOpenFiles": [
-    "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/TP/TP3.md",
+    "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/Chapitre3_R1_05.pdf",
     "Base de Données/Base de Données.md",
     "Anglais Technique/Help Desk/Help Desk.md",
