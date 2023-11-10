@@ -217,19 +217,19 @@ def enlever_litt_for(formule, litteral):
     litteral : un entier non nul traduisant la valeur logique prise par une variable
     Renvoie : la formule simplifiée
     '''
+    listClauseVrai = []
     for i in formule :
         for j in i :
-            clauseVrai = False
-            print(i, j, clauseVrai)
-            if litteral == abs(j) and not(clauseVrai): # pourquoi redeviens False ?!
-                if j>0:
-                    formule.remove(i)
-                    clauseVrai = True
-                    print("j>0", formule, clauseVrai)
-                else :
+            if litteral == abs(j): # si on trouve le litteral cherché
+                if j>0: # si True alors clause vrai -> supprimer la clause
+                    listClauseVrai.append(i)
+                    break
+                else : # sinon uniquement retirer la var de la formule
                     i.remove(j)
-                    print("j<0", i)
-            print(clauseVrai)
+    
+    for i in listClauseVrai:
+        formule.remove(i)
+
     print(formule)
     return formule
 
