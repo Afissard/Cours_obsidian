@@ -220,17 +220,16 @@ def enlever_litt_for(formule, litteral):
     listClauseVrai = []
     for i in formule :
         for j in i :
-            if litteral == abs(j): # si on trouve le litteral cherché
-                if j>0: # si True alors clause vrai -> supprimer la clause
+            if abs(litteral) == abs(j): # si on trouve le litteral cherché
+                if j == litteral : # si True alors clause vrai -> supprimer la clause
                     listClauseVrai.append(i)
-                    break
+                    break # gain de temps si grande clause
                 else : # sinon uniquement retirer la var de la formule
                     i.remove(j)
     
     for i in listClauseVrai:
         formule.remove(i)
 
-    print(formule)
     return formule
 
 # test de enlever_litt_for
@@ -239,10 +238,17 @@ def enlever_litt_for(formule, litteral):
 # test('essai cas 1 enlever_litt_for : ',enlever_litt_for(for1,litt1),[[-1, 2, 3], [-1, -2, -5], []])
 
 
-def init_formule_simpl_for(formule_init,list_var):
+def init_formule_simpl_for(formule_init, list_var):
     '''
     Renvoie : La formule simplifiée en tenant compte des valeurs logiques renseignées dans list_var
     '''
+    for i in range(len(list_var)) :
+        if list_var[i-1] != None :
+            litteral = i
+            if list_var[i-1] == False : 
+                litteral = litteral *(-1)
+            formule_init = copy.deepcopy(enlever_litt_for(formule_init, litteral))
+    return formule_init
 
 # test de init_formule_simpl_for
 # list_var_for1=[False, None, None, False, None]
@@ -268,22 +274,22 @@ def retablir_for(formule_init,list_chgmts):
     lui être assignée) 
     Renvoie : la formule simplifiée en tenant compte de l'ensemble des changements
     '''
-    #TODO: Here
+    #TODO: here
     
 
 # test de retablir_for
-# formule_init=[[1, 2, 4, -5], [-1, 2, 3, -4], [-1, -2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]]
-# list_chgmts1=[[0, True], [1, True], [2, False]]
-# form1=[[-5], [4, 5], [-4, 5]]
+formule_init=[[1, 2, 4, -5], [-1, 2, 3, -4], [-1, -2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]]
+list_chgmts1=[[0, True], [1, True], [2, False]]
+form1=[[-5], [4, 5], [-4, 5]]
 
-# list_chgmts2=[[0, True], [1, True], [2, False], [3, True], [4, False]]
-# form2=[[]]
+list_chgmts2=[[0, True], [1, True], [2, False], [3, True], [4, False]]
+form2=[[]]
 
-# list_chgmts3=[[0, True], [1, True], [2, False], [3, False]]
-# form3=[[-5], [5]]
-# test('essai cas 1 retablir_for : ',retablir_for(formule_init,list_chgmts1),form1)
-# test('essai cas 2 retablir_for : ',retablir_for(formule_init,list_chgmts2),form2)
-# test('essai cas 3 retablir_for : ',retablir_for(formule_init,list_chgmts3),form3)
+list_chgmts3=[[0, True], [1, True], [2, False], [3, False]]
+form3=[[-5], [5]]
+test('essai cas 1 retablir_for : ',retablir_for(formule_init,list_chgmts1),form1)
+test('essai cas 2 retablir_for : ',retablir_for(formule_init,list_chgmts2),form2)
+test('essai cas 3 retablir_for : ',retablir_for(formule_init,list_chgmts3),form3)
 
 def progress(list_var,list_chgmts):
     '''
