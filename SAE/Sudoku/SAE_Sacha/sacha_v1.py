@@ -308,7 +308,6 @@ def progress(list_var, list_chgmts):
     l1 : nouvelle list_var 
     l2 : nouvelle list_chgmts 
     '''
-    #TODO: here
     nextNone = list_var.index(None)
     list_var[nextNone] = True
     list_chgmts.append([nextNone, True])
@@ -383,11 +382,11 @@ def progress_simpl_for(formule, list_var,list_chgmts):
 # cor_form,cor_l1,cor_l2= ([[4, 5], [-4, 5]],[True, False, True, None, None],[[0, True], [1, False], [2, True]])
 # test('essai3_progress_simpl_for : ',progress_simpl_for(formule,list_var,list_chgmts),(cor_form,cor_l1,cor_l2)) 
 
-def progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour):
+def progress_simpl_for_dpll(formule, list_var, list_chgmts, list_sans_retour):
     '''
     Arguments : list_sans_retour contient l'ensemble des numéros de variables 
     auxquelles on a affecté une valeur logique sur laquelle on ne reviendra pas
-    renvoie :form,l1,l2,l3 avec :
+    renvoie :form, l1, l2, l3 avec :
     form : la formule simplifiée
     l1 : la liste actualisée des valeurs attribuées aux variables après le 
         changement effectué
@@ -397,26 +396,26 @@ def progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour):
     '''
 
 # test de progress_simpl_for_dpll
-# formule= [[-5], [4, 5], [-4, 5]] 
-# list_var= [True, True, False, None, None] 
-# list_chgmts= [[0, True], [1, True], [2, False]] 
-# list_sans_retour= []
-# cor_for,cor_l1,cor_l2,cor_l3= ([[4], [-4]],[True, True, False, None, False],[[0, True], [1, True], [2, False], [4, False]],[4])
-# test('essai1_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
+formule= [[-5], [4, 5], [-4, 5]] 
+list_var= [True, True, False, None, None] 
+list_chgmts= [[0, True], [1, True], [2, False]] 
+list_sans_retour= []
+cor_for,cor_l1,cor_l2,cor_l3= ([[4], [-4]],[True, True, False, None, False],[[0, True], [1, True], [2, False], [4, False]],[4])
+test('essai1_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
 
-# formule= [[-5,4], [2,4, 5], [-2, 5]]
-# list_var= [True, None, None, None, None] 
-# list_chgmts= [[0, True]] 
-# list_sans_retour= [0]
-# cor_for,cor_l1,cor_l2,cor_l3= ([[-2,5]],[True, None, None, True, None],[[0, True],[3, True]],[0,3])
-# test('essai2_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
+formule= [[-5,4], [2,4, 5], [-2, 5]]
+list_var= [True, None, None, None, None] 
+list_chgmts= [[0, True]] 
+list_sans_retour= [0]
+cor_for,cor_l1,cor_l2,cor_l3= ([[-2,5]],[True, None, None, True, None],[[0, True],[3, True]],[0,3])
+test('essai2_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
 
-# formule=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4,5]]
-# list_var=[None,None,None,None,None]
-# list_chgmts= [] 
-# list_sans_retour= []
-# cor_for,cor_l1,cor_l2,cor_l3=([[2, 3, -4], [-2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]], [True, None, None, None, None], [[0, True]], [])
-# test('essai3_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
+formule=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4,5]]
+list_var=[None,None,None,None,None]
+list_chgmts= [] 
+list_sans_retour= []
+cor_for,cor_l1,cor_l2,cor_l3=([[2, 3, -4], [-2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]], [True, None, None, None, None], [[0, True]], [])
+test('essai3_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
 
 def retour(list_var,list_chgmts):
     '''
