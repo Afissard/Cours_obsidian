@@ -394,6 +394,12 @@ def progress_simpl_for_dpll(formule, list_var, list_chgmts, list_sans_retour):
     l3 : la liste éventuellement actualisée des numéros de variables 
         auxquelles une affectation a été attribuée sur laquelle on ne reviendra pas
     '''
+    #TODO: here, peut être comparer liste changement avant/après et append nouveau changement
+    formule, list_var, new_list_chgmts = progress_simpl_for(formule, list_var, list_chgmts)
+    if len(new_list_chgmts)> len(list_chgmts):
+        list_sans_retour.append(new_list_chgmts[len(new_list_chgmts)-1][0])
+    return formule, list_var, new_list_chgmts, list_sans_retour
+
 
 # test de progress_simpl_for_dpll
 formule= [[-5], [4, 5], [-4, 5]] 
