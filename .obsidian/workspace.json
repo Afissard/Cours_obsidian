@@ -37,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base de Données/TP/TP3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base de Données/TP/TP3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base de Données/TP/TP3.md"
+              }
             }
           },
           {
@@ -180,10 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0e469c057a7266c",
+  "active": "c8c812c43222086c",
   "lastOpenFiles": [
-    "Base de Données/TP/TP3.md",
     "Base de Données/Chapitre2_R1_05.pdf",
+    "Base de Données/TP/TP3.md",
     "Base de Données/Chapitre3_R1_05.pdf",
     "Base de Données/Base de Données.md",
     "Anglais Technique/Help Desk/Help Desk.md",

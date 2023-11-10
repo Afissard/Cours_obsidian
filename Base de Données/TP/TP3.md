@@ -57,7 +57,12 @@ R3 (3NF)
 | 4   | 2   | 5   |
 | 5   | 3   | 4   | 
 ## 1.8
-
+Une histoire de Dragon ...
+Vérifié :
+1. Non car un dragon -> Comportement Amoureux 
+2. Non car pas de doublons
+3. Oui
+4. ?
 # Exo 2
 ## 2.1
 ```
