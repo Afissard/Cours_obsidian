@@ -301,7 +301,7 @@ def retablir_for(formule_init,list_chgmts):
 # test('essai cas 2 retablir_for : ',retablir_for(formule_init,list_chgmts2),form2)
 # test('essai cas 3 retablir_for : ',retablir_for(formule_init,list_chgmts3),form3)
 
-def progress(list_var,list_chgmts):
+def progress(list_var, list_chgmts):
     '''
     Arguments : list_var, list_chgmts définies comme précédemment
     Renvoie : l1,l2
