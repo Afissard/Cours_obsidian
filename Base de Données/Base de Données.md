@@ -8,6 +8,8 @@ type: folder_brief_live
 - [[Chapitre1_R1_05.pdf]]
 - [[Chapitre2_R1_05.pdf]]
 - [[Chapitre3_R1_05.pdf]]
+- [[Chapitre4_R1_05.pdf]]
+- [[Chapitre5_R1_05.pdf]]
 - [[cour_titouan_diapo_bdd.odp]]
 - [[Introduction aux base de donnée et SQL]]
 - [[Introduction_R1_05.pdf]]
