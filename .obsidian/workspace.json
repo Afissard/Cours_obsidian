@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Initiation-dev/go/go.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Initiation-dev/go/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Initiation-dev/go/go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Initiation-dev/go/go.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "c0e469c057a7266c",
   "lastOpenFiles": [
+    "Initiation-dev/Initiation-dev.md",
+    "README.md",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Chapitre5_R1_05.pdf",
     "Base de Données/Chapitre2_R1_05.pdf",
@@ -199,8 +201,6 @@
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Base de Données/TP/tp2/MCD/MCD.mcd",
     "Base de Données/TP/tp2/MCD/MCD_geo.json",
-    "Base de Données/TP/tp2/MCD",
-    "Initiation-dev/Initiation-dev.md",
     "Base de Données/Introduction aux base de donnée et SQL.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Communication/Exposé/Exposé.md",
