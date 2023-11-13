@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72559ba5c47072ed",
+        "id": "1a3c7d4afc877c15",
         "type": "tabs",
         "children": [
           {
-            "id": "c0e469c057a7266c",
+            "id": "533d0b0db06048f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,8 +166,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0e469c057a7266c",
+  "active": "533d0b0db06048f5",
   "lastOpenFiles": [
+    "Initiation-dev/go/exercices-introdev/exo_readme.md",
+    "Initiation-dev/go/go.md",
     "Initiation-dev/Initiation-dev.md",
     "README.md",
     "Base de Données/Chapitre4_R1_05.pdf",
@@ -204,8 +206,6 @@
     "Base de Données/Introduction aux base de donnée et SQL.md",
     "Anglais Technique/Vocabulary/Vocabulary.md",
     "Communication/Exposé/Exposé.md",
-    "Communication/Information.md",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Business model.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
