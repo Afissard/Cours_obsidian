@@ -238,7 +238,6 @@ type: folder_brief_live
 			- [[conway_test.go]]
 			- [[conway.go]]
 		- **desert**
-			- [[__debug_bin4293933701.exe]]
 			- [[desert_test.go]]
 			- [[desert.go]]
 		- **encoreunesuite**
