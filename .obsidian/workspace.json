@@ -4,33 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "dd4a70e861c96364",
+        "id": "bee9769b2ddc1740",
         "type": "tabs",
         "children": [
           {
-            "id": "42c3a76195f4375d",
+            "id": "d562ca92697e1fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Données/TP/tp4/Exo 2.md",
+                "file": "PPP/Séance 1, métiers de l'informatique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fce2a847b011ff9f",
+            "id": "8f46b6170cdd4343",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf"
+                "file": "PPP/PPP1 Guide.pdf"
               }
+            }
+          },
+          {
+            "id": "845ce40f06825d6f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -177,10 +181,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fce2a847b011ff9f",
+  "active": "845ce40f06825d6f",
   "lastOpenFiles": [
-    "Base de Données/TP/tp4/Exo 2.md",
+    "PPP/PPP1 Guide.pdf",
+    "PPP/PPP1 Proust Calle.pdf",
+    "PPP/PPP1 - 1.pdf",
+    "PPP/Séance 1, métiers de l'informatique.md",
+    "PPP/PPP.md",
+    "Base de Données/Base de Données.md",
     "Base de Données/Chapitre4_R1_05.pdf",
+    "Base de Données/TP/tp4/Exo 2.md",
     "Base de Données/TP/tp4/lu222648rjyie.tmp",
     "Base de Données/TP/tp4/lu202848ckpqa.tmp",
     "Base de Données/TP/tp4/lu202848ckpq7.tmp",
@@ -188,9 +198,6 @@
     "Base de Données/TP/tp4/lu202848ckpq1.tmp",
     "Base de Données/TP/tp4/lu202848ckppy.tmp",
     "Base de Données/TP/tp4/lu202848ckppt.tmp",
-    "Base de Données/TP/tp4/lu202848ckppq.tmp",
-    "Base de Données/TP/tp4/lu202848ckppn.tmp",
-    "Base de Données/Base de Données.md",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exo_readme.md",
@@ -213,9 +220,7 @@
     "Communication/Reporterre/Reporterre.md",
     "Communication/Communication.md",
     "conflict-files-obsidian-git.md",
-    "Base de Données/TP/tp2/tp2_save.md",
     "Base de Données/TP/tp2/MCD/MCD.svg",
-    "Base de Données/Introduction aux base de donnée et SQL.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
