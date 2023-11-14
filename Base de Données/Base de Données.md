@@ -30,6 +30,7 @@ type: folder_brief_live
 		- [[tp2_save]]
 	- [[TP3]]
 	- **tp4**
+		- [[Exo 2]]
 		- [[tp4_baseDeDonnée.ods]]
 
 %% End Waypoint %%

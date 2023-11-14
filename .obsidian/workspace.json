@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a3c7d4afc877c15",
+        "id": "dd4a70e861c96364",
         "type": "tabs",
         "children": [
           {
-            "id": "533d0b0db06048f5",
+            "id": "42c3a76195f4375d",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "533d0b0db06048f5",
+  "active": "42c3a76195f4375d",
   "lastOpenFiles": [
+    "Base de Données/TP/tp4/Exo 2.md",
+    "Base de Données/Chapitre4_R1_05.pdf",
+    "Base de Données/TP/tp4/lu222648rjyie.tmp",
     "Base de Données/TP/tp4/lu202848ckpqa.tmp",
     "Base de Données/TP/tp4/lu202848ckpq7.tmp",
     "Base de Données/TP/tp4/lu202848ckpq4.tmp",
@@ -177,9 +171,6 @@
     "Base de Données/TP/tp4/lu202848ckppt.tmp",
     "Base de Données/TP/tp4/lu202848ckppq.tmp",
     "Base de Données/TP/tp4/lu202848ckppn.tmp",
-    "Base de Données/TP/tp4/lu202848ckppk.tmp",
-    "Base de Données/TP/tp4/lu202848ckpph.tmp",
-    "Base de Données/TP/tp4/lu202848ckppe.tmp",
     "Base de Données/Base de Données.md",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
@@ -206,7 +197,6 @@
     "Base de Données/TP/tp2/tp2_save.md",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Base de Données/Introduction aux base de donnée et SQL.md",
-    "Anglais Technique/Vocabulary/Vocabulary.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
