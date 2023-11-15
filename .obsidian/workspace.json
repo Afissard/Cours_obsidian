@@ -11,8 +11,12 @@
             "id": "359adc996eb52d8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SAE/Economie/Consigne rédaction dossier.md"
+              }
             }
           },
           {
@@ -160,20 +168,23 @@
   },
   "active": "359adc996eb52d8d",
   "lastOpenFiles": [
+    "SAE/Economie/lu89089ter4b.tmp",
+    "SAE/Economie/lu89089ter48.tmp",
+    "SAE/Economie/lu89089ter45.tmp",
+    "SAE/Economie/lu89089ter42.tmp",
+    "SAE/Economie/lu89089ter3z.tmp",
+    "SAE/Economie/lu89089ter3w.tmp",
+    "SAE/Economie/lu89089ter3s.tmp",
+    "SAE/Economie/Sondage Eco-Gestes (réponses).ods",
+    "SAE/Economie/Economie.md",
+    "SAE/SAE.md",
     "PPP/Séance 1, métiers de l'informatique.md",
     "PPP/PPP1 Guide.pdf",
     "PPP/PPP1 Proust Calle.pdf",
     "PPP/PPP1 - 1.pdf",
     "PPP/PPP.md",
     "Base de Données/Base de Données.md",
-    "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/TP/tp4/Exo 2.md",
-    "Base de Données/TP/tp4/lu222648rjyie.tmp",
-    "Base de Données/TP/tp4/lu202848ckpqa.tmp",
-    "Base de Données/TP/tp4/lu202848ckpq7.tmp",
-    "Base de Données/TP/tp4/lu202848ckpq4.tmp",
-    "Base de Données/TP/tp4/lu202848ckpq1.tmp",
-    "Base de Données/TP/tp4/lu202848ckppy.tmp",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exo_readme.md",
@@ -185,8 +196,6 @@
     "Anglais Technique/Help Desk/Question Vocabulary.md",
     "Anglais Technique/Help Desk/Marking criteria.md",
     "Anglais Technique/Anglais Technique.md",
-    "SAE/SAE.md",
-    "SAE/Economie/Economie.md",
     "SAE/Economie/Consigne rédaction dossier.md",
     "Anglais Technique/Help Desk/Troubleshooting.md",
     "Anglais Technique/Writing a Review/Computer Review.md",
