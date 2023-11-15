@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c6fb235ebd441a4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Maths/Outils_Fondamentaux/PolyCours_etu.pdf"
+              }
+            }
+          },
+          {
+            "id": "e721ac2220066b83",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md"
+                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf"
               }
             }
           },
@@ -166,22 +187,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "359adc996eb52d8d",
+  "active": "e721ac2220066b83",
   "lastOpenFiles": [
+    "Maths/Outils_Fondamentaux/TP/Exo-2",
+    "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
+    "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
+    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
+    "Maths/Outils_Fondamentaux/TP/Exo-1/exo1.py",
+    "Maths/Outils_Fondamentaux/TP/Exo-1",
+    "Maths/Outils_Fondamentaux/TP/Nouveau dossier",
+    "Maths/Outils_Fondamentaux/TP/Nouveau raccourci.lnk",
+    "Maths/Outils_Fondamentaux/TP/Exo-x/TP02_eleves.py",
+    "Maths/Outils_Fondamentaux/TP/Exo-x",
+    "SAE/Economie/Consigne rédaction dossier.md",
     "SAE/Economie/lu89089ter4b.tmp",
     "SAE/Economie/lu89089ter48.tmp",
-    "SAE/Economie/lu89089ter45.tmp",
-    "SAE/Economie/lu89089ter42.tmp",
-    "SAE/Economie/lu89089ter3z.tmp",
-    "SAE/Economie/lu89089ter3w.tmp",
-    "SAE/Economie/lu89089ter3s.tmp",
-    "SAE/Economie/Sondage Eco-Gestes (réponses).ods",
     "SAE/Economie/Economie.md",
     "SAE/SAE.md",
     "PPP/Séance 1, métiers de l'informatique.md",
-    "PPP/PPP1 Guide.pdf",
-    "PPP/PPP1 Proust Calle.pdf",
-    "PPP/PPP1 - 1.pdf",
     "PPP/PPP.md",
     "Base de Données/Base de Données.md",
     "Base de Données/TP/tp4/Exo 2.md",
@@ -196,7 +219,6 @@
     "Anglais Technique/Help Desk/Question Vocabulary.md",
     "Anglais Technique/Help Desk/Marking criteria.md",
     "Anglais Technique/Anglais Technique.md",
-    "SAE/Economie/Consigne rédaction dossier.md",
     "Anglais Technique/Help Desk/Troubleshooting.md",
     "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
@@ -204,7 +226,6 @@
     "Communication/Reporterre/Interview de Gaël Giraud.md",
     "Communication/Reporterre/Reporterre.md",
     "Communication/Communication.md",
-    "conflict-files-obsidian-git.md",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
