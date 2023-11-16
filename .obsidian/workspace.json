@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc66d59cd00f186",
+        "id": "47489a1a40c95747",
         "type": "tabs",
         "children": [
           {
-            "id": "359adc996eb52d8d",
+            "id": "23e48871a6569ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c6fb235ebd441a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Maths/Outils_Fondamentaux/PolyCours_etu.pdf"
-              }
-            }
-          },
-          {
-            "id": "e721ac2220066b83",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
+                "file": "SAE/Economie/Consigne rédaction dossier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf"
+                "file": "SAE/Economie/Consigne rédaction dossier.md"
               }
             }
           },
@@ -187,20 +166,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e721ac2220066b83",
+  "active": "23e48871a6569ba1",
   "lastOpenFiles": [
+    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
+    "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
+    "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
     "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.py",
     "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.yp",
     "Maths/Outils_Fondamentaux/TP/Exo-2",
-    "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
-    "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
-    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Maths/Outils_Fondamentaux/TP/Exo-1/exo1.py",
     "Maths/Outils_Fondamentaux/TP/Exo-1",
     "Maths/Outils_Fondamentaux/TP/Nouveau dossier",
     "Maths/Outils_Fondamentaux/TP/Nouveau raccourci.lnk",
     "Maths/Outils_Fondamentaux/TP/Exo-x/TP02_eleves.py",
-    "Maths/Outils_Fondamentaux/TP/Exo-x",
     "SAE/Economie/Consigne rédaction dossier.md",
     "SAE/Economie/Economie.md",
     "SAE/SAE.md",
