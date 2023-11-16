@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "SAE/Economie/Environnement économique et écologique.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "SAE/Economie/Environnement économique et écologique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md",
+                "file": "SAE/Economie/Environnement économique et écologique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Economie/Consigne rédaction dossier.md"
+                "file": "SAE/Economie/Environnement économique et écologique.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "23e48871a6569ba1",
   "lastOpenFiles": [
+    "SAE/Economie/lu21696b7zhk0.tmp",
+    "SAE/Economie/Economie.md",
+    "SAE/Economie/Consigne rédaction dossier.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
     "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
@@ -179,8 +182,6 @@
     "Maths/Outils_Fondamentaux/TP/Nouveau dossier",
     "Maths/Outils_Fondamentaux/TP/Nouveau raccourci.lnk",
     "Maths/Outils_Fondamentaux/TP/Exo-x/TP02_eleves.py",
-    "SAE/Economie/Consigne rédaction dossier.md",
-    "SAE/Economie/Economie.md",
     "SAE/SAE.md",
     "PPP/Séance 1, métiers de l'informatique.md",
     "PPP/PPP.md",
