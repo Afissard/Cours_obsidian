@@ -1,4 +1,3 @@
-# Exo 2.1
 ## table employé
 | Nuempl | Nomempl | hebdo | salaire | affect |
 | ------ | ------- | ----- | ------- | ------ |
@@ -113,31 +112,3 @@
 ## 6 : Div(Travail {nuempl, nuproj }, Projet {nuproj })
 ????
 Résultat => nmpl : 30
-# Exo 2
-Soit la structure de données suivante : 
-Fournisseur (nofournisseurs, nom, ville)
-Mafourniture (nofournisseur, noproduit, quantité)
-Produit (noproduit, nom-produit, couleur, origine, PVU) 
-
-Exprimez chacune des questions suivantes en algèbre relationnelle : 
-1 ▶ Trouvez les numéros des fournisseurs qui fournissent quelque chose ; 
-
-2 ▶ Trouvez les numéros des fournisseurs qui ne fournissent rien ; 
-3 ▶ Trouvez les numéros des fournisseurs qui fournissent au moins le produit P6 ; 
-4 ▶ Trouvez les numéros des fournisseurs qui fournissent quelque chose d’autre que P6 ; 
-5 ▶ Trouvez les numéros des fournisseurs qui fournissent quelque chose mais pas P6 ; 
-6 ▶ Trouvez les numéros des fournisseurs qui fournissent au moins un produit originaire de leur ville ; 
-7 ▶ Trouvez les numéros des fournisseurs qui fournissent tous les produits originaires de Nantes 
-8 ▶ Trouvez les numéros des fournisseurs dont toutes les fournitures contiennent des produits verts
-# 2.2
-Soit la structure de données suivante : 
-Personne (matricule, nom, sexe, âge, profession, revenu) 
-Livre (no-livre, titre, auteur, thème, matricule-possesseur) 
-Préférence(matricule,no-livre)
-
-## 1 : Donnez les titres des livres possédés par la personne de matricule 99 2  
-
-## 2 : Donnez le nom du possesseur du livre n° 36 3 
-## 3 : Sélectionner les noms des personnes qui ont parmi leurs livres préférés au moins un livre du thème « science-fiction » 4 
-## 4 : Sélectionner les matricules des personnes dont tous les livres sont du thème « policier » 5 
-## 5 : Sélectionner les nom
