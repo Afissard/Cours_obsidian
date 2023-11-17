@@ -60,7 +60,9 @@ R1 <- Livre[matricule-possesseur = '99']{titre}
 2 ▶ Donnez le nom du possesseur du livre n° 36.
 ```
 R2 <- Join(Personne, Livre / Personne.matricule = Livre.matricule-possesseur AND [Livre.no-livre = '36']){nom}
+```
 
+```
 Correction :
 A <- Join(Personne, Livre / Personne.matricule = Livre.matricule-possesseur)
 R2 <- A[no-livre = '36']{nom}
@@ -73,6 +75,17 @@ R3 <- E[E.thème = 'SF']{nom}
 ```
 4 ▶ Sélectionner les matricules des personnes dont tous les livres (possédé ?) sont du thème « policier ».
 ```
-R4 <- Div(Personne.matricule, A)
+F <- A[thème = 'Policier']{Personne.matricule}
+R4 <- Diff(Personne.matricule, F)
+```
+
+```
+Correction
+G <- Join(Livre, Personne / Personne.matricule = livre.matricule-possesseur and livre.thème = 'Policier'){matricule}
+R4 <- Diff(Personne{matricule}, G)
 ```
 5 ▶ Sélectionner les noms des personnes qui ont parmi leurs livres préférés, tous les livres de l’auteur Hergé.
+```
+H <- div(reference, livre[auteur = 'Hergé']{no-livre})
+R5 <- Join(Personne, H / Personne.matricule = H.matricule){nom}
+```
