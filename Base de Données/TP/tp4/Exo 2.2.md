@@ -36,5 +36,5 @@ R7 <- Div(MaFourniture{nofournisseur, noproduit}, Produit[origine = 'Nantes']{no
 ```
 8 ▶ Trouvez les numéros des fournisseurs dont toutes les fournitures contiennent des produits verts.
 ```
-R8 <- 
+R8 <- Div(MaFourniture{nofournisseur, noproduit}, Produit[couleur = 'Vert']{noproduit})
 ```
