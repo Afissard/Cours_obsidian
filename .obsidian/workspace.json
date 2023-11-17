@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "Architecture-système/Architecture-système.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "Architecture-système/Architecture-système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md",
+                "file": "Architecture-système/Architecture-système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Economie/Environnement économique et écologique.md"
+                "file": "Architecture-système/Architecture-système.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "23e48871a6569ba1",
   "lastOpenFiles": [
+    "SAE/Economie/Environnement économique et écologique.md",
     "SAE/Economie/lu21696b7zhk0.tmp",
     "SAE/Economie/Economie.md",
     "SAE/Economie/Consigne rédaction dossier.md",
@@ -181,7 +182,6 @@
     "Maths/Outils_Fondamentaux/TP/Exo-1",
     "Maths/Outils_Fondamentaux/TP/Nouveau dossier",
     "Maths/Outils_Fondamentaux/TP/Nouveau raccourci.lnk",
-    "Maths/Outils_Fondamentaux/TP/Exo-x/TP02_eleves.py",
     "SAE/SAE.md",
     "PPP/Séance 1, métiers de l'informatique.md",
     "PPP/PPP.md",
@@ -201,7 +201,6 @@
     "Anglais Technique/Help Desk/Troubleshooting.md",
     "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "SAE/Economie/Environnement économique et écologique.md",
     "Communication/Reporterre/Interview de Gaël Giraud.md",
     "Communication/Reporterre/Reporterre.md",
     "Communication/Communication.md",
