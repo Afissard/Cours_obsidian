@@ -32,6 +32,9 @@ R6 <- B{nofournisseur}
 ```
 7 ▶ Trouvez les numéros des fournisseurs qui fournissent tous les produits originaires de Nantes 
 ```
-
+R7 <- Div(MaFourniture{nofournisseur, noproduit}, Produit[origine = 'Nantes']{noproduit})
 ```
 8 ▶ Trouvez les numéros des fournisseurs dont toutes les fournitures contiennent des produits verts.
+```
+R8 <- 
+```
