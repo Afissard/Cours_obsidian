@@ -404,26 +404,26 @@ def progress_simpl_for_dpll(formule, list_var, list_chgmts, list_sans_retour):
 
 
 # test de progress_simpl_for_dpll
-formule= [[-5], [4, 5], [-4, 5]] 
-list_var= [True, True, False, None, None] 
-list_chgmts= [[0, True], [1, True], [2, False]] 
-list_sans_retour= []
-cor_for,cor_l1,cor_l2,cor_l3= ([[4], [-4]],[True, True, False, None, False],[[0, True], [1, True], [2, False], [4, False]],[4])
-test('essai1_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
+# formule= [[-5], [4, 5], [-4, 5]] 
+# list_var= [True, True, False, None, None] 
+# list_chgmts= [[0, True], [1, True], [2, False]] 
+# list_sans_retour= []
+# cor_for,cor_l1,cor_l2,cor_l3= ([[4], [-4]],[True, True, False, None, False],[[0, True], [1, True], [2, False], [4, False]],[4])
+# test('essai1_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
 
-formule= [[-5,4], [2,4, 5], [-2, 5]]
-list_var= [True, None, None, None, None] 
-list_chgmts= [[0, True]] 
-list_sans_retour= [0]
-cor_for,cor_l1,cor_l2,cor_l3= ([[-2,5]],[True, None, None, True, None],[[0, True],[3, True]],[0,3])
-test('essai2_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
+# formule= [[-5,4], [2,4, 5], [-2, 5]]
+# list_var= [True, None, None, None, None] 
+# list_chgmts= [[0, True]] 
+# list_sans_retour= [0]
+# cor_for,cor_l1,cor_l2,cor_l3= ([[-2,5]],[True, None, None, True, None],[[0, True],[3, True]],[0,3])
+# test('essai2_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
 
-formule=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4,5]]
-list_var=[None,None,None,None,None]
-list_chgmts= [] 
-list_sans_retour= []
-cor_for,cor_l1,cor_l2,cor_l3=([[2, 3, -4], [-2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]], [True, None, None, None, None], [[0, True]], [])
-test('essai3_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
+# formule=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4,5]]
+# list_var=[None,None,None,None,None]
+# list_chgmts= [] 
+# list_sans_retour= []
+# cor_for,cor_l1,cor_l2,cor_l3=([[2, 3, -4], [-2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]], [True, None, None, None, None], [[0, True]], [])
+# test('essai3_progress_simpl_for_dpll : ',progress_simpl_for_dpll(formule,list_var,list_chgmts,list_sans_retour),(cor_for,cor_l1,cor_l2,cor_l3))
 
 def retour(list_var,list_chgmts):
     '''
@@ -433,41 +433,41 @@ def retour(list_var,list_chgmts):
     '''
 
 # test de retour
-# list_var= [True, True, None, None, None]
-# list_chgmts= [[0, True], [1, True]]
-# l1= [True, False, None, None, None]
-# l2= [[0, True], [1, False]]
-# test("essai cas 1 retour : ",retour(list_var,list_chgmts),(l1,l2))
+list_var= [True, True, None, None, None]
+list_chgmts= [[0, True], [1, True]]
+l1= [True, False, None, None, None]
+l2= [[0, True], [1, False]]
+test("essai cas 1 retour : ",retour(list_var,list_chgmts),(l1,l2))
 
-# list_var= [True, False, None, None, None]
-# list_chgmts= [[0, True], [1, False]]
-# l1= [False, None, None, None, None]
-# l2= [[0, False]]
-# test("essai cas 2 retour : ",retour(list_var,list_chgmts),(l1,l2))
+list_var= [True, False, None, None, None]
+list_chgmts= [[0, True], [1, False]]
+l1= [False, None, None, None, None]
+l2= [[0, False]]
+test("essai cas 2 retour : ",retour(list_var,list_chgmts),(l1,l2))
 
-# list_var= [True, False, False, True, None]
-# list_chgmts= []
-# l1= [True, False, False, True, None]
-# l2= []
-# test("essai cas 3 retour : ",retour(list_var,list_chgmts),(l1,l2))
+list_var= [True, False, False, True, None]
+list_chgmts= []
+l1= [True, False, False, True, None]
+l2= []
+test("essai cas 3 retour : ",retour(list_var,list_chgmts),(l1,l2))
 
-# list_var= [True, False, False, False, False]
-# list_chgmts= [[0, True], [1, False], [2, False], [3, False], [4, False]]
-# l1= [False, None, None, None, None]
-# l2= [[0, False]]
-# test("essai cas 4 retour : ",retour(list_var,list_chgmts),(l1,l2))
+list_var= [True, False, False, False, False]
+list_chgmts= [[0, True], [1, False], [2, False], [3, False], [4, False]]
+l1= [False, None, None, None, None]
+l2= [[0, False]]
+test("essai cas 4 retour : ",retour(list_var,list_chgmts),(l1,l2))
 
-# list_var= [True, True, False, True, None]
-# list_chgmts= [[1, True]]
-# l1= [True, False, False, True, None]
-# l2= [[1, False]]
-# test("essai cas 5 retour : ",retour(list_var,list_chgmts),(l1,l2))
+list_var= [True, True, False, True, None]
+list_chgmts= [[1, True]]
+l1= [True, False, False, True, None]
+l2= [[1, False]]
+test("essai cas 5 retour : ",retour(list_var,list_chgmts),(l1,l2))
 
-# list_var= [True, False, False, True, None]
-# list_chgmts= [[1, False]]
-# l1= [True, None, False, True, None]
-# l2= []
-# test("essai cas 6 retour : ",retour(list_var,list_chgmts),(l1,l2))
+list_var= [True, False, False, True, None]
+list_chgmts= [[1, False]]
+l1= [True, None, False, True, None]
+l2= []
+test("essai cas 6 retour : ",retour(list_var,list_chgmts),(l1,l2))
 
 def retour_simpl_for(formule_init,list_var,list_chgmts):
     '''
