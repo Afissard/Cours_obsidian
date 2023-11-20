@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Environement Economie/Consigne rédaction dossier.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Environement Economie/Consigne rédaction dossier.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Environement Economie/Consigne rédaction dossier.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Environement Economie/Consigne rédaction dossier.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,10 +168,13 @@
   },
   "active": "f09fddb4cea3b8f5",
   "lastOpenFiles": [
+    "Base de Données/Chapitre5_R1_05.pdf",
+    "SAE/Base de Données/Base de Données.md",
+    "SAE/Base de Données/Cas transport (Co-voiturage).md",
+    "SAE/Environement Economie/Environement Economie.md",
+    "SAE/Environement Economie/Consigne rédaction dossier.md",
     "SAE/Sudoku/Modalités évaluations test machine SAE S102.pdf",
     "SAE/Environement Economie/Environnement économique et écologique.md",
-    "SAE/Environement Economie/Consigne rédaction dossier.md",
-    "SAE/Environement Economie/Environement Economie.md",
     "SAE/SAE.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/Règle de validation d'une UE.md",
@@ -190,7 +193,6 @@
     "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.yp",
     "Maths/Outils_Fondamentaux/TP/Exo-2",
     "Maths/Outils_Fondamentaux/TP/Exo-1/exo1.py",
-    "Maths/Outils_Fondamentaux/TP/Exo-1",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exo_readme.md",
@@ -202,8 +204,6 @@
     "Anglais Technique/Help Desk/Question Vocabulary.md",
     "Anglais Technique/Help Desk/Marking criteria.md",
     "Anglais Technique/Anglais Technique.md",
-    "Anglais Technique/Help Desk/Troubleshooting.md",
-    "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
