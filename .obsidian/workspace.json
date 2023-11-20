@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1a574c795b12d4",
+        "id": "032a5e9025087ae7",
         "type": "tabs",
         "children": [
           {
-            "id": "54ac6ed7767a1b3d",
+            "id": "f09fddb4cea3b8f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md"
+              }
             }
           },
           {
@@ -158,45 +166,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54ac6ed7767a1b3d",
+  "active": "f09fddb4cea3b8f5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Base de Données/Chapitre3_R1_05.pdf",
-    "Base de Données/Chapitre4_R1_05.pdf",
+    "PPP/Règle de validation d'une UE.md",
+    "PPP/PPP1 - 1.pdf",
+    "PPP/PPP.md",
     "Base de Données/Base de Données.md",
-    "SAE/SAE.md",
+    "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/TP/tp4/Exo 2.2.md",
     "Base de Données/TP/tp4/Exo 2.1.md",
-    "Base de Données/Chapitre2_R1_05.pdf",
-    "Base de Données/TP/TP3.md",
-    "SAE/Economie/Sondage Eco-Gestes (réponses).ods",
-    "PPP/Séance 1, métiers de l'informatique.md",
-    "PPP/PPP1 Proust Calle.pdf",
-    "PPP/PPP1 Guide.pdf",
-    "PPP/PPP1 - 1.pdf",
-    "Maths/Outils_Fondamentaux/TP/Exo-x/TP02_eleves.py",
-    "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.py",
-    "Maths/Outils_Fondamentaux/TP/Exo-1/exo1.py",
+    "Architecture-système/Architecture-système.md",
+    "SAE/Economie/Environnement économique et écologique.md",
+    "SAE/Economie/lu21696b7zhk0.tmp",
+    "SAE/Economie/Economie.md",
+    "SAE/Economie/Consigne rédaction dossier.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
-    "Base de Données/TP/tp4/Exo 2.md",
+    "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
+    "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
+    "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.py",
+    "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.yp",
+    "Maths/Outils_Fondamentaux/TP/Exo-2",
+    "Maths/Outils_Fondamentaux/TP/Exo-1/exo1.py",
+    "Maths/Outils_Fondamentaux/TP/Exo-1",
+    "SAE/SAE.md",
+    "PPP/Séance 1-2, métiers de l'informatique.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/exercices-introdev/exo_readme.md",
+    "README.md",
+    "Base de Données/TP/TP3.md",
     "Anglais Technique/Help Desk/Help Desk.md",
     "Anglais Technique/Help Desk/Training IT Support Test.md",
     "Anglais Technique/Help Desk/Social loafing.md",
     "Anglais Technique/Help Desk/Question Vocabulary.md",
     "Anglais Technique/Help Desk/Marking criteria.md",
     "Anglais Technique/Anglais Technique.md",
-    "SAE/Economie/Economie.md",
-    "SAE/Economie/Consigne rédaction dossier.md",
     "Anglais Technique/Help Desk/Troubleshooting.md",
     "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "SAE/Economie/Environnement économique et écologique.md",
     "Communication/Reporterre/Interview de Gaël Giraud.md",
-    "Communication/Reporterre/Reporterre.md",
-    "Communication/Communication.md",
-    "Base de Données/TP/tp2/tp2_save.md",
     "Base de Données/TP/tp2/MCD/MCD.svg",
-    "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
