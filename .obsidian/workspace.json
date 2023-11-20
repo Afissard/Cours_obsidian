@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "032a5e9025087ae7",
+        "id": "0cc8e22ea59f01fc",
         "type": "tabs",
         "children": [
           {
-            "id": "f09fddb4cea3b8f5",
+            "id": "ceae9a53408320cd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf"
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf",
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf",
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf"
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md"
               }
             }
           },
@@ -164,11 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f09fddb4cea3b8f5",
+  "active": "ceae9a53408320cd",
   "lastOpenFiles": [
+    "PPP/PPP.md",
+    "Base de Données/Base de Données.md",
+    "Base de Données/Chapitre5_R1_05.pdf",
     "Base de Données/Chapitre6_R1_05.pdf",
     "README.md",
-    "Base de Données/Chapitre5_R1_05.pdf",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Environement Economie/Environement Economie.md",
@@ -179,8 +183,6 @@
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/Règle de validation d'une UE.md",
     "PPP/PPP1 - 1.pdf",
-    "PPP/PPP.md",
-    "Base de Données/Base de Données.md",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/TP/tp4/Exo 2.2.md",
     "Base de Données/TP/tp4/Exo 2.1.md",
@@ -191,7 +193,6 @@
     "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
     "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.py",
     "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.yp",
-    "Maths/Outils_Fondamentaux/TP/Exo-2",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exo_readme.md",
