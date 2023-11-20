@@ -1,1 +1,3 @@
 Game-dev ...
+Ingénieur logiciel
+voir conv discord
