@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0cc8e22ea59f01fc",
+        "id": "6af86a405b446433",
         "type": "tabs",
         "children": [
           {
-            "id": "ceae9a53408320cd",
+            "id": "3280deb7bf67f399",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +158,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ceae9a53408320cd",
+  "active": "3280deb7bf67f399",
   "lastOpenFiles": [
-    "PPP/PPP.md",
-    "Base de Données/Base de Données.md",
+    "Base de Données/Chapitre4_R1_05.pdf",
+    "Base de Données/Opérations/Opération ensemblistes.md",
+    "Base de Données/Opérations/Opérations.md",
+    "Base de Données/Opérations",
     "Base de Données/Chapitre5_R1_05.pdf",
+    "Base de Données/Introduction aux base de donnée et SQL.md",
+    "Base de Données/Base de Données.md",
+    "PPP/Séance 1-2, métiers de l'informatique.md",
+    "PPP/PPP.md",
     "Base de Données/Chapitre6_R1_05.pdf",
     "README.md",
     "SAE/Base de Données/Base de Données.md",
@@ -180,10 +178,8 @@
     "SAE/Sudoku/Modalités évaluations test machine SAE S102.pdf",
     "SAE/Environement Economie/Environnement économique et écologique.md",
     "SAE/SAE.md",
-    "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/Règle de validation d'une UE.md",
     "PPP/PPP1 - 1.pdf",
-    "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/TP/tp4/Exo 2.2.md",
     "Base de Données/TP/tp4/Exo 2.1.md",
     "Architecture-système/Architecture-système.md",
@@ -192,7 +188,6 @@
     "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
     "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
     "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.py",
-    "Maths/Outils_Fondamentaux/TP/Exo-2/exo2.yp",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exo_readme.md",
@@ -200,9 +195,6 @@
     "Anglais Technique/Help Desk/Help Desk.md",
     "Anglais Technique/Help Desk/Training IT Support Test.md",
     "Anglais Technique/Help Desk/Social loafing.md",
-    "Anglais Technique/Help Desk/Question Vocabulary.md",
-    "Anglais Technique/Help Desk/Marking criteria.md",
-    "Anglais Technique/Anglais Technique.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",

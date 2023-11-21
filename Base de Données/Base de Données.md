@@ -14,6 +14,9 @@ type: folder_brief_live
 - [[cour_titouan_diapo_bdd.odp]]
 - [[Introduction aux base de donnée et SQL]]
 - [[Introduction_R1_05.pdf]]
+- **Opérations**
+	- [[Opérations Ensemblistes]]
+	- [[Opération ensemblistes]]
 - **TP**
 	- **tp1**
 		- [[Chauvel-Sacha_TP1-1.ods]]
