@@ -12,6 +12,10 @@ type: folder_brief_live
 		- [[exo1.py]]
 	- **Exo-2**
 		- [[exo2.py]]
+	- **Exo-5**
+		- [[exo5.py]]
+	- **Exo-9**
+		- [[exo9.py]]
 	- **Exo-x**
 		- [[TP02_eleves.py]]
 
