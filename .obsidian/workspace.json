@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6af86a405b446433",
+        "id": "dca49f9dc46eb088",
         "type": "tabs",
         "children": [
           {
-            "id": "3280deb7bf67f399",
+            "id": "e7862f3fbf872898",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3280deb7bf67f399",
+  "active": "e7862f3fbf872898",
   "lastOpenFiles": [
+    "SAE/Sudoku/Sudoku.md",
+    "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
+    "SAE/SAE.md",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Opérations/Opération ensemblistes.md",
     "Base de Données/Opérations/Opérations.md",
@@ -175,9 +178,8 @@
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Environement Economie/Environement Economie.md",
     "SAE/Environement Economie/Consigne rédaction dossier.md",
-    "SAE/Sudoku/Modalités évaluations test machine SAE S102.pdf",
+    "SAE/Sudoku/SAE_Sacha/pdf/Modalités évaluations test machine SAE S102.pdf",
     "SAE/Environement Economie/Environnement économique et écologique.md",
-    "SAE/SAE.md",
     "PPP/Règle de validation d'une UE.md",
     "PPP/PPP1 - 1.pdf",
     "Base de Données/TP/tp4/Exo 2.2.md",
@@ -194,7 +196,6 @@
     "Base de Données/TP/TP3.md",
     "Anglais Technique/Help Desk/Help Desk.md",
     "Anglais Technique/Help Desk/Training IT Support Test.md",
-    "Anglais Technique/Help Desk/Social loafing.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
