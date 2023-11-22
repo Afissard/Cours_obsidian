@@ -10,16 +10,31 @@
           {
             "id": "e7862f3fbf872898",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Economie/Cour 1/Note cour 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c7681807a8850723",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/Note cour 1.md",
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/Note cour 1.md",
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/Note cour 1.md"
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
               }
             }
           },
@@ -166,21 +181,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7862f3fbf872898",
+  "active": "c7681807a8850723",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Economie/Cour 1/BUT1Ch3Eco.pdf",
+    "Economie/Cour 1/lu15796xy0gjr.tmp",
+    "Economie/Cour 1/BUT1Ch2Eco.pdf",
+    "Economie/Cour 1/lu22680xxzu3s.tmp",
     "Economie/Cour 1/Note cour 1.md",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/lu16992xxxupy.tmp",
+    "conflict-files-obsidian-git.md",
     "Economie/Economie.md",
     "Economie/Cour 1/BUT1Ch1Eco.odt",
     "Economie/Cour 1/BUT1-TdEco PIB....odt",
     "Economie/Cour 1/BUT1Ch2Eco.odt",
     "Economie/Cour 1/BUT1Ch3Eco.odt",
     "Economie/Cour 1/BUT1-CircuitEco.pdf",
-    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
-    "Economie/Cour 1",
-    "Economie/Nouveau dossier",
-    "Economie",
-    "Maths/Outils_Fondamentaux/TP/Exo-9/exo9.py",
     "SAE/Sudoku/Sudoku.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
     "SAE/SAE.md",
@@ -203,7 +219,6 @@
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
-    "Initiation-dev/go/exercices-introdev/exo_readme.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
