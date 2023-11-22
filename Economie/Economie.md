@@ -15,7 +15,8 @@ type: folder_brief_live
 	- [[BUT1Ch2Eco.pdf]]
 	- [[BUT1Ch3Eco.odt]]
 	- [[BUT1Ch3Eco.pdf]]
-	- [[Note cour 1]]
+	- [[Prise de note cour 1]]
+	- [[Schéma économie politique.canvas]]
 
 %% End Waypoint %%
 

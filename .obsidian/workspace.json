@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dca49f9dc46eb088",
+        "id": "a79e91e69b2a4e03",
         "type": "tabs",
         "children": [
           {
-            "id": "e7862f3fbf872898",
+            "id": "a4d311fc4051a5d9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie/Cour 1/Note cour 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c7681807a8850723",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -100,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -181,14 +159,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7681807a8850723",
+  "active": "a4d311fc4051a5d9",
   "lastOpenFiles": [
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Economie/Cour 1/lu15796xy0gjr.tmp",
     "Economie/Cour 1/BUT1Ch2Eco.pdf",
     "Economie/Cour 1/lu22680xxzu3s.tmp",
-    "Economie/Cour 1/Note cour 1.md",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/lu16992xxxupy.tmp",
     "conflict-files-obsidian-git.md",
     "Economie/Economie.md",
@@ -196,7 +175,6 @@
     "Economie/Cour 1/BUT1-TdEco PIB....odt",
     "Economie/Cour 1/BUT1Ch2Eco.odt",
     "Economie/Cour 1/BUT1Ch3Eco.odt",
-    "Economie/Cour 1/BUT1-CircuitEco.pdf",
     "SAE/Sudoku/Sudoku.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
     "SAE/SAE.md",
