@@ -11,8 +11,12 @@
             "id": "e7862f3fbf872898",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Economie/Cour 1/Note cour 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economie/Cour 1/Note cour 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economie/Cour 1/Note cour 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economie/Cour 1/Note cour 1.md"
+              }
             }
           },
           {
@@ -160,42 +168,42 @@
   },
   "active": "e7862f3fbf872898",
   "lastOpenFiles": [
+    "Economie/Economie.md",
+    "Economie/Cour 1/Note cour 1.md",
+    "Economie/Cour 1/BUT1Ch1Eco.odt",
+    "Economie/Cour 1/BUT1-TdEco PIB....odt",
+    "Economie/Cour 1/BUT1Ch2Eco.odt",
+    "Economie/Cour 1/BUT1Ch3Eco.odt",
+    "Economie/Cour 1/BUT1-CircuitEco.pdf",
+    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
+    "Economie/Cour 1",
+    "Economie/Nouveau dossier",
+    "Economie",
     "Maths/Outils_Fondamentaux/TP/Exo-9/exo9.py",
-    "Maths/Outils_Fondamentaux/TP/Exo-9",
-    "Maths/Outils_Fondamentaux/TP/Exo-5/exo5.py",
-    "Maths/Outils_Fondamentaux/TP/Exo-5",
     "SAE/Sudoku/Sudoku.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
     "SAE/SAE.md",
-    "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Opérations/Opération ensemblistes.md",
     "Base de Données/Opérations/Opérations.md",
-    "Base de Données/Opérations",
-    "Base de Données/Chapitre5_R1_05.pdf",
     "Base de Données/Introduction aux base de donnée et SQL.md",
     "Base de Données/Base de Données.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/PPP.md",
-    "Base de Données/Chapitre6_R1_05.pdf",
     "README.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Environement Economie/Environement Economie.md",
     "SAE/Environement Economie/Consigne rédaction dossier.md",
-    "SAE/Sudoku/SAE_Sacha/pdf/Modalités évaluations test machine SAE S102.pdf",
     "SAE/Environement Economie/Environnement économique et écologique.md",
     "PPP/Règle de validation d'une UE.md",
-    "PPP/PPP1 - 1.pdf",
     "Base de Données/TP/tp4/Exo 2.2.md",
     "Base de Données/TP/tp4/Exo 2.1.md",
     "Architecture-système/Architecture-système.md",
-    "SAE/Economie/lu21696b7zhk0.tmp",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/exercices-introdev/exo_readme.md",
     "Base de Données/TP/TP3.md",
-    "Anglais Technique/Help Desk/Help Desk.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
