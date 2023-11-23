@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca2245652621113",
+        "id": "fd96338a17609865",
         "type": "tabs",
         "children": [
           {
-            "id": "584216d9ad4199ef",
+            "id": "4887c39ba5b7b9f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quebec/Quebec.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quebec/Quebec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quebec/Quebec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quebec/Quebec.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,28 +158,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "584216d9ad4199ef",
+  "active": "4887c39ba5b7b9f5",
   "lastOpenFiles": [
+    "Quebec/Administration/Administration.md",
+    "Quebec/Administration/QUEBEC formulaire_SE_401-Q-102.pdf",
+    "Quebec/Administration/Formulaire SE401-Q-104 stages.pdf",
+    "Quebec/Infos Formulaire SE401 Q 102.pdf",
+    "Quebec/Formalités dimmigration.pdf",
+    "Quebec/Etudier au Québec.pdf",
+    "Quebec/Accord de reconnaissance titre dingenieur.pdf",
+    "Quebec/Administration/SE401-Q-106.pdf",
+    "Quebec/Administration",
+    "Quebec/Journée internationale des assistants de langue.pdf",
+    "Quebec/Quebec.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Base de Données/Modélisation Mocodo.md",
-    "Quebec/Quebec.md",
     "Pasted image 20231123091538.png",
-    "Quebec/SE401-Q-106.pdf",
-    "Quebec/QUEBEC formulaire_SE_401-Q-102.pdf",
-    "Quebec/Infos Formulaire SE401 Q 102.pdf",
-    "Quebec/Formulaire SE401-Q-104 stages.pdf",
     "Quebec/UQAC/UQAC.md",
     "Quebec/UQAC/Cours UQAC INFO.pdf",
     "Quebec/ETS/ETS.md",
-    "Quebec/Accord de reconnaissance titre dingenieur.pdf",
-    "Quebec/Journée internationale des assistants de langue.pdf",
-    "Quebec/Formalités dimmigration.pdf",
-    "Quebec/Etudier au Québec.pdf",
     "Quebec/ETS.md",
     "Quebec/UQAC.md",
-    "Quebec/ETS/PPT ETS IUT 2023-2024.pdf",
     "Quebec/ETUDIER AU CANADA - QUEBEC.md",
     "conflict-files-obsidian-git.md",
     "Economie/Cour 1/Schéma économie politique.canvas",
@@ -204,8 +197,6 @@
     "Base de Données/TP/tp4/Exo 2.1.md",
     "Base de Données/TP/TP3.md",
     "PPP/Séance 1, métiers de l'informatique.md",
-    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
-    "Base de Données/TP/tp4/Exo 2.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
