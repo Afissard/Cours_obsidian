@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd96338a17609865",
+        "id": "3207c626bd46b7c3",
         "type": "tabs",
         "children": [
           {
-            "id": "4887c39ba5b7b9f5",
+            "id": "5bbd3daa4d3f4c4d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4887c39ba5b7b9f5",
+  "active": "5bbd3daa4d3f4c4d",
   "lastOpenFiles": [
+    "README.md",
+    "SAE/Sudoku/Sudoku.md",
+    "SAE/Environement Economie/Environement Economie.md",
+    "SAE/Base de Données/Base de Données.md",
+    "Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
+    "Quebec/ETUDIER AU CANADA - QUEBEC.md",
     "Quebec/Administration/Administration.md",
     "Quebec/Administration/QUEBEC formulaire_SE_401-Q-102.pdf",
     "Quebec/Administration/Formulaire SE401-Q-104 stages.pdf",
@@ -172,7 +178,6 @@
     "Quebec/Journée internationale des assistants de langue.pdf",
     "Quebec/Quebec.md",
     "SAE/SAE.md",
-    "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "Pasted image 20231123091538.png",
@@ -181,7 +186,6 @@
     "Quebec/ETS/ETS.md",
     "Quebec/ETS.md",
     "Quebec/UQAC.md",
-    "Quebec/ETUDIER AU CANADA - QUEBEC.md",
     "conflict-files-obsidian-git.md",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Prise de note cour 1.md",
@@ -190,13 +194,10 @@
     "Base de Données/Opérations/Opération ensemblistes.md",
     "Base de Données/Base de Données.md",
     "SAE/Environement Economie/Environnement économique et écologique.md",
-    "SAE/Environement Economie/Environement Economie.md",
     "SAE/Environement Economie/Consigne rédaction dossier.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "Base de Données/TP/tp4/Exo 2.2.md",
     "Base de Données/TP/tp4/Exo 2.1.md",
-    "Base de Données/TP/TP3.md",
-    "PPP/Séance 1, métiers de l'informatique.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
