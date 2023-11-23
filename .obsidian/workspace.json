@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1a574c795b12d4",
+        "id": "bbc69dc2a08dfa0d",
         "type": "tabs",
         "children": [
           {
-            "id": "54ac6ed7767a1b3d",
+            "id": "cf7566f94e242cea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base de Données/Base de Données.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Base de Données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Base de Données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/Base de Données.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54ac6ed7767a1b3d",
+  "active": "cf7566f94e242cea",
   "lastOpenFiles": [
+    "Base de Données/Base de Données.md",
     "SAE/Sudoku/Modalités évaluations test machine SAE S102.pdf",
     "SAE/Environement Economie/Sondage Eco-Gestes (réponses).ods",
     "SAE/Environement Economie/Environnement économique et écologique.md",
@@ -179,7 +172,6 @@
     "conflict-files-obsidian-git.md",
     "Base de Données/Chapitre3_R1_05.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
-    "Base de Données/Base de Données.md",
     "SAE/SAE.md",
     "Base de Données/TP/tp4/Exo 2.2.md",
     "Base de Données/TP/tp4/Exo 2.1.md",
@@ -189,7 +181,6 @@
     "PPP/Séance 1, métiers de l'informatique.md",
     "PPP/PPP1 Proust Calle.pdf",
     "PPP/PPP1 Guide.pdf",
-    "PPP/PPP1 - 1.pdf",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Base de Données/TP/tp4/Exo 2.md",
     "Anglais Technique/Help Desk/Help Desk.md",
