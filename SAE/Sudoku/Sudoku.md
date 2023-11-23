@@ -5,7 +5,6 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Modalités évaluations test machine SAE S102.pdf]]
 - **[[SAE_Sacha]]**
 
 %% End Waypoint %%

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc69dc2a08dfa0d",
+        "id": "9ca2245652621113",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7566f94e242cea",
+            "id": "584216d9ad4199ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quebec/Quebec.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quebec/Quebec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quebec/Quebec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quebec/Quebec.md"
+              }
             }
           },
           {
@@ -158,44 +166,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf7566f94e242cea",
+  "active": "584216d9ad4199ef",
   "lastOpenFiles": [
+    "Quebec/UQAC/UQAC.md",
+    "Quebec/UQAC/Cours UQAC INFO.pdf",
+    "Quebec/ETS/ETS.md",
+    "Quebec/Accord de reconnaissance titre dingenieur.pdf",
+    "Quebec/Journée internationale des assistants de langue.pdf",
+    "Quebec/Formalités dimmigration.pdf",
+    "Quebec/Etudier au Québec.pdf",
+    "Quebec/ETS.md",
+    "Quebec/UQAC.md",
+    "Quebec/ETS/PPT ETS IUT 2023-2024.pdf",
+    "Quebec/UQAC/UQAC présentation PPT.pdf",
+    "Quebec/UQAC/UQAC Préparation du séjour.pdf",
+    "Quebec/UQAC/Cours UQAC INFO.docx",
+    "Quebec/UQAC/BUT3 inter reunion oct23.pptx",
+    "Quebec/ETUDIER AU CANADA - QUEBEC.md",
+    "Quebec/Quebec.md",
+    "Pasted image 20231123091538.png",
+    "SAE/Base de Données/Modélisation Mocodo.md",
+    "conflict-files-obsidian-git.md",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Economie.md",
+    "Base de Données/Opérations/Opérations.md",
+    "Base de Données/Opérations/Opération ensemblistes.md",
     "Base de Données/Base de Données.md",
-    "SAE/Sudoku/Modalités évaluations test machine SAE S102.pdf",
-    "SAE/Environement Economie/Sondage Eco-Gestes (réponses).ods",
     "SAE/Environement Economie/Environnement économique et écologique.md",
     "SAE/Environement Economie/Environement Economie.md",
     "SAE/Environement Economie/Consigne rédaction dossier.md",
-    "SAE/Environement Economie",
     "PPP/Séance 1-2, métiers de l'informatique.md",
-    "Base de Données/Chapitre6_R1_05.pdf",
-    "conflict-files-obsidian-git.md",
-    "Base de Données/Chapitre3_R1_05.pdf",
-    "Base de Données/Chapitre4_R1_05.pdf",
     "SAE/SAE.md",
     "Base de Données/TP/tp4/Exo 2.2.md",
     "Base de Données/TP/tp4/Exo 2.1.md",
-    "Base de Données/Chapitre2_R1_05.pdf",
     "Base de Données/TP/TP3.md",
-    "SAE/Economie/Sondage Eco-Gestes (réponses).ods",
     "PPP/Séance 1, métiers de l'informatique.md",
-    "PPP/PPP1 Proust Calle.pdf",
-    "PPP/PPP1 Guide.pdf",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Base de Données/TP/tp4/Exo 2.md",
     "Anglais Technique/Help Desk/Help Desk.md",
-    "Anglais Technique/Help Desk/Training IT Support Test.md",
-    "Anglais Technique/Help Desk/Social loafing.md",
-    "Anglais Technique/Help Desk/Question Vocabulary.md",
-    "Anglais Technique/Help Desk/Marking criteria.md",
-    "Anglais Technique/Anglais Technique.md",
-    "SAE/Economie/Economie.md",
-    "SAE/Economie/Consigne rédaction dossier.md",
-    "Anglais Technique/Help Desk/Troubleshooting.md",
-    "Anglais Technique/Writing a Review/Computer Review.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "SAE/Economie/Environnement économique et écologique.md",
-    "Communication/Reporterre/Interview de Gaël Giraud.md",
     "Base de Données/TP/tp2/MCD/MCD.svg",
     "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
