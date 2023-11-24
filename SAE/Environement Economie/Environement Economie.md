@@ -10,3 +10,5 @@ type: folder_brief_live
 - [[Sondage Eco-Gestes (réponses).ods]]
 
 %% End Waypoint %%
+
+voir cours d'[[Economie]]

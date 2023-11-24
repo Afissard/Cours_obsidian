@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03c9ca60336ae143",
+        "id": "bc748bd6ea86a157",
         "type": "tabs",
         "children": [
           {
-            "id": "b2bc698cd93426b4",
+            "id": "54cd2f47c9293daf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Initiation-système/TP/scripts shells 2023.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Initiation-système/TP/scripts shells 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Initiation-système/TP/scripts shells 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Initiation-système/TP/scripts shells 2023.pdf"
+              }
             }
           },
           {
@@ -158,53 +164,57 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2bc698cd93426b4",
+  "active": "54cd2f47c9293daf",
   "lastOpenFiles": [
-    "SAE/Base de Données/SAE_S1_04.pdf",
+    "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
+    "conflict-files-obsidian-git.md",
+    "Initiation-système/TP/READMEtp3.md",
+    "Initiation-système/TP/EvaluationSIO-1-v2.pdf",
+    "Initiation-système/Initiation-système.md",
+    "Initiation-dev/Initiation-dev.md",
+    "README.md",
+    "Initiation-système/TP/READMEtp5.md",
+    "Initiation-système/TP/READMEtp4.md",
+    "Initiation-système/TP/gen.sh",
+    "Initiation-système/TP/images/processus4.png",
+    "Initiation-système/TP/images/flux.png",
+    "Initiation-système/TP/images/etatsProcessus.png",
+    "Initiation-système/TP/images/processus.png",
+    "Initiation-système/TP/images/principe pipe.png",
+    "Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
+    "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
+    "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
+    "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
+    "Initiation-système/TP/images",
+    "Initiation-système/TP/info1g4/images/processus4.png",
+    "Initiation-système/TP/info1g4/images",
+    "Initiation-système/TP/info1g4/SI5-findGrepLocateSed.pdf",
+    "Initiation-système/TP/info1g4/READMEtp4.md",
+    "Initiation-système/TP/info1g4/scripts shells 2023.pdf",
+    "Initiation-système/TP/info1g4/READMEtp5.md",
+    "Initiation-système/TP/info1g4/READMEtp3.md",
+    "Initiation-système/TP/info1g4/gen.sh",
+    "Initiation-système/TP/info1g4/EvaluationSIO-1-v2.pdf",
+    "Initiation-système/TP/info1g4",
+    "Quebec/UQAC/UQAC.md",
+    "Quebec/Quebec.md",
+    "Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
+    "Quebec/ETUDIER AU CANADA - QUEBEC.md",
+    "Quebec/ETS/ETS.md",
+    "Quebec/Administration/Administration.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
-    "Pasted image 20231123091538.png",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Base de Données/Base de Données.md",
     "Economie/Cour 1/Schéma économie politique.canvas",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/BUT1Ch3Eco.pdf",
-    "Economie/Cour 1/lu15796xy0gjr.tmp",
-    "Economie/Cour 1/BUT1Ch2Eco.pdf",
-    "Economie/Cour 1/lu22680xxzu3s.tmp",
-    "Economie/Cour 1/lu16992xxxupy.tmp",
-    "conflict-files-obsidian-git.md",
     "Economie/Economie.md",
-    "Economie/Cour 1/BUT1Ch1Eco.odt",
-    "Economie/Cour 1/BUT1-TdEco PIB....odt",
-    "Economie/Cour 1/BUT1Ch2Eco.odt",
     "SAE/Sudoku/Sudoku.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
     "SAE/SAE.md",
     "Base de Données/Opérations/Opération ensemblistes.md",
-    "Base de Données/Opérations/Opérations.md",
-    "Base de Données/Introduction aux base de donnée et SQL.md",
-    "Base de Données/Base de Données.md",
-    "PPP/Séance 1-2, métiers de l'informatique.md",
-    "PPP/PPP.md",
-    "README.md",
-    "SAE/Environement Economie/Environement Economie.md",
-    "SAE/Environement Economie/Consigne rédaction dossier.md",
-    "SAE/Environement Economie/Environnement économique et écologique.md",
-    "PPP/Règle de validation d'une UE.md",
-    "Base de Données/TP/tp4/Exo 2.2.md",
-    "Base de Données/TP/tp4/Exo 2.1.md",
-    "Architecture-système/Architecture-système.md",
-    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
-    "Initiation-dev/Initiation-dev.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "Base de Données/TP/tp2/MCD/MCD.svg",
-    "Initiation-dev/Algo/quicksort.png",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
-    "Gestion-de-Projet/Entreprise/Stratégie/Business_Model_Canvas.png",
-    "Anglais Technique/Vocabulary/Compound Word.canvas",
-    "Gestion-de-Projet/Entreprise/TP/tp_création_entreprise/Asteria_logo_1.png",
-    "Gestion-de-Projet/Entreprise/tp_création_entreprise/saturn_psychedelique.png"
+    "Anglais Technique/Vocabulary/Compound Word.canvas"
   ]
 }
