@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc748bd6ea86a157",
+        "id": "3d0704c06ca6e2cb",
         "type": "tabs",
         "children": [
           {
-            "id": "54cd2f47c9293daf",
+            "id": "4817974f2b012ef7",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54cd2f47c9293daf",
+  "active": "4817974f2b012ef7",
   "lastOpenFiles": [
+    "Initiation-système/Initiation-système.md",
     "Initiation-système/TP/scripts shells 2023.pdf",
     "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
     "Quebec/Quebec.md",
@@ -177,7 +170,6 @@
     "conflict-files-obsidian-git.md",
     "Initiation-système/TP/READMEtp3.md",
     "Initiation-système/TP/EvaluationSIO-1-v2.pdf",
-    "Initiation-système/Initiation-système.md",
     "Initiation-dev/Initiation-dev.md",
     "README.md",
     "Initiation-système/TP/READMEtp5.md",
