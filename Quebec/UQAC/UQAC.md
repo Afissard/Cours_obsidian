@@ -17,6 +17,6 @@ Université qui propose plusieurs cursus pour les étudiants des départements G
 Des frais de scolarité sont perçus par l'UQAC, entre 2000 € et 3 000€ pour l'année.
 
 Site web de l'UQAC : [https://www.uqac.ca/](https://www.uqac.ca/)
-## Parcours proposés aux étudiants de GEA et d'INFO :
+## Parcours proposés aux étudiants d'INFO :
 - INFO : Baccalauréat en Développement de Jeux Vidéos (_https://www.uqac.ca/programme/6596-baccalaureat-en-developpement-de-jeux-video/?officiel=oui_)
 - INFO: Baccalauréat en informatique (_https://www.uqac.ca/programme/7833-baccalaureat-en-informatique/?officiel=oui_)  

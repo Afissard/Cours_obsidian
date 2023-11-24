@@ -10,11 +10,13 @@
           {
             "id": "54cd2f47c9293daf",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Initiation-système/TP/scripts shells 2023.pdf"
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -166,7 +168,12 @@
   },
   "active": "54cd2f47c9293daf",
   "lastOpenFiles": [
+    "Initiation-système/TP/scripts shells 2023.pdf",
     "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
+    "Quebec/Quebec.md",
+    "Quebec/UQAC/UQAC.md",
+    "Quebec/ETS/ETS.md",
+    "Quebec/ETS/PPT ETS IUT 2023-2024.pdf",
     "conflict-files-obsidian-git.md",
     "Initiation-système/TP/READMEtp3.md",
     "Initiation-système/TP/EvaluationSIO-1-v2.pdf",
@@ -194,13 +201,8 @@
     "Initiation-système/TP/info1g4/READMEtp5.md",
     "Initiation-système/TP/info1g4/READMEtp3.md",
     "Initiation-système/TP/info1g4/gen.sh",
-    "Initiation-système/TP/info1g4/EvaluationSIO-1-v2.pdf",
-    "Initiation-système/TP/info1g4",
-    "Quebec/UQAC/UQAC.md",
-    "Quebec/Quebec.md",
     "Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
     "Quebec/ETUDIER AU CANADA - QUEBEC.md",
-    "Quebec/ETS/ETS.md",
     "Quebec/Administration/Administration.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
