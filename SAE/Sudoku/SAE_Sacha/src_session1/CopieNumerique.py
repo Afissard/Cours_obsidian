@@ -276,16 +276,18 @@ def retour(list_var, list_chgmts):
     l2 : la liste actualisée de l'ensemble des changements effectués depuis une formule initiale
     '''
     # TODO: n'a pas de décision à prendre, n'est appelé que si nécessaire
-    #print("\n", list_var, list_chgmts)
     if len(list_chgmts) == 0:
         return list_var, list_chgmts
     else :
         last = len(list_chgmts)-1
-        if list_chgmts[last][1]:
+        if list_chgmts[last][1] == True:
             list_chgmts[last][1] = False
             list_var[list_chgmts[last][0]] = list_chgmts[last][1]
+        elif list_chgmts[last][1] == False:
+            list_var[list_chgmts[last][0]] = None
+            list_chgmts.pop(last)
+            list_var, list_chgmts = retour(list_var, list_chgmts)
 
-    #print(list_var, list_chgmts)
     return list_var, list_chgmts
 
 
@@ -370,7 +372,7 @@ def init_list_var(grille,n):
 
 
 if __name__ == '__main__':
-    #REALISER VOS TESTS ICI
+    #RÉALISER VOS TESTS ICI
     
     #TEST evaluer_clause
     clause1=[1,-2,3,-4]
@@ -578,7 +580,7 @@ if __name__ == '__main__':
     test("essai cas 6 retour : ",retour(list_var,list_chgmts),(l1,l2))
     
     
-    '''
+    
     #TEST retour_simpl_for
     formule_init= [[1, -5,], [-1], [-5], [1]] 
     list_var= [True, True, False, False, True] 
@@ -600,7 +602,7 @@ if __name__ == '__main__':
     list_chgmts= [[2, True],[4,False]]
     cor_form,cor_l1,cor_l2= ([[-5]],[False, True, False, False, None],[[2, False]])
     test('essai4_retour_simpl_for : ',retour_simpl_for(formule_init,list_var,list_chgmts),(cor_form,cor_l1,cor_l2))
-    '''
+    
     
     '''
     #TEST retour_simpl_for_dpll
