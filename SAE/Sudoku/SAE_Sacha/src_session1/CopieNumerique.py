@@ -131,7 +131,9 @@ def determine_valuations(list_var):
 
 def resol_sat_force_brute(formule, list_var):
     '''
-    Arguments : une liste de listes d'entiers non nuls traduisant une formule,une liste de booléens informant de valeurs logiques connues (ou None dans le cas contraire) pour un ensemble de variables
+    Arguments : une liste de listes d'entiers non nuls traduisant une formule, 
+    une liste de booléens informant de valeurs logiques connues (ou None dans 
+    le cas contraire) pour un ensemble de variables
     Renvoie : SAT, l1
     avec SAT : booléen indiquant la satisfiabilité de la formule
           l1 : une liste de valuations rendant la formule vraie ou une liste vide
@@ -326,7 +328,7 @@ def resol_parcours_arbre(formule_init, list_var, list_chgmts):
     avec SAT : booléen indiquant la satisfiabilité de la formule
     l1 : une liste de valuations rendant la formule vraie ou une liste vide
     '''
-    #TODO: here
+    # TODO: here
        
 
 def resol_parcours_arbre_simpl_for(formule_init, formule, list_var, list_chgmts):
