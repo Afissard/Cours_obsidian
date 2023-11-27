@@ -228,7 +228,7 @@ def retablir_for(formule_init, list_chgmts):
     return formule_init
     
 
-def progress(list_var,list_chgmts):
+def progress(list_var, list_chgmts):
     '''
     Arguments : list_var, list_chgmts définies comme précédemment
     Renvoie : l1,l2
@@ -275,10 +275,18 @@ def retour(list_var, list_chgmts):
     l1 : la liste actualisée des valeurs attribuées aux variables 
     l2 : la liste actualisée de l'ensemble des changements effectués depuis une formule initiale
     '''
-    # TODO:
-    print(list_var)
-    print(list_chgmts)
+    # TODO: n'a pas de décision à prendre, n'est appelé que si nécessaire
+    #print("\n", list_var, list_chgmts)
+    if len(list_chgmts) == 0:
+        return list_var, list_chgmts
+    else :
+        last = len(list_chgmts)-1
+        if list_chgmts[last][1]:
+            list_chgmts[last][1] = False
+            list_var[list_chgmts[last][0]] = list_chgmts[last][1]
 
+    #print(list_var, list_chgmts)
+    return list_var, list_chgmts
 
 
 def retour_simpl_for(formule_init,list_var,list_chgmts):
@@ -363,7 +371,7 @@ def init_list_var(grille,n):
 
 if __name__ == '__main__':
     #REALISER VOS TESTS ICI
-    """
+    
     #TEST evaluer_clause
     clause1=[1,-2,3,-4]
     list_var1=[True,True,False,None]
@@ -383,9 +391,9 @@ if __name__ == '__main__':
     clause6=[1,2,3]
     list_var6=[False,False,True]
     test("essai cas 6 evaluer_clause : ",evaluer_clause(clause6,list_var6),True)
-    """
     
-    """
+    
+    
     #TEST evaluer_cnf
     for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1]]
     list_var_for1_test1=[True,False,False,None]
@@ -394,9 +402,9 @@ if __name__ == '__main__':
     test('test2 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test2),None)
     list_var_for1_test3=[True,False,True,False]
     test('test3 evaluer_cnf : ',evaluer_cnf(for1,list_var_for1_test3),False)
-    """
     
-    """
+    
+    
     #TEST determine_valuations
     list_var1=[True,None,False,None]
     print(test_determine_valuations('res_test_determine_valuations cas 1 : ',list_var1,[[True, True, False, True], [True, False, False, True], [True, True, False, False], [True, False, False, False]]))
@@ -406,9 +414,9 @@ if __name__ == '__main__':
     print(test_determine_valuations('res_test_determine_valuations cas 3 : ',list_var3,[[False, True, True, False]]))
     list_var4=[None,None,None]
     print(test_determine_valuations('res_test_determine_valuations cas 4 : ',list_var4,[[True, True, True], [False, True, True], [True, False, True], [False, False, True], [True, True, False], [False, True, False], [True, False, False], [False, False, False]]))
-    """
     
-    """
+    
+    
     #TEST resol_sat_force_brute
     for1=[[1,2],[2,-3,4],[-1,-2],[-1,-2,-3],[1],[-1,2,3]]
     list_var_for1=[None,None,None,None]
@@ -422,16 +430,16 @@ if __name__ == '__main__':
     for4=[[-1,-2],[-1,2,-3,4],[2,3,4],[3],[1,-4],[-1,2],[1,2]]
     list_var_for4=[None,None,None,True]
     test('test4 resol_sat_force_brute : ',resol_sat_force_brute(for4,list_var_for4),(False,[]))
-    """
     
-    """
+    
+    
     #TEST enlever_litt_for
     for1=[[1,2,4,-5],[-1,2,3,-4],[-1,-2,-5],[-3,4,5],[-2,3,4,5],[-4]]
     litt1=4
     test('essai cas 1 enlever_litt_for : ',enlever_litt_for(for1,litt1),[[-1, 2, 3], [-1, -2, -5], []])
-    """
     
-    """
+    
+    
     #TEST init_formule_simpl_for
     list_var_for1=[False, None, None, False, None]
     for1=[[-5, -3, 4, -1], [3], [5, -2], [-2, 1, -4], [1, -3]]
@@ -445,9 +453,9 @@ if __name__ == '__main__':
     for3= [[-5, -1], [-1, -3], [4], [-4, 1], [-2, -1, 3]]
     cor_for3=[[-5, -1], [-1, -3], [1], [-2, -1, 3]]
     test_for('test3_init_formule_simpl_for : ',init_formule_simpl_for(for3,list_var_for3),cor_for3)
-    """
     
-    """
+    
+    
     #TEST retablir_for
     formule_init=[[1, 2, 4, -5], [-1, 2, 3, -4], [-1, -2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]]
     list_chgmts1=[[0, True], [1, True], [2, False]]
@@ -459,9 +467,9 @@ if __name__ == '__main__':
     test('essai cas 1 retablir_for : ',retablir_for(formule_init,list_chgmts1),form1)
     test('essai cas 2 retablir_for : ',retablir_for(formule_init,list_chgmts2),form2)
     test('essai cas 3 retablir_for : ',retablir_for(formule_init,list_chgmts3),form3)
-    """
     
-    """
+    
+    
     #TEST progress
     list_var=[True, None, None, None, None]
     list_chgmts=[[0, True]]
@@ -493,9 +501,9 @@ if __name__ == '__main__':
     l1=[True, False, False, True, None]
     l2=[[2, False], [3, True]]
     test("essai cas 6 progress : ",progress(list_var,list_chgmts),(l1,l2))
-    """
+    
 
-    """
+    
     #TEST progress_simpl_for
     formule= [[1, 2, 4, -5], [-1, 2, 3, -4], [-1, -2, -5], [-3, 4, 5], [-2, 3, 4, 5], [-4, 5]] 
     list_var= [None, None, None, None, None] 
@@ -512,7 +520,7 @@ if __name__ == '__main__':
     list_chgmts= [[0, True], [1, False]]
     cor_form,cor_l1,cor_l2= ([[4, 5], [-4, 5]],[True, False, True, None, None],[[0, True], [1, False], [2, True]])
     test('essai3_progress_simpl_for : ',progress_simpl_for(formule,list_var,list_chgmts),(cor_form,cor_l1,cor_l2))
-    """
+    
     
     '''
     #TEST progress_simpl_for_dpll
