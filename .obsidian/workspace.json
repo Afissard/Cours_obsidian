@@ -36,19 +36,32 @@
           {
             "id": "9475ab5261d52b12",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Economie/Cour 1/Schéma économie politique.canvas",
                 "viewState": {
                   "x": 50,
-                  "y": 107.05985601535879,
+                  "y": 162.9451589163827,
                   "zoom": -0.8867265836714258
                 }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "62daf99596af14b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
+                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
+                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf"
               }
             }
           },
@@ -195,13 +208,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6bbef7af333c049",
+  "active": "62daf99596af14b5",
   "lastOpenFiles": [
-    "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
-    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "Economie/Cour 1/BUT1-CircuitEco.pdf",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "Economie/Economie.md",
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
