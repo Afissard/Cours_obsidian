@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3d0704c06ca6e2cb",
+        "id": "2bb382435644d3f8",
         "type": "tabs",
         "children": [
           {
-            "id": "4817974f2b012ef7",
+            "id": "f4187ff20eaee20a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PPP/PPP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6f6095dfa4660dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md"
+              }
             }
           },
           {
@@ -158,9 +179,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4817974f2b012ef7",
+  "active": "a6f6095dfa4660dc",
   "lastOpenFiles": [
+    "PPP/PPP_tableau.jpg",
+    "PPP/PPP.md",
+    "PPP/Règle de validation d'une UE.md",
     "Initiation-système/Initiation-système.md",
+    "PPP/Séance 1-2, métiers de l'informatique.md",
     "Initiation-système/TP/scripts shells 2023.pdf",
     "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
     "Quebec/Quebec.md",
@@ -185,7 +210,6 @@
     "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
     "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
     "Initiation-système/TP/images",
-    "Initiation-système/TP/info1g4/images/processus4.png",
     "Initiation-système/TP/info1g4/images",
     "Initiation-système/TP/info1g4/SI5-findGrepLocateSed.pdf",
     "Initiation-système/TP/info1g4/READMEtp4.md",
@@ -203,9 +227,6 @@
     "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Economie.md",
     "SAE/Sudoku/Sudoku.md",
-    "SAE/Sudoku/SAE_Sacha/SAE_Sacha.md",
-    "SAE/SAE.md",
-    "Base de Données/Opérations/Opération ensemblistes.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",

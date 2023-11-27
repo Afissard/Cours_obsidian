@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- [[PPP_tableau.jpg]]
 - [[PPP1 - 1.pdf]]
 - [[PPP1 Guide.pdf]]
 - [[PPP1 Proust Calle.pdf]]
@@ -12,3 +13,5 @@ type: folder_brief_live
 - [[Séance 1-2, métiers de l'informatique]]
 
 %% End Waypoint %%
+
+[[PPP_tableau.jpg]]
