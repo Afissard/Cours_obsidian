@@ -4,64 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ddf176cb064455",
+        "id": "d82b220ba5ef6349",
         "type": "tabs",
         "children": [
           {
-            "id": "a6bbef7af333c049",
+            "id": "e3bb7afc01025a2d",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "de228d63d8a0aff4",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie/Cour 1/Prise de note cour 1.md",
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9475ab5261d52b12",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Economie/Cour 1/Schéma économie politique.canvas",
-                "viewState": {
-                  "x": 50,
-                  "y": 162.9451589163827,
-                  "zoom": -0.8867265836714258
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "62daf99596af14b5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf",
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf",
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/BUT1-CircuitEco.pdf"
+                "file": "PPP/Séance 1-2, métiers de l'informatique.md"
               }
             }
           },
@@ -208,18 +166,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62daf99596af14b5",
+  "active": "e3bb7afc01025a2d",
   "lastOpenFiles": [
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
-    "Economie/Cour 1/BUT1-CircuitEco.pdf",
-    "Economie/Cour 1/Schéma économie politique.canvas",
-    "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
+    "PPP/PPP.md",
     "Economie/Economie.md",
+    "Economie/Cour 1/BUT1-CircuitEco.pdf",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
     "PPP/Séance 1-2, métiers de l'informatique.md",
-    "PPP/PPP.md",
     "PPP/Règle de validation d'une UE.md",
     "Initiation-système/Initiation-système.md",
     "Initiation-système/TP/scripts shells 2023.pdf",
