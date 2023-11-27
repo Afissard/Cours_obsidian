@@ -329,6 +329,13 @@ def resol_parcours_arbre(formule_init, list_var, list_chgmts):
     l1 : une liste de valuations rendant la formule vraie ou une liste vide
     '''
     # TODO: here
+    """
+    fonction à utilisé :
+    Formule :
+    Arbre :
+    - progress
+    - retour
+    """
        
 
 def resol_parcours_arbre_simpl_for(formule_init, formule, list_var, list_chgmts):
