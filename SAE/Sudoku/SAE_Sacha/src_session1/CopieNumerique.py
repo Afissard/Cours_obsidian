@@ -89,7 +89,10 @@ def evaluer_clause(clause, list_var):
 
 def evaluer_cnf(formule,list_var):
     '''
-    Arguments : une liste de listes d'entiers non nuls traduisant une formule,une liste de booléens informant de valeurs logiques connues (ou None dans le cas contraire) pour un ensemble de variables
+    Arguments : une liste de listes d'entiers non nuls 
+        traduisant une formule,une liste de booléens informant 
+        de valeurs logiques connues (ou None dans le cas contraire) 
+        pour un ensemble de variables
     Renvoie : None ou booléen
     '''
     resultat = True
@@ -104,8 +107,10 @@ def evaluer_cnf(formule,list_var):
 
 def determine_valuations(list_var):
     '''
-    Arguments : une liste de booléens informant de valeurs logiques connues (ou None dans le cas contraire) pour un ensemble de variables
-    Renvoie : La liste de toutes les valuations (sans doublon) envisageables pour les variables de list_var
+    Arguments : une liste de booléens informant de valeurs logiques 
+        connues (ou None dans le cas contraire) pour un ensemble de variables
+    Renvoie : La liste de toutes les valuations (sans doublon) 
+        envisageables pour les variables de list_var
     '''
     listValuations = []
     if None in list_var:
@@ -312,20 +317,22 @@ def retour_simpl_for_dpll(formule_init, list_var, list_chgmts, list_sans_retour)
     l2 : nouvelle list_chgmts
     l3 : nouvelle list_sans_retour
     '''
+    # TODO: passe pour le moment
 
 
-def resol_parcours_arbre(formule_init,list_var,list_chgmts):
+def resol_parcours_arbre(formule_init, list_var, list_chgmts):
     '''
-    Renvoie : SAT,l1
+    Renvoie : SAT, l1
     avec SAT : booléen indiquant la satisfiabilité de la formule
     l1 : une liste de valuations rendant la formule vraie ou une liste vide
     '''
     #TODO: here
        
 
-def resol_parcours_arbre_simpl_for(formule_init,formule,list_var,list_chgmts):#la même distinction peut être faite entre formule et formule_init
+def resol_parcours_arbre_simpl_for(formule_init, formule, list_var, list_chgmts):
+    # la même distinction peut être faite entre formule et formule_init
     '''
-    Renvoie SAT,l1 avec :
+    Renvoie SAT, l1 avec :
     SAT=True ou False
     l1=une liste de valuations rendant la formule vraie ou une liste vide
     ''' 
@@ -335,8 +342,8 @@ def resol_parcours_arbre_simpl_for(formule_init,formule,list_var,list_chgmts):#l
             return False,[]
         if formule==[]:
             return True,list_var
-        form,list_var_init,list_chgmts_init=progress_simpl_for(formule,list_var,[])
-        return resol_parcours_arbre_simpl_for(formule_init,form,list_var_init,list_chgmts_init)
+        form, list_var_init ,list_chgmts_init = progress_simpl_for(formule, list_var, [])
+        return resol_parcours_arbre_simpl_for(formule_init, form, list_var_init, list_chgmts_init)
     #Reste du parcours à implémenter :
 
 
@@ -346,6 +353,7 @@ def resol_parcours_arbre_simpl_for_dpll(formule_init,formule,list_var,list_chgmt
     SAT=True ou False
     l1=une liste de valuations rendant la formule vraie ou une liste vide
     '''
+    # TODO: passe pour le moment
     # Initialisation du parcours
     if list_chgmts==[]:
         if [] in formule:
