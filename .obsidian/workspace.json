@@ -10,9 +10,13 @@
           {
             "id": "a6bbef7af333c049",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              }
             }
           },
           {
@@ -160,6 +168,10 @@
   },
   "active": "a6bbef7af333c049",
   "lastOpenFiles": [
+    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
+    "Economie/Cour 1/BUT1-CircuitEco.pdf",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Economie.md",
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
     "PPP/Séance 1-2, métiers de l'informatique.md",
@@ -195,7 +207,6 @@
     "Initiation-système/TP/info1g4/scripts shells 2023.pdf",
     "Initiation-système/TP/info1g4/READMEtp5.md",
     "Initiation-système/TP/info1g4/READMEtp3.md",
-    "Initiation-système/TP/info1g4/gen.sh",
     "Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
     "Quebec/ETUDIER AU CANADA - QUEBEC.md",
     "Quebec/Administration/Administration.md",
@@ -203,8 +214,6 @@
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Base de Données/Base de Données.md",
     "Economie/Cour 1/Schéma économie politique.canvas",
-    "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Economie.md",
     "SAE/Sudoku/Sudoku.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
