@@ -21,5 +21,5 @@ Départ, 0N VILLE, 11 TRAJET : nomVille
 VILLE: nomVille
 
 ```
-![[Pasted image 20231123091538.png]]
+
 Pas définitif ...

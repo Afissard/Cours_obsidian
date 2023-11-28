@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "9b02bf88090bb948",
+        "id": "3b379446e13ac8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "461a700e84a63f09",
+            "id": "7e9ff0717bedc719",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c724fcc999d359fa",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf"
-              }
+                "file": "SAE/Base de Données/SAE_S1_04.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -83,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf",
+                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf",
+                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-système/TP/scripts shells 2023.pdf"
+                "file": "SAE/Base de Données/Modélisation Mocodo.md"
               }
             }
           },
@@ -164,8 +180,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "461a700e84a63f09",
+  "active": "7e9ff0717bedc719",
   "lastOpenFiles": [
+    "SAE/Base de Données/SAE_S1_04.pdf",
+    "SAE/Base de Données/Modélisation Mocodo.md",
+    "Pasted image 20231123091538.png.md",
+    "SAE/Base de Données/Cas transport (Co-voiturage).md",
+    "SAE/Base de Données/Base de Données.md",
+    "SAE/SAE.md",
+    "Initiation-système/TP/scripts shells 2023.pdf",
     "README.md",
     "Initiation-système/TP/READMEtp5.md",
     "Initiation-système/Initiation-système.md",
@@ -180,7 +203,6 @@
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
     "PPP/Règle de validation d'une UE.md",
-    "Initiation-système/TP/scripts shells 2023.pdf",
     "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
     "Quebec/Quebec.md",
     "Quebec/UQAC/UQAC.md",
@@ -201,17 +223,11 @@
     "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
     "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
     "Initiation-système/TP/images",
-    "Initiation-système/TP/info1g4/images",
     "Initiation-système/TP/info1g4/READMEtp4.md",
     "Initiation-système/TP/info1g4/READMEtp5.md",
     "Initiation-système/TP/info1g4/READMEtp3.md",
     "Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
     "Quebec/ETUDIER AU CANADA - QUEBEC.md",
-    "Quebec/Administration/Administration.md",
-    "SAE/Base de Données/Modélisation Mocodo.md",
-    "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "SAE/Base de Données/Base de Données.md",
-    "SAE/Sudoku/Sudoku.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
