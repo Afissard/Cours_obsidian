@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d82b220ba5ef6349",
+        "id": "9b02bf88090bb948",
         "type": "tabs",
         "children": [
           {
-            "id": "e3bb7afc01025a2d",
+            "id": "461a700e84a63f09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
-                "mode": "source",
-                "source": false
+                "file": "Initiation-système/TP/scripts shells 2023.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
+                "file": "Initiation-système/TP/scripts shells 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md",
+                "file": "Initiation-système/TP/scripts shells 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPP/Séance 1-2, métiers de l'informatique.md"
+                "file": "Initiation-système/TP/scripts shells 2023.pdf"
               }
             }
           },
@@ -166,8 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3bb7afc01025a2d",
+  "active": "461a700e84a63f09",
   "lastOpenFiles": [
+    "README.md",
+    "Initiation-système/TP/READMEtp5.md",
+    "Initiation-système/Initiation-système.md",
+    "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/PPP.md",
     "Economie/Economie.md",
     "Economie/Cour 1/BUT1-CircuitEco.pdf",
@@ -177,9 +179,7 @@
     "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
-    "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/Règle de validation d'une UE.md",
-    "Initiation-système/Initiation-système.md",
     "Initiation-système/TP/scripts shells 2023.pdf",
     "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
     "Quebec/Quebec.md",
@@ -189,8 +189,6 @@
     "Initiation-système/TP/READMEtp3.md",
     "Initiation-système/TP/EvaluationSIO-1-v2.pdf",
     "Initiation-dev/Initiation-dev.md",
-    "README.md",
-    "Initiation-système/TP/READMEtp5.md",
     "Initiation-système/TP/READMEtp4.md",
     "Initiation-système/TP/gen.sh",
     "Initiation-système/TP/images/processus4.png",
