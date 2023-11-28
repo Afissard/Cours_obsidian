@@ -2,7 +2,7 @@
 Avis, 0N UTILISATEUR, 0N UTILISATEUR : avis
 
 :
-UTILISATEUR: numUtilisateur, nom, addresse, avis
+UTILISATEUR: numUtilisateur, nom, addresse, avis, dateAgrement
 
 :
 Possède, 01 UTILISATEUR, 11 VEHICULE: numUtilisateur
@@ -19,7 +19,6 @@ Arrivé, 0N VILLE, 11 TRAJET : nomVille
 Départ, 0N VILLE, 11 TRAJET : nomVille
 
 VILLE: nomVille
-
 ```
 
 Pas définitif ...
