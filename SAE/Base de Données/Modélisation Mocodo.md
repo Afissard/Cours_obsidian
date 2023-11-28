@@ -10,7 +10,7 @@ Conducteur, 1N UTILISATEUR, 11 TRAJET : numUtilisateur
 Passager, 0N UTILISATEUR, 1N TRAJET : numUtilisateur
 :
 
-VEHICULE: matricule, type, marque energie, nbrPlace, dateMiseEnCirculation, numUtilisateur
+VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, numUtilisateur
 Utilisé, 11 VEHICULE, 1N TRAJET
 TRAJET: noConducteur, villeDep, villeAri, heureDes, passager, longueur, tarif
 
