@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3b379446e13ac8a3",
+        "id": "af6be7748695e252",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9ff0717bedc719",
+            "id": "8370b24b70db525a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c724fcc999d359fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SAE/Base de Données/SAE_S1_04.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,7 +158,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e9ff0717bedc719",
+  "active": "8370b24b70db525a",
   "lastOpenFiles": [
     "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/Modélisation Mocodo.md",
