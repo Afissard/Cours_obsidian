@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63d539f417cf09ce",
+        "id": "90a3b558ebe7607e",
         "type": "tabs",
         "children": [
           {
-            "id": "dc635db15bc5854f",
+            "id": "35effe682367b2f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf"
+                "file": "Initiation-système/Bash.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
+                "file": "Initiation-système/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
+                "file": "Initiation-système/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf"
+                "file": "Initiation-système/Bash.md"
               }
             }
           },
@@ -164,8 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc635db15bc5854f",
+  "active": "35effe682367b2f4",
   "lastOpenFiles": [
+    "Initiation-système/Initiation-système.md",
+    "Initiation-système/Bash.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
     "Initiation-dev/go/tuto5/src/tri2.go",
     "Initiation-dev/go/tuto5/src/tri.go",
     "Initiation-dev/go/tuto5/src/applique.go",
@@ -173,8 +180,6 @@
     "Initiation-dev/go/tuto5/src",
     "Initiation-dev/go/tuto5/tuto5-src.tar",
     "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/Initiation-dev.md",
     "Base de Données/Base de Données.md",
     "Base de Données/TP/TP SQL 1.md",
     "Base de Données/TP/TP SQL 2.md",
@@ -187,13 +192,10 @@
     "Initiation-système/TP/scripts shells 2023.pdf",
     "README.md",
     "Initiation-système/TP/READMEtp5.md",
-    "Initiation-système/Initiation-système.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/PPP.md",
     "Economie/Economie.md",
-    "Economie/Cour 1/BUT1-CircuitEco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
