@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af6be7748695e252",
+        "id": "63d539f417cf09ce",
         "type": "tabs",
         "children": [
           {
-            "id": "8370b24b70db525a",
+            "id": "dc635db15bc5854f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base de Données/TP/TP SQL 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/TP/TP SQL 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/TP/TP SQL 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/TP/TP SQL 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +158,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8370b24b70db525a",
+  "active": "dc635db15bc5854f",
   "lastOpenFiles": [
-    "Base de Données/TP/TP SQL 2.md",
     "Base de Données/TP/TP SQL 1.md",
+    "Base de Données/TP/TP SQL 2.md",
     "Base de Données/Base de Données.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
