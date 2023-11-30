@@ -432,6 +432,19 @@ type: folder_brief_live
 		- [[readfile.go]]
 		- [[write.go]]
 	- [[tuto3-fichiers.pdf]]
+- **tuto4**
+	- **src**
+		- [[interface.go]]
+	- [[tuto4-interfaces.pdf]]
+	- [[tuto4-src.tgz]]
+- **tuto5**
+	- **src**
+		- [[anonyme.go]]
+		- [[applique.go]]
+		- [[tri.go]]
+		- [[tri2.go]]
+	- [[tuto5-fonctions.pdf]]
+	- [[tuto5-src.tgz]]
 
 %% End Waypoint %%
 ## Présentation du langage #go

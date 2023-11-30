@@ -11,8 +11,10 @@
             "id": "dc635db15bc5854f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Initiation-dev/go/tuto5/tuto5-fonctions.pdf"
+              }
             }
           },
           {
@@ -160,9 +166,18 @@
   },
   "active": "dc635db15bc5854f",
   "lastOpenFiles": [
+    "Initiation-dev/go/tuto5/src/tri2.go",
+    "Initiation-dev/go/tuto5/src/tri.go",
+    "Initiation-dev/go/tuto5/src/applique.go",
+    "Initiation-dev/go/tuto5/src/anonyme.go",
+    "Initiation-dev/go/tuto5/src",
+    "Initiation-dev/go/tuto5/tuto5-src.tar",
+    "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/Initiation-dev.md",
+    "Base de Données/Base de Données.md",
     "Base de Données/TP/TP SQL 1.md",
     "Base de Données/TP/TP SQL 2.md",
-    "Base de Données/Base de Données.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
@@ -180,20 +195,14 @@
     "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Schéma économie politique.canvas",
-    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
     "PPP/Règle de validation d'une UE.md",
-    "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
     "Quebec/Quebec.md",
     "Quebec/UQAC/UQAC.md",
     "Quebec/ETS/ETS.md",
-    "Quebec/ETS/PPT ETS IUT 2023-2024.pdf",
     "Initiation-système/TP/READMEtp3.md",
-    "Initiation-système/TP/EvaluationSIO-1-v2.pdf",
-    "Initiation-dev/Initiation-dev.md",
     "Initiation-système/TP/READMEtp4.md",
-    "Initiation-système/TP/gen.sh",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
     "Initiation-système/TP/images/etatsProcessus.png",
@@ -203,10 +212,7 @@
     "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
     "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
-    "Initiation-système/TP/images",
     "Initiation-système/TP/info1g4/READMEtp4.md",
-    "Initiation-système/TP/info1g4/READMEtp5.md",
-    "Initiation-système/TP/info1g4/READMEtp3.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
