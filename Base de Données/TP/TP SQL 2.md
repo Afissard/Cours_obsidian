@@ -1,66 +1,113 @@
+# Récupération des tables
 ```sql
-/*
-// Récupération des table
+-- Récupération des table
 CREATE TABLE employe as select * FROM basetd.employe
 CREATE TABLE service as select * FROM basetd.service;
 CREATE TABLE travail as select * FROM basetd.travail;
 CREATE TABLE projet as select * FROM basetd.projet;
 CREATE TABLE concerne as select * FROM basetd.concerne;
-*/
-
-
-// 1.1
-// Question 1 : selection des employés qui travail sur tout les projets
+```
+# Exo 1
+```sql
+-- 1.1
+-- Question 1 : selection des employés qui travail sur tout les projets
 SELECT nomempl FROM employe, travail WHERE employe.nuempl=travail.nuempl;
 
-// Question 2 : Sélectionnez les noms des employés possédant les numéros suivants : 20,30 et 42
+-- Question 2 : Sélectionnez les noms des employés possédant les numéros suivants : 20,30 et 42
 SELECT nomempl FROM employe WHERE nuempl IN (20, 30, 42);
 
-// Question 3 : Sélectionnez les numéros des projets dont les noms commencent par la lettre ’C’
+-- Question 3 : Sélectionnez les numéros des projets dont les noms commencent par la lettre ’C’
 SELECT nuproj FROM projet WHERE nomproj LIKE 'c%';
 
-// Question 4 : Sélectionnez les numéros des employés dont le temps hebdomadaire n’est pas renseigné.
-SELECT nuempl FROM employe WHERE hebdo IS  NULL; // table vide ?!
+-- Question 4 : Sélectionnez les numéros des employés dont le temps hebdomadaire n’est pas renseigné.
+SELECT nuempl FROM employe WHERE hebdo IS  NULL; -- table vide ?!
 
-// Question 5 : Sélectionnez les noms des employés avec la durée de travail sur les projets. Si un employé n’est pas impliqué dans un projet son nom doit sortir dans le résultat de la requête.
+-- Question 5 : Sélectionnez les noms des employés avec la durée de travail sur les projets. Si un employé n’est pas impliqué dans un projet son nom doit sortir dans le résultat de la requête.
 SELECT nomempl, duree FROM employe, travail WHERE employe.nuempl = travail.nuempl(+);
 
-// Question 6 : Sélectionnez les numéros des projets sur lesquels travaille un employé.
+-- Question 6 : Sélectionnez les numéros des projets sur lesquels travaille un employé.
 SELECT nuproj, nuempl FROM travail;
 
-// Question 7 : Sélectionnez les numéros des employés qui ne travaillent pas sur des projets
+-- Question 7 : Sélectionnez les numéros des employés qui ne travaillent pas sur des projets
 SELECT nuempl FROM employe MINUS SELECT nuempl FROM travail;
 
-// 1.2
-// Question 1 : Sélectionnez les numéros et noms de tous les employés dans la table Employé 
+-- 1.2
+-- Question 1 : Sélectionnez les numéros et noms de tous les employés dans la table Employé 
 SELECT nuempl, nomempl FROM employe;
 
-// Question 2 : Sélectionnez le nombre d’employés
+-- Question 2 : Sélectionnez le nombre d’employés
 SELECT COUNT(*) from employe;
 
-// Question 3 : Sélectionnez le temps hebdomadaire moyen de travail des employés
+-- Question 3 : Sélectionnez le temps hebdomadaire moyen de travail des employés
 SELECT AVG(hebdo) FROM employe;
 
-// Question 4 : Sélectionnez la somme des durées consacrées par les employés aux projets
+-- Question 4 : Sélectionnez la somme des durées consacrées par les employés aux projets
 SELECT SUM(duree) FROM travail;
 
-// Question 5 : Affichez les noms des employés par ordre croissant 
+-- Question 5 : Affichez les noms des employés par ordre croissant 
 SELECT nomempl FROM employe ORDER BY nomempl ASC;
 
-// Question 6 : Affichez les numéros des employés et la durée de travail consacrée par chacun des employés à chacun des projets. Les résultats doivent être triés par numéro employé (ordre décroissant)
+-- Question 6 : Affichez les numéros des employés et la durée de travail consacrée par chacun des employés à chacun des projets. Les résultats doivent être triés par numéro employé (ordre décroissant)
 SELECT nuempl, duree, nuproj FROM travail ORDER BY nuempl DESC;
 
-// Question 7 : Affichez le nom du service numéro 1 
+-- Question 7 : Affichez le nom du service numéro 1 
 SELECT nomempl FROM service WHERE nuserv = 1;
 
-// Question 8 : Affichez les noms des autres services
+-- Question 8 : Affichez les noms des autres services
 SELECT nomempl FROM service WHERE nuserv != 1;
 
-// Question 9 : Affichez les noms des employés qui ne travaillent pas 
-SELECT nomempl FROM employe WHERE NOT nuempl IN (SELECT nuempl FROM travail); // requete imbriquée mais existe plus simple
-SELECT nomempl FROM employe MINUS SELECT nomempl FROM employe, travail WHERE employe.nuempl = travail.nuempl; // Solution "plus simple" ...
+-- Question 9 : Affichez les noms des employés qui ne travaillent pas 
+SELECT nomempl FROM employe WHERE NOT nuempl IN (SELECT nuempl FROM travail); -- requete imbriquée mais existe plus simple
+SELECT nomempl FROM employe MINUS SELECT nomempl FROM employe, travail WHERE employe.nuempl = travail.nuempl; -- Solution "plus simple" ...
 
-// Question 10 : Affichez les noms des employés dont le temps de travail hebdomadaire est compris entre 20 et 30 (deux versions)
+-- Question 10 : Affichez les noms des employés dont le temps de travail hebdomadaire est compris entre 20 et 30 (deux versions)
 SELECT nomempl FROM employe WHERE hebdo BETWEEN 20 and 30;
 SELECT nomempl FROM employe WHERE hebdo >= 20 and hebdo <=30;
+```
+
+# Exo 2
+```sql 
+-- 2.1 
+-- Question 1 : Sous-requête indépendante renvoyant une seule ligne 
+-- Question 1.1 : Le nom de des employés qui sont affectés au service ’achat’; 
+SELECT nomempl FROM employe WHERE affect = (
+	SELECT nuserv FROM service WHERE nomserv = 'achat'
+	)
+; 
+-- Question 1.2 : Le nom du projet sur lequel travail l’employé numéro 20
+SELECT nomproj FROM projet WHERE nuproj = (
+	SELECT nuproj FROM travail WHERE nuempl = 20
+	)
+; 
+
+-- Question 2 : Sous-requête indépendante renvoyant plusieurs lignes 
+-- Question 2.1 : Les noms des employés dont la durée de travail sur chacun des projets est de 5h 
+SELECT nomempl FROM employe WHERE nuempl IN (
+	SELECT nuempl FROM travail WHERE duree = 5
+	)
+; 
+-- Question 2.2 :Les noms des employés qui ne travaillent pas sur des projets. Deux versions : in et all 
+-- version "IN" :
+SELECT nomempl FROM employe WHERE nuempl NOT IN (SELECT nuempl FROM travail); -- version "ALL" :
+SELECT nomempl FROM employe WHERE nuempl != ALL (SELECT nuempl FROM travail); 
+
+-- Question 3 : Sous-requête dépendante de la requête principale 
+-- Question 3.1 : Les employés (sans doublons) qui travaillent sur des projets dans lesquels est impliqué le responsable du projet numéro 30. 
+SELECT DISTINCT nomempl FROM employe WHERE nuempl IN ( 
+	SELECT nuempl FROM travail WHERE nuproj IN ( 
+		SELECT nuproj FROM projet WHERE resp = 30 
+		) 
+	) 
+; -- ne respecte pas la consigne car requête indépendante 
+SELECT DISTINCT nomempl FROM employe e, travail t WHERE e.nuempl = t.nuempl AND t.nuproj IN ( 
+	SELECT nuproj FROM projet WHERE resp = 30 
+	)
+; -- meilleur solution, plus concis mais ne respect toujours pas la consigne
+SELECT DISTINCT nomempl FROM employe e, travail t WHERE e.nuempl = t.nuempl AND t.nuproj IN ( 
+	SELECT nuproj FROM projet p WHERE p.resp = 30 AND p.nuproj = t.nuproj 
+	)
+; -- Difference entre la deuxième version est que celle ci est dépendente 
+-- Question 3.2 : Les noms des employés qui travaillent sur des projets (version avec exists) 
+SELECT nomempl FROM employe e WHERE EXISTS (SELECT * FROM travail t WHERE e.nuempl = t.nuempl); 
+-- Question 3.3 : Les employés qui ne travaillent pas sur des projets (version avec exists) -> TODO 
 ```

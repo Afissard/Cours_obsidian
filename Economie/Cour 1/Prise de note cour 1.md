@@ -13,3 +13,9 @@ Toute la production national n'est pas forcement destiné à la demande intérie
 L'augmentation du pib d'une année sur l'autre s'appelle la croissance économique. Il existe 2 moteur à cette croissance : 
 - la demande intérieur (consommation et investissement) qui tire la croissance
 - le commerce extérieur (vente, export) qui tire la croissance de part la compétitivité mondiale, on produit plus
+# Exemple valeurs ajouter
+PIB = Somme des valeur ajouté (VA)
+avec VA  = valeur de la production - consommation intermédiaire (CI) (exemple : service comme le transport, etc)
+voir [[Schéma répartition richesse & Valeur ajouté.canvas|Schéma répartition richesse & Valeur ajouté]]
+voir [[schéma PIB d'un pays.canvas|schéma PIB d'un pays]]
+

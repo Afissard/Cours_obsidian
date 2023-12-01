@@ -10,13 +10,27 @@
           {
             "id": "35effe682367b2f4",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5325db9f15ee646d",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation-système/Bash.md",
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -69,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation-système/Bash.md",
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation-système/Bash.md",
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation-système/Bash.md"
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
               }
             }
           },
@@ -168,9 +183,19 @@
   },
   "active": "35effe682367b2f4",
   "lastOpenFiles": [
-    "Initiation-système/commandes_linux_Rafael.odt",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/schéma PIB d'un pays.canvas",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Base de Données/Base de Données.md",
+    "Base de Données/TP/TP SQL 2.md",
+    "Base de Données/Introduction aux base de donnée et SQL.md",
+    "Economie/Cour 1/odtSrc",
+    "Economie/Economie.md",
     "Initiation-système/Initiation-système.md",
     "Initiation-système/Bash.md",
+    "Initiation-système/commandes_linux_Rafael.odt",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
@@ -180,24 +205,16 @@
     "Initiation-dev/go/tuto5/src/anonyme.go",
     "Initiation-dev/go/tuto5/src",
     "Initiation-dev/go/tuto5/tuto5-src.tar",
-    "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
-    "Base de Données/Base de Données.md",
     "Base de Données/TP/TP SQL 1.md",
-    "Base de Données/TP/TP SQL 2.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
-    "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "Pasted image 20231123091538.png.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "Initiation-système/TP/scripts shells 2023.pdf",
     "README.md",
     "Initiation-système/TP/READMEtp5.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "PPP/PPP.md",
-    "Economie/Economie.md",
-    "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/Schéma économie politique.canvas",
     "conflict-files-obsidian-git.md",
     "PPP/PPP_tableau.jpg",
     "PPP/Règle de validation d'une UE.md",
@@ -205,7 +222,6 @@
     "Quebec/UQAC/UQAC.md",
     "Quebec/ETS/ETS.md",
     "Initiation-système/TP/READMEtp3.md",
-    "Initiation-système/TP/READMEtp4.md",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
     "Initiation-système/TP/images/etatsProcessus.png",
