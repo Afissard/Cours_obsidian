@@ -18,4 +18,5 @@ PIB = Somme des valeur ajouté (VA)
 avec VA  = valeur de la production - consommation intermédiaire (CI) (exemple : service comme le transport, etc)
 voir [[Schéma répartition richesse & Valeur ajouté.canvas|Schéma répartition richesse & Valeur ajouté]]
 voir [[schéma PIB d'un pays.canvas|schéma PIB d'un pays]]
+voir [[Schéma Pouvoir d'Achat.canvas|Schéma Pouvoir d'Achat]]
 

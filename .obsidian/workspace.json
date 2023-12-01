@@ -32,8 +32,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "dc31f962eca32584",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
+                "viewState": {
+                  "x": 474.54257219817066,
+                  "y": -64.33725964663691,
+                  "zoom": -0.8414686692754426
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -100,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+                "file": "Economie/Cour 1/Prise de note cour 1.md"
               }
             }
           },
@@ -181,11 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35effe682367b2f4",
+  "active": "5325db9f15ee646d",
   "lastOpenFiles": [
+    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/schéma PIB d'un pays.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Base de Données/Base de Données.md",

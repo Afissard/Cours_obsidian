@@ -19,6 +19,7 @@ type: folder_brief_live
 	- [[Prise de note cour 1]]
 	- [[Schéma économie politique.canvas]]
 	- [[schéma PIB d'un pays.canvas]]
+	- [[Schéma Pouvoir d'Achat.canvas]]
 	- [[Schéma répartition richesse & Valeur ajouté.canvas]]
 
 %% End Waypoint %%
