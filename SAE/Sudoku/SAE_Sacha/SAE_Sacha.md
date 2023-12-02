@@ -11,5 +11,7 @@ type: folder_brief_live
 - [[sacha_v1.py]]
 - **src_origine**
 	- [[sae_s1_02_etu_a2 copy.py]]
+- **src_session1**
+	- [[CopieNumerique.py]]
 
 %% End Waypoint %%
