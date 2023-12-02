@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3207c626bd46b7c3",
+        "id": "1d21eb3d270b84ed",
         "type": "tabs",
         "children": [
           {
-            "id": "5bbd3daa4d3f4c4d",
+            "id": "c2105614b136e804",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/SAE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/SAE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/SAE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/SAE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bbd3daa4d3f4c4d",
+  "active": "c2105614b136e804",
   "lastOpenFiles": [
+    "SAE/SAE.md",
     "Initiation-système/TP/images/etatsProcessus.png",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/processus.png",
@@ -198,7 +191,6 @@
     "Quebec/Infos Formulaire SE401 Q 102.pdf",
     "Quebec/Formalités dimmigration.pdf",
     "Quebec/Quebec.md",
-    "SAE/SAE.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "Pasted image 20231123091538.png",
@@ -215,7 +207,6 @@
     "Base de Données/Base de Données.md",
     "SAE/Environement Economie/Environnement économique et écologique.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "Base de Données/TP/tp2/MCD/MCD.svg",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
     "Anglais Technique/Vocabulary/Compound Word.canvas"
