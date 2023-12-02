@@ -35,7 +35,7 @@ def q2():
     print("\nalgèbre linéaire : inversion :")
     print(np.linalg.inv(a))
 
-    print("\nshape ?:")
+    print("\nshape : dimension de la matrice")
     print(a.shape)
 
     print("\nsum :")
