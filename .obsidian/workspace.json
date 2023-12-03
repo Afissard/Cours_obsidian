@@ -4,12 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "1d21eb3d270b84ed",
         "id": "90a3b558ebe7607e",
         "type": "tabs",
         "children": [
           {
-            "id": "c2105614b136e804",
             "id": "35effe682367b2f4",
             "type": "leaf",
             "pinned": true,
@@ -198,7 +196,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2105614b136e804",
   "active": "5325db9f15ee646d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
