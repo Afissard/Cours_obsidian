@@ -4,11 +4,10 @@
 type: folder_brief_live
 ```
 %% Begin Waypoint %%
-- **[[Bash]]**
 - [[commandes_linux_Rafael.odt]]
 - [[Gestion de la mémoire]]
 - [[Gestion des fichier et périphérique]]
-- [[Gestion des processus]]
+- [[Initiation-système/Gestion des processus]]
 - [[Introduction aux système d'exploitation]]
 - [[OS (ou histoire & culture informatique)]]
 - **TP**

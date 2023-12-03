@@ -10,6 +10,8 @@ type: folder_brief_live
 - [[Création et édition de dossiers et fichiers]]
 - [[Déplacement dans les dossiers]]
 - [[Droits et Administration]]
+- [[Exécution de cmd chainé]]
+- [[Gestion des processus]]
 - [[Mise à jour]]
 - [[Recherche de fichiers et dossiers]]
 - [[tldr - Too Long, Didn't Read]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c7eb3e9d7789125",
+        "id": "57915dcc5b018928",
         "type": "tabs",
         "children": [
           {
-            "id": "e9711ffbff8abdf2",
+            "id": "93cdd4a968080f51",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasted image 20231123091538.png.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,25 +158,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "93cdd4a968080f51",
   "lastOpenFiles": [
+    "Bash/Autres cmd, plus ou moins utiles.md",
+    "Bash/Gestion des processus.md",
+    "Bash/Exécution de cmd chainé.md",
+    "Bash/Bash.md",
     "Pasted image 20231123091538.png.md",
-    "Initiation-système/Bash/Archives et Zip.md",
-    "Initiation-système/Bash/Autres cmd, plus ou moins utiles.md",
-    "Initiation-système/Bash/Bash.md",
-    "Initiation-système/Bash/Recherche de fichiers et dossiers.md",
-    "Initiation-système/Bash/Création et édition de dossiers et fichiers.md",
+    "Bash/Archives et Zip.md",
+    "Bash/Recherche de fichiers et dossiers.md",
+    "Bash/Création et édition de dossiers et fichiers.md",
     "Initiation-système/TP/READMEtp3.md",
     "Initiation-système/TP/READMEtp4.md",
     "Initiation-système/Gestion des fichier et périphérique.md",
-    "Initiation-système/Bash/Déplacement dans les dossiers.md",
-    "Initiation-système/Bash/Droits et Administration.md",
-    "Initiation-système/Bash/tldr - Too Long, Didn't Read.md",
-    "Initiation-système/Bash/Mise à jour.md",
+    "Bash/Déplacement dans les dossiers.md",
+    "Bash/Droits et Administration.md",
+    "Bash/tldr - Too Long, Didn't Read.md",
+    "Bash/Mise à jour.md",
     "Initiation-système/Bash/chmod.md",
     "Initiation-système/Bash/sudo.md",
     "Initiation-système/Bash/Bash cheat sheet.md",
-    "Initiation-système/Bash",
+    "Bash",
     "Initiation-système/Initiation-système.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
@@ -208,8 +208,6 @@
     "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
     "Initiation-système/TP/READMEtp5.md",
     "README.md",
-    "SAE/Sudoku/Sudoku.md",
-    "SAE/Environement Economie/Environement Economie.md",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
