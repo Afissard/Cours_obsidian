@@ -4,7 +4,7 @@
 type: folder_brief_live
 ```
 %% Begin Waypoint %%
-- [[Bash]]
+- **[[Bash]]**
 - [[commandes_linux_Rafael.odt]]
 - [[Gestion de la mémoire]]
 - [[Gestion des fichier et périphérique]]
