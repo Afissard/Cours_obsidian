@@ -110,4 +110,83 @@ SELECT DISTINCT nomempl FROM employe e, travail t WHERE e.nuempl = t.nuempl AND 
 -- Question 3.2 : Les noms des employés qui travaillent sur des projets (version avec exists) 
 SELECT nomempl FROM employe e WHERE EXISTS (SELECT * FROM travail t WHERE e.nuempl = t.nuempl); 
 -- Question 3.3 : Les employés qui ne travaillent pas sur des projets (version avec exists) -> TODO 
+ 
+-- 2.2 
+-- Question 1 : Liste des noms de projets avec le nom du responsable et le nombre d’employés qui y travaillent 
+SELECT p.nomproj, r.nomempl, NBempl 
+	FROM employe r, projet p, (
+		SELECT nuproj, COUNT(t.nuempl) as NBempl 
+			FROM travail t GROUP BY t.nuproj) tNBempl 
+		WHERE 
+			p.resp = r.nuempl AND 
+			tNBempl.nuproj = p.nuproj 
+; 
+-- Correction 
+SELECT nomproj, e1.nomempl, COUNT(*) 
+	FROM projet p, employe e1, travail t, employe e2 
+	WHERE 
+		p.resp = e1.nuempl AND 
+		p.nuproj = t.nuproj AND 
+		t.nuempl = e2.nuempl 
+		GROUP BY nomproj, e1.nomempl 
+; 
+-- Question 2 : Liste des noms de projets avec la totalisation du nombre d’heures passées par les employés qui y travaillent 
+SELECT p.nomproj, tTotDuree.TotDuree 
+	FROM projet p, (
+		SELECT t.nuproj,SUM(t.duree) AS TotDuree 
+			FROM travail t GROUP BY t.nuproj) tTotDuree 
+		WHERE 
+			tTotDuree.nuproj = p.nuproj 
+; 
+-- Correction 
+SELECT nomproj, SUM(duree) AS totalNBh 
+	FROM projet p, travail t 
+	WHERE 
+		p.nuproj = t.nuproj 
+		GROUP BY nomproj 
+; 
+-- Question 3 : Liste des noms de projets avec pour chaque service concerné, le nom du service et le nombre d’employés de ce service qui travaillent sur ce projet 
+SELECT nomproj, nomserv, COUNT(*) AS NBemploye 
+	FROM employe e, projet p, travail t, service s, concerne c 
+	WHERE 
+		p.nuproj = c.nuproj AND 
+		c.nuserv = s.nuserv AND 
+		s.nuserv = e.affect AND 
+		e.nuempl = t.nuempl 
+		GROUP BY nomproj, s.nomserv 
+; 
+-- Question 4 : Liste des employés qui travaillent sur tous les projets 
+SELECT nomempl 
+	FROM employe e, travail t, projet p 
+	WHERE 
+		e.nuempl = t.nuempl AND 
+		t.nuproj = p.nuproj 
+		GROUP BY e.nuempl, e.nomempl HAVING COUNT(*) = (
+			SELECT COUNT(*) FROM projet
+		) 
+; 
+-- Question 5 : Pour le service Achat, trouvez le nom du chef de service et le nombre d’employés qui y sont affectés 
+SELECT e1.nomempl, COUNT(*) 
+	FROM employe e1, service s, employe e2 
+	WHERE 
+		e1.nuempl = s.chef AND 
+		s.nomserv = 'achat' AND 
+		e2.affect = s.nuserv 
+		GROUP BY e1.nomempl 
+; 
+-- Question 6 : Liste des employés qui travaillent sur au moins un des projets sur lesquels ’Marcel’ travaille. 
+SELECT e.nomempl 
+	FROM employe e, projet p, travail t 
+	WHERE 
+		e.nuempl = t.nuempl AND 
+		t.nuproj = p.nuproj AND 
+		p.nuproj IN ( 
+			SELECT nuproj 
+				FROM travail t, employe e 
+				WHERE 
+					e.nuempl = t.nuempl AND 
+					e.nomempl = 'marcel' 
+			) 
+		AND  e.nomempl != 'marcel' -- Marcel travail avec lui même 
+; 
 ```
