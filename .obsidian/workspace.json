@@ -32,24 +32,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "dc31f962eca32584",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
-                "viewState": {
-                  "x": 474.54257219817066,
-                  "y": -64.33725964663691,
-                  "zoom": -0.8414686692754426
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/Prise de note cour 1.md",
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/Prise de note cour 1.md",
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/Prise de note cour 1.md"
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
               }
             }
           },
@@ -196,8 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5325db9f15ee646d",
+  "active": "35effe682367b2f4",
   "lastOpenFiles": [
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Cour 1/BUT1Ch2Eco.pdf",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
     "Bash/Mise à jour.md",
@@ -210,9 +198,6 @@
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
     "Bash",
-    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
-    "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Cour 1/schéma PIB d'un pays.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
@@ -231,13 +216,11 @@
     "Initiation-dev/go/tuto5/src/tri.go",
     "Initiation-dev/go/tuto5/src/applique.go",
     "Initiation-dev/go/tuto5/src/anonyme.go",
-    "Initiation-dev/go/tuto5/src",
     "Base de Données/TP/TP SQL 1.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "Pasted image 20231123091538.png.md",
-    "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
