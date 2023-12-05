@@ -4,18 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "57915dcc5b018928",
+        "id": "90a3b558ebe7607e",
         "type": "tabs",
         "children": [
           {
-            "id": "93cdd4a968080f51",
+            "id": "35effe682367b2f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5325db9f15ee646d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dc31f962eca32584",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
+                "viewState": {
+                  "x": 474.54257219817066,
+                  "y": -64.33725964663691,
+                  "zoom": -0.8414686692754426
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economie/Cour 1/Prise de note cour 1.md"
+              }
             }
           },
           {
@@ -158,57 +196,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93cdd4a968080f51",
+  "active": "5325db9f15ee646d",
   "lastOpenFiles": [
-    "Bash/Autres cmd, plus ou moins utiles.md",
+    "Bash/tldr - Too Long, Didn't Read.md",
+    "Bash/Recherche de fichiers et dossiers.md",
+    "Bash/Mise à jour.md",
     "Bash/Gestion des processus.md",
     "Bash/Exécution de cmd chainé.md",
-    "Bash/Bash.md",
-    "Pasted image 20231123091538.png.md",
-    "Bash/Archives et Zip.md",
-    "Bash/Recherche de fichiers et dossiers.md",
-    "Bash/Création et édition de dossiers et fichiers.md",
-    "Initiation-système/TP/READMEtp3.md",
-    "Initiation-système/TP/READMEtp4.md",
-    "Initiation-système/Gestion des fichier et périphérique.md",
     "Bash/Déplacement dans les dossiers.md",
     "Bash/Droits et Administration.md",
-    "Bash/tldr - Too Long, Didn't Read.md",
-    "Bash/Mise à jour.md",
-    "Initiation-système/Bash/chmod.md",
-    "Initiation-système/Bash/sudo.md",
-    "Initiation-système/Bash/Bash cheat sheet.md",
+    "Bash/Création et édition de dossiers et fichiers.md",
+    "Bash/Bash.md",
+    "Bash/Autres cmd, plus ou moins utiles.md",
+    "Bash/Archives et Zip.md",
     "Bash",
-    "Initiation-système/Initiation-système.md",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
-    "conflict-files-obsidian-git.md",
-    "SAE/Sudoku/SAE_Sacha/src_session1/CopieNumerique.py",
-    "SAE/Sudoku/SAE_Sacha/src_session1",
-    "PPP/PPP_tableau.jpg",
+    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Cour 1/schéma PIB d'un pays.canvas",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Base de Données/Base de Données.md",
+    "Base de Données/TP/TP SQL 2.md",
+    "Base de Données/Introduction aux base de donnée et SQL.md",
+    "Economie/Cour 1/odtSrc",
+    "Economie/Economie.md",
+    "Initiation-système/Initiation-système.md",
+    "Initiation-système/Bash.md",
     "Initiation-système/commandes_linux_Rafael.odt",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
     "Initiation-dev/go/tuto5/src/tri2.go",
     "Initiation-dev/go/tuto5/src/tri.go",
     "Initiation-dev/go/tuto5/src/applique.go",
     "Initiation-dev/go/tuto5/src/anonyme.go",
-    "Initiation-dev/go/tuto5/tuto5-src.tgz",
-    "Economie/Cour 1/schéma PIB d'un pays.canvas",
-    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
-    "Base de Données/TP/TP SQL 2.md",
+    "Initiation-dev/go/tuto5/src",
     "Base de Données/TP/TP SQL 1.md",
     "SAE/SAE.md",
-    "Initiation-système/TP/images/etatsProcessus.png",
+    "SAE/Base de Données/Base de Données.md",
+    "SAE/Base de Données/Modélisation Mocodo.md",
+    "Pasted image 20231123091538.png.md",
+    "SAE/Base de Données/Cas transport (Co-voiturage).md",
+    "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
+    "Initiation-système/TP/images/flux.png",
+    "Initiation-système/TP/images/etatsProcessus.png",
     "Initiation-système/TP/images/processus.png",
     "Initiation-système/TP/images/principe pipe.png",
     "Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
     "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
-    "Initiation-système/TP/READMEtp5.md",
-    "README.md",
-    "Economie/Cour 1/Schéma économie politique.canvas",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",

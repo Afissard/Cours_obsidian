@@ -7,7 +7,7 @@ type: folder_brief_live
 - [[commandes_linux_Rafael.odt]]
 - [[Gestion de la mémoire]]
 - [[Gestion des fichier et périphérique]]
-- [[Initiation-système/Gestion des processus]]
+- [[Gestion des processus]]
 - [[Introduction aux système d'exploitation]]
 - [[OS (ou histoire & culture informatique)]]
 - **TP**
