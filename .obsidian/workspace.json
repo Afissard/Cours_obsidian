@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "90a3b558ebe7607e",
+        "id": "1c902793876c7c19",
         "type": "tabs",
         "children": [
           {
-            "id": "35effe682367b2f4",
+            "id": "b745f6dfb5934682",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5325db9f15ee646d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie/Cour 1/Prise de note cour 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -180,11 +158,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35effe682367b2f4",
+  "active": "b745f6dfb5934682",
   "lastOpenFiles": [
     "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/BUT1Ch2Eco.pdf",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
+    "Economie/Cour 1/BUT1-CircuitEco.pdf",
+    "Economie/Cour 1/BUT1Ch2Eco.pdf",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
@@ -214,8 +194,6 @@
     "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
     "Initiation-dev/go/tuto5/src/tri2.go",
     "Initiation-dev/go/tuto5/src/tri.go",
-    "Initiation-dev/go/tuto5/src/applique.go",
-    "Initiation-dev/go/tuto5/src/anonyme.go",
     "Base de Données/TP/TP SQL 1.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
