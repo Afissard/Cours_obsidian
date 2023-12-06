@@ -11,9 +11,11 @@
             "id": "b745f6dfb5934682",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf"
+                "file": "SAE/PubCDI/Idée de design.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
+                "file": "SAE/PubCDI/Idée de design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
+                "file": "SAE/PubCDI/Idée de design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf"
+                "file": "SAE/PubCDI/Idée de design.md"
               }
             }
           },
@@ -166,6 +168,8 @@
   },
   "active": "b745f6dfb5934682",
   "lastOpenFiles": [
+    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
+    "SAE/PubCDI/Idée de design.md",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Extrait Communicator 9e éd..pdf",
     "SAE/SAE.md",
@@ -204,7 +208,6 @@
     "Initiation-dev/go/tuto5/src/tri2.go",
     "Base de Données/TP/TP SQL 1.md",
     "SAE/Base de Données/Base de Données.md",
-    "SAE/Base de Données/Modélisation Mocodo.md",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
