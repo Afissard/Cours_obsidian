@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1c902793876c7c19",
+        "id": "94c098d8c695afcf",
         "type": "tabs",
         "children": [
           {
-            "id": "b745f6dfb5934682",
+            "id": "ed929400c97ab794",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/PubCDI/Idée de design.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/PubCDI/Idée de design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/PubCDI/Idée de design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/PubCDI/Idée de design.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +158,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b745f6dfb5934682",
+  "active": "ed929400c97ab794",
   "lastOpenFiles": [
-    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
     "SAE/PubCDI/Idée de design.md",
+    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Extrait Communicator 9e éd..pdf",
     "SAE/SAE.md",
@@ -205,7 +197,6 @@
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
-    "Initiation-dev/go/tuto5/src/tri2.go",
     "Base de Données/TP/TP SQL 1.md",
     "SAE/Base de Données/Base de Données.md",
     "PPP/PPP_tableau.jpg",
