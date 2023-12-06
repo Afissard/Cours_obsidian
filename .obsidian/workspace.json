@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3207c626bd46b7c3",
+        "id": "94c098d8c695afcf",
         "type": "tabs",
         "children": [
           {
-            "id": "5bbd3daa4d3f4c4d",
+            "id": "ed929400c97ab794",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/SAE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/SAE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/SAE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,56 +158,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bbd3daa4d3f4c4d",
+  "active": "ed929400c97ab794",
   "lastOpenFiles": [
-    "Initiation-système/TP/images/etatsProcessus.png",
+    "SAE/PubCDI/Idée de design.md",
+    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
+    "SAE/PubCDI/PubCDI.md",
+    "SAE/PubCDI/Extrait Communicator 9e éd..pdf",
+    "SAE/SAE.md",
+    "Economie/Economie.md",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
+    "Economie/Cour 1/BUT1-CircuitEco.pdf",
+    "Economie/Cour 1/BUT1Ch2Eco.pdf",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
+    "Bash/tldr - Too Long, Didn't Read.md",
+    "Bash/Recherche de fichiers et dossiers.md",
+    "Bash/Mise à jour.md",
+    "Bash/Gestion des processus.md",
+    "Bash/Exécution de cmd chainé.md",
+    "Bash/Déplacement dans les dossiers.md",
+    "Bash/Droits et Administration.md",
+    "Bash/Création et édition de dossiers et fichiers.md",
+    "Bash/Bash.md",
+    "Bash/Autres cmd, plus ou moins utiles.md",
+    "Bash/Archives et Zip.md",
+    "Bash",
+    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Cour 1/schéma PIB d'un pays.canvas",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Base de Données/Base de Données.md",
+    "Base de Données/TP/TP SQL 2.md",
+    "Base de Données/Introduction aux base de donnée et SQL.md",
+    "Economie/Cour 1/odtSrc",
+    "Initiation-système/Initiation-système.md",
+    "Initiation-système/Bash.md",
+    "Initiation-système/commandes_linux_Rafael.odt",
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
+    "Base de Données/TP/TP SQL 1.md",
+    "SAE/Base de Données/Base de Données.md",
+    "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
+    "Initiation-système/TP/images/flux.png",
+    "Initiation-système/TP/images/etatsProcessus.png",
     "Initiation-système/TP/images/processus.png",
     "Initiation-système/TP/images/principe pipe.png",
-    "Initiation-système/TP/images/flux.png",
     "Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
     "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
-    "Initiation-système/TP/SI5-findGrepLocateSed.pdf",
-    "Initiation-système/TP/scripts shells 2023.pdf",
-    "Initiation-système/TP/READMEtp5.md",
-    "Initiation-système/TP/READMEtp4.md",
-    "Initiation-système/TP/READMEtp3.md",
-    "Initiation-système/TP/images",
-    "Initiation-système/TP/gen.sh",
-    "Initiation-système/TP/EvaluationSIO-1-v2.pdf",
-    "Initiation-système/TP",
-    "README.md",
-    "SAE/Sudoku/Sudoku.md",
-    "SAE/Environement Economie/Environement Economie.md",
-    "SAE/Base de Données/Base de Données.md",
-    "Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
-    "Quebec/ETUDIER AU CANADA - QUEBEC.md",
-    "Quebec/Administration/Administration.md",
-    "Quebec/Administration/QUEBEC formulaire_SE_401-Q-102.pdf",
-    "Quebec/Administration/Formulaire SE401-Q-104 stages.pdf",
-    "Quebec/Infos Formulaire SE401 Q 102.pdf",
-    "Quebec/Formalités dimmigration.pdf",
-    "Quebec/Quebec.md",
-    "SAE/SAE.md",
-    "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "SAE/Base de Données/Modélisation Mocodo.md",
-    "Pasted image 20231123091538.png",
-    "Quebec/UQAC/UQAC.md",
-    "Quebec/ETS/ETS.md",
-    "Quebec/ETS.md",
-    "Quebec/UQAC.md",
-    "conflict-files-obsidian-git.md",
-    "Economie/Cour 1/Schéma économie politique.canvas",
-    "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Economie.md",
-    "Base de Données/Opérations/Opérations.md",
-    "Base de Données/Opérations/Opération ensemblistes.md",
-    "Base de Données/Base de Données.md",
-    "SAE/Environement Economie/Environnement économique et écologique.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "Base de Données/TP/tp2/MCD/MCD.svg",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
     "Anglais Technique/Vocabulary/Compound Word.canvas"
