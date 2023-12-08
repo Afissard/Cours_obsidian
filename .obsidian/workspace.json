@@ -4,61 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9edaa6c7ea1c6bfb",
+        "id": "35b3df3940edf4a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6956f324537364e7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie/Cour 1/Prise de note cour 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0c5760f6df50fb20",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a30bf2e5feea6aa7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1-TdEco PIB....pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b8111ada6764c9a4",
+            "id": "d071ebc88e018e23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie/Cour 1/Réponses TD.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/Réponses TD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/Réponses TD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economie/Cour 1/Réponses TD.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,16 +158,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8111ada6764c9a4",
+  "active": "d071ebc88e018e23",
   "lastOpenFiles": [
+    "Economie/Economie.md",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
+    "Economie/Cour 1/Réponses TD.md",
+    "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
     "Economie/Cour 1/schéma PIB d'un pays.canvas",
-    "Economie/Cour 1/Réponses TD.md",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
-    "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/BUT1-TdEco PIB....odt",
     "Economie/Cour 1/BUT1Ch3Eco.odt",
     "Economie/Cour 1/BUT1Ch2Eco.odt",
@@ -225,7 +179,6 @@
     "Base de Données/BUT1Ch1Eco.odt",
     "conflict-files-obsidian-git.md",
     "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
-    "Economie/Economie.md",
     "Base de Données/Base de Données.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha-Laptop-sacha.md",
     "PPP/PPP-Laptop-sacha.md",
