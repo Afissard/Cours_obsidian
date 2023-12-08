@@ -10,9 +10,25 @@
           {
             "id": "ed929400c97ab794",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Base de Données/Chapitre5_R1_05.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4b3f994d27719652",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Base de Données/Chapitre6_R1_05.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base de Données/Chapitre5_R1_05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base de Données/Chapitre5_R1_05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base de Données/Chapitre5_R1_05.pdf"
+              }
             }
           },
           {
@@ -160,13 +180,22 @@
   },
   "active": "ed929400c97ab794",
   "lastOpenFiles": [
+    "Base de Données/Chapitre6_R1_05.pdf",
+    "Base de Données/Chapitre5_R1_05.pdf",
+    "Base de Données/Chapitre4_R1_05.pdf",
+    "Base de Données/Base de Données.md",
+    "Economie/Economie.md",
+    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
+    "Economie/Cour 1/schéma PIB d'un pays.canvas",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
+    "Economie/Cour 1/Prise de note cour 1.md",
     "SAE/PubCDI/Idée de design.md",
     "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Extrait Communicator 9e éd..pdf",
     "SAE/SAE.md",
-    "Economie/Economie.md",
-    "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "Economie/Cour 1/BUT1-CircuitEco.pdf",
@@ -184,21 +213,14 @@
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
     "Bash",
-    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Cour 1/schéma PIB d'un pays.canvas",
-    "Economie/Cour 1/Schéma économie politique.canvas",
-    "Base de Données/Base de Données.md",
     "Base de Données/TP/TP SQL 2.md",
     "Base de Données/Introduction aux base de donnée et SQL.md",
     "Economie/Cour 1/odtSrc",
     "Initiation-système/Initiation-système.md",
     "Initiation-système/Bash.md",
-    "Initiation-système/commandes_linux_Rafael.odt",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
-    "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
     "Base de Données/TP/TP SQL 1.md",
-    "SAE/Base de Données/Base de Données.md",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
