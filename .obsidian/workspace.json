@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e00e52a59d281862",
+        "id": "a91621f4dc772914",
         "type": "tabs",
         "children": [
           {
-            "id": "e9afee05e44d0254",
+            "id": "0a6a2d5e9e7a03eb",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Base de Données/cours-sql-sh-.pdf"
-              },
-              "pinned": true
+                "file": "Base de Données/Base de Données.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/cours-sql-sh-.pdf",
+                "file": "Base de Données/Base de Données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/cours-sql-sh-.pdf",
+                "file": "Base de Données/Base de Données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Données/cours-sql-sh-.pdf"
+                "file": "Base de Données/Base de Données.md"
               }
             }
           },
@@ -166,7 +166,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9afee05e44d0254",
+  "active": "0a6a2d5e9e7a03eb",
   "lastOpenFiles": [
     "Base de Données/cours-sql-sh-.pdf",
     "Base de Données/Chapitre5_R1_05.pdf",
