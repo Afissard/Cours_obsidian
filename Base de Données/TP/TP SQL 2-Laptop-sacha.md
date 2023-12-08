@@ -110,8 +110,6 @@ SELECT DISTINCT nomempl FROM employe e, travail t WHERE e.nuempl = t.nuempl AND 
 -- Question 3.2 : Les noms des employés qui travaillent sur des projets (version avec exists) 
 SELECT nomempl FROM employe e WHERE EXISTS (SELECT * FROM travail t WHERE e.nuempl = t.nuempl); 
 -- Question 3.3 : Les employés qui ne travaillent pas sur des projets (version avec exists) -> TODO 
-<<<<<<< HEAD
-=======
  
 -- 2.2 
 -- Question 1 : Liste des noms de projets avec le nom du responsable et le nombre d’employés qui y travaillent 
@@ -191,5 +189,4 @@ SELECT e.nomempl
 			) 
 		AND  e.nomempl != 'marcel' -- Marcel travail avec lui même 
 ; 
->>>>>>> 95eda11a0f81bb1dbce4b2800aff5cdf990a59f2
 ```

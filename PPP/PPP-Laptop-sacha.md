@@ -6,7 +6,6 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[PPP_tableau.jpg]]
-- [[PPP-Laptop-sacha]]
 - [[PPP1 - 1.pdf]]
 - [[PPP1 Guide.pdf]]
 - [[PPP1 Proust Calle.pdf]]

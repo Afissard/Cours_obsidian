@@ -20,3 +20,6 @@ voir [[Schéma répartition richesse & Valeur ajouté.canvas|Schéma répartitio
 voir [[schéma PIB d'un pays.canvas|schéma PIB d'un pays]]
 voir [[Schéma Pouvoir d'Achat.canvas|Schéma Pouvoir d'Achat]]
 
+# Calcule d'inflation
+Donnée réelle = (donnée nominal / indice des prix)\*100
+x = (1000/139,8)\*100 = 715,9€

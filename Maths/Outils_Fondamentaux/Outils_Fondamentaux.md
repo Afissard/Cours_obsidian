@@ -15,7 +15,9 @@ type: folder_brief_live
 	- **Exo-5**
 		- [[exo5.py]]
 	- **Exo-9**
+		- [[exo9-Laptop-sacha.py]]
 		- [[exo9.py]]
+		- [[main.py]]
 	- **Exo-x**
 		- [[TP02_eleves.py]]
 

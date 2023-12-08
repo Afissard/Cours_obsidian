@@ -5,7 +5,6 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Base de Données-Laptop-sacha]]
 - [[Chapitre1_R1_05.pdf]]
 - [[Chapitre2_R1_05.pdf]]
 - [[Chapitre3_R1_05.pdf]]
@@ -13,13 +12,11 @@ type: folder_brief_live
 - [[Chapitre5_R1_05.pdf]]
 - [[Chapitre6_R1_05.pdf]]
 - [[cour_titouan_diapo_bdd.odp]]
-- [[cours-sql-sh-.pdf]]
 - [[Introduction aux base de donnée et SQL]]
 - [[Introduction_R1_05.pdf]]
 - **[[Opérations]]**
 - **TP**
 	- [[TP SQL 1]]
-	- [[TP SQL 2-Laptop-sacha]]
 	- [[TP SQL 2]]
 	- **tp1**
 		- [[Chauvel-Sacha_TP1-1.ods]]
