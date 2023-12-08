@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94c098d8c695afcf",
+        "id": "e00e52a59d281862",
         "type": "tabs",
         "children": [
           {
-            "id": "ed929400c97ab794",
+            "id": "e9afee05e44d0254",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4b3f994d27719652",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Base de Données/Chapitre6_R1_05.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/Chapitre5_R1_05.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed929400c97ab794",
+  "active": "e9afee05e44d0254",
   "lastOpenFiles": [
-    "Base de Données/Chapitre6_R1_05.pdf",
+    "Base de Données/cours-sql-sh-.pdf",
     "Base de Données/Chapitre5_R1_05.pdf",
+    "Base de Données/Chapitre6_R1_05.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Base de Données.md",
     "Economie/Economie.md",
@@ -215,7 +196,6 @@
     "Bash",
     "Base de Données/TP/TP SQL 2.md",
     "Base de Données/Introduction aux base de donnée et SQL.md",
-    "Economie/Cour 1/odtSrc",
     "Initiation-système/Initiation-système.md",
     "Initiation-système/Bash.md",
     "Initiation-dev/Initiation-dev.md",
