@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "3f0aed537bc9bc42",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e9354c39fccb05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb39ef8b6aae5fd9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a803d7d809bfafcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "53a8b4504231fe77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9c033008c99906c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9755e4b99bc58e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eef074144b3fd639",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "df3371eaebed66e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "62db329fab9073d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ab70aff675fc6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b57fb88e51befda1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "739bbe47af14f08f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18f3c6fd4c047dc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f92634b381d09202",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "b6274e313101a862",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "fb39ef8b6aae5fd9",
+  "lastOpenFiles": [
+    "Base de Données/TP/TP SQL 2.md",
+    "Base de Données/Base de Données.md",
+    "Bash/Autres cmd, plus ou moins utiles.md",
+    "Bash/Gestion des processus.md",
+    "Bash/Exécution de cmd chainé.md",
+    "Bash/Bash.md",
+    "Pasted image 20231123091538.png.md",
+    "Bash/Archives et Zip.md",
+    "Bash/Recherche de fichiers et dossiers.md",
+    "Bash/Création et édition de dossiers et fichiers.md",
+    "Initiation-système/TP/READMEtp3.md",
+    "Initiation-système/TP/READMEtp4.md",
+    "Initiation-système/Gestion des fichier et périphérique.md",
+    "Bash/Déplacement dans les dossiers.md",
+    "Bash/Droits et Administration.md",
+    "Bash/tldr - Too Long, Didn't Read.md",
+    "Bash/Mise à jour.md",
+    "Initiation-système/Bash/chmod.md",
+    "Initiation-système/Bash/sudo.md",
+    "Initiation-système/Bash/Bash cheat sheet.md",
+    "Bash",
+    "Initiation-système/Initiation-système.md",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "conflict-files-obsidian-git.md",
+    "SAE/Sudoku/SAE_Sacha/src_session1/CopieNumerique.py",
+    "SAE/Sudoku/SAE_Sacha/src_session1",
+    "PPP/PPP_tableau.jpg",
+    "Initiation-système/commandes_linux_Rafael.odt",
+    "Initiation-dev/go/tuto5/src/tri2.go",
+    "Initiation-dev/go/tuto5/src/tri.go",
+    "Initiation-dev/go/tuto5/src/applique.go",
+    "Initiation-dev/go/tuto5/src/anonyme.go",
+    "Initiation-dev/go/tuto5/tuto5-src.tgz",
+    "Economie/Cour 1/schéma PIB d'un pays.canvas",
+    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
+    "Base de Données/TP/TP SQL 1.md",
+    "SAE/SAE.md",
+    "Initiation-système/TP/images/etatsProcessus.png",
+    "Initiation-système/TP/images/processus4.png",
+    "Initiation-système/TP/images/processus.png",
+    "Initiation-système/TP/images/principe pipe.png",
+    "Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
+    "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
+    "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
+    "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
+    "Initiation-système/TP/READMEtp5.md",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
+    "Anglais Technique/Vocabulary/Compound Word.canvas"
+  ]
+}
