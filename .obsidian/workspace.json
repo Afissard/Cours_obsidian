@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35b3df3940edf4a0",
+        "id": "db1aee624afd011d",
         "type": "tabs",
         "children": [
           {
-            "id": "d071ebc88e018e23",
+            "id": "1c8c047a6fee4f44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPP/PPP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPP/PPP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPP/PPP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PPP/PPP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d071ebc88e018e23",
+  "active": "1c8c047a6fee4f44",
   "lastOpenFiles": [
+    "Initiation-dev/Initiation-dev.md",
+    "Initiation-dev/go/go.md",
+    "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
+    "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
+    "Initiation-dev/Algo/Algo.md",
+    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
+    "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
+    "Initiation-dev/Algo/tri.pdf",
+    "Initiation-dev/Algo/quicksort.png",
+    "Initiation-dev/Algo/recursivite.pdf",
+    "SAE/PubCDI/PubCDI.md",
+    "SAE/PubCDI/Idée de design.md",
+    "SAE/Base de Données/Base de Données.md",
+    "SAE/SAE.md",
+    "PPP/Séance 1-2, métiers de l'informatique.md",
+    "PPP/PPP.md",
     "Economie/Economie.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/BUT1-TdEco PIB....pdf",
@@ -181,10 +189,6 @@
     "Economie/Cour 1/BUT1Ch3Eco.odt",
     "Economie/Cour 1/BUT1Ch2Eco.odt",
     "Economie/Cour 1/BUT1Ch1Eco.odt",
-    "Base de Données/BUT1-TdEco PIB....pdf",
-    "Base de Données/lu10176boo94b.tmp",
-    "Base de Données/BUT1-TdEco PIB....odt",
-    "Base de Données/BUT1Ch1Eco.odt",
     "conflict-files-obsidian-git.md",
     "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
     "Base de Données/Base de Données.md",
@@ -197,17 +201,6 @@
     "Bash/Recherche de fichiers et dossiers-Laptop-sacha.md",
     "Bash/Mise à jour-Laptop-sacha.md",
     "Bash/Gestion des processus-Laptop-sacha.md",
-    "Bash/Exécution de cmd chainé-Laptop-sacha.md",
-    "Bash/Déplacement dans les dossiers-Laptop-sacha.md",
-    "Bash/Droits et Administration-Laptop-sacha.md",
-    "Bash/Création et édition de dossiers et fichiers-Laptop-sacha.md",
-    "Bash/Bash-Laptop-sacha.md",
-    "Bash/Autres cmd, plus ou moins utiles-Laptop-sacha.md",
-    "Bash/Archives et Zip-Laptop-sacha.md",
-    "Base de Données/TP/TP SQL 2-Laptop-sacha.md",
-    "Base de Données/Base de Données-Laptop-sacha.md",
-    "SAE/PubCDI/Idée de design.md",
-    "SAE/PubCDI/PubCDI.md",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
@@ -217,7 +210,6 @@
     "Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
-    "Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
