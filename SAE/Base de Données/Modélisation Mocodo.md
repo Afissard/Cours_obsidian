@@ -1,3 +1,4 @@
+# Ma version
 ```Mocodo
 Avis, 0N UTILISATEUR, 0N UTILISATEUR : avis
 UTILISATEUR: numUtilisateur, nom, addresse, avis, dateAgrement
@@ -18,4 +19,40 @@ Départ, 11 VILLE, 11 TRAJET : nomVille
 VILLE: nomVille
 ```
 
+# Version Clement
+```mocodo
+:
+
+PASSAGER:numUtilisateur, nom, adresse, avis
+
+AvisP, 0N PASSAGER, 0N CONDUCTEUR : avis
+
+:
+
+  
+
+SeFaitTransporter, 1N PASSAGER, 11 TRAJET
+
+AvisC, 0N CONDUCTEUR, 0N PASSAGER : avis
+
+CONDUCTEUR:numUtilisateur, nom, adresse, avis, date_agrement
+
+Possède, 01 CONDUCTEUR, 11 VEHICULE
+
+
+Départ, 0N VILLE, 11 TRAJET : nomVille
+
+TRAJET: noTrajet, villeDep, villeAri, heureDes, conducteur, passager, longueur, tarif
+
+Conduit, 1N CONDUCTEUR, 11 TRAJET 
+
+VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, numUtilisateur
+
+
+VILLE: nomVille
+
+Arrivé, 0N VILLE, 11 TRAJET : nomVille
+
+:
+```
 ...
