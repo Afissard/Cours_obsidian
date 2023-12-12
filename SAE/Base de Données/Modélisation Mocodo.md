@@ -29,7 +29,6 @@ AvisP, 0N PASSAGER, 0N CONDUCTEUR : avis
 
 :
 
-  
 
 SeFaitTransporter, 1N PASSAGER, 11 TRAJET
 
@@ -54,5 +53,35 @@ VILLE: nomVille
 Arrivé, 0N VILLE, 11 TRAJET : nomVille
 
 :
+```
+# Version Léa
+```mocodo
+DÉPART, 11 VILLE, 11 TRAJET : nomVille
+
+SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
+
+PASSAGER: numPassager, nom, adresse, avis, dateAgrement
+
+AVIS2, 1N PASSAGER, O1 CONDUCTEUR : avis
+
+  
+
+VILLE: nomVille
+
+TRAJET: noConducteur, date, villeDep, villeAri, heureDes, passager, longueur, tarif
+
+AVIS1, 1N CONDUCTEUR, 01 PASSAGER : avis
+
+CONDUCTEUR: numConducteur, nom, addresse, avis, dateAgrement
+
+  
+
+ARRIVÉ, 11 VILLE, 11 TRAJET : nomVille
+
+UTILISÉ, 11 VEHICULE, 1N TRAJET
+
+VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, numUtilisateur
+
+POSSÈDE, IN CONDUCTEUR, ON VEHICULE
 ```
 ...
