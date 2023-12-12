@@ -27,3 +27,5 @@ x = (1000/139,8)\*100 = 715,9€
 # Au DS :
 Les politiques économiques de l'Etat assuré au DS
 Qu'est-ce qu'une devise ?
+
+# L'inflation
