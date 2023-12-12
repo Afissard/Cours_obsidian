@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db1aee624afd011d",
+        "id": "9a3cd9678d9f519e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c8c047a6fee4f44",
+            "id": "cabeb93d765af2bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c8c047a6fee4f44",
+  "active": "cabeb93d765af2bd",
   "lastOpenFiles": [
+    "SAE/PubCDI/Idée de design.md",
+    "SAE/PubCDI/PubCDI.md",
+    "SAE/SAE.md",
+    "PPP/PPP.md",
+    "PPP/Séance 1-2, métiers de l'informatique.md",
     "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
@@ -170,12 +175,7 @@
     "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/Algo/recursivite.pdf",
-    "SAE/PubCDI/PubCDI.md",
-    "SAE/PubCDI/Idée de design.md",
     "SAE/Base de Données/Base de Données.md",
-    "SAE/SAE.md",
-    "PPP/Séance 1-2, métiers de l'informatique.md",
-    "PPP/PPP.md",
     "Economie/Economie.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/BUT1-TdEco PIB....pdf",
