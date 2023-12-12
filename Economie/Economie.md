@@ -23,7 +23,6 @@ type: folder_brief_live
 	- [[schéma PIB d'un pays.canvas]]
 	- [[Schéma Pouvoir d'Achat.canvas]]
 	- [[Schéma répartition richesse & Valeur ajouté.canvas]]
-- [[Economie-Laptop-sacha]]
 
 %% End Waypoint %%
 

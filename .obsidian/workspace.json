@@ -10,12 +10,55 @@
           {
             "id": "cabeb93d765af2bd",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Economie/Cour 1/Réponses TD.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "171da8f6723b2c31",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "77c582d0bdc77501",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9181d765b0fa5082",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1-DiffPoliEco.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              }
             }
           },
           {
@@ -158,11 +205,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cabeb93d765af2bd",
+  "active": "77c582d0bdc77501",
   "lastOpenFiles": [
-    "SAE/PubCDI/Idée de design.md",
-    "SAE/PubCDI/PubCDI.md",
+    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
+    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
+    "Economie/Cour 1/BUT1Ch2Eco.pdf",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Cour 1/BUT1Ch3Eco.pdf",
+    "Economie/Cour 1/Réponses TD.md",
+    "Economie/Economie.md",
+    "Economie/Economie-Laptop-sacha.md",
     "SAE/SAE.md",
+    "SAE/PubCDI/PubCDI.md",
+    "SAE/PubCDI/Idée de design.md",
     "PPP/PPP.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "Initiation-dev/Initiation-dev.md",
@@ -176,26 +232,18 @@
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/Algo/recursivite.pdf",
     "SAE/Base de Données/Base de Données.md",
-    "Economie/Economie.md",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
-    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
-    "Economie/Cour 1/Réponses TD.md",
-    "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Cour 1/schéma PIB d'un pays.canvas",
     "Economie/Cour 1/BUT1-TdEco PIB....odt",
     "Economie/Cour 1/BUT1Ch3Eco.odt",
-    "Economie/Cour 1/BUT1Ch2Eco.odt",
-    "Economie/Cour 1/BUT1Ch1Eco.odt",
     "conflict-files-obsidian-git.md",
     "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
     "Base de Données/Base de Données.md",
     "SAE/Sudoku/SAE_Sacha/SAE_Sacha-Laptop-sacha.md",
     "PPP/PPP-Laptop-sacha.md",
     "Initiation-dev/go/go-Laptop-sacha.md",
-    "Economie/Economie-Laptop-sacha.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
     "Bash/tldr - Too Long, Didn't Read-Laptop-sacha.md",
     "Bash/Recherche de fichiers et dossiers-Laptop-sacha.md",
