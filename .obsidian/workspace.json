@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/tldr - Too Long, Didn't Read.md",
+                "file": "Bash/Droits et Administration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/tldr - Too Long, Didn't Read.md",
+                "file": "Bash/Droits et Administration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/tldr - Too Long, Didn't Read.md",
+                "file": "Bash/Droits et Administration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/tldr - Too Long, Didn't Read.md"
+                "file": "Bash/Droits et Administration.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "5f0b372073dda16a",
   "lastOpenFiles": [
+    "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
     "Bash/Mise à jour.md",
     "Bash/Gestion des processus.md",
@@ -201,7 +202,6 @@
     "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
     "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
     "Initiation-dev/Algo/Algo.md",
-    "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
     "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/Algo/recursivite.pdf",
