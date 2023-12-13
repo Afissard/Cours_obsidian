@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Bash.md",
+                "file": "Bash/tldr - Too Long, Didn't Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Bash.md",
+                "file": "Bash/tldr - Too Long, Didn't Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Bash.md",
+                "file": "Bash/tldr - Too Long, Didn't Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Bash.md"
+                "file": "Bash/tldr - Too Long, Didn't Read.md"
               }
             }
           },
@@ -168,6 +168,16 @@
   },
   "active": "5f0b372073dda16a",
   "lastOpenFiles": [
+    "Bash/Recherche de fichiers et dossiers.md",
+    "Bash/Mise à jour.md",
+    "Bash/Gestion des processus.md",
+    "Bash/Exécution de cmd chainé.md",
+    "Bash/Droits et Administration.md",
+    "Bash/Déplacement dans les dossiers.md",
+    "Bash/Création et édition de dossiers et fichiers.md",
+    "Bash/Autres cmd, plus ou moins utiles.md",
+    "Bash/Archives et Zip.md",
+    "Bash/Bash.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
@@ -192,7 +202,6 @@
     "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
     "Initiation-dev/Algo/Algo.md",
     "Initiation-dev/Algo/ALG4 Algorithmes de tri.md",
-    "Initiation-dev/Algo/ALG5 recursivité et programmation dynamique.md",
     "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/Algo/recursivite.pdf",
@@ -200,15 +209,7 @@
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Cour 1/schéma PIB d'un pays.canvas",
-    "conflict-files-obsidian-git.md",
-    "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
-    "Base de Données/Base de Données.md",
-    "SAE/Sudoku/SAE_Sacha/SAE_Sacha-Laptop-sacha.md",
-    "PPP/PPP-Laptop-sacha.md",
-    "Initiation-dev/go/go-Laptop-sacha.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
-    "Bash/tldr - Too Long, Didn't Read-Laptop-sacha.md",
-    "Bash/Recherche de fichiers et dossiers-Laptop-sacha.md",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
