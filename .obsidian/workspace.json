@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc3e43bd96280f26",
+        "id": "bd2883dbdde18d29",
         "type": "tabs",
         "children": [
           {
-            "id": "fd143aab4a5aeb73",
+            "id": "5f0b372073dda16a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "Bash/Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "Bash/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "Bash/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md"
+                "file": "Bash/Bash.md"
               }
             }
           },
@@ -166,12 +166,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd143aab4a5aeb73",
+  "active": "5f0b372073dda16a",
   "lastOpenFiles": [
+    "SAE/Base de Données/Base de Données.md",
+    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "SAE/Base de Données/Modélisation Mocodo.md",
-    "SAE/Base de Données/Base de Données.md",
     "SAE/SAE.md",
     "Economie/Economie.md",
     "Economie/Cour 1/Réponses TD.md",
@@ -200,7 +200,6 @@
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Cour 1/schéma PIB d'un pays.canvas",
-    "Economie/Cour 1/BUT1-TdEco PIB....odt",
     "conflict-files-obsidian-git.md",
     "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
     "Base de Données/Base de Données.md",
