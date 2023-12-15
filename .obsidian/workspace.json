@@ -4,59 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b03d7bba6f313464",
+        "id": "0fb36f601286ec54",
         "type": "tabs",
         "children": [
           {
-            "id": "4a37b13fbc716356",
+            "id": "07762d799194b28f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie/Cour 1/Réponses TD.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "246c4c17a7ad2ab4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1-TdEco PIB....pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3d63ec7ba4910a8c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie/Cour 1/Prise de note cour 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "dd5e3ef894072509",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -125,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/Réponses TD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/Réponses TD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economie/Cour 1/Réponses TD.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,12 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a37b13fbc716356",
+  "active": "07762d799194b28f",
   "lastOpenFiles": [
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/BUT1-TdEco PIB....pdf",
     "Economie/Cour 1/Réponses TD.md",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Economie.md",
     "Bash/Bash.md",
     "Bash/Droits et Administration.md",
