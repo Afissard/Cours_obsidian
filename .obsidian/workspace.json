@@ -32,8 +32,31 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c9ea7ac002952bd5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Base de Données/cours-sql-sh-.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9cbf75877a09de1f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Base de Données/Chapitre2_R1_05.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "Base de Données/Chapitre2_R1_05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "Base de Données/Chapitre2_R1_05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md"
+                "file": "Base de Données/Chapitre2_R1_05.pdf"
               }
             }
           },
@@ -180,10 +203,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07762d799194b28f",
+  "active": "9cbf75877a09de1f",
   "lastOpenFiles": [
-    "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/Modélisation Mocodo.md",
+    "Base de Données/cours-sql-sh-.pdf",
+    "SAE/Base de Données/SAE_S1_04.pdf",
+    "Base de Données/Chapitre2_R1_05.pdf",
+    "Base de Données/Chapitre3_R1_05.pdf",
+    "Base de Données/Chapitre4_R1_05.pdf",
+    "Base de Données/Chapitre5_R1_05.pdf",
+    "Base de Données/Introduction_R1_05.pdf",
+    "Base de Données/Base de Données.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/SAE.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
@@ -204,20 +234,13 @@
     "Bash/Archives et Zip.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
-    "Economie/Cour 1/BUT1Ch2Eco.pdf",
-    "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Economie/Economie-Laptop-sacha.md",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
     "PPP/PPP.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
     "Initiation-dev/Initiation-dev.md",
-    "Initiation-dev/go/go.md",
-    "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
-    "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
-    "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/quicksort.png",
-    "Initiation-dev/Algo/recursivite.pdf",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",

@@ -71,4 +71,21 @@ VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, num
 UTILISÉ, 11 VEHICULE, 1N TRAJET
 DÉPART, 11 VILLE, 11 TRAJET : nomVille
 ```
+# Version Final
+```mocodo
+DÉPART, 11 VILLE, 11 TRAJET : nomVille
+SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
+PASSAGER: noPassager, nom, adresse, avis, dateAgrement
+AVIS2, 1N PASSAGER, O1 CONDUCTEUR : avis
+
+VILLE: nomVille
+TRAJET: noConducteur, date, villeDep, villeAri, heureDes, noPassager, longueur, tarif
+AVIS1, 1N CONDUCTEUR, 01 PASSAGER : avis
+CONDUCTEUR: noConducteur, nom, addresse, avis, dateAgrement
+
+ARRIVÉ, 11 VILLE, 11 TRAJET : nomVille
+UTILISÉ, 11 VEHICULE, 1N TRAJET
+VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, noConducteur
+POSSÈDE, IN CONDUCTEUR, ON VEHICULE
+```
 ...
