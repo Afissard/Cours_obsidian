@@ -28,4 +28,11 @@ x = (1000/139,8)\*100 = 715,9€
 Les politiques économiques de l'Etat assuré au DS
 Qu'est-ce qu'une devise ?
 
-# L'inflation
+# Taux de chomage dans le monde
+| Pays       | Taux |
+| ---------- | ---- |
+| Etats Unis | 3,9% |
+| Allemagne  | 5,3% |
+| Japon      | 2,7% |
+| Canada     | 5,5% |
+| France     | 7,4% |

@@ -4,19 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2883dbdde18d29",
+        "id": "b03d7bba6f313464",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0b372073dda16a",
+            "id": "4a37b13fbc716356",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Droits et Administration.md",
+                "file": "Economie/Cour 1/Réponses TD.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "246c4c17a7ad2ab4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1-TdEco PIB....pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3d63ec7ba4910a8c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economie/Cour 1/Prise de note cour 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dd5e3ef894072509",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch1Eco.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Droits et Administration.md",
+                "file": "Economie/Cour 1/Réponses TD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Droits et Administration.md",
+                "file": "Economie/Cour 1/Réponses TD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Droits et Administration.md"
+                "file": "Economie/Cour 1/Réponses TD.md"
               }
             }
           },
@@ -166,30 +206,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f0b372073dda16a",
+  "active": "4a37b13fbc716356",
   "lastOpenFiles": [
+    "Economie/Cour 1/Prise de note cour 1.md",
+    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
+    "Economie/Cour 1/Réponses TD.md",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Economie.md",
+    "Bash/Bash.md",
+    "Bash/Droits et Administration.md",
     "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
     "Bash/Mise à jour.md",
     "Bash/Gestion des processus.md",
     "Bash/Exécution de cmd chainé.md",
-    "Bash/Droits et Administration.md",
     "Bash/Déplacement dans les dossiers.md",
     "Bash/Création et édition de dossiers et fichiers.md",
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
-    "Bash/Bash.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/SAE.md",
-    "Economie/Economie.md",
-    "Economie/Cour 1/Réponses TD.md",
-    "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
-    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
     "Economie/Cour 1/BUT1Ch2Eco.pdf",
     "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Economie/Economie-Laptop-sacha.md",
@@ -201,7 +241,6 @@
     "Initiation-dev/go/go.md",
     "Initiation-dev/go/tuto4/tuto4-interfaces.pdf",
     "Initiation-dev/go/tuto5/tuto5-fonctions.pdf",
-    "Initiation-dev/Algo/Algo.md",
     "Initiation-dev/Algo/tri.pdf",
     "Initiation-dev/Algo/quicksort.png",
     "Initiation-dev/Algo/recursivite.pdf",
