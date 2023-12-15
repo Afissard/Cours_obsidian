@@ -56,32 +56,19 @@ Arrivé, 0N VILLE, 11 TRAJET : nomVille
 ```
 # Version Léa
 ```mocodo
-DÉPART, 11 VILLE, 11 TRAJET : nomVille
-
-SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
-
-PASSAGER: numPassager, nom, adresse, avis, dateAgrement
-
 AVIS2, 1N PASSAGER, O1 CONDUCTEUR : avis
-
-  
-
-VILLE: nomVille
-
-TRAJET: noConducteur, date, villeDep, villeAri, heureDes, passager, longueur, tarif
-
-AVIS1, 1N CONDUCTEUR, 01 PASSAGER : avis
-
-CONDUCTEUR: numConducteur, nom, addresse, avis, dateAgrement
-
-  
-
+PASSAGER: numPassager, nom, adresse, avis, dateAgrement
+SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
 ARRIVÉ, 11 VILLE, 11 TRAJET : nomVille
 
-UTILISÉ, 11 VEHICULE, 1N TRAJET
-
-VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, numUtilisateur
+CONDUCTEUR: numConducteur, nom, addresse, avis, dateAgrement
+AVIS1, 1N CONDUCTEUR, 01 PASSAGER : avis
+TRAJET: noConducteur, date, villeDep, villeAri, heureDes, passager, longueur, tarif
+VILLE: nomVille
 
 POSSÈDE, IN CONDUCTEUR, ON VEHICULE
+VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, numUtilisateur
+UTILISÉ, 11 VEHICULE, 1N TRAJET
+DÉPART, 11 VILLE, 11 TRAJET : nomVille
 ```
 ...

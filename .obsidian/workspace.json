@@ -10,16 +10,31 @@
           {
             "id": "07762d799194b28f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6be468fe25e89f4b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SAE/Base de Données/SAE_S1_04.pdf"
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "SAE/Base de Données/SAE_S1_04.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "SAE/Base de Données/SAE_S1_04.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md"
+                "file": "SAE/Base de Données/SAE_S1_04.pdf"
               }
             }
           },
@@ -166,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07762d799194b28f",
+  "active": "6be468fe25e89f4b",
   "lastOpenFiles": [
+    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/SAE.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
@@ -186,7 +202,6 @@
     "Bash/Création et édition de dossiers et fichiers.md",
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
-    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
