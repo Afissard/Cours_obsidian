@@ -61,7 +61,7 @@ PASSAGER: numPassager, nom, adresse, avis, dateAgrement
 SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
 ARRIVÉ, 11 VILLE, 11 TRAJET : nomVille
 
-CONDUCTEUR: numConducteur, nom, addresse, avis, dateAgrement
+CONDUCTEUR: noConducteur, nom, addresse, avis, dateAgrement
 AVIS1, 1N CONDUCTEUR, 01 PASSAGER : avis
 TRAJET: noConducteur, date, villeDep, villeAri, heureDes, passager, longueur, tarif
 VILLE: nomVille
