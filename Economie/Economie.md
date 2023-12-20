@@ -12,6 +12,7 @@ type: folder_brief_live
 	- [[BUT1Ch1Eco.pdf]]
 	- [[BUT1Ch2Eco.pdf]]
 	- [[BUT1Ch3Eco.pdf]]
+	- [[Chap 2 Prise de notes]]
 	- **odtSrc**
 		- [[BUT1-TdEco PIB....odt]]
 		- [[BUT1Ch1Eco.odt]]
@@ -22,6 +23,7 @@ type: folder_brief_live
 	- [[Schéma économie politique.canvas]]
 	- [[schéma PIB d'un pays.canvas]]
 	- [[Schéma Pouvoir d'Achat.canvas]]
+	- [[schéma prestataire et client.canvas]]
 	- [[Schéma répartition richesse & Valeur ajouté.canvas]]
 
 %% End Waypoint %%

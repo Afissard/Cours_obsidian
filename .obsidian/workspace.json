@@ -8,11 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b319e58553f127bb",
+            "id": "bdcaa1db3859c772",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
+                "viewState": {
+                  "x": 176.00006103515625,
+                  "y": 98.65404785156255,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "1d36ca36eeeb276f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1Ch2Eco.pdf"
+              }
             }
           }
         ]
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas"
+              }
             }
           },
           {
@@ -158,22 +179,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b319e58553f127bb",
+  "active": "bdcaa1db3859c772",
   "lastOpenFiles": [
-    "Base de Données/Chapitre2_R1_05.pdf",
-    "Base de Données/cours-sql-sh-.pdf",
-    "SAE/Base de Données/SAE_S1_04.pdf",
-    "SAE/Base de Données/Modélisation Mocodo.md",
-    "Base de Données/Chapitre3_R1_05.pdf",
+    "Economie/Cour 1/Chap 2 Prise de notes.md",
+    "Economie/Cour 1/schéma prestataire et client.canvas",
+    "Economie/Cour 1/BUT1Ch2Eco.pdf",
+    "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Chapitre5_R1_05.pdf",
-    "Base de Données/Introduction_R1_05.pdf",
+    "Base de Données/Chapitre3_R1_05.pdf",
     "Base de Données/Base de Données.md",
+    "SAE/Base de Données/SAE_S1_04.pdf",
+    "SAE/Base de Données/Modélisation Mocodo.md",
+    "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Base de Données/Base de Données.md",
+    "Base de Données/Chapitre2_R1_05.pdf",
+    "Base de Données/cours-sql-sh-.pdf",
+    "Base de Données/Introduction_R1_05.pdf",
     "SAE/SAE.md",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
     "Economie/Cour 1/Réponses TD.md",
     "Economie/Economie.md",
     "Bash/Bash.md",
@@ -187,14 +212,11 @@
     "Bash/Création et édition de dossiers et fichiers.md",
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
-    "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "Economie/Economie-Laptop-sacha.md",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
     "PPP/PPP.md",
     "PPP/Séance 1-2, métiers de l'informatique.md",
-    "Initiation-dev/Initiation-dev.md",
     "Initiation-dev/Algo/quicksort.png",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
