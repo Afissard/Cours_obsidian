@@ -5,9 +5,9 @@
 		{"id":"fc179e9a055134f5","x":-205,"y":160,"width":220,"height":60,"type":"text","text":"MOE : maitrise d'euvre"},
 		{"id":"fc366c34d93067cf","x":80,"y":20,"width":220,"height":60,"type":"text","text":"Entreprise utilisatrice (banque, etc)"},
 		{"id":"74bc3d4a4a79c81e","x":130,"y":-120,"width":120,"height":60,"type":"text","text":"Client"},
-		{"id":"c1d093cfc08ae7fc","x":90,"y":160,"width":200,"height":60,"type":"text","text":"MOA : maitre d'ouvrage"},
 		{"id":"67e3df19161818c4","x":80,"y":280,"width":220,"height":60,"type":"text","text":"Besoin spécifique dans un cahier des charges"},
-		{"id":"eefdab4edaf571b2","x":-192,"y":280,"width":195,"height":60,"type":"text","text":"Solution Spécifique (logiciel)"}
+		{"id":"eefdab4edaf571b2","x":-192,"y":280,"width":195,"height":60,"type":"text","text":"Solution Spécifique (logiciel)"},
+		{"id":"c1d093cfc08ae7fc","x":100,"y":160,"width":200,"height":60,"type":"text","text":"MOA : maitre d'ouvrage"}
 	],
 	"edges":[
 		{"id":"e0ea2e6da73e7c96","fromNode":"1b3bc6bf2719f9e0","fromSide":"bottom","toNode":"e892030634a8618a","toSide":"top","label":"ou"},

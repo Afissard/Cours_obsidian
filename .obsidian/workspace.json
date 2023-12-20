@@ -8,27 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdcaa1db3859c772",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
-                "viewState": {
-                  "x": 176.00006103515625,
-                  "y": 98.65404785156255,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "1d36ca36eeeb276f",
+            "id": "1ff8d8db8ffe8b9f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch2Eco.pdf"
+                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf"
               }
             }
           }
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
+                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
+                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas"
+                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf"
               }
             }
           },
@@ -179,11 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bdcaa1db3859c772",
+  "active": "1ff8d8db8ffe8b9f",
   "lastOpenFiles": [
-    "Economie/Cour 1/Chap 2 Prise de notes.md",
-    "Economie/Cour 1/schéma prestataire et client.canvas",
     "Economie/Cour 1/BUT1Ch2Eco.pdf",
+    "Economie/Cour 1/schéma prestataire et client.canvas",
+    "Economie/Cour 1/Chap 2 Prise de notes.md",
     "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Chapitre5_R1_05.pdf",
