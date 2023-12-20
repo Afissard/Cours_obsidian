@@ -1,7 +1,7 @@
 # Consignes : 
 La correction du TD ne prend pas plus de 5min, la note commence à A et le reste si les consigne sont respecté.
 Ajouté des capture d'écran des tableau et graph utilisé pour répondre aux questions.
-A rendre le ?
+A rendre le à la séance après les vacances de Noel
 # 1 : Que signifie : PIB « nominal ou en valeur ou à prix courant » ?
 Désigne le Produit Intérieur Brut, soit l'ensemble des richesse créer sur un territoire donné quelque que soit la nationalité de l'entreprise, Le PIB en prix courants, sans correction en fonction de l'inflation. On obtient les estimations du PIB en prix courants en exprimant les valeurs de tous les biens et services produits au cours de la période de déclaration actuelle.
 # 2 : Que signifie : PIB « réel ou en volume ou à prix constant » ?
