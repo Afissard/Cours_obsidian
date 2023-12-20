@@ -1,5 +1,7 @@
 # Consignes : 
-La correction du TD ne prend pas plus de 5min, la note commence à A et le reste si les consigne sont respecté
+La correction du TD ne prend pas plus de 5min, la note commence à A et le reste si les consigne sont respecté.
+Ajouté des capture d'écran des tableau et graph utilisé pour répondre aux questions.
+A rendre le ?
 # 1 : Que signifie : PIB « nominal ou en valeur ou à prix courant » ?
 Désigne le Produit Intérieur Brut, soit l'ensemble des richesse créer sur un territoire donné quelque que soit la nationalité de l'entreprise, Le PIB en prix courants, sans correction en fonction de l'inflation. On obtient les estimations du PIB en prix courants en exprimant les valeurs de tous les biens et services produits au cours de la période de déclaration actuelle.
 # 2 : Que signifie : PIB « réel ou en volume ou à prix constant » ?
@@ -19,6 +21,10 @@ Si l'on compare ce classement, au même classement réalisé en 2006 où le mond
 - BFM : https://www.bfmtv.com/economie/top-20-des-pays-les-plus-riches-ou-sera-la-france-en-2030_AN-201702070142.html
  ![[tabClassementPays2050-BFM.jpg]]
 Réponse
-# 5 Commentez le classement mondial du PIB en Parité du Pouvoir d'Achat (PPA), en comparaison des donnée précédente.
-# 6 Commentez le classement mondial du niveau de vie nominal (niveau de vie = PIB/Habitant), en comparaison des donnée précédente.
-# 7 Commentez le classement mondial du niveau de vie en PPA, en comparaison des donnée précédente.
+# 5 Commentez le classement mondial du PIB en Parité du Pouvoir d'Achat (PPA), en comparaison des données précédente.
+# 6 Commentez le classement mondial du niveau de vie nominal (niveau de vie = PIB/Habitant), en comparaison des données précédente.
+# 7 Commentez le classement mondial du niveau de vie en PPA, en comparaison des données précédente.
+# 8 Commentez brièvement le tableau de l'évolution du PIB en France de 1949 à aujourd'hui.
+# 9 Commentez le graphique représentant les périodes de croissance, de récession (ralentissement de la croissance) et de régression économique (taux de croissance négatif) en France depuis 1950.
+# 10 Rappelez la définition ainsi que le calcul de l'IDH.
+# 11 Commentez le classement mondial des pays selon leur IDH (les premiers, la France et les derniers).
