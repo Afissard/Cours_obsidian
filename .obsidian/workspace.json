@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d299673d4248b018",
+        "id": "e4302388a2707b70",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff8d8db8ffe8b9f",
+            "id": "11a7d6e5a725f115",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf"
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
+                "viewState": {
+                  "x": 226.4325488237542,
+                  "y": 208.88461406244605,
+                  "zoom": -0.5136584826310474
+                }
               }
             }
           }
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf",
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf",
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/BUT1Ch3Eco.pdf"
+                "file": "Economie/Cour 1/schéma prestataire et client.canvas"
               }
             }
           },
@@ -164,12 +169,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ff8d8db8ffe8b9f",
+  "active": "11a7d6e5a725f115",
   "lastOpenFiles": [
+    "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Economie/Cour 1/BUT1Ch2Eco.pdf",
     "Economie/Cour 1/schéma prestataire et client.canvas",
     "Economie/Cour 1/Chap 2 Prise de notes.md",
-    "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Chapitre5_R1_05.pdf",
     "Base de Données/Chapitre3_R1_05.pdf",
