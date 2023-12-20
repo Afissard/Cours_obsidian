@@ -10,15 +10,24 @@
           {
             "id": "11a7d6e5a725f115",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
-                "viewState": {
-                  "x": 226.4325488237542,
-                  "y": 208.88461406244605,
-                  "zoom": -0.5136584826310474
-                }
+                "file": "Economie/Cour 1/Réponses TD.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d60590ccdb93f425",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Cour 1/BUT1-TdEco PIB....pdf"
               }
             }
           }
@@ -88,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
+                "file": "Economie/Cour 1/Réponses TD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas",
+                "file": "Economie/Cour 1/Réponses TD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Cour 1/schéma prestataire et client.canvas"
+                "file": "Economie/Cour 1/Réponses TD.md"
               }
             }
           },
@@ -171,9 +180,12 @@
   },
   "active": "11a7d6e5a725f115",
   "lastOpenFiles": [
+    "Economie/Cour 1/tabClassementPays2050-BFM.jpg",
+    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
+    "Economie/Cour 1/Réponses TD.md",
+    "Economie/Cour 1/schéma prestataire et client.canvas",
     "Economie/Cour 1/BUT1Ch3Eco.pdf",
     "Economie/Cour 1/BUT1Ch2Eco.pdf",
-    "Economie/Cour 1/schéma prestataire et client.canvas",
     "Economie/Cour 1/Chap 2 Prise de notes.md",
     "Base de Données/Chapitre4_R1_05.pdf",
     "Base de Données/Chapitre5_R1_05.pdf",
@@ -187,9 +199,7 @@
     "Base de Données/cours-sql-sh-.pdf",
     "Base de Données/Introduction_R1_05.pdf",
     "SAE/SAE.md",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
     "Economie/Cour 1/Prise de note cour 1.md",
-    "Economie/Cour 1/Réponses TD.md",
     "Economie/Economie.md",
     "Bash/Bash.md",
     "Bash/Droits et Administration.md",

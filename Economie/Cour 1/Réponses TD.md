@@ -1,9 +1,11 @@
+# Consignes : 
+La correction du TD ne prend pas plus de 5min, la note commence à A et le reste si les consigne sont respecté
 # 1 : Que signifie : PIB « nominal ou en valeur ou à prix courant » ?
-Désigne le PIB en prix courants, sans correction en fonction de l'inflation. On obtient les estimations du PIB en prix courants en exprimant les valeurs de tous les biens et services produits au cours de la période de déclaration actuelle.
+Désigne le Produit Intérieur Brut, soit l'ensemble des richesse créer sur un territoire donné quelque que soit la nationalité de l'entreprise, Le PIB en prix courants, sans correction en fonction de l'inflation. On obtient les estimations du PIB en prix courants en exprimant les valeurs de tous les biens et services produits au cours de la période de déclaration actuelle.
 # 2 : Que signifie : PIB « réel ou en volume ou à prix constant » ?
 Le produit intérieur brut réel est le PIB mesuré à prix constants, c'est-à-dire en volume. On obtient les estimations du PIB à prix constants en exprimant les valeurs de tous les biens et services produits au cours d'une année donnée, aux prix d'une période de référence.
 # 3 Que signifie : PIB « en Parité du Pouvoir d'Achat (ou en PPA) » ?
-Le PIB en parité du pouvoir d'achat illustre l'importance de l'activité économique d'un pays ou la grandeur de sa richesse générée. Quand la valeur est établie en dollars courants il s'agit de la valeur telle qu'elle est donnée sur le marché en fonction de celle de la monnaie à ce moment-là.
+Le PIB par rapport au coup de la vie.
 # 4 Commentez le classement mondial des pays en PIB nominal (les premiers, la France et les derniers).
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)#Estimations
@@ -15,6 +17,8 @@ Le dernier pays avec des donnée à jour pour l'année 2022 est le Costa Rica en
 Si l'on compare ce classement, au même classement réalisé en 2006 où le monde à générer un PIB total de 48 245 198 Md $/ans. L'on remarque que le top 5 est radicalement différent. L'Europe (14 609 836 Md  $/ans) est encore devant les Etats Unis ... #TODO : finir
 ## Quelles sont les prévisions du classement mondial pour 2030 ? et 2050 ?
 - BFM : https://www.bfmtv.com/economie/top-20-des-pays-les-plus-riches-ou-sera-la-france-en-2030_AN-201702070142.html
+ ![[tabClassementPays2050-BFM.jpg]]
+Réponse
 # 5 Commentez le classement mondial du PIB en Parité du Pouvoir d'Achat (PPA), en comparaison des donnée précédente.
 # 6 Commentez le classement mondial du niveau de vie nominal (niveau de vie = PIB/Habitant), en comparaison des donnée précédente.
 # 7 Commentez le classement mondial du niveau de vie en PPA, en comparaison des donnée précédente.

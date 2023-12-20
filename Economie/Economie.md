@@ -25,6 +25,7 @@ type: folder_brief_live
 	- [[Schéma Pouvoir d'Achat.canvas]]
 	- [[schéma prestataire et client.canvas]]
 	- [[Schéma répartition richesse & Valeur ajouté.canvas]]
+	- [[tabClassementPays2050-BFM.jpg]]
 
 %% End Waypoint %%
 
