@@ -101,8 +101,8 @@ CONDUCTEUR: noConducteur, nom, addresse, avis, dateAgrement
 AvisSurConducteur, 0N AVISCONDUCTEUR, 11 CONDUCTEUR
 AVISCONDUCTEUR: noConducteur, noPassager, avis, estPositif
 
-POSSÈDE, IN CONDUCTEUR, ON VEHICULE
-SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
+POSSÈDE, 1N CONDUCTEUR, ON VEHICULE
+SEFAITCONDUIRE, ON TRAJET, 1N PASSAGER
 
 VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, noConducteur
 UTILISÉ, 11 VEHICULE, 1N TRAJET
