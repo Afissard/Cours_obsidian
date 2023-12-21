@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7c3766c3e3dbe45",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Base de Données/Chapitre4_R1_05.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "9fb7f7ff16b873d4",
             "type": "leaf",
             "pinned": true,
@@ -39,6 +27,20 @@
               "type": "markdown",
               "state": {
                 "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f0adf953e0d929d7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAE/Base de Données/SQL.md",
                 "mode": "source",
                 "source": false
               },
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "SAE/Base de Données/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
+                "file": "SAE/Base de Données/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md"
+                "file": "SAE/Base de Données/SQL.md"
               }
             }
           },
@@ -193,11 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ea7a41a2681d6ac",
+  "active": "f0adf953e0d929d7",
   "lastOpenFiles": [
+    "SAE/Base de Données/Modélisation Mocodo.md",
+    "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
-    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
     "Base de Données/Chapitre3_R1_05.pdf",
@@ -231,7 +234,6 @@
     "Bash/Archives et Zip.md",
     "Economie/Economie-Laptop-sacha.md",
     "PPP/PPP.md",
-    "PPP/Séance 1-2, métiers de l'informatique.md",
     "Initiation-dev/Algo/quicksort.png",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",

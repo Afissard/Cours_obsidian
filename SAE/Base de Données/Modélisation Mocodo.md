@@ -116,18 +116,18 @@ VILLE: nomVille
 ```
 # Encore une version final
 ```
-UTILISATEUR: noUtilisateur, nom, adresse, avis, dateAgrement
+UTILISATEUR: noUtilisateur, nom, adresse, dateAgrement
 EstConducteur, 0N  UTILISATEUR, 11 CONDUCTEUR
 CONDUCTEUR: noConducteur
 POSSÈDE, 1N CONDUCTEUR, ON VEHICULE
 VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, noConducteur
 
 EstNote, 01 AVIS, 11 UTILISATEUR
-Conduit, 11 CONDUCTEUR, 11 TRAJET
+Conduit, 1N CONDUCTEUR, 11 TRAJET
 
 AVIS: noUtilisateur, avis, trajet
 Note, 11 TRAJET, 0N AVIS
-TRAJET: noConducteur, date, villeDep, villeAri, heureDes, noPassager, longueur, tarif
+TRAJET: idTrajet, date, villeDep, villeAri, heureDes, noPassager, longueur, tarif
 ARRIVÉ, 11 VILLE, 11 TRAJET : nomVille
 
 :
