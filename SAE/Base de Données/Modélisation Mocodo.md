@@ -90,24 +90,28 @@ POSSÈDE, IN CONDUCTEUR, ON VEHICULE
 ```
 # Version Final v02
 ```mocodo
-AvisConducteurPassager, 1N CONDUCTEUR, 1N AVISPASSAGER: noPassager, avis, estPositif
 AVISPASSAGER: noPassager, noConducteur, avis, estPositif
 AvisSurPassager, 0N AVISPASSAGER, 11 PASSAGER
 PASSAGER: noPassager, nom, adresse, avis, dateAgrement
-
-CONDUCTEUR: noConducteur, nom, addresse, avis, dateAgrement
-AvisSurConducteur, 0N AVISCONDUCTEUR, 11 CONDUCTEUR
 AvisPassagerConducteur, 1N PASSAGER, 1N AVISCONDUCTEUR: noConducteur, avis, estPositif
-SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
+
+AvisConducteurPassager, 1N CONDUCTEUR, 1N AVISPASSAGER: noPassager, avis, estPositif
+CONDUCTEUR: noConducteur, nom, addresse, avis, dateAgrement
+:
+AvisSurConducteur, 0N AVISCONDUCTEUR, 11 CONDUCTEUR
+AVISCONDUCTEUR: noConducteur, noPassager, avis, estPositif
 
 POSSÈDE, IN CONDUCTEUR, ON VEHICULE
-AVISCONDUCTEUR: noConducteur, noPassager, avis, estPositif
-TRAJET: noConducteur, date, villeDep, villeAri, heureDes, noPassager, longueur, tarif
-DÉPART, 11 VILLE, 11 TRAJET : nomVille
+SEFAITCONDUIRE, ON TRAJET, IN PASSAGER
 
 VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, noConducteur
 UTILISÉ, 11 VEHICULE, 1N TRAJET
+TRAJET: noConducteur, date, villeDep, villeAri, heureDes, noPassager, longueur, tarif
 ARRIVÉ, 11 VILLE, 11 TRAJET : nomVille
+:
+
+:
+DÉPART, 11 VILLE, 11 TRAJET : nomVille
 VILLE: nomVille
 ```
 ...
