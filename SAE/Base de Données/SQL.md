@@ -8,8 +8,6 @@ DROP TABLE Ville;
 DROP TABLE Vehicule;
 DROP TABLE Conducteur;
 
-
-
 Create Table Passager
 (
     nuPassager int PRIMARY KEY,
@@ -87,7 +85,66 @@ Create Table Trajet
 il y a un erreur quelque part
 # Version 2
 ```sql
-CREATE TABLE UTILISATEUR (
-	idUtilisateur int PRIMARY KEY
-)
+DROP TABLE Avis;
+DROP TABLE Trajet;
+DROP TABLE Ville;
+DROP TABLE Vehicule;
+DROP TABLE Conducteur;
+DROP TABLE Utilisateur;
+
+CREATE TABLE Utilisateur (
+	idUtilisateur INT PRIMARY KEY,
+	nom VARCHAR(64),
+	adresse VARCHAR(64),
+	dateAgrement DATE,
+);
+
+-- Nécessaire ? Si un utilisateur possède une voiture (enregistré dans BD) => conducteur aussi ?
+CREATE TABLE Conducteur (
+		idConducteur INT PRIMARY KEY,
+);
+
+CREATE TABLE Vehicule (
+    matricule INT PRIMARY KEY,
+    type VARCHAR(64),
+    marque VARCHAR(64),
+    energie VARCHAR(64),
+    nbPlace INT,
+    dateMiseEnCirculation DATE,
+    idConducteur INT,
+    CONSTRAINT idConducteur FOREIGN KEY (idConducteur)
+    REFERENCES Conducteur(idConducteur),
+);
+
+CREATE TABLE Ville (
+	nomVille VARCHAR(64)PRIMARY KEY
+);
+
+CREATE TABLE Trajet (
+	idTrajet INT PRIMARY KEY, 
+    dateT DATE,
+    villeDép VARCHAR(64),
+    CONSTRAINT villeDép FOREIGN KEY (villeDép)
+    REFERENCES Ville(nomVille),
+    villeArr VARCHAR(64),
+    CONSTRAINT villeArr FOREIGN KEY (villeArr)
+    REFERENCES Ville(nomVille),
+    HeureDep INT,
+    nuPassager INT,
+    longueur INT,
+    tarif INT,
+    vehicule INT,
+    CONSTRAINT vehicule FOREIGN KEY (vehicule)
+    REFERENCES Vehicule(matricule)
+);
+
+CREATE TABLE Avis (
+	idUtilisateur INT,
+	CONSTRAINT idUtilisateur FOREIGN KEY (idUtilisateur)
+    REFERENCES Utilisateur(idUtilisateur),
+    avis BOOL,
+    idTrajet INT,
+	CONSTRAINT idTrajet FOREIGN KEY (idTrajet)
+    REFERENCES Trajet(idTrajet),
+);
 ```
