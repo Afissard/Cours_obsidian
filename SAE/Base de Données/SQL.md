@@ -85,6 +85,7 @@ Create Table Trajet
 il y a un erreur quelque part
 # Version 2
 ```sql
+-- Suppression des tables
 DROP TABLE Avis;
 DROP TABLE Trajet;
 DROP TABLE Ville;
@@ -92,6 +93,7 @@ DROP TABLE Vehicule;
 DROP TABLE Conducteur;
 DROP TABLE Utilisateur;
 
+-- Création des tables
 CREATE TABLE Utilisateur (
 	idUtilisateur INT PRIMARY KEY,
 	nom VARCHAR(64),
@@ -102,6 +104,8 @@ CREATE TABLE Utilisateur (
 -- Nécessaire ? Si un utilisateur possède une voiture (enregistré dans BD) => conducteur aussi ?
 CREATE TABLE Conducteur (
 		idConducteur INT PRIMARY KEY,
+		-- idUtilisateur (clé étrangère) ?
+		-- matricule (clé étrangère) ?
 );
 
 CREATE TABLE Vehicule (
@@ -147,4 +151,8 @@ CREATE TABLE Avis (
 	CONSTRAINT idTrajet FOREIGN KEY (idTrajet)
     REFERENCES Trajet(idTrajet),
 );
+
+-- Insertion de donnée dans la base de donnée
+
+-- Requètes
 ```
