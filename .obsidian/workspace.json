@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "32807a49230e3f53",
+        "id": "0424567a019483f3",
         "type": "tabs",
         "children": [
           {
-            "id": "194024ccfc7ef792",
+            "id": "c3d0851950d56497",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SAE/Base de Données/SAE_S1_04.pdf"
+                "file": "SAE/Base de Données/Base de Données.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/SAE_S1_04.pdf",
+                "file": "SAE/Base de Données/Base de Données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/SAE_S1_04.pdf",
+                "file": "SAE/Base de Données/Base de Données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Base de Données/SAE_S1_04.pdf"
+                "file": "SAE/Base de Données/Base de Données.md"
               }
             }
           },
@@ -164,13 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "194024ccfc7ef792",
+  "active": "c3d0851950d56497",
   "lastOpenFiles": [
+    "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "Base de Données/Base de Données.md",
     "conflict-files-obsidian-git.md",
-    "SAE/Base de Données/SAE_S1_04.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
@@ -203,7 +205,6 @@
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
     "Economie/Economie-Laptop-sacha.md",
-    "PPP/PPP.md",
     "Initiation-dev/Algo/quicksort.png",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
