@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47329670f02dbf9c",
+        "id": "c839453d4ade9bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "dd78750ccb1cd08d",
+            "id": "9208d533ef55d49a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/Base de Données/Modélisation Mocodo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd78750ccb1cd08d",
+  "active": "9208d533ef55d49a",
   "lastOpenFiles": [
+    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
-    "SAE/Base de Données/Modélisation Mocodo.md",
     "Base de Données/Chapitre4_R1_05.pdf",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
