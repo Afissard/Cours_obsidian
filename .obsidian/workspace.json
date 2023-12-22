@@ -8,30 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a6a2d5e9e7a03eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/Base de Données/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e910bc7b4139c5a6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0a6a2d5e9e7a03eb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAE/Base de Données/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "eacc0d46eb88fb39",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SAE/Base de Données/SAE_S1_04.pdf"
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +197,9 @@
   },
   "active": "0a6a2d5e9e7a03eb",
   "lastOpenFiles": [
-    "SAE/Base de Données/Modélisation Mocodo.md",
+    "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/SQL.md",
+    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/Quadtree/Quadtree.md",
     "SAE/SAE.md",
@@ -209,7 +227,6 @@
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Extrait Communicator 9e éd..pdf",
     "Economie/Cour 1/BUT1Ch1Eco.pdf",
-    "Economie/Cour 1/BUT1-DiffPoliEco.pdf",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
@@ -222,7 +239,6 @@
     "Bash/Bash.md",
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
-    "Base de Données/TP/TP SQL 2.md",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",

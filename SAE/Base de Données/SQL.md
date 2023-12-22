@@ -155,4 +155,24 @@ CREATE TABLE Avis (
 -- Insertion de donnée dans la base de donnée
 
 -- Requètes
+-- 1 : Liste des conducteurs qui effectuent des trajets entre Nantes et Cholet.
+
+-- 2 : Trouvez pour chaque conducteur habitant Nantes et conduisant un véhicule immatriculé avant 2000, le type d’énergie utilisé par le véhicule (essence, diesel etc.)
+
+-- 3 : Trouvez les conducteurs Nantais qui n’ont reçu que des avis positifs.
+
+-- 4 : Quels sont les conducteurs qui ont parcouru le plus de trajet
+
+-- 5 : Lister les trajets pour lesquels au moins un des passagers habite la ville d’arrivée
+
+-- 6 : Lister les conducteurs qui ont reçu leur agrément après l’année 2014
+
+-- 7 : Lister les conducteurs qui n’ont jamais transporté de passager
+
+-- 8 : Trouver le conducteur qui a transporté le plus de passagers.
+
+-- 9 : A créer
+
+-- 10: A créer
+
 ```
