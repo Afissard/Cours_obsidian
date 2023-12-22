@@ -97,7 +97,7 @@ DROP TABLE Utilisateur;
 CREATE TABLE Utilisateur (
 	idUtilisateur INT PRIMARY KEY,
 	nom VARCHAR(64),
-	adresse VARCHAR(64),
+	adresse VARCHAR(64), -- clé étrangère vers ville ?
 	dateAgrement DATE,
 );
 
