@@ -8,8 +8,6 @@ DROP TABLE Ville;
 DROP TABLE Vehicule;
 DROP TABLE Conducteur;
 
-
-
 Create Table Passager
 (
     nuPassager int PRIMARY KEY,
@@ -87,7 +85,186 @@ Create Table Trajet
 il y a un erreur quelque part
 # Version 2
 ```sql
-CREATE TABLE UTILISATEUR (
-	idUtilisateur int PRIMARY KEY
-)
+-- Suppression des tables
+DROP TABLE Avis;
+DROP TABLE Trajet;
+DROP TABLE Ville;
+DROP TABLE Vehicule;
+DROP TABLE Conducteur;
+DROP TABLE Utilisateur;
+
+-- Création des tables
+CREATE TABLE Utilisateur (
+	idUtilisateur INT PRIMARY KEY,
+	nom VARCHAR(64),
+	adresse VARCHAR(64), -- clé étrangère vers ville ?
+	dateAgrement DATE,
+);
+
+-- Nécessaire ? Si un utilisateur possède une voiture (enregistré dans BD) => conducteur aussi ?
+CREATE TABLE Conducteur (
+	idConducteur INT PRIMARY KEY,
+	-- idUtilisateur (clé étrangère) ?
+	-- matricule (clé étrangère) ?
+);
+
+CREATE TABLE Vehicule (
+    matricule INT PRIMARY KEY,
+    type VARCHAR(64),
+    marque VARCHAR(64),
+    energie VARCHAR(64),
+    nbPlace INT,
+    dateMiseEnCirculation DATE,
+    idConducteur INT,
+    CONSTRAINT idConducteur FOREIGN KEY (idConducteur)
+    REFERENCES Conducteur(idConducteur),
+);
+
+CREATE TABLE Ville (
+	nomVille VARCHAR(64)PRIMARY KEY
+);
+
+CREATE TABLE Trajet (
+	idTrajet INT PRIMARY KEY, 
+    dateTrajet DATE,
+    HeureDepart INT,
+    nuPassager INT,
+    longueur INT,
+    tarif INT,
+    vehicule INT,
+    CONSTRAINT vehicule FOREIGN KEY (vehicule)
+    REFERENCES Vehicule(matricule),
+    villeDép VARCHAR(64),
+    CONSTRAINT villeDép FOREIGN KEY (villeDép)
+    REFERENCES Ville(nomVille),
+    villeArr VARCHAR(64),
+    CONSTRAINT villeArr FOREIGN KEY (villeArr)
+    REFERENCES Ville(nomVille),
+);
+
+CREATE TABLE Avis (
+	-- clé primaire ?
+	avis BOOL,
+	idUtilisateur INT,
+	CONSTRAINT idUtilisateur FOREIGN KEY (idUtilisateur)
+    REFERENCES Utilisateur(idUtilisateur),
+    idTrajet INT,
+	CONSTRAINT idTrajet FOREIGN KEY (idTrajet)
+    REFERENCES Trajet(idTrajet),
+);
+
+-- Insertion de donnée dans la base de donnée
+
+-- Requètes
+-- 1 : Liste des conducteurs qui effectuent des trajets entre Nantes et Cholet.
+
+-- 2 : Trouvez pour chaque conducteur habitant Nantes et conduisant un véhicule immatriculé avant 2000, le type d’énergie utilisé par le véhicule (essence, diesel etc.)
+
+-- 3 : Trouvez les conducteurs Nantais qui n’ont reçu que des avis positifs.
+
+-- 4 : Quels sont les conducteurs qui ont parcouru le plus de trajet
+
+-- 5 : Lister les trajets pour lesquels au moins un des passagers habite la ville d’arrivée
+
+-- 6 : Lister les conducteurs qui ont reçu leur agrément après l’année 2014
+
+-- 7 : Lister les conducteurs qui n’ont jamais transporté de passager
+
+-- 8 : Trouver le conducteur qui a transporté le plus de passagers.
+
+-- 9 : A créer
+
+-- 10: A créer
+
+```
+# Version 3
+```sql
+-- Suppression des tables
+DROP TABLE Avis;
+DROP TABLE Trajet;
+DROP TABLE Conducteur;
+DROP TABLE Utilisateur;
+DROP TABLE Vehicule;
+DROP TABLE Ville;
+
+-- Création des tables
+CREATE TABLE Ville (
+    nomVille VARCHAR(64)PRIMARY KEY
+);
+
+CREATE TABLE Vehicule (
+    matricule VARCHAR(64) PRIMARY KEY,
+    type VARCHAR(64),
+    marque VARCHAR(64),
+    energie VARCHAR(64),
+    nbPlace INT,
+    dateMiseEnCirculation DATE,
+    idConducteur INT
+);
+
+CREATE TABLE Utilisateur (
+    idUtilisateur INT PRIMARY KEY,
+    nom VARCHAR(64),
+    dateAgrement DATE,
+    adresse VARCHAR(64),
+    CONSTRAINT adresse FOREIGN KEY (adresse) REFERENCES Ville(nomVille)
+);
+
+CREATE TABLE Conducteur (
+    idConducteur INT PRIMARY KEY,
+    idUtilisateur INT,
+    CONSTRAINT idUtilisateur FOREIGN KEY (idUtilisateur) REFERENCES Utilisateur(idUtilisateur),
+    vehicule VARCHAR(64),
+    CONSTRAINT vehicule FOREIGN KEY (vehicule) REFERENCES Vehicule(matricule)
+);
+
+CREATE TABLE Trajet (
+    idTrajet INT PRIMARY KEY, 
+    dateTrajet DATE,
+    HeureDepart INT,
+    nuPassager INT,
+    longueur INT,
+    tarif INT,
+    idConducteurTraj int,
+    CONSTRAINT idConducteurTraj FOREIGN KEY (idConducteurTraj) REFERENCES Conducteur(idConducteur),
+    idUtilisateurTraj int,
+    CONSTRAINT idUtilisateurTraj FOREIGN KEY (idUtilisateurTraj) REFERENCES Utilisateur(idUtilisateur),
+    villeDép VARCHAR(64),
+    CONSTRAINT villeDép FOREIGN KEY (villeDép) REFERENCES Ville(nomVille),
+    villeArr VARCHAR(64),
+    CONSTRAINT villeArr FOREIGN KEY (villeArr) REFERENCES Ville(nomVille)
+);
+
+CREATE TABLE Avis (
+    idAvis INT PRIMARY KEY,
+    avis NUMBER(1,0),
+    idUtilisateurAvis INT,
+    CONSTRAINT idUtilisateurAvis FOREIGN KEY (idUtilisateurAvis) REFERENCES Utilisateur(idUtilisateur),
+    idTrajetAvis INT,
+    CONSTRAINT idTrajetAvis FOREIGN KEY (idTrajetAvis) REFERENCES Trajet(idTrajet)
+);
+
+-- Insertion de donnée dans la base de donnée
+
+-- Requètes
+-- 1 : Liste des conducteurs qui effectuent des trajets entre Nantes et Cholet.
+
+-- 2 : Trouvez pour chaque conducteur habitant Nantes et conduisant un véhicule immatriculé avant 2000, le type d’énergie utilisé par le véhicule (essence, diesel etc.)
+
+-- 3 : Trouvez les conducteurs Nantais qui n’ont reçu que des avis positifs.
+
+-- 4 : Quels sont les conducteurs qui ont parcouru le plus de trajet
+
+-- 5 : Lister les trajets pour lesquels au moins un des passagers habite la ville d’arrivée
+
+-- 6 : Lister les conducteurs qui ont reçu leur agrément après l’année 2014
+
+-- 7 : Lister les conducteurs qui n’ont jamais transporté de passager
+
+-- 8 : Trouver le conducteur qui a transporté le plus de passagers.
+
+-- 9 : A créer
+
+-- 10: A créer
+
 ```

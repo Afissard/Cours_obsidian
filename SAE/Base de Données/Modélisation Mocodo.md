@@ -119,19 +119,67 @@ VILLE: nomVille
 UTILISATEUR: noUtilisateur, nom, adresse, dateAgrement
 EstConducteur, 0N  UTILISATEUR, 11 CONDUCTEUR
 CONDUCTEUR: noConducteur
-POSSÈDE, 1N CONDUCTEUR, ON VEHICULE
+Possède, 1N CONDUCTEUR, ON VEHICULE
 VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation, noConducteur
 
 EstNote, 01 AVIS, 11 UTILISATEUR
 Conduit, 1N CONDUCTEUR, 11 TRAJET
 
-AVIS: noUtilisateur, avis, trajet
+AVIS: noUtilisateur, avis, idtrajet
 Note, 11 TRAJET, 0N AVIS
 TRAJET: idTrajet, date, villeDep, villeAri, heureDes, noPassager, longueur, tarif
-ARRIVÉ, 11 VILLE, 11 TRAJET : nomVille
+Arrivé, 11 VILLE, 11 TRAJET : nomVille
 
 :
-DÉPART, 11 VILLE, 11 TRAJET : nomVille
+Départ, 11 VILLE, 11 TRAJET : nomVille
 VILLE: nomVille
+```
+# Yet another final version
+```mocodo
+VILLE: nomVille
+
+Réside, 0N VILLE, 11 UTILISATEUR: nomVille
+
+UTILISATEUR: idUtilisateur, nom, dateAgrement, adresse
+
+EstConducteur, 0N  UTILISATEUR, 0N CONDUCTEUR: idUtilisateur
+
+:
+
+  
+
+Arrivé, 0N VILLE, 11 TRAJET : nomVille
+
+Départ, 0N VILLE, 11 TRAJET : nomVille
+
+EstConduit, 1N UTILISATEUR, 1N TRAJET: idUtilisateur
+
+EstNote, 0N AVIS, 0N UTILISATEUR
+
+:
+
+  
+
+:
+
+TRAJET: idTrajet, date, heureDes, longueur, tarif, villeDep, villeAri, idUtilisateur, idConducteur
+
+AvisDonné, 11 TRAJET, 0N AVIS: idUtilisateur, idTrajet
+
+AVIS: idAvis, avis, idUtilisateur, idtrajet
+
+CONDUCTEUR: idConducteur, idUtilisateur, matricule
+
+  
+
+:
+
+:
+
+Conduit, 1N CONDUCTEUR, 11 TRAJET: idConducteur
+
+VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation
+
+Possède, 1N CONDUCTEUR, 11 VEHICULE: matricule
 ```
 ...

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c839453d4ade9bbf",
+        "id": "32807a49230e3f53",
         "type": "tabs",
         "children": [
           {
-            "id": "9208d533ef55d49a",
+            "id": "194024ccfc7ef792",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,16 +158,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9208d533ef55d49a",
+  "active": "194024ccfc7ef792",
   "lastOpenFiles": [
-    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SQL.md",
+    "SAE/Base de Données/Modélisation Mocodo.md",
+    "Base de Données/Base de Données.md",
+    "conflict-files-obsidian-git.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
     "Base de Données/Chapitre4_R1_05.pdf",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
     "Base de Données/Chapitre3_R1_05.pdf",
-    "Base de Données/Base de Données.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
     "SAE/Base de Données/Base de Données.md",
     "Economie/Economie.md",
