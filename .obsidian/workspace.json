@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4fa651c53aacfba",
+        "id": "47329670f02dbf9c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb7f7ff16b873d4",
+            "id": "dd78750ccb1cd08d",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SAE/Base de Données/SAE_S1_04.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7ea7a41a2681d6ac",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f0adf953e0d929d7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/Base de Données/SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/SQL.md",
+                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/SQL.md",
+                "file": "SAE/Base de Données/Modélisation Mocodo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Base de Données/SQL.md"
+                "file": "SAE/Base de Données/Modélisation Mocodo.md"
               }
             }
           },
@@ -195,11 +166,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0adf953e0d929d7",
+  "active": "dd78750ccb1cd08d",
   "lastOpenFiles": [
-    "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
+    "SAE/Base de Données/Modélisation Mocodo.md",
     "Base de Données/Chapitre4_R1_05.pdf",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
