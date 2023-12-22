@@ -103,9 +103,9 @@ CREATE TABLE Utilisateur (
 
 -- Nécessaire ? Si un utilisateur possède une voiture (enregistré dans BD) => conducteur aussi ?
 CREATE TABLE Conducteur (
-		idConducteur INT PRIMARY KEY,
-		-- idUtilisateur (clé étrangère) ?
-		-- matricule (clé étrangère) ?
+	idConducteur INT PRIMARY KEY,
+	-- idUtilisateur (clé étrangère) ?
+	-- matricule (clé étrangère) ?
 );
 
 CREATE TABLE Vehicule (
@@ -126,27 +126,28 @@ CREATE TABLE Ville (
 
 CREATE TABLE Trajet (
 	idTrajet INT PRIMARY KEY, 
-    dateT DATE,
-    villeDép VARCHAR(64),
-    CONSTRAINT villeDép FOREIGN KEY (villeDép)
-    REFERENCES Ville(nomVille),
-    villeArr VARCHAR(64),
-    CONSTRAINT villeArr FOREIGN KEY (villeArr)
-    REFERENCES Ville(nomVille),
-    HeureDep INT,
+    dateTrajet DATE,
+    HeureDepart INT,
     nuPassager INT,
     longueur INT,
     tarif INT,
     vehicule INT,
     CONSTRAINT vehicule FOREIGN KEY (vehicule)
     REFERENCES Vehicule(matricule)
+    villeDép VARCHAR(64),
+    CONSTRAINT villeDép FOREIGN KEY (villeDép)
+    REFERENCES Ville(nomVille),
+    villeArr VARCHAR(64),
+    CONSTRAINT villeArr FOREIGN KEY (villeArr)
+    REFERENCES Ville(nomVille),
 );
 
 CREATE TABLE Avis (
+	-- clé primaire ?
+	avis BOOL,
 	idUtilisateur INT,
 	CONSTRAINT idUtilisateur FOREIGN KEY (idUtilisateur)
     REFERENCES Utilisateur(idUtilisateur),
-    avis BOOL,
     idTrajet INT,
 	CONSTRAINT idTrajet FOREIGN KEY (idTrajet)
     REFERENCES Trajet(idTrajet),
