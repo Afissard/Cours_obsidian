@@ -134,4 +134,47 @@ Arrivé, 11 VILLE, 11 TRAJET : nomVille
 Départ, 11 VILLE, 11 TRAJET : nomVille
 VILLE: nomVille
 ```
+# Yet another final version
+```mocodo
+:
+Réside, 11 VILLE, 0N UTILISATEUR: nomVille
+:
+:
+:
+EstConducteur, 0N  UTILISATEUR, 11 CONDUCTEUR: idUtilisateur
+:
+
+:
+:
+EstConduit, 0N UTILISATEUR, 1N TRAJET: idUtilisateur
+UTILISATEUR: idUtilisateur, nom, dateAgrement, adresse
+EstNote, 01 AVIS, 11 UTILISATEUR
+:
+:
+
+VILLE: nomVille
+Arrivé, 11 VILLE, 11 TRAJET : nomVille
+TRAJET: idTrajet, date, heureDes, longueur, tarif, villeDep, villeAri, idUtilisateur, idConducteur
+Note, 11 TRAJET, 0N AVIS: idUtilisateur, idTrajet
+AVIS: idAvis, avis, idUtilisateur, idtrajet
+:
+:
+
+:
+:
+Départ, 11 VILLE, 11 TRAJET : nomVille
+Conduit, 1N CONDUCTEUR, 11 TRAJET: idConducteur
+:
+CONDUCTEUR: idConducteur, idUtilisateur, matricule
+:
+
+:
+:
+:
+:
+:
+Possède, 1N CONDUCTEUR, 11 VEHICULE: matricule
+VEHICULE: matricule, type, marque, energie, nbrPlace, dateMiseEnCirculation
+
+```
 ...
