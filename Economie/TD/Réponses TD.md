@@ -29,7 +29,7 @@ La France, classé 10ème en 2026, est 11ème en 2030 et 12ème en 2050 bien que
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)#Estimations
 ![[Classement PIB-PPA 2017 Banque Mondiale.png]]
 Le classement du PIB en PPA de l'année 2017 est radicalement différent de celui annoncé pour 2030 et 2050 (vu précédemment dans la question 4.2), en effet si la Chine domine déjà les Etats Unis, c'est tout de même avec moins d'avance (seulement 2 milliards, en 2030 ce sera environ 14.5 milliards). L'inde et le Japon sont déjà respectivement top 3 et top 4. C'est encore l'Allemagne qui est en 5ème position, ce qui auras changé en 2030, en effet l'Indonésie qui détrôneras l'Allemage n'est encore que 7ème devant le Brésil et la France en 2017. La France est au coude à coude avec le Royaume Unis et repasse devant celui ci en 2017, mais l'écart entre ces deux éternel rivaux va se creusé au fil des années, au profit de la Grande Bretagne qui conservera sa place alors que la France se feras dépassé par la Turquie en 2050.
-# 6 Commentez le classement mondial du niveau de vie nominal (niveau de vie = PIB/Habitant), en comparaison des données précédente.
+# 6 Commentez le classement mondial du niveau de vie nominal (PIB nominal / habitant), en comparaison des données précédente.
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal_par_habitant
 ![[Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png]]
 réponse ...
