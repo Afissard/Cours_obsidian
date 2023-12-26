@@ -11,7 +11,6 @@ La parité de pouvoir d'achat est une méthode utilisée en économie pour étab
 Le PIB en PPA représente le PIB mis en rapport au coup de la vie.
 # 4 Commentez le classement mondial des pays en PIB nominal (les premiers, la France et les derniers).
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal
-- Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)#Estimations
 Sans grande surprise, les Etats Unis (25 462, 700 Md $/ans) qui représente plus d'un quart du PIB mondial total de l'année 2022 (100 562, 011 Md $/ans), talonné par la Chine (17 963, 171 Md $/ans) sont en haut du classement et seule l'Europe (16 641,391 Md $/ans), en troisième place à un PIB comparable. Hors l'Europe n'est pas un pays, mais un regroupement de pays.
 En 2022, la France (3 000, 905 Md $/ans) est classé 7ème par la Banque Mondial, devancé par le Japon, l'Inde et le Royaume Unis, bien que l'économie ce dernier est été impacté par le Brexit, le Royaume Unis est en 6ème position avec près du double de la croissance sur un ans de la France.
 Notons que la Russie à monté de deux place dans le classement cette année alors que le contexte géopolitique ne semblais pas le lui permettre, ce que confirme sa croissance sur un ans qui à baissé cette année (-2,1%).
@@ -23,6 +22,8 @@ Si l'on compare ce classement, au même classement réalisé en 2006 où le mond
  ![[tabClassementPays2050-BFM.jpg]]
 Réponse ici
 # 5 Commentez le classement mondial du PIB en Parité du Pouvoir d'Achat (PPA), en comparaison des données précédente.
+- Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)
+- Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)#Estimations
 # 6 Commentez le classement mondial du niveau de vie nominal (niveau de vie = PIB/Habitant), en comparaison des données précédente.
 # 7 Commentez le classement mondial du niveau de vie en PPA, en comparaison des données précédente.
 # 8 Commentez brièvement le tableau de l'évolution du PIB en France de 1949 à aujourd'hui.
