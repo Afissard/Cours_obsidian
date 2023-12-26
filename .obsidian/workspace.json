@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -169,8 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad9c3e10ac980ec3",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Economie/TD/Classement PIB-Nominal 2006 wikipedia.png",
+    "Economie/TD/Classement PIB-Nominal 2022 Banque Mondiale.png",
+    "Economie/TD/Classement PIB-PPA 2017 Banque Mondiale.png",
     "Economie/TD/BUT1-TdEco PIB....pdf",
     "Economie/TD/Réponses TD.md",
     "Economie/Chap 1/BUT1Ch1Eco.pdf",
@@ -193,7 +195,7 @@
     "Base de Données/Base de Données.md",
     "SAE/Quadtree/voir repo privé.md",
     "SAE/Quadtree",
-    "Economie/TD/tabClassementPays2050-BFM.jpg",
+    "Economie/TD/Classement PIB-PPA 2030-2050 BFM.jpg",
     "Economie/Shémas/schéma prestataire et client.canvas",
     "Economie/Chap 2/Chap 2 Prise de notes.md",
     "Base de Données/cours-sql-sh-.pdf",
@@ -220,8 +222,6 @@
     "Initiation-système/TP/images/processus.png",
     "Initiation-système/TP/images/principe pipe.png",
     "Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
-    "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
-    "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
