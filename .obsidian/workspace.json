@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0424567a019483f3",
+        "id": "b089043d3f5bc5d6",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d0851950d56497",
+            "id": "fbabbb404dcfcdfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/Base de Données/Base de Données.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Base de Données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Base de Données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/Base de Données/Base de Données.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,51 +158,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3d0851950d56497",
+  "active": "fbabbb404dcfcdfc",
   "lastOpenFiles": [
-    "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
-    "Base de Données/Base de Données.md",
-    "conflict-files-obsidian-git.md",
-    "Base de Données/Chapitre4_R1_05.pdf",
-    "SAE/PubCDI/PubCDI.md",
-    "SAE/PubCDI/Idée de design.md",
-    "Base de Données/Chapitre3_R1_05.pdf",
-    "SAE/Base de Données/Cas transport (Co-voiturage).md",
+    "SAE/Base de Données/SAE_S1_04.pdf",
     "SAE/Base de Données/Base de Données.md",
-    "Economie/Economie.md",
-    "Economie/Cour 1/Réponses TD.md",
-    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
+    "SAE/Quadtree/Quadtree.md",
+    "SAE/SAE.md",
+    "Base de Données/Base de Données.md",
+    "SAE/Quadtree/voir repo privé.md",
+    "SAE/Quadtree",
     "Economie/Cour 1/tabClassementPays2050-BFM.jpg",
     "Economie/Cour 1/schéma prestataire et client.canvas",
-    "Economie/Cour 1/BUT1Ch3Eco.pdf",
-    "Economie/Cour 1/BUT1Ch2Eco.pdf",
+    "Economie/Cour 1/Réponses TD.md",
     "Economie/Cour 1/Chap 2 Prise de notes.md",
-    "Base de Données/Chapitre5_R1_05.pdf",
-    "Base de Données/Chapitre2_R1_05.pdf",
+    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
     "Base de Données/cours-sql-sh-.pdf",
-    "Base de Données/Introduction_R1_05.pdf",
-    "SAE/SAE.md",
+    "Base de Données/Chapitre5_R1_05.pdf",
+    "Base de Données/Chapitre6_R1_05.pdf",
+    "Base de Données/Chapitre4_R1_05.pdf",
+    "Economie/Economie.md",
+    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
+    "Economie/Cour 1/schéma PIB d'un pays.canvas",
+    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
     "Economie/Cour 1/Prise de note cour 1.md",
-    "Bash/Bash.md",
-    "Bash/Droits et Administration.md",
+    "SAE/PubCDI/Idée de design.md",
+    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
+    "SAE/PubCDI/PubCDI.md",
+    "SAE/PubCDI/Extrait Communicator 9e éd..pdf",
+    "Economie/Cour 1/BUT1Ch1Eco.pdf",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
     "Bash/Mise à jour.md",
     "Bash/Gestion des processus.md",
     "Bash/Exécution de cmd chainé.md",
     "Bash/Déplacement dans les dossiers.md",
+    "Bash/Droits et Administration.md",
     "Bash/Création et édition de dossiers et fichiers.md",
+    "Bash/Bash.md",
     "Bash/Autres cmd, plus ou moins utiles.md",
     "Bash/Archives et Zip.md",
-    "Economie/Economie-Laptop-sacha.md",
-    "Initiation-dev/Algo/quicksort.png",
-    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
-    "Economie/Cour 1/Schéma économie politique.canvas",
-    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Cour 1/schéma PIB d'un pays.canvas",
-    "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
@@ -219,6 +210,7 @@
     "Initiation-système/TP/images/principe pipe.png",
     "Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
     "Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
+    "Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
