@@ -20,18 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7116d7925e3ea26f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/TD/BUT1-TdEco PIB....pdf"
-              },
-              "pinned": true
-            }
           }
         ]
       }
@@ -83,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",

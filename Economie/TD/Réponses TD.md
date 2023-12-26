@@ -20,13 +20,20 @@ Si l'on compare ce classement, au même classement réalisé en 2006 où le mond
 ## Quelles sont les prévisions du classement mondial pour 2030 ? et 2050 ?
 - BFM : https://www.bfmtv.com/economie/top-20-des-pays-les-plus-riches-ou-sera-la-france-en-2030_AN-201702070142.html
  ![[tabClassementPays2050-BFM.jpg]]
-Réponse ici
+Le classement mondial, estimé en 2016, des pays par rapport à leur PIB en Parité de Pouvoir d'Achat varie énormément entre les prévision pour 2030 et 2050. En effet, le top 5 est grandement modifié en 20 ans : la Chine conserve sa place en haut du podium avec une bonne avance, mais les Etats Unis échange de position avec l'Inde, le Japon chute de la 4ème place à la 8ème, l'Indonésie le remplace suivi de près par le Brésil anciennement classé 8ème en 2030.
+La France, classé 10ème en 2026, est 11ème en 2030 et 12ème en 2050 bien que son PPA augmente, de nombreux pays émergeants seront de taille à lutté avec la France en 2030 et bien plus encore en 2050.
 # 5 Commentez le classement mondial du PIB en Parité du Pouvoir d'Achat (PPA), en comparaison des données précédente.
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)#Estimations
 # 6 Commentez le classement mondial du niveau de vie nominal (niveau de vie = PIB/Habitant), en comparaison des données précédente.
+- Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal_par_habitant
 # 7 Commentez le classement mondial du niveau de vie en PPA, en comparaison des données précédente.
+- Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)_par_habitant 
+- Wikipedia https://business-cool.com/decryptage/classements/classement-pays-pib-habitant-ppa/
 # 8 Commentez brièvement le tableau de l'évolution du PIB en France de 1949 à aujourd'hui.
+- Wikipedia https://fr.wikipedia.org/wiki/Produit_int%C3%A9rieur_brut_de_la_France
 # 9 Commentez le graphique représentant les périodes de croissance, de récession (ralentissement de la croissance) et de régression économique (taux de croissance négatif) en France depuis 1950.
+- Wikipedia https://fr.wikipedia.org/wiki/Produit_int%C3%A9rieur_brut_de_la_France
 # 10 Rappelez la définition ainsi que le calcul de l'IDH.
 # 11 Commentez le classement mondial des pays selon leur IDH (les premiers, la France et les derniers).
+- https://fr.wikipedia.org/wiki/Liste_des_pays_par_IDH
