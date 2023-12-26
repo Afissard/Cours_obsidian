@@ -5,26 +5,30 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **Cour 1**
+- **[[Chap 1]]**
+	- [[BUT1Ch1Eco.pdf]]
+	- [[Chap 1 Prise de note]]
+- **Chap 2**
+	- [[BUT1Ch2Eco.pdf]]
+	- [[Chap 2 Prise de notes]]
+- **Chap 3**
+	- [[BUT1Ch3Eco.pdf]]
+- **odtSrc**
+	- [[BUT1-TdEco PIB....odt]]
+	- [[BUT1Ch1Eco.odt]]
+	- [[BUT1Ch2Eco.odt]]
+	- [[BUT1Ch3Eco.odt]]
+- **Shémas**
 	- [[BUT1-CircuitEco.pdf]]
 	- [[BUT1-DiffPoliEco.pdf]]
-	- [[BUT1-TdEco PIB....pdf]]
-	- [[BUT1Ch1Eco.pdf]]
-	- [[BUT1Ch2Eco.pdf]]
-	- [[BUT1Ch3Eco.pdf]]
-	- [[Chap 2 Prise de notes]]
-	- **odtSrc**
-		- [[BUT1-TdEco PIB....odt]]
-		- [[BUT1Ch1Eco.odt]]
-		- [[BUT1Ch2Eco.odt]]
-		- [[BUT1Ch3Eco.odt]]
-	- [[Prise de note cour 1]]
-	- [[Réponses TD]]
 	- [[Schéma économie politique.canvas]]
-	- [[schéma PIB d'un pays.canvas]]
+	- [[schéma PIB Pays.canvas]]
 	- [[Schéma Pouvoir d'Achat.canvas]]
 	- [[schéma prestataire et client.canvas]]
 	- [[Schéma répartition richesse & Valeur ajouté.canvas]]
+- **TD**
+	- [[BUT1-TdEco PIB....pdf]]
+	- [[Réponses TD]]
 	- [[tabClassementPays2050-BFM.jpg]]
 
 %% End Waypoint %%

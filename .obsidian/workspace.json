@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b089043d3f5bc5d6",
+        "id": "9c3a699cc4dfb508",
         "type": "tabs",
         "children": [
           {
-            "id": "fbabbb404dcfcdfc",
+            "id": "ad9c3e10ac980ec3",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Economie/TD/Réponses TD.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economie/TD/Réponses TD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economie/TD/Réponses TD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economie/TD/Réponses TD.md"
+              }
             }
           },
           {
@@ -158,8 +168,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbabbb404dcfcdfc",
+  "active": "ad9c3e10ac980ec3",
   "lastOpenFiles": [
+    "Economie/Chap 1/BUT1Ch1Eco.pdf",
+    "Economie/TD/Réponses TD.md",
+    "Economie/Chap 1/Chap 1 Prise de note.md",
+    "Economie/Economie.md",
+    "Economie/Chap 1/Chap 1.md",
+    "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Shémas/BUT1-DiffPoliEco.pdf",
+    "Economie/Shémas",
+    "Economie/TD/BUT1-TdEco PIB....pdf",
+    "Economie/TD",
+    "Economie/Chap 3",
+    "Economie/Chap 2",
+    "Economie/Shémas/schéma PIB Pays.canvas",
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "SAE/Base de Données/SAE_S1_04.pdf",
@@ -169,28 +192,16 @@
     "Base de Données/Base de Données.md",
     "SAE/Quadtree/voir repo privé.md",
     "SAE/Quadtree",
-    "Economie/Cour 1/tabClassementPays2050-BFM.jpg",
-    "Economie/Cour 1/schéma prestataire et client.canvas",
-    "Economie/Cour 1/Réponses TD.md",
-    "Economie/Cour 1/Chap 2 Prise de notes.md",
-    "Economie/Cour 1/BUT1-TdEco PIB....pdf",
+    "Economie/TD/tabClassementPays2050-BFM.jpg",
+    "Economie/Shémas/schéma prestataire et client.canvas",
+    "Economie/Chap 2/Chap 2 Prise de notes.md",
     "Base de Données/cours-sql-sh-.pdf",
-    "Base de Données/Chapitre5_R1_05.pdf",
-    "Base de Données/Chapitre6_R1_05.pdf",
-    "Base de Données/Chapitre4_R1_05.pdf",
-    "Economie/Economie.md",
-    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
-    "Economie/Cour 1/schéma PIB d'un pays.canvas",
-    "Economie/Cour 1/Schéma économie politique.canvas",
+    "Economie/Shémas/Schéma économie politique.canvas",
     "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
-    "Economie/Cour 1/Prise de note cour 1.md",
     "SAE/PubCDI/Idée de design.md",
-    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
     "SAE/PubCDI/PubCDI.md",
-    "SAE/PubCDI/Extrait Communicator 9e éd..pdf",
-    "Economie/Cour 1/BUT1Ch1Eco.pdf",
-    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
+    "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
     "Bash/Mise à jour.md",
@@ -201,7 +212,6 @@
     "Bash/Création et édition de dossiers et fichiers.md",
     "Bash/Bash.md",
     "Bash/Autres cmd, plus ou moins utiles.md",
-    "Bash/Archives et Zip.md",
     "PPP/PPP_tableau.jpg",
     "Initiation-système/TP/images/processus4.png",
     "Initiation-système/TP/images/flux.png",
