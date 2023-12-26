@@ -57,4 +57,4 @@ L'Indice de Développement Humain est créé par le PNUD (le Programme des Natio
 # 11 Commentez le classement mondial des pays selon leur IDH (les premiers, la France et les derniers).
 - https://fr.wikipedia.org/wiki/Liste_des_pays_par_IDH
 ![[Classement IDH 2021 Wikipedia.png]]
-réponse 
+Le classement des pays par rapport à leur IDH
