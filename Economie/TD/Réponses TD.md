@@ -19,7 +19,7 @@ Le dernier pays avec des donnée à jour pour l'année 2022 est le Costa Rica en
 
 ![[Classement PIB-Nominal 2006 wikipedia.png]]
 Si l'on compare ce classement, au même classement réalisé en 2006 où le monde à générer un PIB total de 48 245, 198 Md $ / ans soit un peu moins de la moitié du PIB générer en 2022. L'on remarque que le top 5 est radicalement différent. Les pays d'Europe réunis (14 609, 836 Md  $/ans) sont encore devant les Etats Unis seulement 13 244, 550 Md $ / ans ce qui représente plus d'un quart du PIB mondial en 2006. Avec son PIB nominal de l'année 2006, les Etats Unis se classerais sans grande difficulté en 3ème position en 2022 en écrasant l'Allemagne (3ème actuel) et le Japon (4ème actuel) réuni. En seconde position se trouve le Japon avec 4 366, 459 Md / $ ans soit près du double de l'Allemagne qui se situe juste en dessous avec 2 915 867 Md / $ ans. La Chine (excluant Hong Kong et Macao) se place 4ème devant la France (5ème), le Royaume Unis (6ème) et et la Russie (7ème), ces cinq pays étant bien plus proche les uns des autre avec un PIB de plus de 2 milliard de dollars par ans. 
-## Quelles sont les prévisions du classement mondial pour 2030 ? et 2050 ?
+## 4.2 Quelles sont les prévisions du classement mondial pour 2030 ? et 2050 ?
 - BFM : https://www.bfmtv.com/economie/top-20-des-pays-les-plus-riches-ou-sera-la-france-en-2030_AN-201702070142.html
  ![[Classement PIB-PPA 2030-2050 BFM.jpg]]
 Le classement mondial, estimé en 2016, des pays par rapport à leur PIB en Parité de Pouvoir d'Achat varie énormément entre les prévision pour 2030 et 2050. En effet, le top 5 est grandement modifié en 20 ans : la Chine conserve sa place en haut du podium avec une bonne avance, mais les Etats Unis échange de position avec l'Inde, le Japon chute de la 4ème place à la 8ème, l'Indonésie le remplace suivi de près par le Brésil anciennement classé 8ème en 2030.
@@ -28,9 +28,11 @@ La France, classé 10ème en 2026, est 11ème en 2030 et 12ème en 2050 bien que
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)#Estimations
 ![[Classement PIB-PPA 2017 Banque Mondiale.png]]
-Réponse ...
+Le classement du PIB en PPA de l'année 2017 est radicalement différent de celui annoncé pour 2030 et 2050 (vu précédemment dans la question 4.2), en effet si la Chine domine déjà les Etats Unis, c'est tout de même avec moins d'avance (seulement 2 milliards, en 2030 ce sera environ 14.5 milliards). L'inde et le Japon sont déjà respectivement top 3 et top 4. C'est encore l'Allemagne qui est en 5ème position, ce qui auras changé en 2030, en effet l'Indonésie qui détrôneras l'Allemage n'est encore que 7ème devant le Brésil et la France en 2017. La France est au coude à coude avec le Royaume Unis et repasse devant celui ci en 2017, mais l'écart entre ces deux éternel rivaux va se creusé au fil des années, au profit de la Grande Bretagne qui conservera sa place alors que la France se feras dépassé par la Turquie en 2050.
 # 6 Commentez le classement mondial du niveau de vie nominal (niveau de vie = PIB/Habitant), en comparaison des données précédente.
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal_par_habitant
+![[Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png]]
+réponse ...
 # 7 Commentez le classement mondial du niveau de vie en PPA, en comparaison des données précédente.
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)_par_habitant 
 - Wikipedia https://business-cool.com/decryptage/classements/classement-pays-pib-habitant-ppa/

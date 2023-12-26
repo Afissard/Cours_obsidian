@@ -30,6 +30,7 @@ type: folder_brief_live
 	- [[BUT1-TdEco PIB....pdf]]
 	- [[Classement PIB-Nominal 2006 wikipedia.png]]
 	- [[Classement PIB-Nominal 2022 Banque Mondiale.png]]
+	- [[Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png]]
 	- [[Classement PIB-PPA 2017 Banque Mondiale.png]]
 	- [[Classement PIB-PPA 2030-2050 BFM.jpg]]
 	- [[Réponses TD]]
