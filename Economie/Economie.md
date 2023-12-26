@@ -33,7 +33,11 @@ type: folder_brief_live
 	- [[Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png]]
 	- [[Classement PIB-PPA 2017 Banque Mondiale.png]]
 	- [[Classement PIB-PPA 2030-2050 BFM.jpg]]
+	- [[Classement PIB-PPA-par-habitant 2017-2022 Wikipedia.png]]
+	- [[Graphique période économique en France 1950-2010 Wikipedia.png]]
+	- [[Graphque evolution PIB Français INSEE.png]]
 	- [[Réponses TD]]
+	- [[Tableau evolution PIB Français Wikipedia.png]]
 
 %% End Waypoint %%
 

@@ -32,14 +32,26 @@ Le classement du PIB en PPA de l'année 2017 est radicalement différent de celu
 # 6 Commentez le classement mondial du niveau de vie nominal (PIB nominal / habitant), en comparaison des données précédente.
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal_par_habitant
 ![[Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png]]
-réponse ...
+Ce classement est totalement différent du reste des classement vu précédemment, effet l'on compare le PIB par habitant d'un pays, classement s'apparente donc à un classement des pays ou les habitant sont les plus riches. Ce classement est très variable car il fluctue en fonction du taux de change de la devise locale.
+La tête du classement n'a donc rien à voir avec le classement des pays par rapport à leur PIB nominal, le seul pays commun au top 10 étant les Etats Unis (69 375$ /habitants) en 2021. La Suisse est a le 20ème PIB nominal mondiale mais est troisième dans le classement du PIB par tête avec 93 515$ /habitants. Une majorité du top 10 en 2021 est composé par des pays Europe du nord, la France n'est qu'en 23ème position avec 45 028$ /habitant. La Chine, qui dans les classement précédant rivalisais avec les Etats Unis est classé 72ème en 2021.
+Si l'on remonte en 2017, le Luxembourg, premier pays en 2021 (avec 135 050$ /habitants), est classé 3ème (104 103$ /habitants), la Suisse 6ème (80 190$ /habitants). Les Etats Unis (14ème avec 59 532$ /habitants) et la France (32ème avec 38 477$ /habitants) ont opérer une belle remonté entre 2017 et 2021. La Chine elle est 88ème sur les 208 pays listé.
 # 7 Commentez le classement mondial du niveau de vie en PPA, en comparaison des données précédente.
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)_par_habitant 
-- Wikipedia https://business-cool.com/decryptage/classements/classement-pays-pib-habitant-ppa/
+- Business Cool https://business-cool.com/decryptage/classements/classement-pays-pib-habitant-ppa/
+![[Classement PIB-PPA-par-habitant 2017-2022 Wikipedia.png]]
+Encore une fois ce classement est grandement différent des classements précédant, bien qu'on y retrouve beaucoup de pays présent dans le classement des pays par rapport au PIB nominal par tête, le classement par le PIB en PPA par tête a une toute autre valeur puisque l'on prend en compte le pouvoir d'achats des habitants.
+Le premier pays du monde en 2017 est le Qatar (avec 124 927$ /habitants), mais celui-ci tombe à la 5ème place en 2022 (avec 114 648$ /habitants), cela est notamment du à la coupe du monde de foot qui a fais grimper les prix. Encore une fois, on retrouve pas moins de 4 pays européen dans le top 10 en 2017, le Luxembourg étant toujours très bien placé avec un PIB en PPA plus de cent mille dollars par habitants. Les Etat Unis sont eux classé 10ème avec un PIB en PPA par habitant de 59 495$ et la France 26ème avec 43 551$.
+Le classement assez peu entre 2027 et 2021 excepté la chute du Qatar ainsi que du micro état Brunei qui passe de 4ème en 2017 à 12ème en 2022. La Chine est bien loin derrière, classé 79ème en 2017, elle est 77ème en 2022 avec un PIB en PPA par habitant de 21 476$.
 # 8 Commentez brièvement le tableau de l'évolution du PIB en France de 1949 à aujourd'hui.
 - Wikipedia https://fr.wikipedia.org/wiki/Produit_int%C3%A9rieur_brut_de_la_France
+- https://www.insee.fr/fr/statistiques/2830613#tableau-figure1
+![[Tableau evolution PIB Français Wikipedia.png]]
+![[Graphque evolution PIB Français INSEE.png]]
+Depuis 1949 à aujourd'hui le PIB Français n'a cessé d'augmenté, à l'exeption de 4 périodes de crise : le premier choc pétrolier, la crise du système monétaire européen en 1993, la crise des subprime en 2008 et enfin la crise sanitaire causé par la covid 19 en 2020. Il est indéniable que le PIB est augmenté, mais sont taux de croissance à lui quelque peu ralenti comme le montre le graphique de l'INSEE. 
 # 9 Commentez le graphique représentant les périodes de croissance, de récession (ralentissement de la croissance) et de régression économique (taux de croissance négatif) en France depuis 1950.
 - Wikipedia https://fr.wikipedia.org/wiki/Produit_int%C3%A9rieur_brut_de_la_France
+![[Graphique période économique en France 1950-2010 Wikipedia.png]]
+
 # 10 Rappelez la définition ainsi que le calcul de l'IDH.
 # 11 Commentez le classement mondial des pays selon leur IDH (les premiers, la France et les derniers).
 - https://fr.wikipedia.org/wiki/Liste_des_pays_par_IDH
