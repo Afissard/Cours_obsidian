@@ -28,6 +28,7 @@ type: folder_brief_live
 	- [[Schéma répartition richesse & Valeur ajouté.canvas]]
 - **TD**
 	- [[BUT1-TdEco PIB....pdf]]
+	- [[Classement IDH 2021 Wikipedia.png]]
 	- [[Classement PIB-Nominal 2006 wikipedia.png]]
 	- [[Classement PIB-Nominal 2022 Banque Mondiale.png]]
 	- [[Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png]]

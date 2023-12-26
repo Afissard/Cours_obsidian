@@ -47,11 +47,14 @@ Le classement assez peu entre 2027 et 2021 excepté la chute du Qatar ainsi que 
 - https://www.insee.fr/fr/statistiques/2830613#tableau-figure1
 ![[Tableau evolution PIB Français Wikipedia.png]]
 ![[Graphque evolution PIB Français INSEE.png]]
-Depuis 1949 à aujourd'hui le PIB Français n'a cessé d'augmenté, à l'exeption de 4 périodes de crise : le premier choc pétrolier, la crise du système monétaire européen en 1993, la crise des subprime en 2008 et enfin la crise sanitaire causé par la covid 19 en 2020. Il est indéniable que le PIB est augmenté, mais sont taux de croissance à lui quelque peu ralenti comme le montre le graphique de l'INSEE. 
+Depuis 1949 à aujourd'hui le PIB Français n'a cessé d'augmenté (13,2 milliards d'euro en 1949 à 2500,9 milliards d'euro en 2021), à l'exeption de 4 périodes de crise : le premier choc pétrolier, la crise du système monétaire européen en 1993, la crise des subprime en 2008 et enfin la crise sanitaire causé par la covid 19 en 2020. Il est indéniable que le PIB est augmenté, mais sont taux de croissance à lui quelque peu ralenti comme le montre le graphique de l'INSEE. 
 # 9 Commentez le graphique représentant les périodes de croissance, de récession (ralentissement de la croissance) et de régression économique (taux de croissance négatif) en France depuis 1950.
 - Wikipedia https://fr.wikipedia.org/wiki/Produit_int%C3%A9rieur_brut_de_la_France
 ![[Graphique période économique en France 1950-2010 Wikipedia.png]]
-
+Ce graphique résume l'évolution moyenne du PIB Français aux différentes périodes économique que le monde est connu entre 1950 et 2010. Les trente glorieuses prennent fin avec le premier chose pétrolier, c'est la première regression de la France depuis la seconde guerre mondiale, s'ensuit alors une suite d'inflations et regressions du PIB jusqu'aux année 2010.
 # 10 Rappelez la définition ainsi que le calcul de l'IDH.
+L'Indice de Développement Humain est créé par le PNUD (le Programme des Nations Unies pour le Développement) pour évaluer le niveau de développement humain dans un pays. C'est un indice statistique qui prend en compte les 3 critères suivants : le PIB par habitant en PPA, l'espérance de vie à la naissance et le niveau d'éducation. L'IDH varie de 0 à 1, un IDH proche de 1 correspond à un niveau de développement humain très élevé.
 # 11 Commentez le classement mondial des pays selon leur IDH (les premiers, la France et les derniers).
 - https://fr.wikipedia.org/wiki/Liste_des_pays_par_IDH
+![[Classement IDH 2021 Wikipedia.png]]
+réponse 

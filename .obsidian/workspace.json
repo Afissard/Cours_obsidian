@@ -20,6 +20,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a81408b628d2ddbc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf"
+              }
+            }
           }
         ]
       }
@@ -168,8 +178,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "ad9c3e10ac980ec3",
   "lastOpenFiles": [
+    "Economie/TD/Classement IDH 2021 Wikipedia.png",
+    "Economie/Chap 1/BUT1Ch1Eco.pdf",
+    "Economie/Chap 1/Chap 1 Prise de note.md",
+    "Economie/Chap 1/Chap 1.md",
+    "Economie/TD/Réponses TD.md",
     "Economie/TD/Graphque evolution PIB Français INSEE.png",
     "Economie/TD/Graphique période économique en France 1950-2010 Wikipedia.png",
     "Economie/TD/Graphique periode économique en France Wikipedia.png.opdownload",
@@ -178,14 +193,10 @@
     "Economie/TD/Sacha Chauvel TD économie.pdf",
     "Economie/TD/Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png",
     "Economie/TD/BUT1-TdEco PIB....pdf",
-    "Economie/TD/Réponses TD.md",
     "Economie/TD/Classement PIB-Nominal 2006 wikipedia.png",
     "Economie/TD/Classement PIB-Nominal 2022 Banque Mondiale.png",
     "Economie/TD/Classement PIB-PPA 2017 Banque Mondiale.png",
-    "Economie/Chap 1/BUT1Ch1Eco.pdf",
-    "Economie/Chap 1/Chap 1 Prise de note.md",
     "Economie/Economie.md",
-    "Economie/Chap 1/Chap 1.md",
     "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Shémas/BUT1-DiffPoliEco.pdf",
     "Economie/Shémas",
@@ -221,7 +232,6 @@
     "Bash/Bash.md",
     "Bash/Autres cmd, plus ou moins utiles.md",
     "PPP/PPP_tableau.jpg",
-    "Initiation-système/TP/images/processus4.png",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
