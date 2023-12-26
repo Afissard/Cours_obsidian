@@ -3,7 +3,7 @@ La correction du TD ne prend pas plus de 5min, la note commence à A et le reste
 Ajouté des capture d'écran des tableau et graph utilisé pour répondre aux questions.
 A rendre le à la séance après les vacances de Noël
 # 1 : Que signifie : PIB « nominal ou en valeur ou à prix courant » ?
-Le PIB nominal est le Produit Intérieur Brut représentant l'ensemble des richesse créé sur un territoire donné quelque que soit la nationalité de l'entreprise, sans correction en fonction de l'inflation (ou recession voir régression).
+Le PIB nominal est le Produit Intérieur Brut représentant l'ensemble des richesse créé sur un territoire donné quelque que soit la nationalité de l'entreprise, sans correction en fonction de l'inflation (ou récession voir régression).
 # 2 : Que signifie : PIB « réel ou en volume ou à prix constant » ?
 On obtient le PIB à prix constants en exprimant les valeurs de tous les biens et services produits au cours d'une année donnée, aux prix d'une période de référence.
 # 3 Que signifie : PIB « en Parité du Pouvoir d'Achat (ou en PPA) » ?
@@ -44,7 +44,7 @@ Le premier pays du monde en 2017 est le Qatar (avec 124 927$ /habitants), mais 
 Le classement assez peu entre 2027 et 2021 excepté la chute du Qatar ainsi que du micro état Brunei qui passe de 4ème en 2017 à 12ème en 2022. La Chine est bien loin derrière, classé 79ème en 2017, elle est 77ème en 2022 avec un PIB en PPA par habitant de 21 476$.
 # 8 Commentez brièvement le tableau de l'évolution du PIB en France de 1949 à aujourd'hui.
 - Wikipedia https://fr.wikipedia.org/wiki/Produit_int%C3%A9rieur_brut_de_la_France
-- https://www.insee.fr/fr/statistiques/2830613#tableau-figure1
+- INSEE https://www.insee.fr/fr/statistiques/2830613#tableau-figure1
 ![[Tableau evolution PIB Français Wikipedia.png]]
 ![[Graphque evolution PIB Français INSEE.png]]
 Depuis 1949 à aujourd'hui le PIB Français n'a cessé d'augmenté (13,2 milliards d'euro en 1949 à 2500,9 milliards d'euro en 2021), à l'exeption de 4 périodes de crise : le premier choc pétrolier, la crise du système monétaire européen en 1993, la crise des subprime en 2008 et enfin la crise sanitaire causé par la covid 19 en 2020. Il est indéniable que le PIB est augmenté, mais sont taux de croissance à lui quelque peu ralenti comme le montre le graphique de l'INSEE. 
@@ -55,6 +55,7 @@ Ce graphique résume l'évolution moyenne du PIB Français aux différentes pér
 # 10 Rappelez la définition ainsi que le calcul de l'IDH.
 L'Indice de Développement Humain est créé par le PNUD (le Programme des Nations Unies pour le Développement) pour évaluer le niveau de développement humain dans un pays. C'est un indice statistique qui prend en compte les 3 critères suivants : le PIB par habitant en PPA, l'espérance de vie à la naissance et le niveau d'éducation. L'IDH varie de 0 à 1, un IDH proche de 1 correspond à un niveau de développement humain très élevé.
 # 11 Commentez le classement mondial des pays selon leur IDH (les premiers, la France et les derniers).
-- https://fr.wikipedia.org/wiki/Liste_des_pays_par_IDH
+- Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_IDH
 ![[Classement IDH 2021 Wikipedia.png]]
-Le classement des pays par rapport à leur IDH
+Le classement des pays par rapport à leur IDH regroupe encore une fois de nombreux pays d'Europe du nord dans sont top 10, mais pas que, il y a notamment Hong Kong (une province Chinoise encore indépendante à ce jour), et l'Australie, respectivement 4ème est 5ème, qui font leurs apparition ce classement alors qu'ils n'étais que dans des postions bien plus basse dans les classement precedent étudié. La Suisse déjà bien classé dans les deux precedent classement est en 2021, le pays avec le meilleur Indice de Developments Humain du monde avec une note de 0,962, les Etats Unis première puissance mondial sont classé 21ème avec 0,921. La France est elle à la 28ème position avec un indice de 0,903.
+Si l'on excepte les 4 pays non classé (Corée du Nord, Monaco, Nauru et la Somalie), le pays avec l'IDH le plus bas du monde, est en 191ème position, le Soudan du Sud avec un indice de 0,385.

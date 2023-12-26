@@ -28,6 +28,8 @@ type: folder_brief_live
 	- [[Schéma répartition richesse & Valeur ajouté.canvas]]
 - **TD**
 	- [[BUT1-TdEco PIB....pdf]]
+	- [[Chauvel Sacha TD économie.odt]]
+	- [[Chauvel Sacha TD économie.pdf]]
 	- [[Classement IDH 2021 Wikipedia.png]]
 	- [[Classement PIB-Nominal 2006 wikipedia.png]]
 	- [[Classement PIB-Nominal 2022 Banque Mondiale.png]]
