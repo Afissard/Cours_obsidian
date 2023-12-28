@@ -23,7 +23,7 @@ Si l'on compare ce classement, au même classement réalisé en 2006 où le mond
 - BFM : https://www.bfmtv.com/economie/top-20-des-pays-les-plus-riches-ou-sera-la-france-en-2030_AN-201702070142.html
  ![[Classement PIB-PPA 2030-2050 BFM.jpg]]
 Le classement mondial, estimé en 2016, des pays par rapport à leur PIB en Parité de Pouvoir d'Achat varie énormément entre les prévision pour 2030 et 2050. En effet, le top 5 est grandement modifié en 20 ans : la Chine conserve sa place en haut du podium avec une bonne avance, mais les Etats Unis échange de position avec l'Inde, le Japon chute de la 4ème place à la 8ème, l'Indonésie le remplace suivi de près par le Brésil anciennement classé 8ème en 2030.
-La France, classé 10ème en 2026, est 11ème en 2030 et 12ème en 2050 bien que son PPA augmente, de nombreux pays émergeants seront de taille à lutté avec la France en 2030 et bien plus encore en 2050.
+La France, classé 10ème en 2016, est 11ème en 2030 et 12ème en 2050 bien que son PPA augmente, de nombreux pays émergeants seront de taille à lutté avec la France en 2030 et bien plus encore en 2050.
 # 5 Commentez le classement mondial du PIB en Parité du Pouvoir d'Achat (PPA), en comparaison des données précédente.
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)
 - Wikipedia https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_(PPA)#Estimations

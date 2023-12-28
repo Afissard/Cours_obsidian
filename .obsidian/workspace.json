@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06d3408dce09e77a",
+        "id": "4f5744307aecae39",
         "type": "tabs",
         "children": [
           {
-            "id": "abfa6b970aad8d0f",
+            "id": "3b4cd57b75e031da",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -162,10 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abfa6b970aad8d0f",
+  "active": "3b4cd57b75e031da",
   "lastOpenFiles": [
-    "Economie/TD/Chauvel Sacha TD économie.pdf",
+    "Economie/Economie.md",
     "Economie/TD/Réponses TD.md",
+    "Economie/TD/Chauvel Sacha TD économie.pdf",
     "Economie/TD/lu246401b9vld.tmp",
     "Economie/TD/lu246401b9vki.tmp",
     "Economie/TD/lu246401b9vjo.tmp",
@@ -186,7 +185,6 @@
     "Economie/TD/Classement PIB-Nominal 2006 wikipedia.png",
     "Economie/TD/Classement PIB-Nominal 2022 Banque Mondiale.png",
     "Economie/TD/Classement PIB-PPA 2017 Banque Mondiale.png",
-    "Economie/Economie.md",
     "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Shémas/schéma PIB Pays.canvas",
     "SAE/Base de Données/SQL.md",
