@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5744307aecae39",
+        "id": "de3bb5ce2f7b83d0",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4cd57b75e031da",
+            "id": "d318611f477a1666",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/PubCDI/Cahier des charges pour CMCP.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b4cd57b75e031da",
+  "active": "d318611f477a1666",
   "lastOpenFiles": [
-    "SAE/PubCDI/PubCDI.md",
     "SAE/SAE.md",
+    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
+    "SAE/PubCDI/PubCDI.md",
     "Economie/Economie.md",
     "Economie/TD/Réponses TD.md",
     "Economie/TD/Chauvel Sacha TD économie.pdf",
@@ -181,7 +176,6 @@
     "Economie/TD/lu246401b9vhj.tmp",
     "Economie/TD/lu246401b9vh1.tmp",
     "Economie/TD/lu246401b9vf8.tmp",
-    "Economie/TD/lu246401b9vez.tmp",
     "Economie/TD/Classement IDH 2021 Wikipedia.png",
     "Economie/Chap 1/Chap 1 Prise de note.md",
     "Economie/Chap 1/Chap 1.md",
