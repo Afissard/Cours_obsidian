@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51632d9b65f83831",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +146,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -166,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3d0851950d56497",
+  "active": "51632d9b65f83831",
   "lastOpenFiles": [
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
