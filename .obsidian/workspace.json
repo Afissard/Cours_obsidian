@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0424567a019483f3",
+        "id": "516733f7ac77e3e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d0851950d56497",
+            "id": "d8bbb3ee1d8a4675",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SAE/Base de Données/Base de Données.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51632d9b65f83831",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
+                "file": "Economie/TD/Chauvel Sacha TD économie.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Base de Données/Base de Données.md",
+                "file": "Economie/TD/Chauvel Sacha TD économie.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Base de Données/Base de Données.md",
+                "file": "Economie/TD/Chauvel Sacha TD économie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Base de Données/Base de Données.md"
+                "file": "Economie/TD/Chauvel Sacha TD économie.pdf"
               }
             }
           },
@@ -179,8 +166,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51632d9b65f83831",
+  "active": "d8bbb3ee1d8a4675",
   "lastOpenFiles": [
+    "Economie/TD/Chauvel Sacha TD économie.pdf",
+    "Economie/TD/lu129761ucoyx.tmp",
+    "Economie/TD/lu129761ucoyt.tmp",
+    "Economie/Economie.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 1.png",
@@ -197,13 +188,11 @@
     "Economie/odtSrc/BUT1Ch1Eco.odt",
     "Economie/odtSrc/BUT1-TdEco PIB....odt",
     "Economie/odtSrc",
-    "Economie/TD/Chauvel Sacha TD économie.pdf",
     "Economie/TD/Réponses TD.md",
     "Economie/TD/Tableau evolution PIB Français Wikipedia.png",
     "Economie/TD/Graphque evolution PIB Français INSEE.png",
     "Economie/TD/Chauvel Sacha TD économie.odt",
     "Economie/TD/BUT1-TdEco PIB....pdf",
-    "Economie/TD",
     "Economie/Shémas/Schéma économie politique.canvas",
     "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Shémas/schéma prestataire et client.canvas",
@@ -219,7 +208,6 @@
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "Economie/Economie.md",
     "Economie/Cour 1/Réponses TD.md",
     "Economie/Cour 1/schéma prestataire et client.canvas",
     "Economie/Cour 1/Chap 2 Prise de notes.md",
