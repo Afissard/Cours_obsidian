@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "516733f7ac77e3e4",
+        "id": "da9b0c8397006154",
         "type": "tabs",
         "children": [
           {
-            "id": "d8bbb3ee1d8a4675",
+            "id": "f98aa2cfff01b830",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Economie/TD/Chauvel Sacha TD économie.pdf"
+                "file": "Economie/Economie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/TD/Chauvel Sacha TD économie.pdf",
+                "file": "Economie/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/TD/Chauvel Sacha TD économie.pdf",
+                "file": "Economie/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/TD/Chauvel Sacha TD économie.pdf"
+                "file": "Economie/Economie.md"
               }
             }
           },
@@ -166,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8bbb3ee1d8a4675",
+  "active": "f98aa2cfff01b830",
   "lastOpenFiles": [
     "Economie/TD/Chauvel Sacha TD économie.pdf",
     "Economie/TD/lu129761ucoyx.tmp",
