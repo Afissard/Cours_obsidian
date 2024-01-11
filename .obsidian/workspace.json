@@ -11,11 +11,9 @@
             "id": "f98aa2cfff01b830",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Economie/Economie.md",
-                "mode": "source",
-                "source": false
+                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Economie.md"
+                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf"
               }
             }
           },
@@ -170,10 +168,12 @@
   },
   "active": "f98aa2cfff01b830",
   "lastOpenFiles": [
+    "Economie/Chap 1/Chap 1.md",
+    "Economie/Economie.md",
+    "Economie/Chap 1/BUT1Ch1Eco.pdf",
     "Economie/TD/Chauvel Sacha TD économie.pdf",
     "Economie/TD/lu129761ucoyx.tmp",
     "Economie/TD/lu129761ucoyt.tmp",
-    "Economie/Economie.md",
     "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 1.png",
@@ -193,15 +193,12 @@
     "Economie/TD/Réponses TD.md",
     "Economie/TD/Tableau evolution PIB Français Wikipedia.png",
     "Economie/TD/Graphque evolution PIB Français INSEE.png",
-    "Economie/TD/Chauvel Sacha TD économie.odt",
-    "Economie/TD/BUT1-TdEco PIB....pdf",
     "Economie/Shémas/Schéma économie politique.canvas",
     "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Economie/Shémas/schéma prestataire et client.canvas",
     "Economie/Shémas/schéma PIB Pays.canvas",
     "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Economie/Chap 2/Chap 2 Prise de notes.md",
-    "Economie/Chap 1/Chap 1.md",
     "Economie/Chap 1/Chap 1 Prise de note.md",
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
