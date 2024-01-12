@@ -11,8 +11,10 @@
             "id": "0f5147f5ecca3d79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf"
+              }
             }
           },
           {
@@ -162,9 +168,10 @@
   },
   "active": "0f5147f5ecca3d79",
   "lastOpenFiles": [
+    "SAE/Quadtree/Quadtree.md",
+    "SAE/SAE.md",
     "SAE/Installation Poste/Prise de notes.md",
     "SAE/Installation Poste/s1_03_normal.pdf",
-    "SAE/SAE.md",
     "SAE/Installation Poste",
     "conflict-files-obsidian-git.md",
     "Economie/Shémas/schéma prestataire et client.canvas",
