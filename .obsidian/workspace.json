@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da9b0c8397006154",
+        "id": "a8d89dd295b0e177",
         "type": "tabs",
         "children": [
           {
-            "id": "f98aa2cfff01b830",
+            "id": "d66e8167241ca4da",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf",
+                "file": "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf",
+                "file": "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Chap 1/BUT1Ch1Eco.pdf"
+                "file": "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas"
               }
             }
           },
@@ -166,11 +164,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f98aa2cfff01b830",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Economie/Shémas/schéma prestataire et client.canvas",
+    "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
+    "Economie/Shémas/schéma PIB Pays.canvas",
+    "Economie/Shémas/Schéma économie politique.canvas",
+    "Economie/Shémas/BUT1-DiffPoliEco.pdf",
+    "Economie/Shémas/BUT1-CircuitEco.pdf",
+    "Economie/Chap 3/BUT1Ch3Eco.pdf",
+    "Economie/Chap 2/BUT1Ch2Eco.pdf",
     "Economie/Chap 1/Chap 1.md",
-    "Economie/Economie.md",
     "Economie/Chap 1/BUT1Ch1Eco.pdf",
+    "Economie/Economie.md",
     "Economie/TD/Chauvel Sacha TD économie.pdf",
     "Economie/TD/lu129761ucoyx.tmp",
     "Economie/TD/lu129761ucoyt.tmp",
@@ -186,18 +192,10 @@
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/affiche.png",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha",
     "Economie/odtSrc/BUT1Ch3Eco.odt",
-    "Economie/odtSrc/BUT1Ch2Eco.odt",
-    "Economie/odtSrc/BUT1Ch1Eco.odt",
-    "Economie/odtSrc/BUT1-TdEco PIB....odt",
-    "Economie/odtSrc",
     "Economie/TD/Réponses TD.md",
     "Economie/TD/Tableau evolution PIB Français Wikipedia.png",
     "Economie/TD/Graphque evolution PIB Français INSEE.png",
-    "Economie/Shémas/Schéma économie politique.canvas",
     "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Shémas/schéma prestataire et client.canvas",
-    "Economie/Shémas/schéma PIB Pays.canvas",
-    "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Economie/Chap 2/Chap 2 Prise de notes.md",
     "Economie/Chap 1/Chap 1 Prise de note.md",
     "SAE/Base de Données/SQL.md",
