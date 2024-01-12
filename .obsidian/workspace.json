@@ -33,7 +33,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Installation Poste/Prise de notes.md",
+                "file": "SAE/Installation Poste/s1_03_normal.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Installation Poste/Prise de notes.md",
+                "file": "SAE/Installation Poste/s1_03_normal.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Installation Poste/Prise de notes.md"
+                "file": "SAE/Installation Poste/s1_03_normal.pdf"
               }
             }
           },
@@ -182,10 +183,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "986861fe36c4c65d",
+  "active": "fcba799183f1e2ae",
   "lastOpenFiles": [
-    "SAE/Installation Poste/s1_03_normal.pdf",
     "SAE/Installation Poste/Prise de notes.md",
+    "SAE/Installation Poste/s1_03_normal.pdf",
     "SAE/SAE.md",
     "SAE/Installation Poste",
     "conflict-files-obsidian-git.md",
