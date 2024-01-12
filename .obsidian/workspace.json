@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8d89dd295b0e177",
+        "id": "176931267f0e2a43",
         "type": "tabs",
         "children": [
           {
-            "id": "d66e8167241ca4da",
+            "id": "986861fe36c4c65d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "986861fe36c4c65d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Economie/Shémas/schéma prestataire et client.canvas",
     "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Economie/Shémas/schéma PIB Pays.canvas",
@@ -201,7 +198,6 @@
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
     "Base de Données/Base de Données.md",
-    "conflict-files-obsidian-git.md",
     "SAE/PubCDI/PubCDI.md",
     "SAE/PubCDI/Idée de design.md",
     "SAE/Base de Données/Cas transport (Co-voiturage).md",
