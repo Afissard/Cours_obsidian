@@ -20,3 +20,26 @@ Données personnelles : "/home"
 ## À quoi sert le swap ?
 (redhat : https://access.redhat.com/documentation/fr-fr/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
 L'espace swap sur Linux est utilisé lorsque la mémoire physique (RAM) est pleine. Si le système a besoin de plus de ressources mémoire et que la mémoire RAM est pleine, les pages mémoire inactives sont alors déplacées vers l'espace swap.
+# 3 Utilisateurs et groupes
+1. La commande ```sudo su -``` met le répertoire courant à la racine (en super utilisateur et non l'utilisateur sae). La commande ```sudo su ``` met le répertoire courant dans le dossier personnel (en super utilisateur).
+2. Pour visualisé les fichiers dans le `/etc` :
+	- `cd /etc && cat passwd`
+	- `cd /etc && cat group`
+	- `cd /etc && sudo cat shadow`
+3. Le groupe de l'utilisateur "sae" : `groups sae` retourne :
+	- sae
+	- adm
+	- cdrom
+	- sudo
+	- dip
+	- plugdev
+	- lpadmin
+	- lxd
+	- sambashare
+1. Création des groupes : `sudo groupadd grp1`
+2. Création d'utilisateur : `sudo adduser --ingroup grp1 user1`
+3. Ajout d'utilisateur à un groupe : `sudo usermod -a -G group1,group2 username` 
+4. Ajout d'un répertoire accessible par un groupe : `chown user1:autre ./dossier`
+5. Suppression d'un utilisateur en conservant son répertoire `/home` : `sudo deluser user2`
+7. Suppression d'un utilisateur en supprimant sont répertoire `/home` `sudo deluser --remove-home user4`
+# 4 Logiciels

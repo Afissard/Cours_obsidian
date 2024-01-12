@@ -24,11 +24,13 @@
           {
             "id": "fcba799183f1e2ae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "SAE/Installation Poste/s1_03_normal.pdf"
-              }
+              },
+              "pinned": true
             }
           }
         ]
