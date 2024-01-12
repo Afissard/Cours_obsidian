@@ -10,9 +10,25 @@
           {
             "id": "986861fe36c4c65d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SAE/Installation Poste/Prise de notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fcba799183f1e2ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SAE/Installation Poste/s1_03_normal.pdf"
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SAE/Installation Poste/Prise de notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SAE/Installation Poste/Prise de notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SAE/Installation Poste/Prise de notes.md"
+              }
             }
           },
           {
@@ -162,6 +182,10 @@
   },
   "active": "986861fe36c4c65d",
   "lastOpenFiles": [
+    "SAE/Installation Poste/s1_03_normal.pdf",
+    "SAE/Installation Poste/Prise de notes.md",
+    "SAE/SAE.md",
+    "SAE/Installation Poste",
     "conflict-files-obsidian-git.md",
     "Economie/Shémas/schéma prestataire et client.canvas",
     "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
@@ -177,7 +201,6 @@
     "Economie/TD/Chauvel Sacha TD économie.pdf",
     "Economie/TD/lu129761ucoyx.tmp",
     "Economie/TD/lu129761ucoyt.tmp",
-    "SAE/SAE.md",
     "SAE/Base de Données/Base de Données.md",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 1.png",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/story.png",
@@ -187,8 +210,6 @@
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/marque-pages.png",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/concours.png",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/affiche.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha",
-    "Economie/odtSrc/BUT1Ch3Eco.odt",
     "Economie/TD/Réponses TD.md",
     "Economie/TD/Tableau evolution PIB Français Wikipedia.png",
     "Economie/TD/Graphque evolution PIB Français INSEE.png",
@@ -212,7 +233,6 @@
     "Bash/Mise à jour.md",
     "Bash/Gestion des processus.md",
     "Bash/Exécution de cmd chainé.md",
-    "Bash/Déplacement dans les dossiers.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
