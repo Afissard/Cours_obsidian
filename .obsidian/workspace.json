@@ -10,12 +10,31 @@
           {
             "id": "281602333c179ad7",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "SAE/Installation Poste/s1_03_normal.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "44448227b7e95af8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAE/Installation Poste/Prise de notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
+                "file": "SAE/Installation Poste/Prise de notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
+                "file": "SAE/Installation Poste/Prise de notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md"
+                "file": "SAE/Installation Poste/Prise de notes.md"
               }
             }
           },
@@ -164,17 +183,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "44448227b7e95af8",
   "lastOpenFiles": [
+    "SAE/Installation Poste/s1_03_normal.pdf",
+    "SAE/Installation Poste/Prise de notes.md",
+    "SAE/SAE.md",
     "Maths/Maths.md",
     "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
     "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.odt",
-    "SAE/Installation Poste/s1_03_normal.pdf",
-    "SAE/Installation Poste/Prise de notes.md",
     "SAE/Installation Poste",
     "Economie/Chauvel Sacha DS Economie info1 g4.pdf",
     "SAE/Base de Données/codeSAE.sql",
-    "SAE/SAE.md",
     "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
     "SAE/PubCDI/PubCDI.md",
     "Economie/Economie.md",
@@ -217,7 +236,6 @@
     "Bash/Déplacement dans les dossiers.md",
     "Bash/Droits et Administration.md",
     "Bash/Création et édition de dossiers et fichiers.md",
-    "Bash/Bash.md",
     "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
