@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "974be0241db71160",
+        "id": "a66aeebdbf3b0343",
         "type": "tabs",
         "children": [
           {
-            "id": "0f5147f5ecca3d79",
+            "id": "281602333c179ad7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
+                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
+                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf"
+                "file": "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md"
               }
             }
           },
@@ -166,63 +164,63 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f5147f5ecca3d79",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
-    "SAE/Quadtree/Quadtree.md",
-    "SAE/SAE.md",
-    "SAE/Installation Poste/Prise de notes.md",
+    "Maths/Maths.md",
+    "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
+    "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.odt",
     "SAE/Installation Poste/s1_03_normal.pdf",
+    "SAE/Installation Poste/Prise de notes.md",
     "SAE/Installation Poste",
-    "conflict-files-obsidian-git.md",
-    "Economie/Shémas/schéma prestataire et client.canvas",
-    "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
-    "Economie/Shémas/schéma PIB Pays.canvas",
-    "Economie/Shémas/Schéma économie politique.canvas",
-    "Economie/Shémas/BUT1-DiffPoliEco.pdf",
-    "Economie/Shémas/BUT1-CircuitEco.pdf",
-    "Economie/Chap 3/BUT1Ch3Eco.pdf",
-    "Economie/Chap 2/BUT1Ch2Eco.pdf",
-    "Economie/Chap 1/Chap 1.md",
-    "Economie/Chap 1/BUT1Ch1Eco.pdf",
+    "Economie/Chauvel Sacha DS Economie info1 g4.pdf",
+    "SAE/Base de Données/codeSAE.sql",
+    "SAE/SAE.md",
+    "SAE/PubCDI/Cahier des charges pour CMCP.pdf",
+    "SAE/PubCDI/PubCDI.md",
     "Economie/Economie.md",
-    "Economie/TD/Chauvel Sacha TD économie.pdf",
-    "Economie/TD/lu129761ucoyx.tmp",
-    "Economie/TD/lu129761ucoyt.tmp",
-    "SAE/Base de Données/Base de Données.md",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 1.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/story.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/programme.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 2.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 3.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/marque-pages.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/concours.png",
-    "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/affiche.png",
     "Economie/TD/Réponses TD.md",
-    "Economie/TD/Tableau evolution PIB Français Wikipedia.png",
-    "Economie/TD/Graphque evolution PIB Français INSEE.png",
-    "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Chap 2/Chap 2 Prise de notes.md",
+    "Economie/TD/Chauvel Sacha TD économie.pdf",
+    "Economie/TD/lu246401b9vld.tmp",
+    "Economie/TD/lu246401b9vki.tmp",
+    "Economie/TD/Classement IDH 2021 Wikipedia.png",
     "Economie/Chap 1/Chap 1 Prise de note.md",
+    "Economie/Chap 1/Chap 1.md",
+    "Economie/TD/Graphque evolution PIB Français INSEE.png",
+    "Economie/TD/Graphique période économique en France 1950-2010 Wikipedia.png",
+    "Economie/TD/Tableau evolution PIB Français Wikipedia.png",
+    "Economie/TD/Classement PIB-PPA-par-habitant 2017-2022 Wikipedia.png",
+    "Economie/TD/Classement PIB-Nominal-par-habitant 20017-2021 wikipedia.png",
+    "Economie/TD/Classement PIB-Nominal 2006 wikipedia.png",
+    "Economie/TD/Classement PIB-Nominal 2022 Banque Mondiale.png",
+    "Economie/TD/Classement PIB-PPA 2017 Banque Mondiale.png",
+    "Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Economie/Shémas/schéma PIB Pays.canvas",
     "SAE/Base de Données/SQL.md",
     "SAE/Base de Données/Modélisation Mocodo.md",
+    "SAE/Base de Données/Base de Données.md",
+    "SAE/Quadtree/Quadtree.md",
     "Base de Données/Base de Données.md",
-    "SAE/PubCDI/PubCDI.md",
+    "SAE/Quadtree/voir repo privé.md",
+    "Economie/TD/Classement PIB-PPA 2030-2050 BFM.jpg",
+    "Economie/Shémas/schéma prestataire et client.canvas",
+    "Economie/Chap 2/Chap 2 Prise de notes.md",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
+    "Economie/Shémas/Schéma économie politique.canvas",
+    "Economie/Cour 1/Prise de note cour 1-Laptop-sacha.md",
     "SAE/PubCDI/Idée de design.md",
-    "SAE/Base de Données/Cas transport (Co-voiturage).md",
-    "Economie/Cour 1/Réponses TD.md",
-    "Economie/Cour 1/schéma prestataire et client.canvas",
-    "Economie/Cour 1/Chap 2 Prise de notes.md",
-    "Economie/Cour 1/Prise de note cour 1.md",
-    "Bash/Bash.md",
-    "Bash/Droits et Administration.md",
+    "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Bash/tldr - Too Long, Didn't Read.md",
     "Bash/Recherche de fichiers et dossiers.md",
     "Bash/Mise à jour.md",
     "Bash/Gestion des processus.md",
     "Bash/Exécution de cmd chainé.md",
-    "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
-    "Economie/Cour 1/Schéma économie politique.canvas",
-    "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Economie/Cour 1/schéma PIB d'un pays.canvas"
+    "Bash/Déplacement dans les dossiers.md",
+    "Bash/Droits et Administration.md",
+    "Bash/Création et édition de dossiers et fichiers.md",
+    "Bash/Bash.md",
+    "Anglais Technique/Help Desk/Typical Helpdesk.canvas",
+    "Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
+    "Gestion-de-Projet/Entreprise/fonctionement-économique.canvas",
+    "Anglais Technique/Vocabulary/Compound Word.canvas"
   ]
 }

@@ -13,6 +13,7 @@ type: folder_brief_live
 	- [[Chap 2 Prise de notes]]
 - **Chap 3**
 	- [[BUT1Ch3Eco.pdf]]
+- [[Chauvel Sacha DS Economie info1 g4.pdf]]
 - **odtSrc**
 	- [[BUT1-TdEco PIB....odt]]
 	- [[BUT1Ch1Eco.odt]]
