@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a66aeebdbf3b0343",
+        "id": "db5afdce8b426aec",
         "type": "tabs",
         "children": [
           {
-            "id": "281602333c179ad7",
+            "id": "02aff0d2cabc5c04",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SAE/Installation Poste/s1_03_normal.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "44448227b7e95af8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/Installation Poste/Prise de notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Installation Poste/Prise de notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Installation Poste/Prise de notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/Installation Poste/Prise de notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +160,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44448227b7e95af8",
+  "active": "02aff0d2cabc5c04",
   "lastOpenFiles": [
     "SAE/Installation Poste/s1_03_normal.pdf",
     "SAE/Installation Poste/Prise de notes.md",
