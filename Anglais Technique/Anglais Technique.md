@@ -7,7 +7,7 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - **[[Help Desk]]**
 - [[INFORMATION]]
-- [[Introduction]]
+- [[Anglais Technique/Introduction]]
 - **[[Vocabulary]]**
 - **Writing a Review**
 	- [[Computer Review]]

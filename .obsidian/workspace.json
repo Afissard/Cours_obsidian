@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "88abcbe32a6ded19",
+        "id": "a129d6296562011b",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f8ce9ac4e409f0",
+            "id": "3a85cb97ead908cb",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OOP/01-bases-kotlin.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cf0520df0b1e82c8",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/SAE.md",
+                "file": "OOP/Base du Kotlin.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/SAE.md",
+                "file": "OOP/01-bases-kotlin.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/SAE.md",
+                "file": "OOP/01-bases-kotlin.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/SAE.md"
+                "file": "OOP/01-bases-kotlin.pdf"
               }
             }
           },
@@ -168,13 +182,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1f8ce9ac4e409f0",
+  "active": "3a85cb97ead908cb",
   "lastOpenFiles": [
+    "OOP/Base du Kotlin.md",
+    "OOP/Introduction.md",
+    "OOP/01-bases-kotlin.pdf",
+    "OOP/00-intro.pdf",
+    "Architecture-système/Architecture-système.md",
+    "OOP/OOP.md",
+    "OOP",
+    "Initiation-dev/Initiation-dev.md",
+    "SAE/SAE.md",
     "SAE/Installation Poste/Prise de notes.md",
     "SAE/Installation Poste/s1_03_normal.pdf",
     "SAE/Quadtree/Quadtree.md",
     "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
-    "SAE/SAE.md",
     "SAE/Installation Poste",
     "conflict-files-obsidian-git.md",
     "Economie/Shémas/schéma prestataire et client.canvas",
@@ -186,10 +208,7 @@
     "Economie/Chap 3/BUT1Ch3Eco.pdf",
     "Economie/Chap 2/BUT1Ch2Eco.pdf",
     "Economie/Chap 1/Chap 1.md",
-    "Economie/Chap 1/BUT1Ch1Eco.pdf",
     "Economie/Economie.md",
-    "Economie/TD/Chauvel Sacha TD économie.pdf",
-    "Economie/TD/lu129761ucoyx.tmp",
     "SAE/Base de Données/Base de Données.md",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 1.png",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/story.png",
@@ -217,10 +236,6 @@
     "Economie/Cour 1/Prise de note cour 1.md",
     "Bash/Bash.md",
     "Bash/Droits et Administration.md",
-    "Bash/tldr - Too Long, Didn't Read.md",
-    "Bash/Recherche de fichiers et dossiers.md",
-    "Bash/Mise à jour.md",
-    "Bash/Gestion des processus.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
