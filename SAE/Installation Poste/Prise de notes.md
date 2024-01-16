@@ -18,6 +18,7 @@ Le système de fichiers journalisés est un système de fichiers tolérant/rési
 La racine : "/"
 Données personnelles : "/home"
 ## À quoi sert le swap ?
+Définition du prof (retransmit par Rafael) : Le Swap est un espace de stockage réservé
 (redhat : https://access.redhat.com/documentation/fr-fr/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
 L'espace swap sur Linux est utilisé lorsque la mémoire physique (RAM) est pleine. Si le système a besoin de plus de ressources mémoire et que la mémoire RAM est pleine, les pages mémoire inactives sont alors déplacées vers l'espace swap.
 # 3 Utilisateurs et groupes
