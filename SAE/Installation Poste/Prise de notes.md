@@ -47,7 +47,7 @@ L'espace swap sur Linux est utilisé lorsque la mémoire physique (RAM) est plei
 1. mise à jour système : `sudo apt update && sudo apt upgrade`
 2. installation du paquet gparted : `sudo apt install gparted`
 3. suppression de la commande nslookup :
-	- recherche du paquet correspondant : `dpkg  -S nslookup`
+	- recherche du paquet correspondant : `dpkg -S nslookup`
 	- suppression du paquet correspondant : `sudo apt remove nomPaquet`
 4. installation de synaptic depuis la clé USB : `sudo dpkg -i /media/sae/UBUNTU_20_0/soft/syn/synaptic_0.84.6ubuntu5_amd64.deb` (installer avec la même commande les autres paquets (attention aux noms))
 # 5 installation de virtual box
