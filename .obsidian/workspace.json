@@ -11,9 +11,11 @@
             "id": "0f5147f5ecca3d79",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf"
+                "file": "SAE/Installation Poste/Prise de notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
+                "file": "SAE/Installation Poste/Prise de notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
+                "file": "SAE/Installation Poste/Prise de notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf"
+                "file": "SAE/Installation Poste/Prise de notes.md"
               }
             }
           },
@@ -169,6 +171,7 @@
   "active": "0f5147f5ecca3d79",
   "lastOpenFiles": [
     "SAE/Quadtree/Quadtree.md",
+    "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
     "SAE/SAE.md",
     "SAE/Installation Poste/Prise de notes.md",
     "SAE/Installation Poste/s1_03_normal.pdf",
@@ -187,7 +190,6 @@
     "Economie/Economie.md",
     "Economie/TD/Chauvel Sacha TD économie.pdf",
     "Economie/TD/lu129761ucoyx.tmp",
-    "Economie/TD/lu129761ucoyt.tmp",
     "SAE/Base de Données/Base de Données.md",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/post insta 1.png",
     "SAE/PubCDI/SAE-RecueilBesoins-Lea-Clement-Rafael-Sacha/story.png",
@@ -219,7 +221,6 @@
     "Bash/Recherche de fichiers et dossiers.md",
     "Bash/Mise à jour.md",
     "Bash/Gestion des processus.md",
-    "Bash/Exécution de cmd chainé.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
