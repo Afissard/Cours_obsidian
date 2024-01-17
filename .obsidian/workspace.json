@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a129d6296562011b",
+        "id": "24e4bb6cfdc6648f",
         "type": "tabs",
         "children": [
           {
-            "id": "3a85cb97ead908cb",
+            "id": "d010775dc103f58d",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "OOP/01-bases-kotlin.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "cf0520df0b1e82c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Base du Kotlin.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/01-bases-kotlin.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/01-bases-kotlin.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OOP/01-bases-kotlin.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -182,11 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a85cb97ead908cb",
+  "active": "d010775dc103f58d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "OOP/01-bases-kotlin.pdf",
     "OOP/Base du Kotlin.md",
+    "conflict-files-obsidian-git.md",
     "OOP/Introduction.md",
     "OOP/00-intro.pdf",
     "Architecture-système/Architecture-système.md",
