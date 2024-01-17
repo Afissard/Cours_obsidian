@@ -11,8 +11,10 @@
             "id": "d010775dc103f58d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf"
+              }
             }
           },
           {
@@ -162,12 +168,18 @@
   },
   "active": "d010775dc103f58d",
   "lastOpenFiles": [
+    "Maths/Graph/tp/tp1.pdf",
+    "Maths/Graph/tp/tp0.pdf",
+    "Maths/Graph/tp/TP-Graphes_1.ipynb",
+    "Maths/Graph/tp",
+    "Maths/Graph/Nouveau dossier",
+    "Maths/Graph/Graph.md",
+    "Architecture-système/Architecture-système.md",
     "OOP/01-bases-kotlin.pdf",
     "OOP/Base du Kotlin.md",
     "conflict-files-obsidian-git.md",
     "OOP/Introduction.md",
     "OOP/00-intro.pdf",
-    "Architecture-système/Architecture-système.md",
     "OOP/OOP.md",
     "OOP",
     "Initiation-dev/Initiation-dev.md",
@@ -181,10 +193,6 @@
     "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Economie/Shémas/schéma PIB Pays.canvas",
     "Economie/Shémas/Schéma économie politique.canvas",
-    "Economie/Shémas/BUT1-DiffPoliEco.pdf",
-    "Economie/Shémas/BUT1-CircuitEco.pdf",
-    "Economie/Chap 3/BUT1Ch3Eco.pdf",
-    "Economie/Chap 2/BUT1Ch2Eco.pdf",
     "Economie/Chap 1/Chap 1.md",
     "Economie/Economie.md",
     "SAE/Base de Données/Base de Données.md",
@@ -212,7 +220,6 @@
     "Economie/Cour 1/schéma prestataire et client.canvas",
     "Economie/Cour 1/Chap 2 Prise de notes.md",
     "Economie/Cour 1/Prise de note cour 1.md",
-    "Bash/Bash.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",

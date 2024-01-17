@@ -4,6 +4,7 @@
 type: folder_brief_live
 ```
 %% Begin Waypoint %%
+- **[[Graph]]**
 - **[[Logique]]**
 - **[[Outils_Fondamentaux]]**
 
