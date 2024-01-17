@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "24e4bb6cfdc6648f",
+        "id": "4d509ab2b52dbafa",
         "type": "tabs",
         "children": [
           {
-            "id": "d010775dc103f58d",
+            "id": "2da63fc6e3c4608a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d010775dc103f58d",
+  "active": "2da63fc6e3c4608a",
   "lastOpenFiles": [
+    "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/tp/tp1.pdf",
     "Maths/Graph/tp/tp0.pdf",
     "Maths/Graph/tp/TP-Graphes_1.ipynb",
@@ -188,7 +183,6 @@
     "SAE/Installation Poste/s1_03_normal.pdf",
     "SAE/Quadtree/Quadtree.md",
     "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
-    "SAE/Installation Poste",
     "Economie/Shémas/schéma prestataire et client.canvas",
     "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Economie/Shémas/schéma PIB Pays.canvas",
