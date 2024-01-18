@@ -10,9 +10,25 @@
           {
             "id": "2da63fc6e3c4608a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5318f9b5d565c049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Graph/prise de note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Graph/poly-concepts-base.pdf"
+              }
             }
           },
           {
@@ -162,7 +182,9 @@
   },
   "active": "2da63fc6e3c4608a",
   "lastOpenFiles": [
+    "Maths/Graph/prise de note.md",
     "Maths/Graph/poly-concepts-base.pdf",
+    "Maths/Graph/poly-problemes-usuels.pdf",
     "Maths/Graph/tp/tp1.pdf",
     "Maths/Graph/tp/tp0.pdf",
     "Maths/Graph/tp/TP-Graphes_1.ipynb",
@@ -180,9 +202,7 @@
     "Initiation-dev/Initiation-dev.md",
     "SAE/SAE.md",
     "SAE/Installation Poste/Prise de notes.md",
-    "SAE/Installation Poste/s1_03_normal.pdf",
     "SAE/Quadtree/Quadtree.md",
-    "SAE/Quadtree/Sacha Chauvel compte-rendu g1-8.pdf",
     "Economie/Shémas/schéma prestataire et client.canvas",
     "Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Economie/Shémas/schéma PIB Pays.canvas",
@@ -213,7 +233,6 @@
     "Economie/Cour 1/Réponses TD.md",
     "Economie/Cour 1/schéma prestataire et client.canvas",
     "Economie/Cour 1/Chap 2 Prise de notes.md",
-    "Economie/Cour 1/Prise de note cour 1.md",
     "Economie/Cour 1/Schéma Pouvoir d'Achat.canvas",
     "Economie/Cour 1/Schéma économie politique.canvas",
     "Economie/Cour 1/Schéma répartition richesse & Valeur ajouté.canvas",
