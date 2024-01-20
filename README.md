@@ -1,4 +1,12 @@
 Je met ici toute mes prise de note et cours de mon BUT Informatique (à lire idéalement avec Obsidian).
+## Extensions Obsidian utilisé
+- Obsidian Git
+- Waypoint
+- Folder Note
+- Advanced Table
+- Editor Syntax Highlight
+- txt as md
+- (Discord Rich Presence)
 ## Liens utiles
 - GitLab de l'université : https://gitlab.univ-nantes.fr/pub/but/but1/
 - GitLab Loig Jezequel : https://gitlab.univ-nantes.fr/jezequel-l

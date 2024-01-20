@@ -1,2 +1,21 @@
-obsidian/workspace.json
+# origine gitignore : https://github.com/trustedsec/Obsidian-Vault-Structure/blob/main/.gitignore
+
+
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+#.obsidian/*
+
+# OR only to exclude workspace cache
+.obsidian/workspace/*
+
+# Exclude plugins
+#.obsidian/plugins/*
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
+# zip et autres
+*.zip
 *.7z
+*.tar
+*.gz

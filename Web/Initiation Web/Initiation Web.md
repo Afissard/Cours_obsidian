@@ -6,7 +6,7 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - **[[DM web]]**
-- **[[Introduction]]**
+- **[[Web/Initiation Web/Introduction/Introduction]]**
 - **[[tp1]]**
 
 %% End Waypoint %%
