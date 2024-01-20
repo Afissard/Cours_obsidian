@@ -5,11 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[Exposé]]**
-- [[Information]]
-- [[Présentation de la matière]]
-- **[[Reporterre]]**
-- [[Résumé de texte]]
-- **[[Résumé exercices]]**
+- **[[Anglais Technique]]**
+- **[[Base de la communication]]**
 
 %% End Waypoint %%
