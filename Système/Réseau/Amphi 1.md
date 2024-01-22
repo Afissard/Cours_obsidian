@@ -18,4 +18,17 @@ Exécution du programme avec go build:
 	1. Résolution des liens (appel de librairie externe)
 	2. Optimisation
 	3. Génération du code executable (visualisable avec par exemple xxd, ou un désassembleur : objdump)
+
 Le langage machine (ASM) à deux representation (format texte et format binaire pour la machine)
+Les variable sont connu à l'avance et sont stocker dans des registres (mémoire du processeur, différent de la RAM), il n'existe plus qu'un seul type les entier (pour le CPU). Voir les autres information sur le pdf.
+
+# Instructions ASM :
+- accès à la mémoire de travail et registre
+- instruction arithmétique et logique
+- instruction de branchement (ou saut), équivaut aux flot de contrôle -> saut conditional, appel de code, retour, etc (sorte d'instruction goto avec plus de paramètres)
+- autre instruction pour contrôler des périphérique, le processeur, etc.
+# 2 grande approche pour la création de langage ASM
+## CISC (Complexe Instruction Set Computer)
+plus complexe (beaucoup d'instruction) mais plus rapide, compact et difficile à optimisé, mais les instruction sont optimisé
+## RISC (Reduced Instruction Set Computer)
+Peu d'opération, code plus verbeux mais plus simple à optimisé, implémentation simple et plus efficace
