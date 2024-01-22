@@ -8,80 +8,66 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Architecture-système  ",
+      "query": "path:Maths  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
       }
     },
     {
-      "query": "path:Initiation-dev  ",
+      "query": "path:Programmation  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:Communication  ",
+      "query": "path:Système  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Maths ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:SAE  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Anglais Technique\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Gestion-de-Projet  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Dev-Web  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 11392604
       }
     },
     {
       "query": "path:\"Base de Données\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 6084188
       }
     },
     {
-      "query": "path:Initiation-système  ",
+      "query": "path:Communication  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 6084269
       }
     },
     {
-      "query": "path:Bash  ",
+      "query": "path:\"Gestion de projet\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Web  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:PPP  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:SAE  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
       }
     }
   ],
@@ -95,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14288853054677791,
+  "scale": 0.10191888272919396,
   "close": true
 }
