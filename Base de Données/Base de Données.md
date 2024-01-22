@@ -6,5 +6,8 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - **[[Création BD]]**
+- **Exploitation**
+	- [[COURS-Exploitation-BD-Chapitre1.pdf]]
+	- [[TP1-Mobiles.pdf]]
 
 %% End Waypoint %%
