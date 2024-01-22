@@ -18,8 +18,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f2eb77aa05f3fcd3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Système/Réseau/Amphi 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
+                "file": "Système/Réseau/Amphi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
+                "file": "Système/Réseau/Amphi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf"
+                "file": "Système/Réseau/Amphi 1.md"
               }
             }
           },
@@ -168,15 +183,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5691a6502cb69ff4",
+  "active": "f2eb77aa05f3fcd3",
   "lastOpenFiles": [
+    "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
+    "Système/Réseau/Amphi 1.md",
+    "SAE/Sudoku/sacha_v1.py",
+    "SAE/Quadtree/voir repo Github.md",
+    "SAE/Installation Poste/Installation Poste.md",
     "Système/Réseau/Réseau.md",
     "Système/Système.md",
     "Programmation/Programmation.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
     "Maths/Maths.md",
     "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
-    "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
     "Système/Réseau",
     "Nouveau dossier",
     "conflict-files-obsidian-git.md",
@@ -185,7 +204,6 @@
     "SAE/Sudoku/src_origine/sae_s1_02_etu_a2 copy.py",
     "SAE/Sudoku/src_origine",
     "SAE/Sudoku/pdf/Modalités évaluations test machine SAE S102.pdf",
-    "SAE/Sudoku/pdf/Diapo_exemples_SAE_S102.pdf",
     "SAE/Environment Economie/Environnement économique et écologique.md",
     "SAE/Environment Economie/Environment Economie.md",
     "SAE/Environment Economie/Consigne rédaction dossier.md",
@@ -202,10 +220,6 @@
     "Communication/Base de la communication/Présentation de la matière.md",
     "Communication/Base de la communication/Information.md",
     "Communication/Base de la communication/Base de la communication.md",
-    "Communication/Anglais Technique/Writing a Review/Video Game Review/What is a good video game.md",
-    "Communication/Anglais Technique/Writing a Review/Video Game Review/Taking notes of a game review.md",
-    "Communication/Anglais Technique/Writing a Review/Video Game Review/Reviewing a game.md",
-    "Communication/Anglais Technique/Writing a Review/Video Game Review/game review.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Initiation-système/TP/images/principe pipe.png",
