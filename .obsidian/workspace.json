@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "195747a053adf9b4",
+        "id": "8935733147e95252",
         "type": "tabs",
         "children": [
           {
-            "id": "961df153ac2b6355",
+            "id": "f3905daab3d79727",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "961df153ac2b6355",
+  "active": "f3905daab3d79727",
   "lastOpenFiles": [
+    "Maths/Maths.md",
     "Maths/Graph/tp/tp1.pdf",
     "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/tp/tp0.pdf",
