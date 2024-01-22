@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d509ab2b52dbafa",
+        "id": "195747a053adf9b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2da63fc6e3c4608a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5318f9b5d565c049",
+            "id": "961df153ac2b6355",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Graph/prise de note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Graph/poly-concepts-base.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -180,13 +160,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2da63fc6e3c4608a",
+  "active": "961df153ac2b6355",
   "lastOpenFiles": [
-    "Maths/Graph/prise de note.md",
-    "Maths/Graph/poly-concepts-base.pdf",
-    "Maths/Graph/poly-problemes-usuels.pdf",
     "Maths/Graph/tp/tp1.pdf",
+    "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/tp/tp0.pdf",
+    "Maths/Graph/poly-problemes-usuels.pdf",
+    "Maths/Graph/prise de note.md",
     "Maths/Graph/tp/TP-Graphes_1.ipynb",
     "Maths/Graph/tp",
     "Maths/Graph/Nouveau dossier",
