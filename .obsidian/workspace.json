@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c6647df634b8701",
+        "id": "d64f33fbd5304202",
         "type": "tabs",
         "children": [
           {
-            "id": "5acb03a064c8e333",
+            "id": "fb0e524a78a5d4e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Avenir Etudes/Alternance/prise de note de la réunion.md",
-                "mode": "source",
-                "source": false
+                "file": "Programmation/OOP/02-objets-references.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avenir Etudes/Alternance/prise de note de la réunion.md",
+                "file": "Programmation/OOP/02-objets-references.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avenir Etudes/Alternance/prise de note de la réunion.md",
+                "file": "Programmation/OOP/02-objets-references.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avenir Etudes/Alternance/prise de note de la réunion.md"
+                "file": "Programmation/OOP/02-objets-references.pdf"
               }
             }
           },
@@ -168,28 +166,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5acb03a064c8e333",
+  "active": "fb0e524a78a5d4e2",
   "lastOpenFiles": [
-    "Avenir Etudes/Alternance/Alternance.md",
+    "Programmation/OOP/01-bases-kotlin.pdf",
+    "Programmation/OOP/00-intro.pdf",
+    "Programmation/OOP/02-objets-references.pdf",
+    "Programmation/OOP/Base du Kotlin.md",
+    "Programmation/OOP/OOP.md",
+    "Programmation/Programmation.md",
     "Avenir Etudes/Avenir Etudes.md",
-    "Avenir Etudes",
     "Avenir Etudes/Alternance/prise de note de la réunion.md",
-    "Avenir Etudes/Alternance",
+    "Programmation/OOP/07-kotlin-collections.pdf",
+    "Programmation/OOP/05-kotlin.pdf",
+    "Programmation/OOP/04-heritage.pdf",
+    "Programmation/OOP/06-kotlin-exception.pdf",
+    "Programmation/OOP/08-sequencesuml.pdf",
+    "Programmation/OOP/03-classesuml.pdf",
+    "Programmation/OOP/eval.pdf",
+    "Avenir Etudes/Alternance/Alternance.md",
+    "Avenir Etudes",
     "Communication/communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
-    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
-    "Communication/Milieux professionnels/Exposé Ergo Web 2023.pdf",
-    "Communication/Milieux professionnels",
-    "Base de Données/Exploitation/COURS-Exploitation-BD-Chapitre1.pdf",
     "Base de Données/Base de Données.md",
-    "Base de Données/Exploitation",
-    "Base de Données/Exploitation/TP1-Mobiles.pdf",
-    "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
     "Système/Réseau/Amphi 1.md",
     "Gestion de projet/Gestion de projet.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
-    "Programmation/Programmation.md",
     "SAE/Quadtree/voir repo Github.md",
     "SAE/Installation Poste/Installation Poste.md",
     "Système/Réseau/Réseau.md",
@@ -203,9 +204,6 @@
     "Communication/Base de la communication/Résumé exercices/Résumé exercices.md",
     "Communication/Base de la communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
     "Communication/Base de la communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
-    "Communication/Base de la communication/Reporterre/Reporterre.md",
-    "Communication/Base de la communication/Reporterre/Interview de Gaël Giraud.md",
-    "Communication/Base de la communication/Exposé/Préparation.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Initiation-système/TP/images/principe pipe.png",
