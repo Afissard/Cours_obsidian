@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5df4ad7c8274fe4f",
+        "id": "cb3b3421388d1b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "e12e5dbeec68bcf2",
+            "id": "ce98dacdf612e32d",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Base de Données/Exploitation/COURS-Exploitation-BD-Chapitre1.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/Exploitation/COURS-Exploitation-BD-Chapitre1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/Exploitation/COURS-Exploitation-BD-Chapitre1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Données/Exploitation/COURS-Exploitation-BD-Chapitre1.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +160,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e12e5dbeec68bcf2",
+  "active": "ce98dacdf612e32d",
   "lastOpenFiles": [
     "Base de Données/Exploitation/COURS-Exploitation-BD-Chapitre1.pdf",
     "Base de Données/Base de Données.md",
