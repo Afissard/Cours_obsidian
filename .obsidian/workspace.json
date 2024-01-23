@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d64f33fbd5304202",
+        "id": "467ed0e1b34a8542",
         "type": "tabs",
         "children": [
           {
-            "id": "6e883f2f2448faa6",
+            "id": "f245a658a3ea5675",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/OOP/Notes Amphi.md",
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9f380713e666cf5a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programmation/OOP/02-objets-references.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/02-objets-references.pdf",
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/02-objets-references.pdf",
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/OOP/02-objets-references.pdf"
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md"
               }
             }
           },
@@ -181,56 +170,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f380713e666cf5a",
+  "active": "f245a658a3ea5675",
   "lastOpenFiles": [
-    "Programmation/OOP/Notes Amphi.md",
-    "Programmation/OOP/03-classesuml.pdf",
-    "Programmation/OOP/02-objets-references.pdf",
-    "Programmation/OOP/08-sequencesuml.pdf",
-    "Programmation/OOP/07-kotlin-collections.pdf",
-    "Programmation/OOP/06-kotlin-exception.pdf",
-    "Programmation/OOP/05-kotlin.pdf",
-    "Programmation/OOP/04-heritage.pdf",
-    "Programmation/OOP/OOP.md",
-    "Programmation/OOP/01-bases-kotlin.pdf",
-    "Programmation/OOP/eval.pdf",
-    "Programmation/OOP/00-intro.pdf",
+    "Système/Bas Niveau/main.pdf",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/go.mod",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/main.go",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/main.go",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/go.mod",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays2/main.go",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays2/go.mod",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays1/main.go",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays1/go.mod",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/images/gdb-1.png",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/README.md",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/README.md",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/2-appels_de_fonction/README.md",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/outsidedd.jpg",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/MIPS_Architecture_(Pipelined).svg.png",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/insidedd.jpg",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
+    "Système/Bas Niveau/Amphi 1.md",
+    "Système/Réseau/Réseau.md",
+    "Système/Système.md",
+    "README.md",
     "Programmation/Programmation.md",
+    "Programmation/OOP/OOP.md",
+    "Programmation/OOP/Notes Amphi.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/Alternance/prise de note de la réunion.md",
     "Avenir Etudes/Alternance/Alternance.md",
     "Communication/communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Base de Données/Base de Données.md",
-    "Système/Réseau/Amphi 1.md",
     "Gestion de projet/Gestion de projet.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
     "SAE/Quadtree/voir repo Github.md",
     "SAE/Installation Poste/Installation Poste.md",
-    "Système/Réseau/Réseau.md",
-    "Système/Système.md",
     "Maths/Maths.md",
     "conflict-files-obsidian-git.md",
     "SAE/Environment Economie/Environnement économique et écologique.md",
     "SAE/Environment Economie/Environment Economie.md",
-    "SAE/Environment Economie/Consigne rédaction dossier.md",
-    "Communication/Base de la communication/Résumé exercices/Voici le temps du monde fini - Albert Jacquard.md",
-    "Communication/Base de la communication/Résumé exercices/Résumé exercices.md",
-    "Communication/Base de la communication/Résumé exercices/La publicité humoristique, L'ère du vide G. Lipovetsky.md",
-    "Communication/Base de la communication/Résumé exercices/Albert Camus - Réflexion sur la Guillotine.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "Système/Initiation-système/TP/images/principe pipe.png",
-    "Système/Initiation-système/TP/images/processus4.png",
-    "Système/Initiation-système/TP/images/processus.png",
-    "Système/Initiation-système/TP/images/flux.png",
-    "Système/Initiation-système/TP/images/etatsProcessus.png",
-    "Système/Initiation-système/TP/images/Commandes_de_reference_unix-linux.jpg",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Système/Initiation-système/TP/images/commandes-usuelle-linux-13-638.jpg",
-    "Système/Initiation-système/TP/images/commandes-usuelle-linux-1-638.jpg",
-    "Système/Initiation-système/TP/images/Capture-d%u2019écran-2012-09-11-à-08.48.34.png",
-    "Programmation/Initiation-dev/Algo/quicksort.png",
     "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
     "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
