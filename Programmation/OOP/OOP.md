@@ -14,9 +14,9 @@ type: folder_brief_live
 - [[06-kotlin-exception.pdf]]
 - [[07-kotlin-collections.pdf]]
 - [[08-sequencesuml.pdf]]
-- [[Base du Kotlin]]
 - [[eval.pdf]]
 - [[Introduction]]
+- [[Notes Amphi]]
 
 %% End Waypoint %%
 lien #Madoc : https://gitlab.univ-nantes.fr/iut.info1.dev.objets/dev.objets.ressources

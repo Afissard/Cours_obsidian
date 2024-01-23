@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb0e524a78a5d4e2",
+            "id": "6e883f2f2448faa6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmation/OOP/Notes Amphi.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9f380713e666cf5a",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -17,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,25 +181,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb0e524a78a5d4e2",
+  "active": "9f380713e666cf5a",
   "lastOpenFiles": [
-    "Programmation/OOP/01-bases-kotlin.pdf",
-    "Programmation/OOP/00-intro.pdf",
+    "Programmation/OOP/Notes Amphi.md",
+    "Programmation/OOP/03-classesuml.pdf",
     "Programmation/OOP/02-objets-references.pdf",
-    "Programmation/OOP/Base du Kotlin.md",
+    "Programmation/OOP/08-sequencesuml.pdf",
+    "Programmation/OOP/07-kotlin-collections.pdf",
+    "Programmation/OOP/06-kotlin-exception.pdf",
+    "Programmation/OOP/05-kotlin.pdf",
+    "Programmation/OOP/04-heritage.pdf",
     "Programmation/OOP/OOP.md",
+    "Programmation/OOP/01-bases-kotlin.pdf",
+    "Programmation/OOP/eval.pdf",
+    "Programmation/OOP/00-intro.pdf",
     "Programmation/Programmation.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/Alternance/prise de note de la réunion.md",
-    "Programmation/OOP/07-kotlin-collections.pdf",
-    "Programmation/OOP/05-kotlin.pdf",
-    "Programmation/OOP/04-heritage.pdf",
-    "Programmation/OOP/06-kotlin-exception.pdf",
-    "Programmation/OOP/08-sequencesuml.pdf",
-    "Programmation/OOP/03-classesuml.pdf",
-    "Programmation/OOP/eval.pdf",
     "Avenir Etudes/Alternance/Alternance.md",
-    "Avenir Etudes",
     "Communication/communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Base de Données/Base de Données.md",
