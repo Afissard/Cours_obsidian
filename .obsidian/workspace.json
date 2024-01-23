@@ -11,8 +11,10 @@
             "id": "ce98dacdf612e32d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf"
+              }
             }
           },
           {
@@ -162,6 +168,11 @@
   },
   "active": "ce98dacdf612e32d",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
+    "Communication/Milieux professionnels/Exposé Ergo Web 2023.pdf",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Milieux professionnels",
     "Base de Données/Exploitation/COURS-Exploitation-BD-Chapitre1.pdf",
     "Base de Données/Base de Données.md",
     "Base de Données/Exploitation",
@@ -178,11 +189,7 @@
     "Système/Système.md",
     "Maths/Maths.md",
     "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
-    "Système/Réseau",
-    "Nouveau dossier",
     "conflict-files-obsidian-git.md",
-    "SAE/Sudoku/src_session1/CopieNumerique.py",
-    "SAE/Sudoku/src_session1",
     "SAE/Environment Economie/Environnement économique et écologique.md",
     "SAE/Environment Economie/Environment Economie.md",
     "SAE/Environment Economie/Consigne rédaction dossier.md",
@@ -196,7 +203,6 @@
     "Communication/Base de la communication/Exposé/Préparation.md",
     "Communication/Base de la communication/Exposé/Exposé.md",
     "Communication/Base de la communication/Résumé de texte.md",
-    "Communication/Base de la communication/Présentation de la matière.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Initiation-système/TP/images/principe pipe.png",
