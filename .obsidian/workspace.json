@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "467ed0e1b34a8542",
+        "id": "c2ad77989684f778",
         "type": "tabs",
         "children": [
           {
-            "id": "f245a658a3ea5675",
+            "id": "a4e0d9bb191e699c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
+                "file": "Système/Système.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
+                "file": "Système/Système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
+                "file": "Système/Système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md"
+                "file": "Système/Système.md"
               }
             }
           },
@@ -170,10 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f245a658a3ea5675",
+  "active": "a4e0d9bb191e699c",
   "lastOpenFiles": [
-    "Système/Bas Niveau/main.pdf",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
+    "Système/Bas Niveau/main.pdf",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/go.mod",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/main.go",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/main.go",
