@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "c2ad77989684f778",
+        "id": "0fd455628f8c0a58",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e0d9bb191e699c",
+            "id": "f1b604c398469b4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "c46d1e23da29a565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système/Système.md",
+                "file": "Communication/Milieux professionnels/Site web.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Système.md",
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Système.md",
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Système.md"
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf"
               }
             }
           },
@@ -168,8 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4e0d9bb191e699c",
+  "active": "f1b604c398469b4d",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
+    "Communication/Milieux professionnels/Site web.md",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/communication.md",
+    "Système/Système.md",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
     "Système/Bas Niveau/main.pdf",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/go.mod",
@@ -180,7 +196,6 @@
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays2/go.mod",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays1/main.go",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays1/go.mod",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/README.md",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/README.md",
@@ -196,7 +211,6 @@
     "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
     "Système/Bas Niveau/Amphi 1.md",
     "Système/Réseau/Réseau.md",
-    "Système/Système.md",
     "README.md",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
@@ -204,8 +218,6 @@
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/Alternance/prise de note de la réunion.md",
     "Avenir Etudes/Alternance/Alternance.md",
-    "Communication/communication.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
     "Base de Données/Base de Données.md",
     "Gestion de projet/Gestion de projet.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
@@ -213,8 +225,6 @@
     "SAE/Installation Poste/Installation Poste.md",
     "Maths/Maths.md",
     "conflict-files-obsidian-git.md",
-    "SAE/Environment Economie/Environnement économique et écologique.md",
-    "SAE/Environment Economie/Environment Economie.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
