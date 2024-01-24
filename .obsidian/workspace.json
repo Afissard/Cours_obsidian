@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55f67fab2f519d0d",
+        "id": "1d888debf73541ed",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2669a92f109f9e",
+            "id": "c6d94d1a57d2ee9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb2669a92f109f9e",
+  "active": "c6d94d1a57d2ee9c",
   "lastOpenFiles": [
+    "Programmation/Programmation.md",
+    "Programmation/Initiation-dev/go/go.md",
+    "Programmation/Initiation-dev/go/go-Laptop-sacha.md",
+    "Avenir Etudes/Avenir Etudes.md",
+    "Avenir Etudes/PPP/PPP.md",
     "Communication/communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web.md",
@@ -203,11 +208,6 @@
     "Avenir Etudes/Quebec/Quebec.md",
     "Avenir Etudes/Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
     "Avenir Etudes/Quebec/ETUDIER AU CANADA - QUEBEC.md",
-    "Avenir Etudes/Quebec/ETS/ETS.md",
-    "Avenir Etudes/Quebec/Administration/Administration.md",
-    "Avenir Etudes/Alternance/Alternance.md",
-    "Avenir Etudes/Alternance/prise de note de la réunion.md",
-    "Avenir Etudes/Avenir Etudes.md",
     "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
     "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",

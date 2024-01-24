@@ -3,9 +3,9 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Maths  ",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "path:PPP  ",
+      "query": "path:\"Avenir Etudes\"  ",
       "color": {
         "a": 1,
         "rgb": 11361494
@@ -74,13 +74,13 @@
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.99935416666667,
+  "lineSizeMultiplier": 0.993229166666667,
   "collapse-forces": true,
-  "centerStrength": 0.600558659217877,
-  "repelStrength": 20,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.12374306548507505,
+  "linkDistance": 30,
+  "scale": 0.2432239304722801,
   "close": true
 }

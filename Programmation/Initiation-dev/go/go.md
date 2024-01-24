@@ -6,7 +6,6 @@ type: folder_brief_live
 
 %% Begin Waypoint %%
 - **[[exercices-introdev]]**
-- [[go-Laptop-sacha]]
 - **[[Modules]]**
 - **[[Tests]]**
 - **[[tuto1-src]]**
@@ -19,7 +18,7 @@ type: folder_brief_live
 		- **p3**
 			- [[prog3.go]]
 		- **p4**
-			- [[Programmation/Initiation-dev/go/Modules/go.mod]]
+			- [[go.mod]]
 			- [[prog4.go]]
 	- **src**
 		- [[args.go]]
@@ -47,13 +46,13 @@ type: folder_brief_live
 - **tuto3-src**
 	- [[app]]
 	- [[fichier]]
-	- [[Programmation/Initiation-dev/go/Modules/go.mod]]
-	- [[Programmation/Initiation-dev/go/Modules/main.go]]
+	- [[go.mod]]
+	- [[main.go]]
 	- [[notes.csv]]
 	- **prog**
 		- [[fnApp.go]]
-		- [[Programmation/Initiation-dev/go/Modules/go.mod]]
-		- [[Programmation/Initiation-dev/go/Modules/main.go]]
+		- [[go.mod]]
+		- [[main.go]]
 		- [[rApp.go]]
 	- **src**
 		- [[bufio.go]]
