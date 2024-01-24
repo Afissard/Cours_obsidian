@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a83eba27770a2b0f",
+        "id": "55f67fab2f519d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "acaea28536124d6a",
+            "id": "fb2669a92f109f9e",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Bas Niveau/td/1-pile_tas/td1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/1-pile_tas/td1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/1-pile_tas/td1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Bas Niveau/td/1-pile_tas/td1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,43 +160,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acaea28536124d6a",
+  "active": "fb2669a92f109f9e",
   "lastOpenFiles": [
-    "Système/Bas Niveau/td/1-pile_tas/src/segment_donnees/segment_donnees.exe",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/r204_readme.md",
-    "Système/Bas Niveau/td/1-pile_tas/td1.md",
-    "Système/Bas Niveau/td/1-pile_tas/src/tas/tas.exe",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Communication/Communication.md",
-    "Communication/test.md",
     "Communication/communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Base de la communication/Base de la communication.md",
-    "Communication/Anglais Technique/Anglais Technique.md",
-    "Base de Données/Base de Données.md",
-    "Base de Données/Exploitation/TD 2.md",
-    "Base de Données/Exploitation/TD 1.md",
-    "Système/Bas Niveau/Amphi 1.md",
-    "Système/Bas Niveau/main.pdf",
-    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
-    "Système/Système.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/prise de note amphi.md",
-    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion projet informatique",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
-    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
     "Communication/Milieux professionnels/Site web.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
-    "Système/Bas Niveau/tp/1-init_debug/src/findmin/go.mod",
-    "Système/Bas Niveau/tp/1-init_debug/src/findmin/main.go",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
+    "Communication/Milieux professionnels",
+    "Système/Réseau/Réseau.md",
+    "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
+    "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
+    "Système/Réseau",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/src/strings/main.go",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays2/go.mod",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays2/main.go",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/src/strings/go.mod",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
+    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/outsidedd.jpg",
@@ -215,18 +189,34 @@
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
-    "Système/Réseau/Réseau.md",
-    "README.md",
-    "Programmation/Programmation.md",
-    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
+    "Système/Bas Niveau/td/1-pile_tas/td1.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/Amphi 1.md",
+    "Programmation/OOP/Notes Amphi.md",
+    "Maths/graph/prise de note.md",
+    "Gestion de projet/Gestion projet informatique/prise de note amphi.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Base de Données/Exploitation/TD 2.md",
+    "Base de Données/Exploitation/TD 1.md",
+    "Avenir Etudes/Quebec/UQAC/UQAC.md",
+    "Avenir Etudes/Quebec/Quebec.md",
+    "Avenir Etudes/Quebec/LES CONTACTS AUX RELATIONS INTERNATIONALES DE L'IUT DE NANTES.md",
+    "Avenir Etudes/Quebec/ETUDIER AU CANADA - QUEBEC.md",
+    "Avenir Etudes/Quebec/ETS/ETS.md",
+    "Avenir Etudes/Quebec/Administration/Administration.md",
+    "Avenir Etudes/Alternance/Alternance.md",
+    "Avenir Etudes/Alternance/prise de note de la réunion.md",
+    "Avenir Etudes/Avenir Etudes.md",
+    "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
+    "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
+    "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
+    "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
-    "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
     "Gestion de projet/Entreprise/fonctionement-économique.canvas",
-    "Economie/Shémas/schéma prestataire et client.canvas"
+    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas"
   ]
 }
