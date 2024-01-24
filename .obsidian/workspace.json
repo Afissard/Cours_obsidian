@@ -4,32 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd455628f8c0a58",
+        "id": "85fb7e5b0d174f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b604c398469b4d",
+            "id": "fbdf318f8e8da483",
             "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf"
-              }
-            }
-          },
-          {
-            "id": "c46d1e23da29a565",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Milieux professionnels/Site web.md",
+                "file": "Gestion de projet/Gestion projet informatique/prise de note amphi.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a806c0b5139faf88",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf"
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf"
+                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf"
               }
             }
           },
@@ -178,8 +183,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1b604c398469b4d",
+  "active": "a806c0b5139faf88",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/prise de note amphi.md",
+    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
     "Communication/Milieux professionnels/Site web.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
@@ -193,9 +204,6 @@
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/main.go",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/go.mod",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays2/main.go",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays2/go.mod",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays1/main.go",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays1/go.mod",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/README.md",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/README.md",
@@ -219,12 +227,9 @@
     "Avenir Etudes/Alternance/prise de note de la réunion.md",
     "Avenir Etudes/Alternance/Alternance.md",
     "Base de Données/Base de Données.md",
-    "Gestion de projet/Gestion de projet.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
     "SAE/Quadtree/voir repo Github.md",
     "SAE/Installation Poste/Installation Poste.md",
-    "Maths/Maths.md",
-    "conflict-files-obsidian-git.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
