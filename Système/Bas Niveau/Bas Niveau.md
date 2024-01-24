@@ -54,6 +54,7 @@ type: folder_brief_live
 			- **pile**
 				- [[pile.go]]
 			- **segment_donnees**
+				- [[segment_donnees.exe]]
 				- [[segment_donnees.go]]
 			- **tas**
 				- [[go.mod]]

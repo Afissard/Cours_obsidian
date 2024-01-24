@@ -183,10 +183,10 @@ Ici, l'option `-m` permet d'afficher des informations sur les décisions d'optim
 Consulter le point sur l'allocation de la mémoire dans la FAQ de Go : https://go.dev/doc/faq#stack_or_heap.
 Utiliser la commande `go build -gcflags -m tas.go`.
 
-  - Est-ce qu'une variable dont on récupère l'adresse dans un programme est obligatoirement stockée dans le tas ? : Non cela depend du contexte
-  - Est-ce que seules les variables dont on récupère l'adresse dans un programme sont susceptibles d'être stockées dans le tas ? : Oui potentiellement
-  - Quelles sont les variables qui sont placées dans le tas ? Expliquer.
-
+  - Est-ce qu'une variable dont on récupère l'adresse dans un programme est obligatoirement stockée dans le tas ? : "In the current compilers, if a variable has its address taken, that variable is a candidate for allocation on the heap. However, a basic _escape analysis_ recognizes some cases when such variables will not live past the return from the function and can reside on the stack."
+  - Est-ce que seules les variables dont on récupère l'adresse dans un programme sont susceptibles d'être stockées dans le tas ? : "if the compiler cannot prove that the variable is not referenced after the function returns, then the compiler must allocate the variable on the garbage-collected heap to avoid dangling pointer errors"
+  - Quelles sont les variables qui sont placées dans le tas ? Expliquer. : les grandes variables et les variable qui ne seront pas que utilisé localement.
+voir documentation : https://go.dev/doc/faq#stack_or_heap 
 ---
 
 **Remarque** Vous aurez peut-être noté que, quand on utilise `go build -gcflags -m tas.go` et `go test -bench=. -benchmem tas.go tas_test.go` ce n'est pas le même code qui est analysé : dans le premier cas c'est la fonction `main` qui est le point de départ du programme, alors que dans le deuxième ce sont les fonctions de `benchmark` situées dans le fichier `tas_test.go`.
@@ -247,10 +247,10 @@ Repérer la partie données et la partie code dans le résultat produit.
 Dans le code, SP signifie *stack pointer* et SB signifie *static base pointer*.
 Analyser le code. 
  
-  - La variable `b` est-elle allouée statiquement ?
-  - La variable `c` est-elle allouée statiquement ?
+  - La variable `b` est-elle allouée statiquement ? : "b" est dans BSS, on a réservé de place dans le segment de donnée pour "b" (donc oui c'est statique avec RODATA -> read only)
+  - La variable `c` est-elle allouée statiquement ? : non ce n'est pas le cas
   - Que remarque-t-on concernant la constante `a` ?
-  - Que remarque-t-on concernant les chaînes de caractères utilisées dans le programme ?
+  - Que remarque-t-on concernant les chaînes de caractères utilisées dans le programme ? : c'est ce qui prend le plus de place dans le programme
 
  ---
 
