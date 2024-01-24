@@ -100,7 +100,7 @@ type: folder_brief_live
 	- **unmot**
 		- [[unmot_test.go]]
 		- [[unmot.go]]
-- [[go.mod]]
+- [[Programmation/Initiation-dev/go/exercices-introdev/go.mod]]
 - [[LICENSE]]
 - **pointeurs**
 	- **add**

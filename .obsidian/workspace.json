@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
+                "file": "Système/Bas Niveau/td/1-pile_tas/td1.md",
                 "mode": "source",
                 "source": false
               },
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -87,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md"
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/r204_readme.md"
               }
             }
           },
@@ -170,16 +168,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acaea28536124d6a",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Système/Bas Niveau/td/1-pile_tas/td1.md",
+    "Système/Bas Niveau/td/1-pile_tas/src/tas/tas.exe",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/r204_readme.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Communication/Communication.md",
+    "Communication/test.md",
+    "Communication/communication.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Base de la communication/Base de la communication.md",
+    "Communication/Anglais Technique/Anglais Technique.md",
     "Base de Données/Base de Données.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
     "Base de Données/Exploitation/TD 2.md",
     "Base de Données/Exploitation/TD 1.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/Amphi 1.md",
     "Système/Bas Niveau/main.pdf",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/tp1.md",
+    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Système/Système.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
@@ -190,34 +196,25 @@
     "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
     "Communication/Milieux professionnels/Site web.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/communication.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/go.mod",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/main.go",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/main.go",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/go.mod",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays2/main.go",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/images/gdb-1.png",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/tp2.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/2-appels_de_fonction/td2.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/outsidedd.jpg",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/MIPS_Architecture_(Pipelined).svg.png",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/insidedd.jpg",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
+    "Système/Bas Niveau/tp/1-init_debug/src/findmin/go.mod",
+    "Système/Bas Niveau/tp/1-init_debug/src/findmin/main.go",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/strings/main.go",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/strings/go.mod",
+    "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
+    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/outsidedd.jpg",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/MIPS_Architecture_(Pipelined).svg.png",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/insidedd.jpg",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
     "Système/Réseau/Réseau.md",
     "README.md",
     "Programmation/Programmation.md",
-    "Programmation/OOP/OOP.md",
-    "Programmation/OOP/Notes Amphi.md",
-    "Avenir Etudes/Avenir Etudes.md",
-    "Avenir Etudes/Alternance/prise de note de la réunion.md",
-    "Avenir Etudes/Alternance/Alternance.md",
-    "Programmation/Initiation-dev/Initiation-dev.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",

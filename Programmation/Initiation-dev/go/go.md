@@ -19,7 +19,7 @@ type: folder_brief_live
 		- **p3**
 			- [[prog3.go]]
 		- **p4**
-			- [[go.mod]]
+			- [[Programmation/Initiation-dev/go/Modules/go.mod]]
 			- [[prog4.go]]
 	- **src**
 		- [[args.go]]
@@ -47,13 +47,13 @@ type: folder_brief_live
 - **tuto3-src**
 	- [[app]]
 	- [[fichier]]
-	- [[go.mod]]
-	- [[main.go]]
+	- [[Programmation/Initiation-dev/go/Modules/go.mod]]
+	- [[Programmation/Initiation-dev/go/Modules/main.go]]
 	- [[notes.csv]]
 	- **prog**
 		- [[fnApp.go]]
-		- [[go.mod]]
-		- [[main.go]]
+		- [[Programmation/Initiation-dev/go/Modules/go.mod]]
+		- [[Programmation/Initiation-dev/go/Modules/main.go]]
 		- [[rApp.go]]
 	- **src**
 		- [[bufio.go]]

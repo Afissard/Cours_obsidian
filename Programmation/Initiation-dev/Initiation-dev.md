@@ -18,13 +18,13 @@ type: folder_brief_live
 		- **src (1)**
 			- **src**
 				- **listev1**
-					- [[go.mod]]
+					- [[Programmation/Initiation-dev/go/Modules/go.mod]]
 					- [[tri_test.go]]
 					- [[tri.go]]
 					- [[type_test.go]]
 					- [[type.go]]
 				- **listev2**
-					- [[go.mod]]
+					- [[Programmation/Initiation-dev/go/Modules/go.mod]]
 					- [[liste.go]]
 					- [[tri_test.go]]
 					- [[tri.go]]
@@ -44,13 +44,13 @@ type: folder_brief_live
 	- [[src (2).tgz]]
 	- **src_dev4**
 		- **listev1**
-			- [[go.mod]]
+			- [[Programmation/Initiation-dev/go/Modules/go.mod]]
 			- [[tri_test.go]]
 			- [[tri.go]]
 			- [[type_test.go]]
 			- [[type.go]]
 		- **listev2**
-			- [[go.mod]]
+			- [[Programmation/Initiation-dev/go/Modules/go.mod]]
 			- [[liste.go]]
 			- [[tri_test.go]]
 			- [[tri.go]]
