@@ -6,7 +6,7 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - **[[Architecture-système]]**
-- **Bas Niveau**
+- **[[Bas Niveau]]**
 	- [[Amphi 1]]
 	- [[main.pdf]]
 	- **r204-partie1-foncbasniveau**
@@ -51,9 +51,9 @@ type: folder_brief_live
 					- **sort**
 						- [[go.mod]]
 						- [[main.go]]
+		- [[README]]
 		- **td**
 			- **1-pile_tas**
-				- [[README]]
 				- **src**
 					- **pile**
 						- [[pile.go]]
@@ -63,24 +63,24 @@ type: folder_brief_live
 						- [[go.mod]]
 						- [[tas_test.go]]
 						- [[tas.go]]
+				- [[td1]]
 			- **2-appels_de_fonction**
-				- [[README]]
 				- **src**
 					- [[appelfonctions-noopt-noinline.dump]]
 					- [[appelfonctions-opt-noinline.dump]]
 					- [[funcs.go]]
 					- [[go.mod]]
+				- [[td2]]
 		- **tp**
 			- **1-init_debug**
 				- **images**
 					- [[gdb-1.png]]
-				- [[README]]
 				- **src**
 					- **findmin**
 						- [[go.mod]]
 						- [[main.go]]
+				- [[tp1]]
 			- **2-slices_et_tableaux**
-				- [[README]]
 				- **src**
 					- **slicesandarrays1**
 						- [[go.mod]]
@@ -91,6 +91,7 @@ type: folder_brief_live
 					- **strings**
 						- [[go.mod]]
 						- [[main.go]]
+				- [[tp2]]
 - **[[Bash]]**
 - **[[Initiation-système]]**
 - **[[Réseau]]**

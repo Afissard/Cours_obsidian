@@ -10,9 +10,15 @@
           {
             "id": "acaea28536124d6a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -65,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md"
+              }
             }
           },
           {
@@ -162,6 +172,15 @@
   },
   "active": "acaea28536124d6a",
   "lastOpenFiles": [
+    "Base de Données/Base de Données.md",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/td1.md",
+    "Base de Données/Exploitation/TD 2.md",
+    "Base de Données/Exploitation/TD 1.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/Amphi 1.md",
+    "Système/Bas Niveau/main.pdf",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/tp1.md",
+    "Système/Système.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/prise de note amphi.md",
@@ -173,18 +192,14 @@
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/communication.md",
-    "Système/Système.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/1-pile_tas/README.md",
-    "Système/Bas Niveau/main.pdf",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/go.mod",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/src/findmin/main.go",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/main.go",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/strings/go.mod",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/src/slicesandarrays2/main.go",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/images/gdb-1.png",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/1-init_debug/README.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/README.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/2-appels_de_fonction/README.md",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/tp/2-slices_et_tableaux/tp2.md",
+    "Système/Bas Niveau/r204-partie1-foncbasniveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
@@ -194,7 +209,6 @@
     "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
-    "Système/Bas Niveau/Amphi 1.md",
     "Système/Réseau/Réseau.md",
     "README.md",
     "Programmation/Programmation.md",
@@ -203,10 +217,7 @@
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/Alternance/prise de note de la réunion.md",
     "Avenir Etudes/Alternance/Alternance.md",
-    "Base de Données/Base de Données.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
-    "SAE/Quadtree/voir repo Github.md",
-    "SAE/Installation Poste/Installation Poste.md",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
