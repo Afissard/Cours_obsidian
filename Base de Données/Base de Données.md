@@ -8,7 +8,7 @@ type: folder_brief_live
 - **[[Création BD]]**
 - **Exploitation**
 	- [[COURS-Exploitation-BD-Chapitre1.pdf]]
-	- [[TD 1]]
+	- [[Base de Données/Exploitation/TD 1]]
 	- [[TD 2]]
 	- [[TP1-Mobiles.pdf]]
 
