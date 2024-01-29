@@ -6,6 +6,7 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[Amphi 1]]
+- [[Amphi 2]]
 - **cours**
 	- **cours1-organisation_machine_execution**
 		- **figures**
@@ -47,7 +48,8 @@ type: folder_brief_live
 			- **sort**
 				- [[go.mod]]
 				- [[main.go]]
-- [[main.pdf]]
+- [[main_01.pdf]]
+- [[main02.pdf]]
 - **td**
 	- **1-pile_tas**
 		- **src**
@@ -92,3 +94,5 @@ type: folder_brief_live
 		- [[tp2]]
 
 %% End Waypoint %%
+
+lien repo : https://univ-nantes.io/faucou-s/r204-partie1-foncbasniveau
