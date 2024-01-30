@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"fe2b2004fd8c3b01","x":-160,"y":-160,"width":250,"height":60,"type":"text","text":"Système d'alarme"},
+		{"id":"f77da6d8dea77fc8","x":-340,"y":20,"width":250,"height":60,"type":"text","text":"Déclanchement"}
+	],
+	"edges":[]
+}

@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "dc66529235f13e7a",
+        "id": "82b799b049328c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "7194bf5675c8189c",
+            "id": "193e3f2db35cf050",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
+                "viewState": {
+                  "x": 425.81798177490396,
+                  "y": 370.77735176002636,
+                  "zoom": -1.4763271312912736
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a9120d8d016bd1cd",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Milieux professionnels/Milieux professionnels.md",
+                "file": "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6cbb4efd63665286",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.2659946823120117
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 329.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Milieux professionnels/Milieux professionnels.md",
+                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Milieux professionnels/Milieux professionnels.md",
+                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Milieux professionnels/Milieux professionnels.md"
+                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas"
               }
             }
           },
@@ -168,15 +203,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7194bf5675c8189c",
+  "active": "6cbb4efd63665286",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
+    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
+    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
+    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/UML/UML.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/UML",
+    "Gestion de projet/Gestion de projet.md",
+    "Communication/Communication.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
     "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
     "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Communication.md",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
     "Programmation/OOP/TD/TD 1.md",
     "Programmation/OOP/TD/TD.md",
@@ -187,11 +231,8 @@
     "Système/Bas Niveau/main02.pdf",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/main.pdf",
-    "Système/Bas Niveau/main_01.pdf",
     "Système/Bas Niveau/Amphi 1.md",
     "Système/Système.md",
-    "Programmation/OOP/03-classesuml.pdf",
-    "Programmation/OOP/01-bases-kotlin.pdf",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
@@ -200,14 +241,9 @@
     "Base de Données/Exploitation/TD 2.md",
     "conflict-files-obsidian-git.md",
     "Base de Données/Exploitation/TD 1.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion de projet.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
     "Avenir Etudes/PPP/Séance 1-2, métiers de l'informatique.md",
-    "Avenir Etudes/PPP/Règle de validation d'une UE.md",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
-    "Avenir Etudes/PPP/PPP.md",
-    "Système/Bas Niveau/td/1-pile_tas/td1.md",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
@@ -223,8 +259,6 @@
     "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
     "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
-    "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
-    "Gestion de projet/Entreprise/fonctionement-économique.canvas"
+    "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas"
   ]
 }
