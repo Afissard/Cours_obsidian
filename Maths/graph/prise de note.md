@@ -3,3 +3,4 @@
 - note machine
 
 # Qu'est-ce que sont les graph ?
+lire pdf

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "815f03075ecbea03",
+        "id": "1d888debf73541ed",
         "type": "tabs",
         "children": [
           {
-            "id": "c6243a6325d270ae",
+            "id": "c6d94d1a57d2ee9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Maths.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Maths.md"
+              }
             }
           },
           {
@@ -142,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,47 +168,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6243a6325d270ae",
+  "active": "c6d94d1a57d2ee9c",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/TD 1.md",
-    "Base de Données/Base de Données.md",
-    "Base de Données/Exploitation/TD 2.md",
-    "conflict-files-obsidian-git.md",
-    "Base de Données/Exploitation/TD 1.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Maths/Maths.md",
     "Maths/Graph/Graph.md",
+    "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/poly-problemes-usuels.pdf",
+    "Maths/Graph/prise de note.md",
+    "Maths/Logique/Logique.md",
+    "Maths/Maths.md",
+    "Gestion de projet/Gestion projet informatique/TD 1.md",
     "Programmation/Programmation.md",
-    "Programmation/Initiation-dev/Initiation-dev.md",
-    "Programmation/OOP/OOP.md",
-    "Système/Système.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Avenir Etudes/PPP/Séance 1-2, métiers de l'informatique.md",
-    "Avenir Etudes/PPP/Règle de validation d'une UE.md",
-    "Avenir Etudes/PPP/PPP_tableau.jpg",
-    "Avenir Etudes/PPP/PPP1 Proust Calle.pdf",
-    "Avenir Etudes/PPP/PPP1 Guide.pdf",
-    "Avenir Etudes/PPP/PPP1 - 1.pdf",
+    "Programmation/Initiation-dev/go/go.md",
+    "Programmation/Initiation-dev/go/go-Laptop-sacha.md",
+    "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/PPP/PPP.md",
-    "Avenir Etudes/PPP",
-    "Système/Bas Niveau/td/1-pile_tas/td1.md",
-    "Système/Bas Niveau/td/1-pile_tas/src/segment_donnees/segment_donnees.exe",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/r204_readme.md",
-    "Système/Bas Niveau/td/1-pile_tas/src/tas/tas.exe",
-    "Communication/Communication.md",
-    "Communication/test.md",
     "Communication/communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Base de la communication/Base de la communication.md",
-    "Communication/Anglais Technique/Anglais Technique.md",
-    "Système/Bas Niveau/Amphi 1.md",
-    "Système/Bas Niveau/main.pdf",
-    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion projet informatique",
+    "Communication/Milieux professionnels/Site web.md",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
+    "Communication/Milieux professionnels",
+    "Système/Réseau/Réseau.md",
+    "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
+    "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
+    "Système/Réseau",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/strings/main.go",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays2/go.mod",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
+    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
+    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/outsidedd.jpg",
@@ -208,15 +206,24 @@
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/insidedd.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
-    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
+    "Système/Bas Niveau/td/1-pile_tas/td1.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/Amphi 1.md",
+    "Programmation/OOP/Notes Amphi.md",
+    "Gestion de projet/Gestion projet informatique/prise de note amphi.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Base de Données/Exploitation/TD 2.md",
+    "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
+    "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
+    "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
+    "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
+    "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
+    "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
-    "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
     "Gestion de projet/Entreprise/fonctionement-économique.canvas",
-    "Economie/Shémas/schéma prestataire et client.canvas"
+    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas"
   ]
 }
