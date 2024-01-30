@@ -10,9 +10,13 @@
           {
             "id": "8a5a56466f9fd1ed",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf"
+              }
             }
           },
           {
@@ -162,6 +170,13 @@
   },
   "active": "8a5a56466f9fd1ed",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
+    "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
+    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Communication.md",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
     "Programmation/OOP/TD/TD 1.md",
     "Programmation/OOP/TD/TD.md",
@@ -177,13 +192,9 @@
     "Système/Système.md",
     "Programmation/OOP/03-classesuml.pdf",
     "Programmation/OOP/01-bases-kotlin.pdf",
-    "Programmation/OOP/00-intro.pdf",
-    "Programmation/OOP/02-objets-references.pdf",
     "Maths/Maths.md",
-    "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/Graph.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
-    "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
     "Gestion de projet/Gestion projet informatique/TD 1.md",
     "Base de Données/Base de Données.md",
     "Base de Données/Exploitation/TD 2.md",
@@ -197,8 +208,6 @@
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Avenir Etudes/PPP/PPP.md",
     "Système/Bas Niveau/td/1-pile_tas/td1.md",
-    "Système/Bas Niveau/r204-partie1-foncbasniveau/r204_readme.md",
-    "Communication/Communication.md",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
