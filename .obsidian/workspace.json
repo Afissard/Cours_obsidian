@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10754acaec74e529",
+        "id": "a423527656cb6dec",
         "type": "tabs",
         "children": [
           {
-            "id": "7c83f0d0005e0fb9",
+            "id": "8a5a56466f9fd1ed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 57.427499999999945,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -171,10 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c83f0d0005e0fb9",
+  "active": "8a5a56466f9fd1ed",
   "lastOpenFiles": [
-    "Programmation/OOP/TD/TD 1.md",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
+    "Programmation/OOP/TD/TD 1.md",
     "Programmation/OOP/TD/TD.md",
     "Programmation/OOP/TD",
     "Programmation/OOP/OOP.md",
