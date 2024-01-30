@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "795d88666e840e25",
+        "id": "10754acaec74e529",
         "type": "tabs",
         "children": [
           {
-            "id": "a608272019488285",
+            "id": "7c83f0d0005e0fb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programmation/OOP/TD 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 57.427499999999945,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/TD 1.md",
+                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/TD 1.md",
+                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/OOP/TD 1.md"
+                "file": "Programmation/OOP/TD/Etat mémoire L10.canvas"
               }
             }
           },
@@ -168,10 +171,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a608272019488285",
+  "active": "7c83f0d0005e0fb9",
   "lastOpenFiles": [
+    "Programmation/OOP/TD/TD 1.md",
+    "Programmation/OOP/TD/Etat mémoire L10.canvas",
+    "Programmation/OOP/TD/TD.md",
+    "Programmation/OOP/TD",
     "Programmation/OOP/OOP.md",
-    "Programmation/OOP/TD 1.md",
     "Programmation/Programmation.md",
     "Système/Bas Niveau/Amphi 2.md",
     "Système/Bas Niveau/main02.pdf",
@@ -189,7 +195,6 @@
     "Maths/Graph/Graph.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Maths/Outils_Fondamentaux/PolyCours_etu.pdf",
-    "Maths/Outils_Fondamentaux/PolyEntier_etu.pdf",
     "Gestion de projet/Gestion projet informatique/TD 1.md",
     "Base de Données/Base de Données.md",
     "Base de Données/Exploitation/TD 2.md",
@@ -205,8 +210,6 @@
     "Système/Bas Niveau/td/1-pile_tas/td1.md",
     "Système/Bas Niveau/r204-partie1-foncbasniveau/r204_readme.md",
     "Communication/Communication.md",
-    "Communication/test.md",
-    "Communication/communication.md",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
@@ -224,7 +227,6 @@
     "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
     "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
     "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
-    "Gestion de projet/Entreprise/fonctionement-économique.canvas",
-    "Economie/Shémas/schéma prestataire et client.canvas"
+    "Gestion de projet/Entreprise/fonctionement-économique.canvas"
   ]
 }
