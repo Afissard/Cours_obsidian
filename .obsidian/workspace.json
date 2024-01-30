@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "82b799b049328c4b",
+        "id": "25a2241da2917771",
         "type": "tabs",
         "children": [
           {
-            "id": "193e3f2db35cf050",
+            "id": "be34c53f57af390c",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
-                "viewState": {
-                  "x": 425.81798177490396,
-                  "y": 370.77735176002636,
-                  "zoom": -1.4763271312912736
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a9120d8d016bd1cd",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
+                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6cbb4efd63665286",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.2659946823120117
-                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 213.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
+                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
+                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas"
+                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md"
               }
             }
           },
@@ -203,14 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cbb4efd63665286",
+  "active": "be34c53f57af390c",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
+    "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
     "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
     "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/UML",
     "Gestion de projet/Gestion de projet.md",
