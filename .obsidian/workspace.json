@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a423527656cb6dec",
+        "id": "dc66529235f13e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5a56466f9fd1ed",
+            "id": "7194bf5675c8189c",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf"
-              },
-              "pinned": true
+                "file": "Communication/Milieux professionnels/Milieux professionnels.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
+                "file": "Communication/Milieux professionnels/Milieux professionnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
+                "file": "Communication/Milieux professionnels/Milieux professionnels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf"
+                "file": "Communication/Milieux professionnels/Milieux professionnels.md"
               }
             }
           },
@@ -168,13 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a5a56466f9fd1ed",
+  "active": "7194bf5675c8189c",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
     "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
     "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Communication.md",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
