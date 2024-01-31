@@ -95,9 +95,9 @@ Tester les différentes commandes d'exécution pas-à-pas.
 **Réponse**
 ```
 n 6
-si 6 // correspond à la dernière instruction machine
+ni 36 // correspond à la dernière instruction machine
 ```
-La ligne 09 du code source correspond à 6 instructions machine. 
+La ligne 09 du code source correspond à 36 instructions machine. 
 
 ---
 
