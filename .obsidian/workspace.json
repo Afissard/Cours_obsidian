@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "25a2241da2917771",
+        "id": "776621ef04030a59",
         "type": "tabs",
         "children": [
           {
-            "id": "be34c53f57af390c",
+            "id": "b631f46657462fa8",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/Milieux professionnels/Site web portfolio.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9a84b67d29af8470",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Milieux professionnels/Site web portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Milieux professionnels/Site web portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Communication/Milieux professionnels/Site web portfolio.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,15 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be34c53f57af390c",
+  "active": "b631f46657462fa8",
   "lastOpenFiles": [
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
+    "Communication/Communication.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
     "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Communication.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/UML/UML.md",
