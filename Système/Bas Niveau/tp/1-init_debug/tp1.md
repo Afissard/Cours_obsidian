@@ -132,9 +132,10 @@ La personne intéressée pourra cependant en apprendre davantage en utilisant l'
 ---
 
 **Exercice n°2**
-
 Tester les différentes façons de positionner des points d'arrêt.
 Combien de fois le programme passe-t-il par la ligne 14 ?
+**Réponse**
+Le programme passe 11 fois.
 
 ---
 
