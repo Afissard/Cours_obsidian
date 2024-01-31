@@ -90,9 +90,14 @@ Pour avancer l'exécution jusqu'à la fin de la fonction courante, on utilise la
 ---
 
 **Exercice n°1**
-
 Tester les différentes commandes d'exécution pas-à-pas.
 À combien d'instructions du code machine correspond la ligne 9 du programme source ? 
+**Réponse**
+```
+n 6
+si 6 // correspond à la dernière instruction machine
+```
+La ligne 09 du code source correspond à 6 instructions machine. 
 
 ---
 
