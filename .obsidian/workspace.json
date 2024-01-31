@@ -10,13 +10,27 @@
           {
             "id": "be34c53f57af390c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+                "file": "Communication/Milieux professionnels/Site web portfolio.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a84b67d29af8470",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+                "file": "Communication/Milieux professionnels/Site web portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+                "file": "Communication/Milieux professionnels/Site web portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md"
+                "file": "Communication/Milieux professionnels/Site web portfolio.md"
               }
             }
           },
@@ -170,21 +184,22 @@
   },
   "active": "be34c53f57af390c",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
+    "Communication/Milieux professionnels/Site web portfolio.md",
+    "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Communication.md",
+    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
     "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
     "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/UML",
-    "Gestion de projet/Gestion de projet.md",
-    "Communication/Communication.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
-    "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
     "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
     "Programmation/OOP/TD/TD 1.md",
@@ -207,7 +222,6 @@
     "conflict-files-obsidian-git.md",
     "Base de Données/Exploitation/TD 1.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
-    "Avenir Etudes/PPP/Séance 1-2, métiers de l'informatique.md",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
