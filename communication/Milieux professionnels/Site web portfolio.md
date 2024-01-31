@@ -14,3 +14,6 @@ On se présente comment ?
 Chacun fait sa section dédié de portefolio (ça reste personnel mais on peut demander de l'aide bien sur)
 Désigné qq1 pour organisé la page en général -> liens vers les tab
 Choix stylistique en groupe, attention à conservé une certaine consistance tout au long du site, même si chacun des portefolio seront différent
+# Exemple de portefolio : 
+- développeur web : https://bruno-simon.com/
+- liste d'exemple : https://www.hostinger.fr/tutoriels/portfolio-developpeur-web
