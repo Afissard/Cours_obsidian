@@ -11,8 +11,12 @@
             "id": "b631f46657462fa8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md"
+              }
             }
           },
           {
@@ -162,6 +170,10 @@
   },
   "active": "b631f46657462fa8",
   "lastOpenFiles": [
+    "Système/Bas Niveau/tp/1-init_debug/src/findmin/findmin.exe",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Système.md",
     "Communication/Communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
@@ -187,10 +199,8 @@
     "Programmation/Programmation.md",
     "Système/Bas Niveau/Amphi 2.md",
     "Système/Bas Niveau/main02.pdf",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/main.pdf",
     "Système/Bas Niveau/Amphi 1.md",
-    "Système/Système.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
@@ -199,7 +209,6 @@
     "Base de Données/Exploitation/TD 2.md",
     "conflict-files-obsidian-git.md",
     "Base de Données/Exploitation/TD 1.md",
-    "Programmation/Initiation-dev/Initiation-dev.md",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
