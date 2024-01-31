@@ -156,11 +156,14 @@ En ce qui concerne cette ressource, deux opérateurs seront particulièrement in
 ---
 
 **Exercice n°3**
-
   - Tester l'affichage de différentes expressions, dans différents formats.
   - Se rendre ligne 7, puis afficher l'adresse et le contenu de la variable `t`.
   - Se rendre ensuite ligne 15, puis afficher l'adresse et le contenu de la variable `t` (il s'agit ici du paramètre passé à la fonction `minimumPosition).
   - Dessiner l'implantation mémoire de ces deux variables lorsque l'exécution est à la ligne 15 pour la première fois.
+**Réponse (problème dû à WSL)**
+1. contenu de la variable t à la ligne 7 : `$1 = {array = 0x000122030, len = <optimized out>, cap = <optimized out>}`
+2. contenu de la variable t à la ligne 15 : `$2 = <optimized out>`
+
 ---
 
 La commande `print` permet d'afficher ponctuellement la valeur d'une variable.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "776621ef04030a59",
+        "id": "8ce0c8b977e2d390",
         "type": "tabs",
         "children": [
           {
-            "id": "b631f46657462fa8",
+            "id": "61b8e74003e9e4a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Bas Niveau/tp/1-init_debug/tp1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,12 +160,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b631f46657462fa8",
+  "active": "61b8e74003e9e4a1",
   "lastOpenFiles": [
+    "Système/Système.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Système/Bas Niveau/tp/1-init_debug/src/findmin/findmin.exe",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Système.md",
     "Communication/Communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
@@ -200,7 +192,6 @@
     "Programmation/Programmation.md",
     "Système/Bas Niveau/Amphi 2.md",
     "Système/Bas Niveau/main02.pdf",
-    "Système/Bas Niveau/main.pdf",
     "Système/Bas Niveau/Amphi 1.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
