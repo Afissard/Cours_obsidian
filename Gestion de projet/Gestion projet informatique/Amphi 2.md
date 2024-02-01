@@ -33,3 +33,15 @@ CMMI : Capabilité Maturity Model Integration :
 - Defined
 - Quantitatively managed
 - Optimized
+## Différent type de contrat entre MOA (maitrise d'oeuvre client) et MOE (maitrise d'oeuvre fournisseur) :
+Au forfait :
+- typiquement pour de grand projet
+- le client délègue le travail
+- le contrat entre partie est important
+- le maitre d'oeuvre assume les risque
+En Régie
+- Typiquement pour faire des études
+- C'est le client qui gère les moyens
+- le maitre d'ouvrage assume les risques
+TMA
+- ?
