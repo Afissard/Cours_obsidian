@@ -11,8 +11,12 @@
             "id": "61b8e74003e9e4a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md"
+              }
             }
           },
           {
@@ -162,6 +170,10 @@
   },
   "active": "61b8e74003e9e4a1",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
+    "Gestion de projet/Gestion projet informatique/Amphi 2.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion de projet.md",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/1-init_debug/tp1.md",
@@ -174,14 +186,11 @@
     "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
     "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
-    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
     "Gestion de projet/Gestion projet informatique/UML",
     "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
@@ -199,8 +208,6 @@
     "Gestion de projet/Gestion projet informatique/TD 1.md",
     "Base de Données/Base de Données.md",
     "Base de Données/Exploitation/TD 2.md",
-    "conflict-files-obsidian-git.md",
-    "Base de Données/Exploitation/TD 1.md",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",

@@ -6,7 +6,7 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[Amphi 1]]
-- [[Amphi 2]]
+- [[Système/Bas Niveau/Amphi 2]]
 - **cours**
 	- **cours1-organisation_machine_execution**
 		- **figures**
