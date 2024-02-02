@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce0c8b977e2d390",
+        "id": "2dbb5a1a326d6a84",
         "type": "tabs",
         "children": [
           {
-            "id": "61b8e74003e9e4a1",
+            "id": "a5f9aba8ff31a89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md",
+                "file": "Gestion de projet/Gestion de projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md",
+                "file": "Gestion de projet/Gestion de projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md",
+                "file": "Gestion de projet/Gestion de projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Amphi 2.md"
+                "file": "Gestion de projet/Gestion de projet.md"
               }
             }
           },
@@ -168,11 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61b8e74003e9e4a1",
+  "active": "a5f9aba8ff31a89e",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion projet informatique/Amphi 2.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/Amphi 2.md",
+    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
