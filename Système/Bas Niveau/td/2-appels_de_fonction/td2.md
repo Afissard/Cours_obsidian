@@ -169,7 +169,7 @@ sub    $0x18,%rsp      ; rsp - 0x18
 mov    %rbp,0x10(%rsp) ; cpy rbp -> rsp + 0x10
 lea    0x10(%rsp),%rbp ; cpy &rbp -> &(rsp + 0x10)
 mov    %rax,0x20(%rsp) ; cpy rax -> rsp + 0x20
-mov    %rbx,0x28(%rsp) ; cpy rbx -> rsp + 0x28
+mov    %rbx,0x28(%rsp) ; cpy rbx -> rsp + 0x28 ; sauvegarde des regs
 movq   $0x0,0x8(%rsp)  ; cpy64bit 0x0 -> rsp + 0x8
 movq   $0x0,(%rsp)     ; cpy64bit 0x0 -> rsp
 mov    0x20(%rsp),%rcx ; cpy rsp + 0x20 -> rcx
@@ -177,16 +177,20 @@ add    0x28(%rsp),%rcx ; rcx + (rsp + 0x28)
 mov    %rcx,0x8(%rsp)  ; cpy rcx -> rsp + 0x8
 mov    0x20(%rsp),%rbx ; cpy rsp + 0x20 -> rbx
 sub    0x28(%rsp),%rbx ; rbx - rsp + 0x28
-mov    %rbx,(%rsp)     ; cpy rbx -> (rsp) ; ?
+mov    %rbx,(%rsp)     ; cpy rbx -> (rsp) ; ? ; restoration des regs
 mov    0x8(%rsp),%rax  ; cpy rsp + 0x8 -> rax
 mov    0x10(%rsp),%rbp ; cpy rsp + 0x10 -> rbp
 add    $0x18,%rsp      ; rsp + 0x18
-ret                    ; END
+ret                    ; retourne rax (ret n°1) et rbx (ret n°2)
+; NB :
+; lea : comme un mov mais l'adresse est manipulé et non la valeur
 ```
 
-3. Quelles expressions correspondent aux adresses des variables `a`, `b`, `add`, et `sub` ? Que peut-on conclure concernant l'allocation en mémoire de ces variables.
+2. Quelles expressions correspondent aux adresses des variables `a`, `b`, `add`, et `sub` ? Que peut-on conclure concernant l'allocation en mémoire de ces variables.
+	- les paramètres ont été passé par la pile 
+	- les valeurs de retour sont aussi passé par la pile
 
-4. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
+3. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Comme à la question précédente, exécuter à la main et annoter le code. 
 Que peut-on dire concernant l'allication en mémoire des variables `a`, `b`, `add`, et `sub` ?
 
@@ -199,6 +203,14 @@ mov    %rcx,%rax
 ret
 ```
 
+```nasm
+lea    (%rax,%rbx,1),%rcx ; lea est détourné pour : rbx*1+rbx -> rcx
+sub    %rbx,%rax          ; rbx - rax
+mov    %rax,%rbx          ; cpy rax -> rbx
+mov    %rcx,%rax          ; cpy rcx -> rax
+ret                       ; 
+```
+les inputs et les outputs passe par la pile encore une fois
 # Exercice n°3
 
 Soit la fonction `CallAddSub` :
@@ -214,9 +226,8 @@ Après désassemblage à l'aide de l'outil `objdump`,
 le code, construit en désactivant les optimisations et l'inclusion en ligne des fonctions, est le suivant (les adresses des instructions ont été ajoutées pour permettre d'identifier les cibles des sauts) :
 
 ```nasm
-4552e0		cmp    0x10(%r14),%rsp
-4552e4		jbe    455347 <main.CallAddSub+0x67>
-4552e6		sub    $0x38,%rsp
+4552e0		cmp    0x10(%r14),%rsp ; (r14 + 0x10) = (r14 + 0x10) - rsp
+4552e4		jbe    455347 <main.CallAddSub+0x67> ; va à cette endroit si nécessité d'étendre le stack
 4552ea		mov    %rbp,0x30(%rsp)
 4552ef		lea    0x30(%rsp),%rbp
 4552f4		movq   $0x0,0x18(%rsp)
@@ -235,8 +246,8 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 45533d		mov    0x30(%rsp),%rbp
 455342		add    $0x38,%rsp
 455346		ret    
-455347		call   451f60 <runtime.morestack_noctxt.abi0>
-45534c		jmp    4552e0 <main.CallAddSub>
+455347		call   451f60 <runtime.morestack_noctxt.abi0> ; étend le stack
+45534c		jmp    4552e0 <main.CallAddSub> ; retourne au code de la function
 ```
 1. À quoi correspond le paquet `runtime` du langage Go ? 
 

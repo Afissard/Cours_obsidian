@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b78168212689bbbd",
+        "id": "d8799a73ab9d0911",
         "type": "tabs",
         "children": [
           {
-            "id": "03c7f80d8691223d",
+            "id": "17f27b70589b718e",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,12 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03c7f80d8691223d",
+  "active": "17f27b70589b718e",
   "lastOpenFiles": [
-    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
-    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Système.md",
+    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
+    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
+    "Système/Bas Niveau/Bas Niveau.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
     "Maths/Graph/tp/tp.md",
