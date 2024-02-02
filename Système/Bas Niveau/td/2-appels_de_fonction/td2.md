@@ -95,10 +95,10 @@ Après désassemblage à l'aide de l'outil `objdump`,
 le code, construit en désactivant les optimisations et l'inclusion en ligne des fonctions, est le suivant :
 
 ```nasm
-sub    $0x10,%rsp ; soustration de la constante 0x10 (hexa) au ptr de pile 
-mov    %rbp,0x8(%rsp) ; copie le ptr de cadre vers rsp + 0x8 bits
-lea    0x8(%rsp),%rbp ;charge rsp + 0x8 bits vers rbp
-movq   $0x0,(%rsp) ; 
+sub    $0x10,%rsp
+mov    %rbp,0x8(%rsp)
+lea    0x8(%rsp),%rbp
+movq   $0x0,(%rsp)
 movq   $0x2a,(%rsp)
 mov    $0x2a,%eax
 mov    0x8(%rsp),%rbp
@@ -108,6 +108,19 @@ ret
 
 1. Exécuter ce code "à la main" et indiquer ce que fait chaque instruction.
 Que peut-on dire sur ce code ?
+
+```nasm
+sub    $0x10,%rsp     ; rsp - 0x10 ; ouverture cadre
+mov    %rbp,0x8(%rsp) ; cpy rbp -> rsp + 0x8 ; ouverture cadre
+lea    0x8(%rsp),%rbp ; ?
+movq   $0x0,(%rsp)    ; cpy64bit 0x0 -> rsp ; init à 0
+movq   $0x2a,(%rsp)   ; cpy64bit 0x0 -> rsp ; met à 42
+mov    $0x2a,%eax     ; cpy 0x2a -> eax ; met 42 dans le registre eax
+mov    0x8(%rsp),%rbp ; cpy rsp + 0x8 -> rbp ; fermeture du cadre
+add    $0x10,%rsp     ; rsp + 0x10 ; fermeture du cadre
+ret                   ; fin de programme
+; le code n'est pas très optimisé, certaine valeurs ne sont pas utilisé, exemple ligne 5-6, rsp est initalisé à 0 puis à 42. 
+```
 
 2. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Que peut-on dire sur ce code ? Sur le rôle du registre `eax` ?
@@ -151,10 +164,29 @@ ret
 ```
 
 1. Exécuter ce code "à la main" et indiquer ce que fait chaque instruction.
+```nasm
+sub    $0x18,%rsp      ; rsp - 0x18
+mov    %rbp,0x10(%rsp) ; cpy rbp -> rsp + 0x10
+lea    0x10(%rsp),%rbp ; cpy &rbp -> &(rsp + 0x10)
+mov    %rax,0x20(%rsp) ; cpy rax -> rsp + 0x20
+mov    %rbx,0x28(%rsp) ; cpy rbx -> rsp + 0x28
+movq   $0x0,0x8(%rsp)  ; cpy64bit 0x0 -> rsp + 0x8
+movq   $0x0,(%rsp)     ; cpy64bit 0x0 -> rsp
+mov    0x20(%rsp),%rcx ; cpy rsp + 0x20 -> rcx
+add    0x28(%rsp),%rcx ; rcx + (rsp + 0x28)
+mov    %rcx,0x8(%rsp)  ; cpy rcx -> rsp + 0x8
+mov    0x20(%rsp),%rbx ; cpy rsp + 0x20 -> rbx
+sub    0x28(%rsp),%rbx ; rbx - rsp + 0x28
+mov    %rbx,(%rsp)     ; cpy rbx -> (rsp) ; ?
+mov    0x8(%rsp),%rax  ; cpy rsp + 0x8 -> rax
+mov    0x10(%rsp),%rbp ; cpy rsp + 0x10 -> rbp
+add    $0x18,%rsp      ; rsp + 0x18
+ret                    ; END
+```
 
-2. Quelles expressions correspondent aux adresses des variables `a`, `b`, `add`, et `sub` ? Que peut-on conclure concernant l'allocation en mémoire de ces variables.
+3. Quelles expressions correspondent aux adresses des variables `a`, `b`, `add`, et `sub` ? Que peut-on conclure concernant l'allocation en mémoire de ces variables.
 
-3. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
+4. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Comme à la question précédente, exécuter à la main et annoter le code. 
 Que peut-on dire concernant l'allication en mémoire des variables `a`, `b`, `add`, et `sub` ?
 

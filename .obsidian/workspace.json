@@ -10,13 +10,15 @@
           {
             "id": "03c7f80d8691223d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -170,8 +172,9 @@
   },
   "active": "03c7f80d8691223d",
   "lastOpenFiles": [
-    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
+    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Système.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
@@ -184,7 +187,6 @@
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Amphi 2.md",
     "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Système/Bas Niveau/tp/1-init_debug/src/findmin/findmin.exe",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
     "Communication/Communication.md",
