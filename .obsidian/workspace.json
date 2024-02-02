@@ -11,11 +11,9 @@
             "id": "2d7c0761be2bd2b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Maths/Graph/tp/tp.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths/Graph/tp/tp3-4.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Graph/tp/tp.md",
+                "file": "Maths/Graph/tp/tp3-4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Graph/tp/tp.md",
+                "file": "Maths/Graph/tp/tp3-4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Graph/tp/tp.md"
+                "file": "Maths/Graph/tp/tp3-4.pdf"
               }
             }
           },
@@ -170,11 +168,12 @@
   },
   "active": "2d7c0761be2bd2b2",
   "lastOpenFiles": [
+    "Maths/Graph/tp/tp0.pdf",
+    "Maths/Graph/tp/tp.md",
     "Maths/Graph/Graph.md",
     "Maths/Maths.md",
     "Base de Données/Exploitation/exploitationBD_td2.sql",
     "Maths/Graph/td/td.md",
-    "Maths/Graph/tp/tp.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Amphi 2.md",
