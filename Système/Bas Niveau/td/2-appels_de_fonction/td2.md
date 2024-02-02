@@ -94,10 +94,10 @@ func RetVal() int {
 Après désassemblage à l'aide de l'outil `objdump`,
 le code, construit en désactivant les optimisations et l'inclusion en ligne des fonctions, est le suivant :
 
-```nasm
-sub    $0x10,%rsp
-mov    %rbp,0x8(%rsp)
-lea    0x8(%rsp),%rbp
+```asm
+sub    $0x10,%rsp ; soustration de la constante 0x10 (hexa) au ptr de pile 
+mov    %rbp,0x8(%rsp) ; copie le ptr de cadre vers rsp + 0x8 bits
+lea    0x8(%rsp),%rbp ;
 movq   $0x0,(%rsp)
 movq   $0x2a,(%rsp)
 mov    $0x2a,%eax
