@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87ff1072aec89e00",
+        "id": "0100dfdcd912a59c",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5d35cf337ef07a",
+            "id": "2d7c0761be2bd2b2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Graph/td/td.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Graph/td/td.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Graph/td/td.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,12 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "2d7c0761be2bd2b2",
   "lastOpenFiles": [
-    "Maths/Graph/tp/tp.md",
-    "Maths/Graph/td/td.md",
-    "Maths/Graph/Graph.md",
     "Maths/Maths.md",
+    "Maths/Graph/td/td.md",
+    "Maths/Graph/tp/tp.md",
+    "Maths/Graph/Graph.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Amphi 2.md",
