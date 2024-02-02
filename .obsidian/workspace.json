@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2dbb5a1a326d6a84",
+        "id": "87ff1072aec89e00",
         "type": "tabs",
         "children": [
           {
-            "id": "a5f9aba8ff31a89e",
+            "id": "fd5d35cf337ef07a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
+                "file": "Maths/Graph/td/td.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
+                "file": "Maths/Graph/td/td.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md"
+                "file": "Maths/Graph/td/td.md"
               }
             }
           },
@@ -168,12 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5f9aba8ff31a89e",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Maths/Graph/tp/tp.md",
+    "Maths/Graph/td/td.md",
+    "Maths/Graph/Graph.md",
+    "Maths/Maths.md",
+    "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Amphi 2.md",
     "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion de projet.md",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/1-init_debug/tp1.md",
@@ -202,12 +202,9 @@
     "Système/Bas Niveau/Amphi 2.md",
     "Système/Bas Niveau/main02.pdf",
     "Système/Bas Niveau/Amphi 1.md",
-    "Maths/Maths.md",
-    "Maths/Graph/Graph.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Gestion de projet/Gestion projet informatique/TD 1.md",
     "Base de Données/Base de Données.md",
-    "Base de Données/Exploitation/TD 2.md",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
