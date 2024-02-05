@@ -6,7 +6,7 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[Amphi 1]]
-- [[Système/Bas Niveau/Amphi 2]]
+- [[Amphi 2]]
 - **cours**
 	- **cours1-organisation_machine_execution**
 		- **figures**
@@ -49,7 +49,7 @@ type: folder_brief_live
 				- [[go.mod]]
 				- [[main.go]]
 - [[main_01.pdf]]
-- [[main02.pdf]]
+- [[main_02.pdf]]
 - **td**
 	- **1-pile_tas**
 		- **src**

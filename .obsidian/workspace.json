@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b208e63f3c7afade",
+            "id": "d456df489cb35be8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Système/Bas Niveau/main_02.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Système/Bas Niveau/main_02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Système/Bas Niveau/main_02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Système/Bas Niveau/main_02.pdf"
+              }
             }
           },
           {
@@ -160,12 +168,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b208e63f3c7afade",
+  "active": "d456df489cb35be8",
   "lastOpenFiles": [
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
+    "Système/Bas Niveau/main_02.pdf",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/main02.pdf",
+    "Programmation/Programmation.md",
+    "Programmation/OOP/03-classesuml.pdf",
+    "Programmation/OOP/02-objets-references.pdf",
+    "Programmation/OOP/OOP.md",
+    "Système/Bas Niveau/Amphi 2.md",
     "Système/Système.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/tp/1-init_debug/tp1.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
     "Maths/Graph/tp/tp.md",
@@ -183,24 +199,16 @@
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
-    "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
     "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
     "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
-    "Gestion de projet/Gestion projet informatique/UML",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
     "Programmation/OOP/TD/TD 1.md",
     "Programmation/OOP/TD/TD.md",
-    "Programmation/OOP/OOP.md",
-    "Programmation/Programmation.md",
-    "Système/Bas Niveau/Amphi 2.md",
     "Système/Bas Niveau/Amphi 1.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
-    "Gestion de projet/Gestion projet informatique/TD 1.md",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
