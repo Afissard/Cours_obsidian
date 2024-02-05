@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "904c3b7691906724",
+        "id": "4e615799bf4345d6",
         "type": "tabs",
         "children": [
           {
-            "id": "d54a3a5345309b30",
+            "id": "c6274be728e48fdf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/Bas Niveau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/Bas Niveau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Bas Niveau/Bas Niveau.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,16 +160,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "c6274be728e48fdf",
   "lastOpenFiles": [
-    "Système/Bas Niveau/main_02.pdf",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Bas Niveau/main02.pdf",
     "Programmation/Programmation.md",
+    "Programmation/OOP/OOP.md",
     "Programmation/OOP/03-classesuml.pdf",
     "Programmation/OOP/02-objets-references.pdf",
-    "Programmation/OOP/OOP.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/main_02.pdf",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
+    "Système/Bas Niveau/main02.pdf",
     "Système/Bas Niveau/Amphi 2.md",
     "Système/Système.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
@@ -194,7 +190,6 @@
     "Communication/Communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
     "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
