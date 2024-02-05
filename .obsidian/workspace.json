@@ -11,8 +11,10 @@
             "id": "c6274be728e48fdf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Programmation/OOP/02-objets-references.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programmation/OOP/02-objets-references.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programmation/OOP/02-objets-references.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programmation/OOP/02-objets-references.pdf"
+              }
             }
           },
           {
@@ -162,8 +168,8 @@
   },
   "active": "c6274be728e48fdf",
   "lastOpenFiles": [
-    "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
+    "Programmation/Programmation.md",
     "Programmation/OOP/03-classesuml.pdf",
     "Programmation/OOP/02-objets-references.pdf",
     "Système/Bas Niveau/Bas Niveau.md",
