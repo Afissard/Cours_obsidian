@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9cca9bff346c9a46",
+        "id": "904c3b7691906724",
         "type": "tabs",
         "children": [
           {
-            "id": "d456df489cb35be8",
+            "id": "d54a3a5345309b30",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Système/Bas Niveau/main_02.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/main_02.pdf",
+                "file": "Système/Bas Niveau/Bas Niveau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/main_02.pdf",
+                "file": "Système/Bas Niveau/Bas Niveau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Bas Niveau/main_02.pdf"
+                "file": "Système/Bas Niveau/Bas Niveau.md"
               }
             }
           },
@@ -168,10 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d456df489cb35be8",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
     "Système/Bas Niveau/main_02.pdf",
+    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/main02.pdf",
     "Programmation/Programmation.md",
