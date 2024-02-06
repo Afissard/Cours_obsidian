@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4333d06058e4f6ec",
+        "id": "f032376a8e620c43",
         "type": "tabs",
         "children": [
           {
-            "id": "a6d0f14b5dd0a616",
+            "id": "f5e9f796deb9fbef",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6d0f14b5dd0a616",
+  "active": "f5e9f796deb9fbef",
   "lastOpenFiles": [
+    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Système.md",
     "Programmation/OOP/OOP.md",
@@ -183,7 +173,6 @@
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
     "Système/Bas Niveau/main02.pdf",
     "Système/Bas Niveau/Amphi 2.md",
-    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",

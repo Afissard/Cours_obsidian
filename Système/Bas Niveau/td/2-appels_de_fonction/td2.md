@@ -261,7 +261,6 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 3. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Comme à la question précédente, exécuter à la main et annoter le code. 
 Malgré l'activation des optimisations, cette fonction alloue un cadre de pile. Expliquer pourquoi. 
-La fonction AddSub à besoin d'un cadre pour opéré, CallAddSub ne fait qu'appeller la fonction, le compileur lui à redonné le code machine de AddSub. 
 
 ```nasm
 455260 	cmp    0x10(%r14),%rsp
@@ -271,7 +270,7 @@ La fonction AddSub à besoin d'un cadre pour opéré, CallAddSub ne fait qu'appe
 45526f 	lea    0x10(%rsp),%rbp
 455274 	mov    $0x4,%eax
 455279 	mov    $0x5,%ebx
-45527e 	xchg   %ax,%ax
+45527e 	xchg   %ax,%ax ; ne sert à rien (usage equivalent à nop / nopl)
 455280 	call   455240 <main.AddSub>
 455285 	mov    0x10(%rsp),%rbp
 45528a 	add    $0x18,%rsp
@@ -279,6 +278,7 @@ La fonction AddSub à besoin d'un cadre pour opéré, CallAddSub ne fait qu'appe
 45528f 	call   451f60 <runtime.morestack_noctxt.abi0>
 455294 	jmp    455260 <main.CallAddSub>
 ```
+La fonction AddSub à besoin d'un cadre pour opéré, CallAddSub le créer, même si AddSub à été optimisé et n'en nécessite pas.
 
 # Exercice n°4
 
@@ -295,9 +295,11 @@ Après désassemblage à l'aide de l'outil `objdump`,
 le code, construit en désactivant les optimisations et l'inclusion en ligne des fonctions, est le suivant :
 
 ```nasm
+; création du cadre
 sub    $0x10,%rsp
 mov    %rbp,0x8(%rsp)
 lea    0x8(%rsp),%rbp
+; passage des arguments (mais il manque j, k, l)
 mov    %rax,0x30(%rsp)
 mov    %rbx,0x38(%rsp)
 mov    %rcx,0x40(%rsp)
