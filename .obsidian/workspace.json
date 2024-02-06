@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1cdb9e062e20e42c",
+        "id": "4333d06058e4f6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "234482b4359fe5a9",
+            "id": "a6d0f14b5dd0a616",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -69,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/OOP/OOP.md"
+                "file": "Système/Bas Niveau/td/2-appels_de_fonction/td2.md"
               }
             }
           },
@@ -168,18 +171,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "a6d0f14b5dd0a616",
   "lastOpenFiles": [
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Système.md",
+    "Programmation/OOP/OOP.md",
     "Programmation/OOP/03-classesuml.pdf",
     "Programmation/OOP/02-objets-references.pdf",
-    "Programmation/OOP/OOP.md",
     "Programmation/Programmation.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/main_02.pdf",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
     "Système/Bas Niveau/main02.pdf",
     "Système/Bas Niveau/Amphi 2.md",
-    "Système/Système.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Maths/Maths.md",
