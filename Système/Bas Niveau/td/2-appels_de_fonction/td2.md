@@ -227,7 +227,8 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 
 ```nasm
 4552e0		cmp    0x10(%r14),%rsp ; (r14 + 0x10) = (r14 + 0x10) - rsp
-4552e4		jbe    455347 <main.CallAddSub+0x67> ; va à cette endroit si nécessité d'étendre le stack
+; va à cette endroit si nécessité d'étendre le stack
+4552e4		jbe    455347 <main.CallAddSub+0x67> 
 4552ea		mov    %rbp,0x30(%rsp) ; cpy rbp-> rsp + 0x30
 4552ef		lea    0x30(%rsp),%rbp ; cpy &(rsp + 0x30) -> rbp
 4552f4		movq   $0x0,0x18(%rsp) ; cpy64bit 0x0 -> rsp + 0x0
@@ -235,7 +236,8 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 ; passages des variables à la fonction AddSub
 455306		mov    $0x4,%eax       ; cpy 0x4 -> eax
 45530b		mov    $0x5,%ebx       ; cpy 0x5 -> ebx
-455310		call   455280 <main.AddSub> ; appel de la fonction AddSub
+; appel de la fonction AddSub
+455310		call   455280 <main.AddSub> 
 455315		mov    %rax,0x28(%rsp) ; cpy rax -> rsp + 0x28
 45531a		mov    %rbx,0x20(%rsp) ; cpy rbx -> rsp + 0x20
 45531f		mov    0x28(%rsp),%rcx ; cpy rsp + 0x28 -> rcx
@@ -247,8 +249,10 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 45533d		mov    0x30(%rsp),%rbp ; cpy rsp + 0x30 -> rbp
 455342		add    $0x38,%rsp      ; rsp += 0x38
 455346		ret    
-455347		call   451f60 <runtime.morestack_noctxt.abi0> ; étend le stack
-45534c		jmp    4552e0 <main.CallAddSub> ; retourne au code de la function
+; étend le stack
+455347		call   451f60 <runtime.morestack_noctxt.abi0> 
+; retourne au code de la function
+45534c		jmp    4552e0 <main.CallAddSub> 
 ```
 1. À quoi correspond le paquet `runtime` du langage Go ? 
 
@@ -256,7 +260,8 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 
 3. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Comme à la question précédente, exécuter à la main et annoter le code. 
-Malgré l'activation des optimisations, cette fonction alloue un cadre de pile. Expliquer pourquoi.
+Malgré l'activation des optimisations, cette fonction alloue un cadre de pile. Expliquer pourquoi. 
+La fonction AddSub à besoin d'un cadre pour opéré, CallAddSub ne fait qu'appeller la fonction, le compileur lui à redonné le code machine de AddSub. 
 
 ```nasm
 455260 	cmp    0x10(%r14),%rsp
