@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "449364b02dbeff82",
+        "id": "11fcc69e1133dec8",
         "type": "tabs",
         "children": [
           {
-            "id": "a92fe538b6f7b341",
+            "id": "f54ba53dc7961c77",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM2 - Tache-Typologie 4.0.pdf"
-              }
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/GPO2 - CM2 - Tache-Typologie 4.0.pdf"
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md"
               }
             }
           },
@@ -166,34 +170,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a92fe538b6f7b341",
+  "active": "f54ba53dc7961c77",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion projet informatique/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
-    "Gestion de projet/Gestion projet informatique/UML/UML.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Système/Système.md",
+    "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/tp/tp.md",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2/main.go",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2/go.mod",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3/main.go",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3/go.mod",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3/find_test.go",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1/main.go",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1/go.mod",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
     "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Système.md",
+    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Programmation/OOP/OOP.md",
-    "Programmation/OOP/03-classesuml.pdf",
-    "Programmation/OOP/02-objets-references.pdf",
     "Programmation/Programmation.md",
-    "Système/Bas Niveau/main_02.pdf",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/main.pdf",
-    "Système/Bas Niveau/main02.pdf",
     "Système/Bas Niveau/Amphi 2.md",
     "Système/Bas Niveau/tp/1-init_debug/tp1.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
     "Maths/Graph/tp/tp.md",
-    "Maths/Graph/tp/tp3-4.pdf",
-    "Maths/Graph/tp/tp0.pdf",
-    "Base de Données/Exploitation/exploitationBD_td2.sql",
     "Maths/Graph/td/td.md",
     "Gestion de projet/Gestion projet informatique/Amphi 2.md",
-    "Système/Bas Niveau/tp/1-init_debug/src/findmin/findmin.exe",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
     "Communication/Communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
@@ -203,10 +211,6 @@
     "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
     "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
-    "Programmation/OOP/TD/TD 1.md",
-    "Programmation/OOP/TD/TD.md",
-    "Système/Bas Niveau/Amphi 1.md",
-    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",

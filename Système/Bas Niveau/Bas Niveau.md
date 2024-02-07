@@ -50,49 +50,8 @@ type: folder_brief_live
 				- [[main.go]]
 - [[main_01.pdf]]
 - [[main_02.pdf]]
-- **td**
-	- **1-pile_tas**
-		- **src**
-			- **pile**
-				- [[pile.go]]
-			- **segment_donnees**
-				- [[segment_donnees.exe]]
-				- [[segment_donnees.go]]
-			- **tas**
-				- [[go.mod]]
-				- [[tas_test.go]]
-				- [[tas.exe]]
-				- [[tas.go]]
-		- [[td1]]
-	- **2-appels_de_fonction**
-		- **src**
-			- [[appelfonctions-noopt-noinline.dump]]
-			- [[appelfonctions-opt-noinline.dump]]
-			- [[funcs.go]]
-			- [[go.mod]]
-		- [[td2]]
-- **tp**
-	- **1-init_debug**
-		- **images**
-			- [[gdb-1.png]]
-		- **src**
-			- **findmin**
-				- [[findmin.exe]]
-				- [[go.mod]]
-				- [[main.go]]
-		- [[tp1]]
-	- **2-slices_et_tableaux**
-		- **src**
-			- **slicesandarrays1**
-				- [[go.mod]]
-				- [[main.go]]
-			- **slicesandarrays2**
-				- [[go.mod]]
-				- [[main.go]]
-			- **strings**
-				- [[go.mod]]
-				- [[main.go]]
-		- [[tp2]]
+- **[[td]]**
+- **[[tp]]**
 
 %% End Waypoint %%
 
