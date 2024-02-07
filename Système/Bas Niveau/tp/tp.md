@@ -23,9 +23,11 @@ type: folder_brief_live
 			- [[sliar1.exe]]
 		- **slicesandarrays2**
 			- [[go.mod]]
+			- [[main]]
 			- [[main.go]]
 		- **strings**
 			- [[go.mod]]
+			- [[main]]
 			- [[main.go]]
 	- [[tp2]]
 - **3-reverse**
