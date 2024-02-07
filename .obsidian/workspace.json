@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2b4f66abf65ab0",
+        "id": "3c5f7b65382a7257",
         "type": "tabs",
         "children": [
           {
-            "id": "35879580b43c1f01",
+            "id": "fcb0edba6e53d9b8",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf"
-              },
-              "pinned": true
+                "file": "Communication/Communication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
+                "file": "Communication/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
+                "file": "Communication/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf"
+                "file": "Communication/Communication.md"
               }
             }
           },
@@ -168,12 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "fcb0edba6e53d9b8",
   "lastOpenFiles": [
-    "Communication/Milieux professionnels/Site web portfolio.md",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
-    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
+    "Communication/Milieux professionnels/Site web portfolio.md",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Communication.md",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
