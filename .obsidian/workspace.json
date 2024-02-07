@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11fcc69e1133dec8",
+        "id": "eb2b4f66abf65ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "f54ba53dc7961c77",
+            "id": "35879580b43c1f01",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
-                "mode": "source",
-                "source": false
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf"
               },
               "pinned": true
             }
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md"
+                "file": "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf"
               }
             }
           },
@@ -170,11 +168,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f54ba53dc7961c77",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/Site web portfolio.md",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Communication.md",
+    "Système/Système.md",
+    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/td/td.md",
-    "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+    "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2/main.go",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2/go.mod",
@@ -185,11 +190,8 @@
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1/main.go",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1/go.mod",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
     "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Système.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/UML/UML.md",
@@ -203,13 +205,8 @@
     "Maths/Graph/td/td.md",
     "Gestion de projet/Gestion projet informatique/Amphi 2.md",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
-    "Communication/Communication.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Milieux professionnels/Site web portfolio.md",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
-    "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
