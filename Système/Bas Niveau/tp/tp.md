@@ -18,7 +18,9 @@ type: folder_brief_live
 	- **src**
 		- **slicesandarrays1**
 			- [[go.mod]]
+			- [[main]]
 			- [[main.go]]
+			- [[sliar1.exe]]
 		- **slicesandarrays2**
 			- [[go.mod]]
 			- [[main.go]]
@@ -26,5 +28,12 @@ type: folder_brief_live
 			- [[go.mod]]
 			- [[main.go]]
 	- [[tp2]]
+- **3-reverse**
+	- **src**
+		- **mysterio**
+			- [[go.mod]]
+			- [[main.go]]
+			- [[mysterio]]
+	- [[tp3]]
 
 %% End Waypoint %%

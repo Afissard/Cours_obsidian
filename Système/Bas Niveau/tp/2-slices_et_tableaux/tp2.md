@@ -84,8 +84,13 @@ go build -gcflags "-l -N"
 ## Questions
 
 1. Décrire la représentation en mémoire d'un tableau et celle d'un *slice*. Rappeler les différences, du point de vue du langage de programmation Go, entre un tableau et un slice.
+   Un tableau est une *array* alors qu'un slice est une structure contenant un tableau ainsi que des méthode associé, la taille du tableau est notamment mutable.
 
 2. Donner le type des variables `w`, `x`, `y` et `z`.
+	- w est un tableau
+	- x est un tableau
+	- y est un slice
+	- z est un pointeur vers x
 
 3. Faire afficher la représentation en mémoire de `w` ? Même question pour `x`, `y` et `z`.
 

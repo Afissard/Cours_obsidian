@@ -10,13 +10,15 @@
           {
             "id": "fcb0edba6e53d9b8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Communication.md"
+                "file": "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md"
               }
             }
           },
@@ -170,26 +172,29 @@
   },
   "active": "fcb0edba6e53d9b8",
   "lastOpenFiles": [
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays1/main",
+    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays1/sliar1.exe",
+    "Système/Bas Niveau/tp/3-reverse/tp3.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/tp/3-reverse/src/mysterio/mysterio",
+    "Système/Bas Niveau/tp/3-reverse/src/mysterio/main.go",
+    "Système/Bas Niveau/tp/3-reverse/src/mysterio/go.mod",
+    "Système/Bas Niveau/tp/3-reverse/src/mysterio",
+    "Système/Bas Niveau/tp/3-reverse/src",
+    "Système/Bas Niveau/tp/3-reverse",
+    "Système/Bas Niveau/tp/r204-partie1-foncbasniveau-main-tp-3-reverse/tp/3-reverse/src/mysterio/mysterio",
+    "Système/Bas Niveau/tp/r204-partie1-foncbasniveau-main-tp-3-reverse/tp/3-reverse/src/mysterio/main.go",
+    "Système/Bas Niveau/tp/r204-partie1-foncbasniveau-main-tp-3-reverse/tp/3-reverse/src/mysterio/go.mod",
+    "Système/Bas Niveau/tp/r204-partie1-foncbasniveau-main-tp-3-reverse/tp/3-reverse/README.md",
+    "Système/Bas Niveau/tp/tp.md",
+    "Système/Système.md",
+    "Communication/Communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Milieux professionnels/CC2 Ergonomie WEB 3 en ligne 2022.pdf",
     "Communication/Milieux professionnels/Site web portfolio.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
-    "Communication/Communication.md",
-    "Système/Système.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
-    "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2/main.go",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2/go.mod",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice2",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3/main.go",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3/go.mod",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3/find_test.go",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1/main.go",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice1/go.mod",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/src/exercice3",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
     "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
     "Gestion de projet/Gestion de projet.md",
@@ -203,8 +208,6 @@
     "Maths/Graph/Graph.md",
     "Maths/Graph/tp/tp.md",
     "Maths/Graph/td/td.md",
-    "Gestion de projet/Gestion projet informatique/Amphi 2.md",
-    "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",

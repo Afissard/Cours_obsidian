@@ -35,7 +35,7 @@ type: folder_brief_live
 			- [[MCD.svg]]
 		- [[MCD.zip]]
 		- [[tp2_save]]
-	- [[TP3]]
+	- [[Base de Données/Création BD/TP/TP3]]
 	- **tp4**
 		- [[Exo 2.1]]
 		- [[Exo 2.2]]
