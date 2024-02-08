@@ -5,6 +5,7 @@ Dans le cas d'une alarme, voir schéma : [[Diagramme WBS.canvas|Diagramme WBS]]
 # Question 2
 Indentification des acteurs et responsabilité, dans une RAM (Ressource Affectation Matrice)
 RACI (Responsible, Accountable, Consulted et Informed)
+
 | Taches                                  | Fournisseur | Informatique | Gardiennage | Personnel IUT |
 | --------------------------------------- | ----------- | ------------ | ----------- | ------------- |
 | Montage dispositif                      | R A         | (C) I        | I           | C             |

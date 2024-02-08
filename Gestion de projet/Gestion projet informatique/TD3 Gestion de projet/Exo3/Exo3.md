@@ -1,12 +1,10 @@
-# TD3 Gestion de projet Overview
+# Exo3 Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[Exo1]]**
-- **[[Exo2]]**
-- **[[Exo3]]**
+- [[Exercice 3]]
 
 %% End Waypoint %%

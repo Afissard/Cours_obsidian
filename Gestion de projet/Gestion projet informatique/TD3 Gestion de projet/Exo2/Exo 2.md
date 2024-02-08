@@ -16,6 +16,7 @@ Personnel :
 	- [[WBS Activité.canvas|WBS Activité]]
 	- [[WBS Activité Correction.canvas|WBS Activité Correction]]
 - Selon la chronologie voir RACI dans RAM ci-dessous
+# Question 2
 | Taches            | Gérant | Maitre d'hotel | Serveur | C 1 chef | C 2 | C 3 |
 | ----------------- | ------ | -------------- | ------- | -------- | --- | --- |
 | Disposé vaisselle | A       | A              | R        | -         | -    | -    |
@@ -23,4 +24,7 @@ Personnel :
 | Préparer aliments | A       | -               | -        | A         | R    | I    |
 | Cuire             | A       | I               | C        | A         | C    | R    |
 | Servir            | A       | A               | R        | C         | C    | C    |
-# Question 2
+# Question 3
+Contribution des acteurs : diagramme d'intégration
+# Question 4
+schématisation de l'OBS de l'hotel : fonctionnel coordonné
