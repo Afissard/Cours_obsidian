@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Gestion de projet/Gestion projet informatique/TD1/TD 1]]
+- [[Etat mémoire L10.canvas]]
+- [[td 1]]
 
 %% End Waypoint %%

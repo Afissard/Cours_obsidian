@@ -5,7 +5,9 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Etat mémoire L10.canvas]]
-- [[Programmation/OOP/TD/TD 1]]
+- **[[TD1]]**
+- **TD3**
+	- [[td 3]]
+	- [[TD2]]
 
 %% End Waypoint %%

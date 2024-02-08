@@ -1,10 +1,10 @@
-# TD1 Overview
+# TD2 Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Gestion de projet/Gestion projet informatique/TD1/TD 1]]
+- [[td 3]]
 
 %% End Waypoint %%

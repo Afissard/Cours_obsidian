@@ -10,7 +10,7 @@ type: folder_brief_live
 	- [[COURS-Exploitation-BD-Chapitre1.pdf]]
 	- [[exploitationBD_td2.sql]]
 	- [[Base de Données/Exploitation/TD 1]]
-	- [[TD 2]]
+	- [[Base de Données/Exploitation/TD 2]]
 	- [[TP1-Mobiles.pdf]]
 
 %% End Waypoint %%

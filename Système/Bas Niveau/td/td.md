@@ -24,7 +24,7 @@ type: folder_brief_live
 		- [[appelfonctions-opt-noinline.dump]]
 		- [[funcs.go]]
 		- [[go.mod]]
-	- [[td2]]
+	- [[Système/Bas Niveau/td/2-appels_de_fonction/td2]]
 - **3-boucles_et_conditionnelles**
 	- **src**
 		- **exercice1**
