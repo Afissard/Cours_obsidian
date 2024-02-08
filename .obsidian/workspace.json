@@ -14,21 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/Exo 2.md",
                 "mode": "source",
                 "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "073870c75b17f1ee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf"
               },
               "pinned": true
             }
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/Exo 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/Exo 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md"
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/Exo 2.md"
               }
             }
           },
@@ -184,11 +172,19 @@
   },
   "active": "46676e0ede2bbd33",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/Exo 2.md",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Diagramme WBS.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/Exo2.md",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Exo1.md",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Exo 1.md",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
     "Gestion de projet/Gestion projet informatique/Cours/Amphi 2.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/TD3 Gestion de projet.md",
@@ -209,8 +205,6 @@
     "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/src/strings/main",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays2/main",
-    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays1/main",
-    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays1/sliar1.exe",
     "Système/Bas Niveau/tp/3-reverse/tp3.md",
     "Système/Bas Niveau/tp/r204-partie1-foncbasniveau-main-tp-3-reverse/tp/3-reverse/README.md",
     "Communication/Communication.md",
@@ -220,9 +214,6 @@
     "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
-    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
-    "Programmation/OOP/OOP.md",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
@@ -236,8 +227,6 @@
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas"
+    "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas"
   ]
 }

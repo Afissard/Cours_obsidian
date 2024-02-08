@@ -1,11 +1,11 @@
-# TD3 Gestion de projet Overview
+# Exo1 Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[Exo1]]**
-- **[[Exo2]]**
+- [[Diagramme WBS.canvas]]
+- [[Exo 1]]
 
 %% End Waypoint %%
