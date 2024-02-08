@@ -5,11 +5,9 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Amphi 2]]
-- [[GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf]]
-- [[GPO2 - CM2 - Tache-Typologie 4.0.pdf]]
-- [[prise de note amphi]]
-- [[TD 1]]
-- **[[UML]]**
+- **[[Cours]]**
+- **[[TD1]]**
+- **[[TD2 UML]]**
+- **[[TD3 Gestion de projet]]**
 
 %% End Waypoint %%

@@ -9,5 +9,6 @@ type: folder_brief_live
 - [[Exo 2 Système d'alarme]]
 - [[Schéma entité-association exo1.canvas]]
 - [[Schéma entité-association exo2.canvas]]
+- [[Schéma entité-association Micro-Onde.canvas]]
 
 %% End Waypoint %%

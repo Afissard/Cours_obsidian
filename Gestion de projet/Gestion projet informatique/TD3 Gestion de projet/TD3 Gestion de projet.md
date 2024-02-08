@@ -1,11 +1,11 @@
-# TD Overview
+# TD3 Gestion de projet Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Etat mémoire L10.canvas]]
-- [[Programmation/OOP/TD/TD 1]]
+- [[Diagramme WBS.canvas]]
+- [[Exo 1]]
 
 %% End Waypoint %%

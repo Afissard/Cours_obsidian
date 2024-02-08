@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "fe02bbb2056bc0bb",
+        "id": "6ca47843eb57fd12",
         "type": "tabs",
         "children": [
           {
-            "id": "3b86b651907c8b3f",
+            "id": "46676e0ede2bbd33",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système/Système.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
                 "mode": "source",
-                "source": false
-              }
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "073870c75b17f1ee",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Système.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Système.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Système.md"
+                "file": "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md"
               }
             }
           },
@@ -168,8 +182,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b86b651907c8b3f",
+  "active": "46676e0ede2bbd33",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Diagramme WBS.canvas",
+    "Gestion de projet/Gestion projet informatique/Cours/Amphi 2.md",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo 1.md",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/TD3 Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/TD2 UML/TD2 UML.md",
+    "Gestion de projet/Gestion projet informatique/TD1/TD1.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet",
+    "Gestion de projet/Gestion projet informatique/TD1",
+    "Gestion de projet/Gestion projet informatique/Cours",
+    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
+    "Gestion de projet/Gestion projet informatique/TD2 UML/Exo 2 Système d'alarme.md",
+    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion de projet.md",
+    "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
@@ -178,14 +212,7 @@
     "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays1/main",
     "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays1/sliar1.exe",
     "Système/Bas Niveau/tp/3-reverse/tp3.md",
-    "Système/Bas Niveau/tp/3-reverse/src/mysterio/mysterio",
-    "Système/Bas Niveau/tp/3-reverse/src/mysterio/main.go",
-    "Système/Bas Niveau/tp/3-reverse/src/mysterio/go.mod",
-    "Système/Bas Niveau/tp/3-reverse/src/mysterio",
-    "Système/Bas Niveau/tp/3-reverse/src",
-    "Système/Bas Niveau/tp/3-reverse",
     "Système/Bas Niveau/tp/r204-partie1-foncbasniveau-main-tp-3-reverse/tp/3-reverse/README.md",
-    "Système/Système.md",
     "Communication/Communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
@@ -195,19 +222,7 @@
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
     "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-3-boucles_et_conditionnelles/td/3-boucles_et_conditionnelles/README.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/UML/UML.md",
     "Programmation/OOP/OOP.md",
-    "Programmation/Programmation.md",
-    "Système/Bas Niveau/Amphi 2.md",
-    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
-    "Maths/Maths.md",
-    "Maths/Graph/Graph.md",
-    "Maths/Graph/tp/tp.md",
-    "Maths/Graph/td/td.md",
-    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
-    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
     "Programmation/OOP/TD/Etat mémoire L10.canvas",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
@@ -223,8 +238,6 @@
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
     "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
     "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
-    "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
-    "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas"
+    "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas"
   ]
 }
