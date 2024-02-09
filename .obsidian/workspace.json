@@ -10,9 +10,15 @@
           {
             "id": "9bf01d2fe5a605f4",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Milieux professionnels/Site web portfolio.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Milieux professionnels/Site web portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Milieux professionnels/Site web portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Milieux professionnels/Site web portfolio.md"
+              }
             }
           },
           {
@@ -162,19 +172,23 @@
   },
   "active": "9bf01d2fe5a605f4",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Communication/Milieux professionnels/Site web portfolio.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Communication.md",
+    "Programmation/Programmation.md",
+    "Programmation/OOP/OOP.md",
+    "Programmation/OOP/TD/TD3/TD3.md",
     "Programmation/OOP/TD/TD3/td 3.md",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Introduction.md",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "Programmation/OOP/Cours",
-    "Programmation/OOP/TD/TD3/TD3.md",
     "Programmation/OOP/TD/TD1/TD1.md",
     "Programmation/OOP/TD/TD3",
     "Programmation/OOP/TD/TD1/td 1.md",
     "Programmation/OOP/TD/TD.md",
     "Programmation/OOP/TD/TD1",
-    "Programmation/OOP/OOP.md",
-    "Programmation/Programmation.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
@@ -199,12 +213,8 @@
     "Gestion de projet/Gestion projet informatique/TD2 UML/TD2 UML.md",
     "Gestion de projet/Gestion projet informatique/TD1/TD1.md",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Exo 2 Système d'alarme.md",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
-    "Système/Système.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Bas Niveau/tp/tp.md",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
     "Avenir Etudes/PPP/PPP_tableau.jpg",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
