@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "148f27fb1d860f72",
+        "id": "fa0df91ebffc8761",
         "type": "tabs",
         "children": [
           {
-            "id": "662881fff1edcf98",
+            "id": "9bf01d2fe5a605f4",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmation/OOP/TD/TD3/td 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/TD/TD3/td 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/TD/TD3/td 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programmation/OOP/TD/TD3/td 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,12 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "662881fff1edcf98",
+  "active": "9bf01d2fe5a605f4",
   "lastOpenFiles": [
+    "Programmation/OOP/TD/TD3/td 3.md",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Introduction.md",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "Programmation/OOP/TD/TD3/td 3.md",
     "Programmation/OOP/Cours",
     "Programmation/OOP/TD/TD3/TD3.md",
     "Programmation/OOP/TD/TD1/TD1.md",
