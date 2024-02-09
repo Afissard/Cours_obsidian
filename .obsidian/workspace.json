@@ -20,8 +20,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "53ee400471e6b07e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Web/Initiation Web/Introduction/r1.02_cm_2023.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Milieux professionnels/Site web portfolio.md",
+                "file": "Web/Initiation Web/Introduction/r1.02_cm_2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Milieux professionnels/Site web portfolio.md",
+                "file": "Web/Initiation Web/Introduction/r1.02_cm_2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Milieux professionnels/Site web portfolio.md"
+                "file": "Web/Initiation Web/Introduction/r1.02_cm_2023.pdf"
               }
             }
           },
@@ -170,10 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bf01d2fe5a605f4",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
-    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Web/Initiation Web/Introduction/Introduction CSS.md",
+    "Web/Initiation Web/Introduction/Introduction.md",
+    "Web/Initiation Web/Initiation Web.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Communication.md",
     "Programmation/Programmation.md",
@@ -207,11 +221,8 @@
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Gestion de projet/Gestion projet informatique/Cours/Amphi 2.md",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/TD2 UML.md",
-    "Gestion de projet/Gestion projet informatique/TD1/TD1.md",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
