@@ -10,13 +10,13 @@
           {
             "id": "65617b9ddc4cff4e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Communication/Communication.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Base de Données/Exploitation/Aministration-Oracle.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Base de Données/Exploitation/Aministration-Oracle.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Base de Données/Exploitation/Aministration-Oracle.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Communication.md"
+                "file": "Base de Données/Exploitation/Aministration-Oracle.pdf"
               }
             }
           },
@@ -170,6 +170,9 @@
   },
   "active": "65617b9ddc4cff4e",
   "lastOpenFiles": [
+    "Base de Données/Base de Données.md",
+    "Base de Données/Exploitation/Aministration-Oracle.pdf",
+    "Communication/Communication.md",
     "Web/Initiation Web/Initiation Web.md",
     "Web/Initiation Web/Introduction/Introduction.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
@@ -177,7 +180,6 @@
     "Web/Initiation Web/Introduction/Introduction CSS.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Communication.md",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/TD/TD3/TD3.md",
@@ -208,7 +210,6 @@
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
