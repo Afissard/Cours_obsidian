@@ -8,6 +8,7 @@ type: folder_brief_live
 - [[TP-Graphes_1.ipynb]]
 - [[TP-Graphes_3-4_connexite.ipynb]]
 - [[TP-Graphes_5-6_eulerien.ipynb]]
+- [[TP-Graphes_7-8_coloration.ipynb]]
 - [[tp0.pdf]]
 - [[tp1.pdf]]
 - [[tp3-4.pdf]]

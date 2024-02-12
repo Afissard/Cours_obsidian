@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38ea7387414f900d",
+        "id": "7a88b84eeb1c9b86",
         "type": "tabs",
         "children": [
           {
-            "id": "442a4e24dfd38658",
+            "id": "2fd1a99d9121380c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Graph/tp/tp.md",
+                "file": "Programmation/Programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Graph/tp/tp.md",
+                "file": "Programmation/Programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Graph/tp/tp.md",
+                "file": "Programmation/Programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Graph/tp/tp.md"
+                "file": "Programmation/Programmation.md"
               }
             }
           },
@@ -168,12 +168,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "442a4e24dfd38658",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
-    "Maths/Graph/tp/tp7-8.pdf",
-    "Maths/Graph/Graph.md",
-    "Maths/Maths.md",
+    "Programmation/Initiation-dev/Initiation-dev.md",
+    "Programmation/Initiation-dev/Algo/Algo.md",
+    "Programmation/Initiation-dev/Algo/tri.pdf",
+    "Programmation/Initiation-dev/Algo/recursivite.pdf",
+    "Programmation/Initiation-dev/Algo/quicksort.png",
     "Programmation/Programmation.md",
+    "Maths/Maths.md",
+    "Maths/Graph/Graph.md",
+    "Maths/Graph/tp/tp.md",
+    "Maths/Graph/tp/TP-Graphes_7-8_coloration.ipynb",
+    "Maths/Graph/tp/tp7-8.pdf",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/04-heritage.pdf",
@@ -196,19 +203,12 @@
     "Programmation/OOP/TD/TD3",
     "Programmation/OOP/TD/TD1/td 1.md",
     "Programmation/OOP/TD/TD.md",
-    "Programmation/OOP/TD/TD1",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/TD3 Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo3/Exo3.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/Exo 2.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo3",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
@@ -223,7 +223,6 @@
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/MIPS_Architecture_(Pipelined).svg.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/insidedd.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas"
   ]
