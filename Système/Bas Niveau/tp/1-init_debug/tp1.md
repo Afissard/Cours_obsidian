@@ -90,9 +90,14 @@ Pour avancer l'exécution jusqu'à la fin de la fonction courante, on utilise la
 ---
 
 **Exercice n°1**
-
 Tester les différentes commandes d'exécution pas-à-pas.
 À combien d'instructions du code machine correspond la ligne 9 du programme source ? 
+**Réponse**
+```
+n 6
+ni 36 // correspond à la dernière instruction machine
+```
+La ligne 09 du code source correspond à 36 instructions machine. 
 
 ---
 
@@ -127,9 +132,10 @@ La personne intéressée pourra cependant en apprendre davantage en utilisant l'
 ---
 
 **Exercice n°2**
-
 Tester les différentes façons de positionner des points d'arrêt.
 Combien de fois le programme passe-t-il par la ligne 14 ?
+**Réponse**
+Le programme passe 11 fois.
 
 ---
 
@@ -150,11 +156,14 @@ En ce qui concerne cette ressource, deux opérateurs seront particulièrement in
 ---
 
 **Exercice n°3**
-
   - Tester l'affichage de différentes expressions, dans différents formats.
   - Se rendre ligne 7, puis afficher l'adresse et le contenu de la variable `t`.
   - Se rendre ensuite ligne 15, puis afficher l'adresse et le contenu de la variable `t` (il s'agit ici du paramètre passé à la fonction `minimumPosition).
   - Dessiner l'implantation mémoire de ces deux variables lorsque l'exécution est à la ligne 15 pour la première fois.
+**Réponse (problème dû à WSL)**
+1. contenu de la variable t à la ligne 7 : `$1 = {array = 0x000122030, len = <optimized out>, cap = <optimized out>}`
+2. contenu de la variable t à la ligne 15 : `$2 = <optimized out>`
+
 ---
 
 La commande `print` permet d'afficher ponctuellement la valeur d'une variable.

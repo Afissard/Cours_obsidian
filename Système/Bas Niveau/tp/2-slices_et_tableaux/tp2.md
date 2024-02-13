@@ -84,8 +84,13 @@ go build -gcflags "-l -N"
 ## Questions
 
 1. Décrire la représentation en mémoire d'un tableau et celle d'un *slice*. Rappeler les différences, du point de vue du langage de programmation Go, entre un tableau et un slice.
+   Un tableau est une *array* alors qu'un slice est une structure contenant un tableau ainsi que des méthode associé, la taille du tableau est notamment mutable.
 
 2. Donner le type des variables `w`, `x`, `y` et `z`.
+	- w est un tableau
+	- x est un tableau
+	- y est un slice
+	- z est un pointeur vers x
 
 3. Faire afficher la représentation en mémoire de `w` ? Même question pour `x`, `y` et `z`.
 
@@ -161,7 +166,7 @@ go build -gcflags "-l -N"
 
 ## Questions
 
-1. Sans exécuter le programme, prédire sa sortie. Ensuite, exécuter le programme. La prédiction est-elle correcte ?
+1. Sans exécuter le programme, prédire sa sortie. Ensuite, exécuter le programme. La prédiction est-elle correcte ? Oui (je me suis spoil)
 
 2. En cas de prédiction incorrecte, utiliser gdb pour comprendre ce qui se passe. En cas de prédiction correcte, utiliser quand même gdb pour vérifier que le raisonnement utilisé pour formuler la prédiction est conforme au comportement du programme. Décrire l'état de la mémoire à la ligne 30.
 
@@ -199,7 +204,7 @@ go build -gcflags "-l -N"
 
 ## Questions
 
-1. 	En étudiant l'exécution de ce programme avec GDB, expliquer comment sont implantées les objets de type `string` en Go. Identifier le code d'initialisation des variables `str1`, `str2`, `str3`, et `str4`. Représenter l'implantation mémoire de ces variables sur un schéma.
+1. En étudiant l'exécution de ce programme avec GDB, expliquer comment sont implantées les objets de type `string` en Go. Identifier le code d'initialisation des variables `str1`, `str2`, `str3`, et `str4`. Représenter l'implantation mémoire de ces variables sur un schéma.
 
 2. Construire le programme en activant les optimisations puis l'étudier. Identifier comment les chaînes sont passées à la fonction d'affichage.
 

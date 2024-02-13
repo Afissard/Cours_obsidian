@@ -109,6 +109,19 @@ ret
 1. Exécuter ce code "à la main" et indiquer ce que fait chaque instruction.
 Que peut-on dire sur ce code ?
 
+```nasm
+sub    $0x10,%rsp     ; rsp -= 0x10 ; ouverture cadre
+mov    %rbp,0x8(%rsp) ; cpy rbp -> rsp + 0x8 ; ouverture cadre
+lea    0x8(%rsp),%rbp ; ?
+movq   $0x0,(%rsp)    ; cpy64bit 0x0 -> rsp ; init à 0
+movq   $0x2a,(%rsp)   ; cpy64bit 0x0 -> rsp ; met à 42
+mov    $0x2a,%eax     ; cpy 0x2a -> eax ; met 42 dans le registre eax
+mov    0x8(%rsp),%rbp ; cpy rsp + 0x8 -> rbp ; fermeture du cadre
+add    $0x10,%rsp     ; rsp += 0x10 ; fermeture du cadre
+ret                   ; fin de programme
+; le code n'est pas très optimisé, certaine valeurs ne sont pas utilisé, exemple ligne 5-6, rsp est initalisé à 0 puis à 42. 
+```
+
 2. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Que peut-on dire sur ce code ? Sur le rôle du registre `eax` ?
 
@@ -151,8 +164,31 @@ ret
 ```
 
 1. Exécuter ce code "à la main" et indiquer ce que fait chaque instruction.
+```nasm
+sub    $0x18,%rsp      ; rsp -= 0x18
+mov    %rbp,0x10(%rsp) ; cpy rbp -> rsp + 0x10
+lea    0x10(%rsp),%rbp ; cpy &rbp -> &(rsp + 0x10)
+mov    %rax,0x20(%rsp) ; cpy rax -> rsp + 0x20
+mov    %rbx,0x28(%rsp) ; cpy rbx -> rsp + 0x28 ; sauvegarde des regs
+movq   $0x0,0x8(%rsp)  ; cpy64bit 0x0 -> rsp + 0x8
+movq   $0x0,(%rsp)     ; cpy64bit 0x0 -> rsp
+mov    0x20(%rsp),%rcx ; cpy rsp + 0x20 -> rcx
+add    0x28(%rsp),%rcx ; rcx += (rsp + 0x28)
+mov    %rcx,0x8(%rsp)  ; cpy rcx -> rsp + 0x8
+mov    0x20(%rsp),%rbx ; cpy rsp + 0x20 -> rbx
+sub    0x28(%rsp),%rbx ; rbx -= rsp + 0x28
+mov    %rbx,(%rsp)     ; cpy rbx -> (rsp) ; ? ; restoration des regs
+mov    0x8(%rsp),%rax  ; cpy rsp + 0x8 -> rax
+mov    0x10(%rsp),%rbp ; cpy rsp + 0x10 -> rbp
+add    $0x18,%rsp      ; rsp += 0x18
+ret                    ; retourne rax (ret n°1) et rbx (ret n°2)
+; NB :
+; lea : comme un mov mais l'adresse est manipulé et non la valeur
+```
 
 2. Quelles expressions correspondent aux adresses des variables `a`, `b`, `add`, et `sub` ? Que peut-on conclure concernant l'allocation en mémoire de ces variables.
+	- les paramètres ont été passé par la pile 
+	- les valeurs de retour sont aussi passé par la pile
 
 3. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Comme à la question précédente, exécuter à la main et annoter le code. 
@@ -167,6 +203,14 @@ mov    %rcx,%rax
 ret
 ```
 
+```nasm
+lea    (%rax,%rbx,1),%rcx ; lea est détourné pour : rbx*1+rbx -> rcx
+sub    %rbx,%rax          ; rbx -= rax
+mov    %rax,%rbx          ; cpy rax -> rbx
+mov    %rcx,%rax          ; cpy rcx -> rax
+ret                       ; 
+```
+les inputs et les outputs passe par la pile encore une fois
 # Exercice n°3
 
 Soit la fonction `CallAddSub` :
@@ -182,29 +226,33 @@ Après désassemblage à l'aide de l'outil `objdump`,
 le code, construit en désactivant les optimisations et l'inclusion en ligne des fonctions, est le suivant (les adresses des instructions ont été ajoutées pour permettre d'identifier les cibles des sauts) :
 
 ```nasm
-4552e0		cmp    0x10(%r14),%rsp
-4552e4		jbe    455347 <main.CallAddSub+0x67>
-4552e6		sub    $0x38,%rsp
-4552ea		mov    %rbp,0x30(%rsp)
-4552ef		lea    0x30(%rsp),%rbp
-4552f4		movq   $0x0,0x18(%rsp)
-4552fd		movq   $0x0,0x10(%rsp)
-455306		mov    $0x4,%eax
-45530b		mov    $0x5,%ebx
-455310		call   455280 <main.AddSub>
-455315		mov    %rax,0x28(%rsp)
-45531a		mov    %rbx,0x20(%rsp)
-45531f		mov    0x28(%rsp),%rcx
-455324		mov    %rcx,0x18(%rsp)
-455329		mov    0x20(%rsp),%rcx
-45532e		mov    %rcx,0x10(%rsp)
-455333		mov    0x18(%rsp),%rax
-455338		mov    0x10(%rsp),%rbx
-45533d		mov    0x30(%rsp),%rbp
-455342		add    $0x38,%rsp
+4552e0		cmp    0x10(%r14),%rsp ; (r14 + 0x10) = (r14 + 0x10) - rsp
+; va à cette endroit si nécessité d'étendre le stack
+4552e4		jbe    455347 <main.CallAddSub+0x67> 
+4552ea		mov    %rbp,0x30(%rsp) ; cpy rbp-> rsp + 0x30
+4552ef		lea    0x30(%rsp),%rbp ; cpy &(rsp + 0x30) -> rbp
+4552f4		movq   $0x0,0x18(%rsp) ; cpy64bit 0x0 -> rsp + 0x0
+4552fd		movq   $0x0,0x10(%rsp) ; cpy64bit 0x0 -> rsp + 0x10
+; passages des variables à la fonction AddSub
+455306		mov    $0x4,%eax       ; cpy 0x4 -> eax
+45530b		mov    $0x5,%ebx       ; cpy 0x5 -> ebx
+; appel de la fonction AddSub
+455310		call   455280 <main.AddSub> 
+455315		mov    %rax,0x28(%rsp) ; cpy rax -> rsp + 0x28
+45531a		mov    %rbx,0x20(%rsp) ; cpy rbx -> rsp + 0x20
+45531f		mov    0x28(%rsp),%rcx ; cpy rsp + 0x28 -> rcx
+455324		mov    %rcx,0x18(%rsp) ; cpy rcx -> rsp + 0x18
+455329		mov    0x20(%rsp),%rcx ; cpy rsp + 0x20 -> rcx
+45532e		mov    %rcx,0x10(%rsp) ; cpy rcx -> rsp + 0x10
+455333		mov    0x18(%rsp),%rax ; cpy rsp + 0x18 -> rax
+455338		mov    0x10(%rsp),%rbx ; cpy rsp + 0x10 -> rbx
+45533d		mov    0x30(%rsp),%rbp ; cpy rsp + 0x30 -> rbp
+455342		add    $0x38,%rsp      ; rsp += 0x38
 455346		ret    
-455347		call   451f60 <runtime.morestack_noctxt.abi0>
-45534c		jmp    4552e0 <main.CallAddSub>
+; étend le stack
+455347		call   451f60 <runtime.morestack_noctxt.abi0> 
+; retourne au code de la function
+45534c		jmp    4552e0 <main.CallAddSub> 
 ```
 1. À quoi correspond le paquet `runtime` du langage Go ? 
 
@@ -212,7 +260,7 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 
 3. En utilisant le même programme source, mais en activant les optimisations, on obtient le code ci-dessous.
 Comme à la question précédente, exécuter à la main et annoter le code. 
-Malgré l'activation des optimisations, cette fonction alloue un cadre de pile. Expliquer pourquoi.
+Malgré l'activation des optimisations, cette fonction alloue un cadre de pile. Expliquer pourquoi. 
 
 ```nasm
 455260 	cmp    0x10(%r14),%rsp
@@ -222,7 +270,7 @@ Malgré l'activation des optimisations, cette fonction alloue un cadre de pile. 
 45526f 	lea    0x10(%rsp),%rbp
 455274 	mov    $0x4,%eax
 455279 	mov    $0x5,%ebx
-45527e 	xchg   %ax,%ax
+45527e 	xchg   %ax,%ax ; ne sert à rien (usage equivalent à nop / nopl)
 455280 	call   455240 <main.AddSub>
 455285 	mov    0x10(%rsp),%rbp
 45528a 	add    $0x18,%rsp
@@ -230,6 +278,7 @@ Malgré l'activation des optimisations, cette fonction alloue un cadre de pile. 
 45528f 	call   451f60 <runtime.morestack_noctxt.abi0>
 455294 	jmp    455260 <main.CallAddSub>
 ```
+La fonction AddSub à besoin d'un cadre pour opéré, CallAddSub le créer, même si AddSub à été optimisé et n'en nécessite pas.
 
 # Exercice n°4
 
@@ -246,9 +295,11 @@ Après désassemblage à l'aide de l'outil `objdump`,
 le code, construit en désactivant les optimisations et l'inclusion en ligne des fonctions, est le suivant :
 
 ```nasm
+; création du cadre
 sub    $0x10,%rsp
 mov    %rbp,0x8(%rsp)
 lea    0x8(%rsp),%rbp
+; passage des arguments (mais il manque j, k, l)
 mov    %rax,0x30(%rsp)
 mov    %rbx,0x38(%rsp)
 mov    %rcx,0x40(%rsp)
