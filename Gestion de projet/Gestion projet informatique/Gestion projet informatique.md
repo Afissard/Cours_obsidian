@@ -8,5 +8,6 @@ type: folder_brief_live
 - [[GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf]]
 - [[prise de note amphi]]
 - [[TD 1]]
+- **[[UML]]**
 
 %% End Waypoint %%

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03bf122df52e2522",
+        "id": "b3e956fcd225efc0",
         "type": "tabs",
         "children": [
           {
-            "id": "79ca1bba721d75a1",
+            "id": "e0e1c6755cb2ef0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -151,17 +155,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79ca1bba721d75a1",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Système/Bas Niveau/Bas Niveau.md",
+    "conflict-files-obsidian-git.md",
+    "Système/Système.md",
+    "Programmation/OOP/OOP.md",
+    "Programmation/OOP/Notes Amphi.md",
+    "Programmation/OOP/Introduction.md",
+    "Programmation/Programmation.md",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 2 bis en ligne 2022.pdf",
+    "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
+    "Système/Bas Niveau/main_01.pdf",
+    "Système/Bas Niveau/main02.pdf",
+    "Système/Bas Niveau/Amphi 2.md",
+    "Programmation/OOP/TD/TD.md",
+    "Programmation/OOP/TD/TD 1.md",
+    "Programmation/OOP/TD/Etat mémoire L10.canvas",
+    "Programmation/OOP/TD",
+    "Gestion de projet/Gestion projet informatique/UML/Exo 2 Système d'alarme.md",
+    "Gestion de projet/Gestion projet informatique/UML/UML.md",
+    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/UML/Exo 1 partie 2.md",
+    "Gestion de projet/Gestion projet informatique/UML",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
     "Maths/Graph/poly-concepts-base.pdf",
@@ -169,7 +196,6 @@
     "Maths/Graph/prise de note.md",
     "Maths/Logique/Logique.md",
     "Gestion de projet/Gestion projet informatique/TD 1.md",
-    "Programmation/Programmation.md",
     "Programmation/Initiation-dev/go/go.md",
     "Programmation/Initiation-dev/go/go-Laptop-sacha.md",
     "Avenir Etudes/Avenir Etudes.md",
@@ -179,18 +205,7 @@
     "Communication/Milieux professionnels/Site web.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
-    "Communication/Milieux professionnels/CC2 - Sujets dexposés.pdf",
-    "Communication/Milieux professionnels",
-    "Système/Réseau/Réseau.md",
-    "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
-    "Système/Réseau/hernandez-M2102-reseaux1-CM.pdf",
-    "Système/Réseau",
-    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/strings/main.go",
-    "Système/Bas Niveau/tp/2-slices_et_tableaux/src/slicesandarrays2/go.mod",
     "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
-    "Système/Bas Niveau/tp/2-slices_et_tableaux/tp2.md",
-    "Système/Bas Niveau/tp/1-init_debug/tp1.md",
-    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/outsidedd.jpg",
@@ -200,22 +215,12 @@
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/Flash_cell.png",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/dram.jpg",
     "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
-    "Système/Bas Niveau/td/1-pile_tas/td1.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Bas Niveau/Amphi 1.md",
-    "Programmation/OOP/Notes Amphi.md",
-    "Gestion de projet/Gestion projet informatique/prise de note amphi.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Base de Données/Exploitation/TD 2.md",
     "Gestion de projet/Economie/Shémas/Schéma répartition richesse & Valeur ajouté.canvas",
     "Gestion de projet/Economie/Shémas/schéma PIB Pays.canvas",
     "Gestion de projet/Economie/Shémas/schéma prestataire et client.canvas",
     "Economie/Cour 1/Schéma Pouvoir d'Achat-Laptop-sacha.canvas",
     "Gestion de projet/Economie/Shémas/Schéma économie politique.canvas",
     "Gestion de projet/Economie/Shémas/Schéma Pouvoir d'Achat.canvas",
-    "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas",
-    "Système/Architecture-système/Introduction/IEEE754/IEEE-754.canvas",
-    "Gestion de projet/Entreprise/fonctionement-économique.canvas",
-    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas"
+    "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas"
   ]
 }
