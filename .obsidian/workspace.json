@@ -10,9 +10,15 @@
           {
             "id": "6f9ebc674c34706f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/Programmation.md"
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md"
               }
             }
           },
@@ -164,44 +170,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "6f9ebc674c34706f",
   "lastOpenFiles": [
+    "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/td/4-pointeurs/td4.md",
+    "Système/Bas Niveau/td/4-pointeurs/src/ptr1/main.go",
+    "Système/Bas Niveau/td/4-pointeurs/src/ptr1/go.mod",
+    "Système/Bas Niveau/td/4-pointeurs/src/ptr1",
+    "Système/Bas Niveau/td/4-pointeurs/src",
+    "Système/Bas Niveau/td/4-pointeurs/README.md",
+    "Système/Bas Niveau/td/4-pointeurs",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src/ptr1/main.go",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src/ptr1/go.mod",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src/ptr1",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/README.md",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs",
+    "Système/Bas Niveau/tp/tp.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Architecture-système/Architecture-système.md",
+    "Système/Bas Niveau/tp/3-reverse/tp3.md",
+    "Système/Système.md",
+    "Communication/Communication.md",
     "Programmation/Initiation-dev/Initiation-dev.md",
     "Programmation/Initiation-dev/Algo/Algo.md",
-    "Programmation/Initiation-dev/Algo/tri.pdf",
-    "Programmation/Initiation-dev/Algo/recursivite.pdf",
     "Programmation/Initiation-dev/Algo/quicksort.png",
     "Programmation/Programmation.md",
     "Maths/Maths.md",
     "Maths/Graph/Graph.md",
     "Maths/Graph/tp/tp.md",
-    "Maths/Graph/tp/TP-Graphes_7-8_coloration.ipynb",
-    "Maths/Graph/tp/tp7-8.pdf",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
-    "Programmation/OOP/Cours/04-heritage.pdf",
     "Base de Données/Base de Données.md",
-    "Base de Données/Exploitation/Aministration-Oracle.pdf",
-    "Communication/Communication.md",
     "Web/Initiation Web/Initiation Web.md",
     "Web/Initiation Web/Introduction/Introduction.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
-    "Web/Initiation Web/Introduction/r1.02_cm_2023.pdf",
     "Web/Initiation Web/Introduction/Introduction CSS.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Programmation/OOP/TD/TD3/TD3.md",
-    "Programmation/OOP/TD/TD3/td 3.md",
-    "Programmation/OOP/Introduction.md",
-    "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "Programmation/OOP/Cours",
-    "Programmation/OOP/TD/TD1/TD1.md",
-    "Programmation/OOP/TD/TD3",
-    "Programmation/OOP/TD/TD1/td 1.md",
-    "Programmation/OOP/TD/TD.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",

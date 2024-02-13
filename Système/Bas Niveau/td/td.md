@@ -24,7 +24,7 @@ type: folder_brief_live
 		- [[appelfonctions-opt-noinline.dump]]
 		- [[funcs.go]]
 		- [[go.mod]]
-	- [[Système/Bas Niveau/td/2-appels_de_fonction/td2]]
+	- [[td2]]
 - **3-boucles_et_conditionnelles**
 	- **src**
 		- **exercice1**
@@ -38,5 +38,11 @@ type: folder_brief_live
 			- [[go.mod]]
 			- [[main.go]]
 	- [[td3]]
+- **4-pointeurs**
+	- **src**
+		- **ptr1**
+			- [[go.mod]]
+			- [[main.go]]
+	- [[td4]]
 
 %% End Waypoint %%
