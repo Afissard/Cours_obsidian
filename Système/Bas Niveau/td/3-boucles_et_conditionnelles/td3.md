@@ -140,25 +140,25 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 47adae	sub    $0x70,%rsp
 47adb2	mov    $0x2711,%eax
 47adb7	xor    %ecx,%ecx
-47adb9	jmp    47adc1 <main.main+0x21>
+47adb9	jmp    47adc1 <main.main+0x21> ; jmp cond loop
 47adbb	inc    %rcx
 47adbe	mov    %rdx,%rax
-47adc1	cmp    $0x1,%rax
-47adc5	je     47ade6 <main.main+0x46>
-47adc7	bt     $0x0,%eax
-47adcb	jb     47addc <main.main+0x3c>
+47adc1	cmp    $0x1,%rax ; compare 1 et rax
+47adc5	je     47ade6 <main.main+0x46> ; si rax = 1 -> jump
+47adc7	bt     $0x0,%eax ; bit-test, copy bit poid faible dans CF
+47adcb	jb     47addc <main.main+0x3c> ; 
 47adcd	mov    %rax,%rdx
 47add0	shr    $0x3f,%rax
 47add4	add    %rax,%rdx
 47add7	sar    %rdx
-47adda	jmp    47adbb <main.main+0x1b>
+47adda	jmp    47adbb <main.main+0x1b> ;
 47addc	lea    (%rax,%rax,2),%rdx
 47ade0	lea    0x1(%rdx),%rdx
-47ade4	jmp    47adbb <main.main+0x1b>
+47ade4	jmp    47adbb <main.main+0x1b> ;
 47ade6	mov    %rcx,0x28(%rsp)
 47adeb	movups %xmm15,0x30(%rsp)
 ```
-  1. Que calcule ce programme ? Se renseigner sur la conjecture de Collatz.
+  1. Que calcule ce programme ? Se renseigner sur la conjecture de Collatz. Le programme calcule une suite de Syracuse et retourne la valeur n pour le nombre d'iteration demandé.
   2. Identifier l'implantation des variables `x`, `cpt` et `orig`.
   3. Identifier les lignes du code machine qui correspondent à la boucle.
   4. Identifier le schéma de traduction de la conditionnelle.

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md"
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md"
               }
             }
           },
@@ -172,22 +172,26 @@
   },
   "active": "6f9ebc674c34706f",
   "lastOpenFiles": [
-    "Système/Bas Niveau/td/td.md",
-    "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Système/Bas Niveau/td/4-pointeurs/src/ptr1/main.go",
-    "Système/Bas Niveau/td/4-pointeurs/src/ptr1/go.mod",
-    "Système/Bas Niveau/td/4-pointeurs/src/ptr1",
-    "Système/Bas Niveau/td/4-pointeurs/src",
-    "Système/Bas Niveau/td/4-pointeurs/README.md",
-    "Système/Bas Niveau/td/4-pointeurs",
-    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src/ptr1/main.go",
-    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src/ptr1/go.mod",
-    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src/ptr1",
-    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/README.md",
-    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/src",
-    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs",
-    "Système/Bas Niveau/tp/tp.md",
+    "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
+    "Système/Bas Niveau/td/1-pile_tas/td1.md",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/main.pdf",
+    "Système/Bas Niveau/cours/cours.md",
     "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/src/mov/main.go",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/src/mov/go.mod",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/src/cond/main.go",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/src/cond/go.mod",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/src/mov",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/src/cond",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/main.tex",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/src",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64",
+    "Système/Bas Niveau/td/4-pointeurs/td4.md",
+    "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/td/4-pointeurs/README.md",
+    "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/README.md",
+    "Système/Bas Niveau/tp/tp.md",
     "Système/Architecture-système/Architecture-système.md",
     "Système/Bas Niveau/tp/3-reverse/tp3.md",
     "Système/Système.md",
@@ -205,10 +209,6 @@
     "Web/Initiation Web/Initiation Web.md",
     "Web/Initiation Web/Introduction/Introduction.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
-    "Web/Initiation Web/Introduction/Introduction CSS.md",
-    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Programmation/OOP/TD/TD3/TD3.md",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
