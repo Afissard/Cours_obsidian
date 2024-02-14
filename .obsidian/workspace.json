@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9d18cf477b8124f4",
+        "id": "d66849de90402e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9ebc674c34706f",
+            "id": "3eb0dfa0b18c620e",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,13 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f9ebc674c34706f",
+  "active": "3eb0dfa0b18c620e",
   "lastOpenFiles": [
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+    "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/tp/tp.md",
+    "Système/Bas Niveau/cours/cours.md",
     "Système/Bas Niveau/td/2-appels_de_fonction/td2.md",
     "Système/Bas Niveau/td/1-pile_tas/td1.md",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
     "Système/Bas Niveau/cours/cours2-isa-x86-64/main.pdf",
-    "Système/Bas Niveau/cours/cours.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/cours/cours2-isa-x86-64/src/mov/main.go",
     "Système/Bas Niveau/cours/cours2-isa-x86-64/src/mov/go.mod",
@@ -188,10 +180,8 @@
     "Système/Bas Niveau/cours/cours2-isa-x86-64/src",
     "Système/Bas Niveau/cours/cours2-isa-x86-64",
     "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/4-pointeurs/README.md",
     "Système/Bas Niveau/td/r204-partie1-foncbasniveau-main-td-4-pointeurs/td/4-pointeurs/README.md",
-    "Système/Bas Niveau/tp/tp.md",
     "Système/Architecture-système/Architecture-système.md",
     "Système/Bas Niveau/tp/3-reverse/tp3.md",
     "Système/Système.md",
