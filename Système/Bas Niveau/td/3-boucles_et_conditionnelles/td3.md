@@ -150,7 +150,7 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 47adcb	jb     47addc <main.main+0x3c>  en fait ça remplace le x % 2 == 0 de la fonction, si c'est pair zou
                                         TOUT PAIR FINI PAR 0 EN BINAIRE
 47adcd	mov    %rax,%rdx
-47add0	shr    $0x3f,%rax               shift right ? Nullification car on décale de beaucoup de bits ?
+47add0	shr    $0x3f,%rax               shift right ? Nullification car on décale de beaucoup de bits ? oui
 47add4	add    %rax,%rdx
 47add7	sar    %rdx                     shift ARYTHMETIC right diviser par 2 en gardant le bit de signe
                                         (que ça soit positif ou négatif ça marche)
