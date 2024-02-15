@@ -9,5 +9,6 @@ type: folder_brief_live
 - **[[TD1]]**
 - **[[TD2 UML]]**
 - **[[TD3 Gestion de projet]]**
+- **[[TD4 Planification]]**
 
 %% End Waypoint %%

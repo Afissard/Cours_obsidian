@@ -10,9 +10,13 @@
           {
             "id": "c38aa28cdc9ef99f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf"
+              }
             }
           },
           {
@@ -162,14 +170,20 @@
   },
   "active": "c38aa28cdc9ef99f",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/TD4 Planification/TD4 Planification.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf",
+    "Gestion de projet/Gestion projet informatique/TD4 Planification",
+    "Gestion de projet/Gestion projet informatique/Nouveau dossier",
+    "Gestion de projet/Gestion de projet.md",
+    "Système/Système.md",
+    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/tp/3-reverse/tp3.md",
     "conflict-files-obsidian-git.md",
     "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
     "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Système.md",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
@@ -186,24 +200,18 @@
     "Maths/Logique/Algèbre Booléen/Formule Tautologique.md",
     "Maths/Logique/Algèbre Booléen/Formule logiquement équivalentes (≡).md",
     "Maths/Logique/Algèbre Booléen/Formule (in)satisfiable.md",
-    "Maths/Logique/Algèbre Booléen/Equivaut (↔).md",
-    "Maths/Logique/Algèbre Booléen/Disjonction (OU, OR, ˅, +).md",
-    "Maths/Logique/Algèbre Booléen/Conjonction (ET, AND, ˄, .).md",
     "Maths/Logique/Algèbre Booléen/1 formulaire algèbres_de_Boole.pdf",
     "Programmation/OOP/Cours/03-classesuml.pdf",
     "Programmation/OOP/Cours/02-objets-references.pdf",
     "Programmation/OOP/Cours/01-bases-kotlin.pdf",
     "Programmation/OOP/Cours/00-intro.pdf",
     "Système/Bas Niveau/main_02.pdf",
-    "Système/Bas Niveau/main_01.pdf",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Système/Bas Niveau/cours/cours2-isa-x86-64/main.pdf",
     "Programmation/Initiation-dev/Algo/quicksort.png",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
