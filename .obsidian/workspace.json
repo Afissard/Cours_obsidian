@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c2b70cf4a8e99a",
+        "id": "ea80e191bf4dcf8f",
         "type": "tabs",
         "children": [
           {
-            "id": "1888dc5207d9fa55",
+            "id": "c38aa28cdc9ef99f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Bas Niveau/tp/tp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/tp/tp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/tp/tp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Bas Niveau/tp/tp.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,11 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1888dc5207d9fa55",
+  "active": "c38aa28cdc9ef99f",
   "lastOpenFiles": [
+    "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/tp/3-reverse/tp3.md",
     "conflict-files-obsidian-git.md",
-    "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
     "Système/Bas Niveau/td/4-pointeurs/td4.md",
