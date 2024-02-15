@@ -112,7 +112,7 @@ Que peut-on dire sur ce code ?
 ```nasm
 sub    $0x10,%rsp     ; rsp -= 0x10 ; ouverture cadre
 mov    %rbp,0x8(%rsp) ; cpy rbp -> rsp + 0x8 ; ouverture cadre
-lea    0x8(%rsp),%rbp ; ?
+lea    0x8(%rsp),%rbp ; cpy &(rsp + 0x8) -> &rbp
 movq   $0x0,(%rsp)    ; cpy64bit 0x0 -> rsp ; init à 0
 movq   $0x2a,(%rsp)   ; cpy64bit 0x0 -> rsp ; met à 42
 mov    $0x2a,%eax     ; cpy 0x2a -> eax ; met 42 dans le registre eax

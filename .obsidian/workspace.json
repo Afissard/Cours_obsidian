@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07f723592f52a19e",
+        "id": "b1c2b70cf4a8e99a",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e4251e785d0c70",
+            "id": "1888dc5207d9fa55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+                "file": "Système/Bas Niveau/tp/tp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+                "file": "Système/Bas Niveau/tp/tp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+                "file": "Système/Bas Niveau/tp/tp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md"
+                "file": "Système/Bas Niveau/tp/tp.md"
               }
             }
           },
@@ -168,11 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7e4251e785d0c70",
+  "active": "1888dc5207d9fa55",
   "lastOpenFiles": [
-    "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+    "Système/Bas Niveau/tp/3-reverse/tp3.md",
+    "conflict-files-obsidian-git.md",
+    "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+    "Système/Bas Niveau/td/4-pointeurs/td4.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Système.md",
     "Programmation/Programmation.md",
@@ -201,9 +204,6 @@
     "Programmation/OOP/Cours/00-intro.pdf",
     "Système/Bas Niveau/main_02.pdf",
     "Système/Bas Niveau/main_01.pdf",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Base de Données/Base de Données.md",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",

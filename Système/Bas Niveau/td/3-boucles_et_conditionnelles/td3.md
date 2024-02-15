@@ -77,17 +77,17 @@ Après désassemblage à l'aide de l'outil `objdump`, on obtient le code suivant
 47ada6 push   %rbp
 47ada7 mov    %rsp,%rbp
 47adaa sub    $0x38,%rsp
-47adae mov    $0x3,%eax
-47adb3 mov    $0x1,%ecx
-47adb8 xor    %edx,%edx
-47adba jmp    47adc9 <main.main+0x29> ; début for
-47adbc inc    %rax ; cpt ++
-47adbf lea    (%rdx,%rcx,1),%rbx ; temp calc
-47adc3 mov    %rcx,%rdx
-47adc6 mov    %rbx,%rcx
-47adc9 cmp    $0x14,%rax
-47adcd jl     47adbc <main.main+0x1c> ; fin for
-47adcf movups %xmm15,0x28(%rsp)
+47adae mov    $0x3,%eax                 CPT
+47adb3 mov    $0x1,%ecx                 1 dans ecx, c'est f1
+47adb8 xor    %edx,%edx                 on nullifie edx (il contient 0) c'est donc f0
+47adba jmp    47adc9 <main.main+0x29>   on jump à la comp du cpt et de 20
+47adbc inc    %rax                      on augmente le cpt
+47adbf lea    (%rdx,%rcx,1),%rbx        le calcul de tmp ? (ds rbx ?)
+47adc3 mov    %rcx,%rdx                 f0 prend la valeur de f1
+47adc6 mov    %rbx,%rcx                 f1 prend la valeur de tmp
+47adc9 cmp    $0x14,%rax                comparer le cpt à 20
+47adcd jl     47adbc <main.main+0x1c>   on JUMP au début de la boucle si cpt est inf à 14(HEX) soit 20(DEC)
+47adcf movups %xmm15,0x28(%rsp)         
 47add5 mov    %rcx,%rax
 47add8 call   4097a0 <runtime.convT64>
 47addd lea    0x6f1c(%rip),%rcx        # 481d00 <type:*+0x6d00>
@@ -138,27 +138,31 @@ le code, construit en désactivant les optimisations et l'inclusion en ligne des
 47adaa	push   %rbp
 47adab	mov    %rsp,%rbp
 47adae	sub    $0x70,%rsp
-47adb2	mov    $0x2711,%eax
-47adb7	xor    %ecx,%ecx
-47adb9	jmp    47adc1 <main.main+0x21> ; jmp cond loop
-47adbb	inc    %rcx
-47adbe	mov    %rdx,%rax
-47adc1	cmp    $0x1,%rax ; compare 1 et rax
-47adc5	je     47ade6 <main.main+0x46> ; si rax = 1 -> jump
-47adc7	bt     $0x0,%eax ; bit-test, copy bit poid faible dans CF
-47adcb	jb     47addc <main.main+0x3c> ; 
+47adb2	mov    $0x2711,%eax             orig est initilisé dans eax à 2711(HEX) soit 10001(DEC)
+47adb7	xor    %ecx,%ecx                cpt est initialisé dans ecx à 0
+47adb9	jmp    47adc1 <main.main+0x21>  on jump à la condition de la boucle (ligne 47adc1)
+47adbb	inc    %rcx                     cpt ++
+47adbe	mov    %rdx,%rax                
+47adc1	cmp    $0x1,%rax                on compare 1 et RAX
+47adc5	je     47ade6 <main.main+0x46>  si RAX est égal à 1 on jump à la fin de la fonction (on rend)
+
+47adc7	bt     $0x0,%eax                copie le 1er bit de poid faible de EAX dans le CF (carry flag)
+47adcb	jb     47addc <main.main+0x3c>  en fait ça remplace le x % 2 == 0 de la fonction, si c'est pair zou
+                                        TOUT PAIR FINI PAR 0 EN BINAIRE
 47adcd	mov    %rax,%rdx
-47add0	shr    $0x3f,%rax
+47add0	shr    $0x3f,%rax               shift right ? Nullification car on décale de beaucoup de bits ? oui
 47add4	add    %rax,%rdx
-47add7	sar    %rdx
-47adda	jmp    47adbb <main.main+0x1b> ;
+47add7	sar    %rdx                     shift ARYTHMETIC right diviser par 2 en gardant le bit de signe
+                                        (que ça soit positif ou négatif ça marche)
+47adda	jmp    47adbb <main.main+0x1b>
 47addc	lea    (%rax,%rax,2),%rdx
 47ade0	lea    0x1(%rdx),%rdx
-47ade4	jmp    47adbb <main.main+0x1b> ;
+47ade4	jmp    47adbb <main.main+0x1b>
 47ade6	mov    %rcx,0x28(%rsp)
 47adeb	movups %xmm15,0x30(%rsp)
 ```
-  1. Que calcule ce programme ? Se renseigner sur la conjecture de Collatz. Le programme calcule une suite de Syracuse et retourne la valeur n pour le nombre d'iteration demandé.
+  1. Que calcule ce programme ? Se renseigner sur la conjecture de Collatz.
+  La conjecture de collatz dit 
   2. Identifier l'implantation des variables `x`, `cpt` et `orig`.
   3. Identifier les lignes du code machine qui correspondent à la boucle.
   4. Identifier le schéma de traduction de la conditionnelle.
@@ -197,8 +201,8 @@ le code, construit en désactivant l'inclusion en ligne des fonctions, est le su
 47c5c4	sub    $0x10,%rsp
 47c5c8	mov    %rax,0x20(%rsp)
 47c5cd	mov    %rbx,%rcx
-47c5d0	shr    $0x3f,%rbx
-47c5d4	lea    (%rcx,%rbx,1),%rdx
+47c5d0	shr    $0x3f,%rbx ; décalage de 63bit -> nullification
+47c5d4	lea    (%rcx,%rbx,1),%rdx ;
 47c5d8	sar    %rdx
 47c5db	mov    %rcx,%rbx
 47c5de	xor    %esi,%esi
@@ -246,4 +250,3 @@ le code, construit en désactivant l'inclusion en ligne des fonctions, est le su
 
   1. Que fait la fonction `Find` ?
   2. Étudier le code machine, puis associer chaque ligne du code machine à une ligne du code source.
-
