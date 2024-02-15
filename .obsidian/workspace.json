@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddbfabc47b7fe2e",
+        "id": "07f723592f52a19e",
         "type": "tabs",
         "children": [
           {
-            "id": "0d521652079e775e",
+            "id": "d7e4251e785d0c70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md"
+              }
             }
           },
           {
@@ -160,8 +168,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d521652079e775e",
+  "active": "d7e4251e785d0c70",
   "lastOpenFiles": [
+    "Système/Bas Niveau/td/4-pointeurs/td4.md",
+    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
+    "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Système.md",
+    "Programmation/Programmation.md",
+    "Programmation/OOP/OOP.md",
+    "Programmation/OOP/Cours/Cours.md",
+    "Programmation/OOP/Cours/04-heritage.pdf",
+    "Programmation/OOP/TD/TD.md",
     "Maths/Maths.md",
     "Maths/Logique/Logique.md",
     "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
@@ -177,24 +195,15 @@
     "Maths/Logique/Algèbre Booléen/Disjonction (OU, OR, ˅, +).md",
     "Maths/Logique/Algèbre Booléen/Conjonction (ET, AND, ˄, .).md",
     "Maths/Logique/Algèbre Booléen/1 formulaire algèbres_de_Boole.pdf",
-    "Programmation/Programmation.md",
-    "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/03-classesuml.pdf",
     "Programmation/OOP/Cours/02-objets-references.pdf",
     "Programmation/OOP/Cours/01-bases-kotlin.pdf",
     "Programmation/OOP/Cours/00-intro.pdf",
-    "Programmation/OOP/Cours/Cours.md",
-    "Système/Système.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/main_02.pdf",
     "Système/Bas Niveau/main_01.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Base de Données/Base de Données.md",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/TD3 Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Exo1.md",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Exo 1.md",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
@@ -203,7 +212,6 @@
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Système/Bas Niveau/cours/cours2-isa-x86-64/main.pdf",
-    "Système/Bas Niveau/cours/cours2-isa-x86-64/src/mov/main.go",
     "Programmation/Initiation-dev/Algo/quicksort.png",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
