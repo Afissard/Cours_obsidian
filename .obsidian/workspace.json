@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ea80e191bf4dcf8f",
+        "id": "22de0e37b9fab7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "c38aa28cdc9ef99f",
+            "id": "29f6b0ba38ef255a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +160,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c38aa28cdc9ef99f",
+  "active": "29f6b0ba38ef255a",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/TD4 Planification/TD4 Planification.md",
+    "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/TD4 Planification/TD4 Planification.md",
     "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf",
     "Gestion de projet/Gestion projet informatique/TD4 Planification",
     "Gestion de projet/Gestion projet informatique/Nouveau dossier",
-    "Gestion de projet/Gestion de projet.md",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/tp.md",
@@ -199,7 +191,6 @@
     "Maths/Logique/Algèbre Booléen/Implique (→).md",
     "Maths/Logique/Algèbre Booléen/Formule Tautologique.md",
     "Maths/Logique/Algèbre Booléen/Formule logiquement équivalentes (≡).md",
-    "Maths/Logique/Algèbre Booléen/Formule (in)satisfiable.md",
     "Maths/Logique/Algèbre Booléen/1 formulaire algèbres_de_Boole.pdf",
     "Programmation/OOP/Cours/03-classesuml.pdf",
     "Programmation/OOP/Cours/02-objets-references.pdf",
