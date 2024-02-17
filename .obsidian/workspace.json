@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "22de0e37b9fab7d3",
+        "id": "ab13b4a4508a21fe",
         "type": "tabs",
         "children": [
           {
-            "id": "29f6b0ba38ef255a",
+            "id": "8722a9ddf7671448",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programmation/OOP/OOP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 200
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programmation/OOP/OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programmation/OOP/OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programmation/OOP/OOP.md"
+              }
             }
           },
           {
@@ -142,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,71 +159,72 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29f6b0ba38ef255a",
+  "active": "8722a9ddf7671448",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/TD4 Planification/TD4 Planification.md",
-    "Gestion de projet/Gestion projet informatique/TD4 Planification/GPO2 - TD4 - SUJET - Planification - 4.4.pdf",
-    "Gestion de projet/Gestion projet informatique/TD4 Planification",
-    "Gestion de projet/Gestion projet informatique/Nouveau dossier",
-    "Système/Système.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Bas Niveau/tp/tp.md",
-    "Système/Bas Niveau/tp/3-reverse/tp3.md",
-    "conflict-files-obsidian-git.md",
-    "Système/Bas Niveau/td/td.md",
-    "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
-    "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Programmation/Programmation.md",
-    "Programmation/OOP/OOP.md",
-    "Programmation/OOP/Cours/Cours.md",
-    "Programmation/OOP/Cours/04-heritage.pdf",
-    "Programmation/OOP/TD/TD.md",
-    "Maths/Maths.md",
-    "Maths/Logique/Logique.md",
-    "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
-    "Maths/Logique/Algèbre Booléen/Toolbox.md",
-    "Maths/Logique/Algèbre Booléen/Simplification et De Morgan.md",
-    "Maths/Logique/Algèbre Booléen/Neutre & Absorption.md",
-    "Maths/Logique/Algèbre Booléen/Négation (NON, NOT, ¬).md",
-    "Maths/Logique/Algèbre Booléen/Implique (→).md",
-    "Maths/Logique/Algèbre Booléen/Formule Tautologique.md",
-    "Maths/Logique/Algèbre Booléen/Formule logiquement équivalentes (≡).md",
-    "Maths/Logique/Algèbre Booléen/1 formulaire algèbres_de_Boole.pdf",
-    "Programmation/OOP/Cours/03-classesuml.pdf",
-    "Programmation/OOP/Cours/02-objets-references.pdf",
-    "Programmation/OOP/Cours/01-bases-kotlin.pdf",
-    "Programmation/OOP/Cours/00-intro.pdf",
-    "Système/Bas Niveau/main_02.pdf",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Programmation/Initiation-dev/Algo/quicksort.png",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "Programmation/OOP/installation-Intellij/tuto.md",
+    "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/proxy.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_edit.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin_next.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/newproject.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/junit_result.png",
+    "Programmation/OOP/installation-Intellij/tuto/test.md",
+    "Programmation/OOP/installation-Intellij/tuto/start.md",
+    "Programmation/OOP/installation-Intellij/tuto/proxy.md",
+    "Programmation/OOP/installation-Intellij/tuto/plantuml.md",
+    "Programmation/OOP/installation-Intellij/tuto/install.md",
+    "Programmation/OOP/installation-Intellij/tuto/import_project.md",
+    "Programmation/OOP/installation-Intellij/tuto/import.md",
+    "Programmation/OOP/installation-Intellij/tuto/img",
+    "Programmation/OOP/installation-Intellij/tuto/git.md",
+    "Programmation/OOP/installation-Intellij/tuto/edit.md",
+    "Programmation/OOP/installation-Intellij/tuto/debug.md",
+    "Programmation/OOP/installation-Intellij/tuto/dependancies.md",
+    "Programmation/OOP/installation-Intellij/tuto/coverage.md",
+    "Programmation/OOP/installation-Intellij/tuto/classes.md",
+    "Programmation/OOP/installation-Intellij/tuto",
+    "Programmation/OOP/installation-Intellij/README.md",
+    "Programmation/OOP/installation-Intellij",
+    "Programmation/OOP/installation-Intelji/tuto/test.md",
+    "Programmation/OOP/installation-Intelji/tuto/start.md",
+    "Programmation/OOP/installation-Intelji/tuto/plantuml.md",
+    "Programmation/OOP/installation-Intelji/tuto/install.md",
+    "Programmation/OOP/installation-Intelji/tuto/proxy.md",
+    "Programmation/OOP/installation-Intelji/tuto/import.md",
+    "Programmation/OOP/installation-Intelji/tuto/import_project.md",
+    "Programmation/OOP/installation-Intelji/tuto/img",
+    "Programmation/OOP/installation-Intelji/tuto/git.md",
+    "Programmation/OOP/installation-Intelji/tuto/edit.md",
+    "Programmation/OOP/installation-Intelji/tuto/debug.md",
+    "Programmation/OOP/installation-Intelji/tuto/dependancies.md",
+    "Programmation/OOP/installation-Intelji/tuto",
+    "Programmation/OOP/installation-Intelji",
+    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main/tuto/img",
+    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main/tuto",
+    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main",
+    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main.zip",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
-    "Avenir Etudes/PPP/PPP_tableau.jpg",
-    "Système/Bas Niveau/tp/1-init_debug/images/gdb-1.png",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/cartemere.jpg",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/ssd.jpg",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/proc.jpg",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/outsidedd.jpg",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/MIPS_Architecture_(Pipelined).svg.png",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/insidedd.jpg",
-    "Système/Bas Niveau/cours/cours1-organisation_machine_execution/figures/gpumobile.jpg",
-    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
-    "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas"
+    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
+    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
+    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
+    "Programmation/OOP/TD/Etat mémoire L10.canvas",
+    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas"
   ]
 }
