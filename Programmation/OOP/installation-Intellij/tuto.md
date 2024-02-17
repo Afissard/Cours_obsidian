@@ -57,4 +57,4 @@ Cette partie concerne uniquement les étudiants sur les postes de l'IUT.
 
 ### 10. [Installer un plugin : exemple de PlantUML](tuto/plantuml.md)
 
-### X. [corriger des erreurs possible dans les dépendances ](tuto/dependancies.md)
+### 11. [corriger des erreurs possible dans les dépendances ](tuto/dependancies.md)

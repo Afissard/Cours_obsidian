@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Programmation/OOP/installation-Intellij/tuto/classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Programmation/OOP/installation-Intellij/tuto/classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Programmation/OOP/installation-Intellij/tuto/classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/OOP/OOP.md"
+                "file": "Programmation/OOP/installation-Intellij/tuto/classes.md"
               }
             }
           },
@@ -170,7 +170,12 @@
   },
   "active": "8722a9ddf7671448",
   "lastOpenFiles": [
+    "Programmation/OOP/installation-Intellij/tuto/edit.md",
+    "Programmation/OOP/installation-Intellij/tuto/start.md",
     "Programmation/OOP/installation-Intellij/tuto.md",
+    "Programmation/OOP/installation-Intellij/tuto/install.md",
+    "Programmation/OOP/installation-Intellij/installation-Intellij.md",
+    "Programmation/OOP/OOP.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
@@ -182,15 +187,12 @@
     "Programmation/OOP/installation-Intellij/tuto/img/newproject.png",
     "Programmation/OOP/installation-Intellij/tuto/img/junit_result.png",
     "Programmation/OOP/installation-Intellij/tuto/test.md",
-    "Programmation/OOP/installation-Intellij/tuto/start.md",
     "Programmation/OOP/installation-Intellij/tuto/proxy.md",
     "Programmation/OOP/installation-Intellij/tuto/plantuml.md",
-    "Programmation/OOP/installation-Intellij/tuto/install.md",
     "Programmation/OOP/installation-Intellij/tuto/import_project.md",
     "Programmation/OOP/installation-Intellij/tuto/import.md",
     "Programmation/OOP/installation-Intellij/tuto/img",
     "Programmation/OOP/installation-Intellij/tuto/git.md",
-    "Programmation/OOP/installation-Intellij/tuto/edit.md",
     "Programmation/OOP/installation-Intellij/tuto/debug.md",
     "Programmation/OOP/installation-Intellij/tuto/dependancies.md",
     "Programmation/OOP/installation-Intellij/tuto/coverage.md",
@@ -208,8 +210,6 @@
     "Programmation/OOP/installation-Intelji/tuto/img",
     "Programmation/OOP/installation-Intelji/tuto/git.md",
     "Programmation/OOP/installation-Intelji/tuto/edit.md",
-    "Programmation/OOP/installation-Intelji/tuto/debug.md",
-    "Programmation/OOP/installation-Intelji/tuto/dependancies.md",
     "Programmation/OOP/installation-Intelji/tuto",
     "Programmation/OOP/installation-Intelji",
     "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main/tuto/img",
