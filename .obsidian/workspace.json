@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22de0e37b9fab7d3",
+        "id": "cbb73195b346774b",
         "type": "tabs",
         "children": [
           {
-            "id": "29f6b0ba38ef255a",
+            "id": "3130b1396aab68e9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Maths/Méthode Numérique/Prise de notes amphi.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Maths/Méthode Numérique/Prise de notes amphi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/OOP.md",
+                "file": "Maths/Méthode Numérique/Prise de notes amphi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/OOP/OOP.md"
+                "file": "Maths/Méthode Numérique/Prise de notes amphi.md"
               }
             }
           },
@@ -168,9 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29f6b0ba38ef255a",
+  "active": "3130b1396aab68e9",
   "lastOpenFiles": [
+    "Programmation/OOP/Cours/04-heritage.pdf",
+    "Programmation/OOP/Cours/05-kotlin.pdf",
+    "Programmation/OOP/Cours/Cours.md",
+    "Programmation/OOP/OOP.md",
     "Programmation/Programmation.md",
+    "Maths/Méthode Numérique/Prise de notes amphi.md",
+    "Maths/Méthode Numérique/Méthode Numérique.md",
+    "Maths/Maths.md",
+    "Maths/Méthode Numérique/PolyEntier_a2.pdf",
+    "Système/Bas Niveau/tp/3-reverse/Note.md",
+    "Maths/Méthode Numérique",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/TD4 Planification/TD4 Planification.md",
@@ -185,26 +197,17 @@
     "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/3-boucles_et_conditionnelles/td3.md",
     "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Programmation/OOP/OOP.md",
-    "Programmation/OOP/Cours/Cours.md",
-    "Programmation/OOP/Cours/04-heritage.pdf",
     "Programmation/OOP/TD/TD.md",
-    "Maths/Maths.md",
     "Maths/Logique/Logique.md",
     "Maths/Logique/Algèbre Booléen/Algèbre Booléen.md",
     "Maths/Logique/Algèbre Booléen/Toolbox.md",
     "Maths/Logique/Algèbre Booléen/Simplification et De Morgan.md",
     "Maths/Logique/Algèbre Booléen/Neutre & Absorption.md",
     "Maths/Logique/Algèbre Booléen/Négation (NON, NOT, ¬).md",
-    "Maths/Logique/Algèbre Booléen/Implique (→).md",
-    "Maths/Logique/Algèbre Booléen/Formule Tautologique.md",
-    "Maths/Logique/Algèbre Booléen/Formule logiquement équivalentes (≡).md",
     "Maths/Logique/Algèbre Booléen/1 formulaire algèbres_de_Boole.pdf",
     "Programmation/OOP/Cours/03-classesuml.pdf",
     "Programmation/OOP/Cours/02-objets-references.pdf",
     "Programmation/OOP/Cours/01-bases-kotlin.pdf",
-    "Programmation/OOP/Cours/00-intro.pdf",
-    "Système/Bas Niveau/main_02.pdf",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
