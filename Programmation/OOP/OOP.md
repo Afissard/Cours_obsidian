@@ -7,6 +7,7 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - **[[Cours]]**
 - [[eval.pdf]]
+- **[[installation-Intellij]]**
 - [[Introduction]]
 - [[Notes Amphi]]
 - **[[TD]]**
