@@ -8,6 +8,7 @@ type: folder_brief_live
 - **[[Cours]]**
 - [[eval.pdf]]
 - [[Introduction]]
+- [[Notes Amphi]]
 - **[[TD]]**
 
 %% End Waypoint %%

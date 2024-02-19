@@ -14,6 +14,5 @@ type: folder_brief_live
 - [[06-kotlin-exception.pdf]]
 - [[07-kotlin-collections.pdf]]
 - [[08-sequencesuml.pdf]]
-- [[Notes Amphi]]
 
 %% End Waypoint %%
