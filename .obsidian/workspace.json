@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "147e3922b3f949bf",
+        "id": "796a33c9db30ee15",
         "type": "tabs",
         "children": [
           {
-            "id": "668a69db88a307ef",
+            "id": "79da9ebc8373aeac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Maths.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Maths/Maths.md"
               }
             }
           },
@@ -162,15 +168,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "79da9ebc8373aeac",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Maths/Graph/recherchePlusCourtsChemins.pdf",
+    "Maths/Graph/prise de note.md",
+    "Maths/Graph/poly-concepts-base.pdf",
+    "Maths/Graph/poly-problemes-usuels.pdf",
+    "Maths/Graph/introduction.pdf",
+    "Maths/Graph/graphesEuleriensHamiltoniens.pdf",
+    "Maths/Graph/fermetureTransitive-connexite.pdf",
+    "Maths/Graph/conceptsBase.pdf",
+    "Maths/Graph/coloration.pdf",
+    "Maths/Graph/cheminsChaines-ascendantsDescendants.pdf",
+    "Maths/Graph/arbresCouvrants.pdf",
+    "Maths/Graph/Graph.md",
+    "Maths/Maths.md",
+    "Système/Système.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/tp/3-reverse/Note.md",
+    "conflict-files-obsidian-git.md",
     "Programmation/OOP/Notes Amphi.md",
     "Maths/Méthode Numérique/Prise de notes amphi.md",
     "Maths/Méthode Numérique/PolyEntier_a2.pdf",
     "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Maths/Méthode Numérique",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/installation-Intellij/installation-Intellij.md",
@@ -185,8 +206,6 @@
     "Programmation/OOP/installation-Intellij/tuto/test.md",
     "Programmation/OOP/installation-Intellij/tuto/classes.md",
     "Programmation/OOP/installation-Intellij/tuto/edit.md",
-    "Programmation/OOP/installation-Intellij/tuto/start.md",
-    "Programmation/OOP/installation-Intellij/tuto/install.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
@@ -197,19 +216,6 @@
     "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin.png",
     "Programmation/OOP/installation-Intellij/tuto/img/newproject.png",
     "Programmation/OOP/installation-Intellij/tuto/img/junit_result.png",
-    "Programmation/OOP/installation-Intellij/tuto/proxy.md",
-    "Programmation/OOP/installation-Intellij/tuto/img",
-    "Programmation/OOP/installation-Intellij/tuto",
-    "Programmation/OOP/installation-Intellij/README.md",
-    "Programmation/OOP/installation-Intellij",
-    "Programmation/OOP/installation-Intelji/tuto/test.md",
-    "Programmation/OOP/installation-Intelji/tuto/start.md",
-    "Programmation/OOP/installation-Intelji/tuto/plantuml.md",
-    "Programmation/OOP/installation-Intelji/tuto/img",
-    "Programmation/OOP/installation-Intelji/tuto",
-    "Programmation/OOP/installation-Intelji",
-    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main/tuto/img",
-    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main/tuto",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
