@@ -10,9 +10,13 @@
           {
             "id": "6fdb704fe6b98194",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf"
+              }
             }
           },
           {
@@ -162,6 +170,11 @@
   },
   "active": "6fdb704fe6b98194",
   "lastOpenFiles": [
+    "Système/Bas Niveau/tp/3-reverse/Note.md",
+    "Système/Bas Niveau/tp/tp.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Système.md",
+    "Programmation/OOP/Cours/06-kotlin-exception.pdf",
     "conflict-files-obsidian-git.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
@@ -191,11 +204,9 @@
     "Programmation/OOP/installation-Intellij/tuto",
     "Programmation/OOP/installation-Intellij/installation-Intellij.md",
     "Programmation/OOP/installation-Intellij",
-    "Programmation/OOP/Cours/06-kotlin-exception.pdf",
     "Programmation/OOP/Cours/05-kotlin.pdf",
     "Programmation/OOP/Cours/07-kotlin-collections.pdf",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "Système/Système.md",
     "SAE/SAE.md",
     "Maths/Méthode Numérique/Prise de notes amphi.md",
     "Maths/Méthode Numérique/PolyEntier_a2.pdf",
@@ -205,9 +216,6 @@
     "Programmation/OOP/OOP.md",
     "Programmation/Programmation.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Maths/Maths.md",
-    "Système/Bas Niveau/tp/3-reverse/Note.md",
-    "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
