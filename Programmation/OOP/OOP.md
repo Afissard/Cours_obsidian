@@ -9,6 +9,7 @@ type: folder_brief_live
 - [[eval.pdf]]
 - **[[installation-Intellij]]**
 - [[Introduction]]
+- [[Notes Amphi]]
 - **[[TD]]**
 
 %% End Waypoint %%

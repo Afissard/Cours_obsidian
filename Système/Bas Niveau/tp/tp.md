@@ -29,6 +29,7 @@ type: folder_brief_live
 			- [[main.go]]
 	- [[tp2]]
 - **3-reverse**
+	- [[Note]]
 	- **src**
 		- **mysterio**
 			- [[go.mod]]

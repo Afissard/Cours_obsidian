@@ -6,6 +6,7 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - **[[Graph]]**
 - **[[Logique]]**
+- **[[Méthode Numérique]]**
 - **[[Outils_Fondamentaux]]**
 
 %% End Waypoint %%

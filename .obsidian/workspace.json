@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c568b9adb5d6c6",
+        "id": "398fc85fb5c1c1f3",
         "type": "tabs",
         "children": [
           {
-            "id": "21a3fab7b31c37ce",
+            "id": "1877c6b7770f1871",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -160,8 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21a3fab7b31c37ce",
+  "active": "1877c6b7770f1871",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Système/Bas Niveau/tp/3-reverse/Note.md",
+    "Programmation/OOP/Notes Amphi.md",
+    "Maths/Méthode Numérique/Prise de notes amphi.md",
+    "Maths/Méthode Numérique/PolyEntier_a2.pdf",
+    "Maths/Méthode Numérique/Méthode Numérique.md",
+    "Maths/Méthode Numérique",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/installation-Intellij/installation-Intellij.md",
@@ -196,18 +211,11 @@
     "Programmation/OOP/installation-Intelji/tuto/test.md",
     "Programmation/OOP/installation-Intelji/tuto/start.md",
     "Programmation/OOP/installation-Intelji/tuto/plantuml.md",
-    "Programmation/OOP/installation-Intelji/tuto/install.md",
-    "Programmation/OOP/installation-Intelji/tuto/proxy.md",
-    "Programmation/OOP/installation-Intelji/tuto/import.md",
-    "Programmation/OOP/installation-Intelji/tuto/import_project.md",
     "Programmation/OOP/installation-Intelji/tuto/img",
-    "Programmation/OOP/installation-Intelji/tuto/git.md",
     "Programmation/OOP/installation-Intelji/tuto",
     "Programmation/OOP/installation-Intelji",
     "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main/tuto/img",
     "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main/tuto",
-    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main",
-    "Programmation/OOP/dev.objets.tutoriel.intellij.idea-main.zip",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
