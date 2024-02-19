@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "398fc85fb5c1c1f3",
+        "id": "147e3922b3f949bf",
         "type": "tabs",
         "children": [
           {
-            "id": "1877c6b7770f1871",
+            "id": "668a69db88a307ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1877c6b7770f1871",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Système/Bas Niveau/tp/3-reverse/Note.md",
