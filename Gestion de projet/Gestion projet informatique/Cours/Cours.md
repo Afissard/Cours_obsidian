@@ -10,6 +10,7 @@ type: folder_brief_live
 - [[GPO2 - CM2 - Tache-Typologie 4.0.pdf]]
 - [[GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf]]
 - [[GPO2 - CM4 - Suivi-CdC 4.0.pdf]]
+- [[GPO2 - CM5 - Cours Gestion de version 4.2.pdf]]
 - [[prise de note amphi]]
 
 %% End Waypoint %%

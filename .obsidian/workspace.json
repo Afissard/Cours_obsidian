@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a92f2a19e88dd05e",
+        "id": "fdcdf8fab05e09b0",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a87cb8e0e9d5be",
+            "id": "904a5837bcbed6f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "Gestion de projet/Gestion projet informatique/Cours/Cours.md"
               }
             }
           },
@@ -164,8 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "904a5837bcbed6f5",
   "lastOpenFiles": [
+    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion de projet.md",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/06-kotlin-exception.pdf",
     "Système/Système.md",
@@ -205,12 +215,7 @@
     "Programmation/OOP/Cours/07-kotlin-collections.pdf",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "SAE/SAE.md",
-    "Maths/Méthode Numérique/Prise de notes amphi.md",
     "Maths/Méthode Numérique/PolyEntier_a2.pdf",
-    "Programmation/OOP/Cours/01-bases-kotlin.pdf",
-    "Programmation/OOP/Cours/04-heritage.pdf",
-    "Programmation/OOP/OOP.md",
-    "Programmation/Programmation.md",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
