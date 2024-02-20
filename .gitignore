@@ -6,6 +6,8 @@
 
 # OR only to exclude workspace cache
 .obsidian/workspace/*
+# is causing error sometime 
+.obsidian/workspace.json
 
 # Exclude plugins
 #.obsidian/plugins/*

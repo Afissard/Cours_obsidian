@@ -10,7 +10,6 @@ type: folder_brief_live
 		- [[gdb-1.png]]
 	- **src**
 		- **findmin**
-			- [[findmin.exe]]
 			- [[go.mod]]
 			- [[main.go]]
 	- [[tp1]]
@@ -20,7 +19,6 @@ type: folder_brief_live
 			- [[go.mod]]
 			- [[main]]
 			- [[main.go]]
-			- [[sliar1.exe]]
 		- **slicesandarrays2**
 			- [[go.mod]]
 			- [[main]]
