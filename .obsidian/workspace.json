@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55fccfd4e1e5653a",
+        "id": "a92f2a19e88dd05e",
         "type": "tabs",
         "children": [
           {
-            "id": "6fdb704fe6b98194",
+            "id": "e1a87cb8e0e9d5be",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf",
+                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf",
+                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/OOP/Cours/06-kotlin-exception.pdf"
+                "file": "Maths/Maths.md"
               }
             }
           },
@@ -168,13 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fdb704fe6b98194",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
-    "Système/Bas Niveau/tp/3-reverse/Note.md",
-    "Système/Bas Niveau/tp/tp.md",
-    "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Système.md",
+    "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/06-kotlin-exception.pdf",
+    "Système/Système.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/tp/tp.md",
+    "Système/Bas Niveau/tp/3-reverse/Note.md",
     "conflict-files-obsidian-git.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
@@ -212,10 +209,8 @@
     "Maths/Méthode Numérique/PolyEntier_a2.pdf",
     "Programmation/OOP/Cours/01-bases-kotlin.pdf",
     "Programmation/OOP/Cours/04-heritage.pdf",
-    "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/OOP.md",
     "Programmation/Programmation.md",
-    "Maths/Méthode Numérique/Méthode Numérique.md",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
