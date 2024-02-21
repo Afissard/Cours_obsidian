@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a17752c99d76c1e2",
+        "id": "804e484d57955e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "21137b9e3dfa24d4",
+            "id": "ce14d8670370b9ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de projet/Gestion de projet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21137b9e3dfa24d4",
+  "active": "ce14d8670370b9ac",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Economie/Economie.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
@@ -180,7 +173,6 @@
     "conflict-files-obsidian-git.md",
     "Maths/Méthode Numérique/Slides_cours_etu.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
-    "Gestion de projet/Gestion de projet.md",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/06-kotlin-exception.pdf",
     "Système/Bas Niveau/tp/3-reverse/Note.md",
