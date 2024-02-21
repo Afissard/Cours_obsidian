@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Communication/English presentation skills/TED presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Communication/English presentation skills/TED presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Communication.md",
+                "file": "Communication/English presentation skills/TED presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Communication.md"
+                "file": "Communication/English presentation skills/TED presentation.md"
               }
             }
           },
@@ -168,9 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "ce14d8670370b9ac",
   "lastOpenFiles": [
-    "Communication/Sans titre",
+    "Communication/Communication.md",
+    "Communication/English presentation skills/TED presentation.md",
+    "Communication/English presentation skills",
     "Système/Système.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Economie/Economie.md",
@@ -211,11 +213,9 @@
     "Programmation/OOP/installation-Intellij/tuto/classes.md",
     "Programmation/OOP/installation-Intellij/tuto.md",
     "Programmation/OOP/installation-Intellij/tuto",
-    "Programmation/OOP/installation-Intellij/installation-Intellij.md",
     "Programmation/OOP/installation-Intellij",
     "Programmation/OOP/Cours/05-kotlin.pdf",
     "Programmation/OOP/Cours/07-kotlin-collections.pdf",
-    "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
