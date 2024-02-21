@@ -11,8 +11,12 @@
             "id": "ce14d8670370b9ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Communication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Communication.md"
+              }
             }
           },
           {
@@ -160,14 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce14d8670370b9ac",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Communication/Sans titre",
+    "Système/Système.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Economie/Economie.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
-    "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/tp.md",
     "conflict-files-obsidian-git.md",
@@ -207,7 +216,6 @@
     "Programmation/OOP/Cours/05-kotlin.pdf",
     "Programmation/OOP/Cours/07-kotlin-collections.pdf",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "SAE/SAE.md",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
