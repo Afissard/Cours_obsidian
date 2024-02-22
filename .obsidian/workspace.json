@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "796a33c9db30ee15",
+        "id": "aaeb2a9997673f38",
         "type": "tabs",
         "children": [
           {
-            "id": "79da9ebc8373aeac",
+            "id": "c9fad175e041ac87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Système/Système.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Système/Système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Système/Système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "Système/Système.md"
               }
             }
           },
@@ -168,8 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79da9ebc8373aeac",
+  "active": "c9fad175e041ac87",
   "lastOpenFiles": [
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/cours/cours.md",
+    "Système/Bas Niveau/cours/cours2-isa-x86-64/main.pdf",
+    "Système/Bas Niveau/td/td.md",
+    "Système/Système.md",
+    "Maths/Maths.md",
     "Maths/Graph/recherchePlusCourtsChemins.pdf",
     "Maths/Graph/prise de note.md",
     "Maths/Graph/poly-concepts-base.pdf",
@@ -180,17 +186,12 @@
     "Maths/Graph/conceptsBase.pdf",
     "Maths/Graph/coloration.pdf",
     "Maths/Graph/cheminsChaines-ascendantsDescendants.pdf",
-    "Maths/Graph/arbresCouvrants.pdf",
     "Maths/Graph/Graph.md",
-    "Maths/Maths.md",
-    "Système/Système.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/tp/3-reverse/Note.md",
     "conflict-files-obsidian-git.md",
     "Programmation/OOP/Notes Amphi.md",
     "Maths/Méthode Numérique/Prise de notes amphi.md",
-    "Maths/Méthode Numérique/PolyEntier_a2.pdf",
     "Maths/Méthode Numérique/Méthode Numérique.md",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
@@ -204,8 +205,6 @@
     "Programmation/OOP/installation-Intellij/tuto/coverage.md",
     "Programmation/OOP/installation-Intellij/tuto/debug.md",
     "Programmation/OOP/installation-Intellij/tuto/test.md",
-    "Programmation/OOP/installation-Intellij/tuto/classes.md",
-    "Programmation/OOP/installation-Intellij/tuto/edit.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
