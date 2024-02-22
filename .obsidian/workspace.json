@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a8055373b8cd69",
+        "id": "466034d9694c0fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "1a1066c36e8a6f68",
+            "id": "8bcacf809987386c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gestion de projet/Gestion de projet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion de projet/Gestion de projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion de projet/Gestion de projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion de projet/Gestion de projet.md"
+              }
             }
           },
           {
@@ -160,8 +168,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a1066c36e8a6f68",
+  "active": "8bcacf809987386c",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion de projet.md",
+    "conflict-files-obsidian-git.md",
+    "Communication/English presentation skills/TED presentation.md",
+    "Communication/English presentation skills",
+    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+    "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
+    "Gestion de projet/Gestion projet informatique/TD5 Git/GPO2 - TD5 - GIT v4.2.2 SUJET.pdf",
+    "Gestion de projet/Gestion projet informatique/TD5 Git",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/cours/cours.md",
@@ -173,15 +191,9 @@
     "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/poly-problemes-usuels.pdf",
     "Maths/Graph/introduction.pdf",
-    "Maths/Graph/graphesEuleriensHamiltoniens.pdf",
-    "Maths/Graph/fermetureTransitive-connexite.pdf",
-    "Maths/Graph/conceptsBase.pdf",
-    "Maths/Graph/coloration.pdf",
-    "Maths/Graph/cheminsChaines-ascendantsDescendants.pdf",
     "Maths/Graph/Graph.md",
     "Système/Bas Niveau/tp/tp.md",
     "Système/Bas Niveau/tp/3-reverse/Note.md",
-    "conflict-files-obsidian-git.md",
     "Programmation/OOP/Notes Amphi.md",
     "Maths/Méthode Numérique/Prise de notes amphi.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
@@ -194,9 +206,6 @@
     "Programmation/OOP/installation-Intellij/tuto/git.md",
     "Programmation/OOP/installation-Intellij/tuto/import_project.md",
     "Programmation/OOP/installation-Intellij/tuto/import.md",
-    "Programmation/OOP/installation-Intellij/tuto/coverage.md",
-    "Programmation/OOP/installation-Intellij/tuto/debug.md",
-    "Programmation/OOP/installation-Intellij/tuto/test.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
