@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aaeb2a9997673f38",
+        "id": "a3a8055373b8cd69",
         "type": "tabs",
         "children": [
           {
-            "id": "c9fad175e041ac87",
+            "id": "1a1066c36e8a6f68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Système.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Système.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,13 +160,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9fad175e041ac87",
+  "active": "1a1066c36e8a6f68",
   "lastOpenFiles": [
+    "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/cours/cours.md",
     "Système/Bas Niveau/cours/cours2-isa-x86-64/main.pdf",
     "Système/Bas Niveau/td/td.md",
-    "Système/Système.md",
     "Maths/Maths.md",
     "Maths/Graph/recherchePlusCourtsChemins.pdf",
     "Maths/Graph/prise de note.md",
