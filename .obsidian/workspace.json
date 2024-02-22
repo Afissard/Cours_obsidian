@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "804e484d57955e3b",
+        "id": "17085d6ad6e5f76f",
         "type": "tabs",
         "children": [
           {
-            "id": "ce14d8670370b9ac",
+            "id": "3fc141e49839bdc7",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD5 Git/GPO2 - TD5 - GIT v4.2.2 SUJET.pdf"
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "e6b02df016e75475",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e279b59fa1862ca",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +161,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e279b59fa1862ca",
+  "active": "3fc141e49839bdc7",
   "lastOpenFiles": [
     "Gestion de projet/Gestion projet informatique/TD5 Git/GPO2 - TD5 - GIT v4.2.2 SUJET.pdf",
     "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
