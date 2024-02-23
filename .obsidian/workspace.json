@@ -11,8 +11,12 @@
             "id": "3fc141e49839bdc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gestion de projet/Gestion de projet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion de projet/Gestion de projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion de projet/Gestion de projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion de projet/Gestion de projet.md"
+              }
             }
           },
           {
@@ -163,9 +170,9 @@
   },
   "active": "3fc141e49839bdc7",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/TD5 Git/GPO2 - TD5 - GIT v4.2.2 SUJET.pdf",
     "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion de projet.md",
     "Communication/Communication.md",
     "Communication/English presentation skills/TED presentation.md",
