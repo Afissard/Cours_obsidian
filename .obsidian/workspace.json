@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f101a0c30b853004",
+        "id": "bee97558968bd538",
         "type": "tabs",
         "children": [
           {
-            "id": "8f731fa34b4477da",
+            "id": "8818ace97b09c38d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/communication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/communication.md"
+              }
             }
           },
           {
@@ -160,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f731fa34b4477da",
+  "active": "8818ace97b09c38d",
   "lastOpenFiles": [
     "Communication/communication.md",
     "Communication/English presentation skills/Presentation introduction practice.md",
