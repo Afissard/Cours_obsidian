@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a87879b6919014bf",
+        "id": "90196e5775b8c0d7",
         "type": "tabs",
         "children": [
           {
-            "id": "8834fb62b0acaeb4",
+            "id": "d56970cbefe8d2c2",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7f127e025b07bb79",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,13 +160,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f127e025b07bb79",
+  "active": "d56970cbefe8d2c2",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD.md",
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/TD3 Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo3/Exo3.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/GPO2 - TD3 - correction - WBS Projet Buffet Petit-déjeuner.pdf",
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD8 - Profil Risques-Buffet petit-déjeuner CORRECTION.xlsx",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM6 - Risques 4.1.pdf",
@@ -206,9 +186,6 @@
     "Gestion de projet/Gestion projet informatique/TD/TD4 Planification/TD4 Planification.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/GPO2 - TD3 - Taches - Typologie - 4.2 SUJET.pdf",
     "Gestion de projet/Gestion projet informatique/TD/TD1/GPO2 - TD1 - Mises en situation - 3.1 MALVOYANT.pdf",
-    "Gestion de projet/Gestion projet informatique/TD/TD.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion de projet.md",
     "Maths/Graph/Graph.md",
     "Maths/Graph/tp/tp.md",
     "Maths/Maths.md",
