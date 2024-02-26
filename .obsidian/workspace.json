@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "013f1da29085e141",
+        "id": "a87879b6919014bf",
         "type": "tabs",
         "children": [
           {
-            "id": "667268845e73b6c9",
+            "id": "8834fb62b0acaeb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+                "file": "Maths/Graph/Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+                "file": "Maths/Graph/Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+                "file": "Maths/Graph/Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md"
+                "file": "Maths/Graph/Graph.md"
               }
             }
           },
@@ -168,13 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "667268845e73b6c9",
+  "active": "8834fb62b0acaeb4",
   "lastOpenFiles": [
-    "Communication/English presentation skills/Presentation introduction practice.md",
-    "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
-    "Communication/English presentation skills/TED presentation.md",
-    "Communication/communication.md",
+    "Maths/Graph/tp/tp.md",
+    "Maths/Graph/Graph.md",
     "Maths/Maths.md",
+    "Communication/communication.md",
+    "Communication/English presentation skills/TED presentation.md",
+    "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+    "Communication/English presentation skills/Presentation introduction practice.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
     "Maths/Méthode Numérique/Slides_cours_etu.pdf",
     "conflict-files-obsidian-git.md",
@@ -210,9 +212,7 @@
     "Programmation/OOP/installation-Intellij/tuto/plantuml.md",
     "Programmation/OOP/installation-Intellij/tuto/install.md",
     "Programmation/OOP/installation-Intellij/tuto/import_project.md",
-    "Programmation/OOP/installation-Intellij/tuto/import.md",
     "Programmation/OOP/installation-Intellij/tuto/img",
-    "Programmation/OOP/installation-Intellij/tuto/git.md",
     "Programmation/OOP/installation-Intellij/tuto",
     "Programmation/OOP/installation-Intellij",
     "Programmation/OOP/Cours/05-kotlin.pdf",
