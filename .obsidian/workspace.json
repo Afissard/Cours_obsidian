@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2c3fc250248d121e",
+        "id": "013f1da29085e141",
         "type": "tabs",
         "children": [
           {
-            "id": "bf5b6caebaedac59",
+            "id": "667268845e73b6c9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf"
-              },
-              "pinned": true
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf"
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md"
               }
             }
           },
@@ -168,10 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf5b6caebaedac59",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+    "conflict-files-obsidian-git.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
     "Maths/Maths.md",
     "Communication/communication.md",
