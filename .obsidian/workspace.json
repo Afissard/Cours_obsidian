@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Méthode Numérique/Méthode Numérique.md"
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md"
               }
             }
           },
@@ -168,20 +168,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "667268845e73b6c9",
   "lastOpenFiles": [
+    "Communication/English presentation skills/Presentation introduction practice.md",
+    "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+    "Communication/English presentation skills/TED presentation.md",
+    "Communication/communication.md",
+    "Maths/Maths.md",
+    "Maths/Méthode Numérique/Méthode Numérique.md",
     "Maths/Méthode Numérique/Slides_cours_etu.pdf",
     "conflict-files-obsidian-git.md",
-    "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Maths/Maths.md",
-    "Communication/communication.md",
-    "Communication/English presentation skills/Presentation introduction practice.md",
     "Communication/Communication.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/TD5 Git/GPO2 - TD5 - GIT v4.2.2 SUJET.pdf",
     "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
-    "Communication/English presentation skills/TED presentation.md",
     "Communication/English presentation skills",
     "Système/Système.md",
     "Gestion de projet/Economie/Economie.md",
