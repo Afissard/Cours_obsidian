@@ -10,16 +10,31 @@
           {
             "id": "8834fb62b0acaeb4",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7f127e025b07bb79",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Graph/Graph.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Graph/Graph.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Graph/Graph.md",
+                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Graph/Graph.md"
+                "file": "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md"
               }
             }
           },
@@ -168,34 +183,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8834fb62b0acaeb4",
+  "active": "7f127e025b07bb79",
   "lastOpenFiles": [
-    "Maths/Graph/tp/tp.md",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/TD3 Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo3/Exo3.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/GPO2 - TD3 - correction - WBS Projet Buffet Petit-déjeuner.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD8 - Profil Risques-Buffet petit-déjeuner CORRECTION.xlsx",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM6 - Risques 4.1.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/TD2 UML.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/GPO2 - TD2 - Use case - 1.3.1 - CORRECTION.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/GPO2 - TD2 - Use case - 1.3.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/Exo2.md",
+    "Gestion de projet/Gestion projet informatique/TD/GPO2- TD8 - Défaillance petit déjeuner CORRECTION.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/GPO2 - TD7 -GIT-v4.0 - CORRECTION.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/Exo 2.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD4 Planification/TD4 Planification.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/GPO2 - TD3 - Taches - Typologie - 4.2 SUJET.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD1/GPO2 - TD1 - Mises en situation - 3.1 MALVOYANT.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion de projet.md",
     "Maths/Graph/Graph.md",
+    "Maths/Graph/tp/tp.md",
     "Maths/Maths.md",
     "Communication/communication.md",
     "Communication/English presentation skills/TED presentation.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
     "Communication/English presentation skills/Presentation introduction practice.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
     "conflict-files-obsidian-git.md",
     "Communication/Communication.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/TD5 Git/GPO2 - TD5 - GIT v4.2.2 SUJET.pdf",
-    "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
-    "Communication/English presentation skills",
+    "Gestion de projet/Gestion projet informatique/TD/TD5 Git/Prise de note TD.md",
     "Système/Système.md",
     "Gestion de projet/Economie/Economie.md",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
     "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Bas Niveau/tp/tp.md",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
-    "Programmation/OOP/Cours/Cours.md",
-    "Programmation/OOP/Cours/06-kotlin-exception.pdf",
-    "Système/Bas Niveau/tp/3-reverse/Note.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
@@ -206,23 +233,10 @@
     "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin.png",
     "Programmation/OOP/installation-Intellij/tuto/img/newproject.png",
     "Programmation/OOP/installation-Intellij/tuto/img/junit_run.png",
-    "Programmation/OOP/installation-Intellij/tuto/test.md",
-    "Programmation/OOP/installation-Intellij/tuto/start.md",
-    "Programmation/OOP/installation-Intellij/tuto/proxy.md",
-    "Programmation/OOP/installation-Intellij/tuto/plantuml.md",
-    "Programmation/OOP/installation-Intellij/tuto/install.md",
-    "Programmation/OOP/installation-Intellij/tuto/import_project.md",
-    "Programmation/OOP/installation-Intellij/tuto/img",
-    "Programmation/OOP/installation-Intellij/tuto",
-    "Programmation/OOP/installation-Intellij",
-    "Programmation/OOP/Cours/05-kotlin.pdf",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
     "Communication/Anglais Technique/Vocabulary/Compound Word.canvas",
     "Communication/Anglais Technique/Help Desk/Typical Helpdesk.canvas"
