@@ -11,8 +11,12 @@
             "id": "d56970cbefe8d2c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/English presentation skills/Retour sur les presentations de TED-show.md"
+              }
             }
           },
           {
@@ -162,6 +170,8 @@
   },
   "active": "d56970cbefe8d2c2",
   "lastOpenFiles": [
+    "Communication/English presentation skills/TED presentation.md",
+    "Communication/communication.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/TD/TD.md",
@@ -189,8 +199,6 @@
     "Maths/Graph/Graph.md",
     "Maths/Graph/tp/tp.md",
     "Maths/Maths.md",
-    "Communication/communication.md",
-    "Communication/English presentation skills/TED presentation.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
     "Communication/English presentation skills/Presentation introduction practice.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",

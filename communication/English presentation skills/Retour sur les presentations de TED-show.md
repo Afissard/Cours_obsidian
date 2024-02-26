@@ -9,3 +9,8 @@
 - Utiliser le vocabulaire du manuel
 - Alterner les rôle pour faire passer les slides, ou ne pas se cacher derrière le pc.
 - Être claire sur ce que l'on a appris avec le TED talk, dire aussi pourquoi on à choisi ce sujet.
+# Does school kill creativity
+- very interesting
+- good debate
+- but there is clearly some one that is speaking more, with more ease.
+- 
