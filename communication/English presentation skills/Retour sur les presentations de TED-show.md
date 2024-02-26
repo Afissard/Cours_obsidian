@@ -13,4 +13,3 @@
 - very interesting
 - good debate
 - but there is clearly some one that is speaking more, with more ease.
-- 

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3b5c0b5720b0c003","x":-180,"y":-180,"width":300,"height":100,"type":"text","text":"Maslow's Hierarchy of needs"},
+		{"id":"e820e931d70957bf","x":260,"y":-160,"width":250,"height":80,"type":"text","text":"Physiological needs"},
+		{"id":"14fa5f461e0c7e64","x":260,"y":40,"width":250,"height":60,"type":"text","text":"Security needs"}
+	],
+	"edges":[
+		{"id":"72647e3d0cc6059d","fromNode":"3b5c0b5720b0c003","fromSide":"right","toNode":"e820e931d70957bf","toSide":"left"},
+		{"id":"ab501d18b0de926a","fromNode":"3b5c0b5720b0c003","fromSide":"right","toNode":"14fa5f461e0c7e64","toSide":"left"}
+	]
+}
