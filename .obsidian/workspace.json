@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bee97558968bd538",
+        "id": "2c3fc250248d121e",
         "type": "tabs",
         "children": [
           {
-            "id": "8818ace97b09c38d",
+            "id": "bf5b6caebaedac59",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Communication/communication.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/communication.md",
+                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/communication.md",
+                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/communication.md"
+                "file": "Maths/Méthode Numérique/Slides_cours_etu.pdf"
               }
             }
           },
@@ -168,8 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8818ace97b09c38d",
+  "active": "bf5b6caebaedac59",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+    "Maths/Méthode Numérique/Méthode Numérique.md",
+    "Maths/Maths.md",
     "Communication/communication.md",
     "Communication/English presentation skills/Presentation introduction practice.md",
     "Communication/Communication.md",
@@ -185,8 +189,6 @@
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/tp/tp.md",
-    "conflict-files-obsidian-git.md",
-    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/06-kotlin-exception.pdf",
@@ -210,9 +212,6 @@
     "Programmation/OOP/installation-Intellij/tuto/import.md",
     "Programmation/OOP/installation-Intellij/tuto/img",
     "Programmation/OOP/installation-Intellij/tuto/git.md",
-    "Programmation/OOP/installation-Intellij/tuto/edit.md",
-    "Programmation/OOP/installation-Intellij/tuto/dependancies.md",
-    "Programmation/OOP/installation-Intellij/tuto/debug.md",
     "Programmation/OOP/installation-Intellij/tuto",
     "Programmation/OOP/installation-Intellij",
     "Programmation/OOP/Cours/05-kotlin.pdf",
