@@ -52,7 +52,7 @@ func main() {
     }
 
     f1(&t1[1], &t1[2])
-    f2(1, 2, t1)
+    f2(1, 2, t1) // attention à la nature du tableau donnée : pas les même effet quand passé en paramètres, cf diffrence array / slice.
     f3(1, 2, t2)
     f4(1, 2, t3)
 
@@ -100,7 +100,7 @@ Et le code x86-64 ci-dessous :
   mov    %rcx,(%rax)
   ret
 
-<main.fc>
+<main.fc> ; fonction : f4
   push   %rbp
   mov    %rsp,%rbp
   sub    $0x10,%rsp
@@ -124,7 +124,7 @@ Et le code x86-64 ci-dessous :
   nopl   0x0(%rax)
   call   45cb20 <runtime.panicIndex>
 
-<main.fd>
+<main.fd> ; fonction : f3
   push   %rbp
   mov    %rsp,%rbp
   sub    $0x10,%rsp

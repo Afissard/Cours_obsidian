@@ -4,7 +4,7 @@ import (
     "fmt"
 )
 
-//go:noinlin
+//go:noinline
 func f1(x *int, y *int) {
     *x = *x + *y
     return
@@ -40,14 +40,17 @@ func main() {
     f3(1, 2, t2)
     f4(1, 2, t3)
 
+    fmt.Print("\nt1 : ")
     for cpt:=0; cpt<len(t1); cpt++ {
-        fmt.Println(t1[cpt])
+        fmt.Print(t1[cpt], " ")
     }
+    fmt.Print("\nt2 : ")
     for _, e := range t2 { 
-        fmt.Println(e)
+        fmt.Print(e, " ")
     }
+    fmt.Print("\nt3 : ")
     for _, e := range t3 { 
-        fmt.Println(*e)
+        fmt.Print(*e, " ")
     }
 }
 
