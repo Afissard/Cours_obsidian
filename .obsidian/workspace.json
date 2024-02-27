@@ -11,8 +11,10 @@
             "id": "c87509d4a0c4b606",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf"
+              }
             }
           },
           {
@@ -162,8 +168,9 @@
   },
   "active": "c87509d4a0c4b606",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion de projet.md",
     "conflict-files-obsidian-git.md",
     "Communication/English presentation skills/TED presentation.md",
     "Communication/English presentation skills",
@@ -197,7 +204,6 @@
     "Programmation/OOP/installation-Intellij/tuto/plantuml.md",
     "Programmation/OOP/installation-Intellij/tuto/git.md",
     "Programmation/OOP/installation-Intellij/tuto/import_project.md",
-    "Programmation/OOP/installation-Intellij/tuto/import.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
