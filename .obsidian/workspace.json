@@ -10,9 +10,15 @@
           {
             "id": "2f5e52f4704deda5",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md"
+              }
             }
           },
           {
@@ -162,6 +172,10 @@
   },
   "active": "2f5e52f4704deda5",
   "lastOpenFiles": [
+    "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Système.md",
+    "Maths/Maths.md",
     "Maths/Méthode Numérique/Slides_cours_etu.pdf",
     "Maths/Méthode Numérique/TP/exo11/main.py",
     "Maths/Méthode Numérique/TP/exo11",
@@ -171,7 +185,6 @@
     "Maths/Méthode Numérique/TP",
     "Maths/Méthode Numérique/Nouveau dossier",
     "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Maths/Maths.md",
     "Communication/communication.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
@@ -186,7 +199,6 @@
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/TD3 Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo3/Exo3.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/GPO2 - TD3 - correction - WBS Projet Buffet Petit-déjeuner.pdf",
-    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD8 - Profil Risques-Buffet petit-déjeuner CORRECTION.xlsx",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/TD2 UML.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/Exo2.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
@@ -200,8 +212,6 @@
     "conflict-files-obsidian-git.md",
     "Communication/Communication.md",
     "Gestion de projet/Gestion projet informatique/TD/TD5 Git/Prise de note TD.md",
-    "Système/Système.md",
-    "Gestion de projet/Economie/Economie.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
