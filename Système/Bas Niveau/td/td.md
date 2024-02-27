@@ -39,6 +39,8 @@ type: folder_brief_live
 			- [[main.go]]
 	- [[td3]]
 - **4-pointeurs**
+	- **exo2**
+		- [[main.go]]
 	- **src**
 		- [[main.go]]
 	- [[td4]]
