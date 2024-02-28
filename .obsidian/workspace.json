@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13a0457ff716d4b5",
+        "id": "0b372c9eaef275e1",
         "type": "tabs",
         "children": [
           {
-            "id": "2f5e52f4704deda5",
+            "id": "cffff6a13ec608df",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "file": "Système/Système.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "file": "Système/Système.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md",
+                "file": "Système/Système.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système/Bas Niveau/td/4-pointeurs/td4.md"
+                "file": "Système/Système.md"
               }
             }
           },
@@ -170,14 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f5e52f4704deda5",
+  "active": "cffff6a13ec608df",
   "lastOpenFiles": [
+    "Système/Bas Niveau/Bas Niveau.md",
+    "Système/Bas Niveau/td/td.md",
+    "Système/Bas Niveau/td/4-pointeurs/td4.md",
     "Système/Bas Niveau/td/4-pointeurs/exo2/main.go",
     "Système/Bas Niveau/td/4-pointeurs/exo2",
     "Système/Bas Niveau/td/4-pointeurs/src/main.go",
     "Système/Bas Niveau/td/4-pointeurs/src/go.mod",
-    "Système/Bas Niveau/td/td.md",
-    "Système/Bas Niveau/Bas Niveau.md",
     "Système/Système.md",
     "Maths/Maths.md",
     "Maths/Méthode Numérique/Slides_cours_etu.pdf",
@@ -186,7 +185,6 @@
     "Maths/Méthode Numérique/TP/Dichotomie/main.py",
     "Maths/Méthode Numérique/TP/Dichotomie",
     "Maths/Méthode Numérique/TP/Nouveau dossier",
-    "Maths/Méthode Numérique/TP",
     "Maths/Méthode Numérique/Méthode Numérique.md",
     "Communication/communication.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",

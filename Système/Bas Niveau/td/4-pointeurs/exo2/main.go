@@ -27,10 +27,23 @@ import "fmt"
   ret
 */
 
-func f(a, b int){
 
+func f(a *int, b int)(*int){
+	var c int
+	if *a < b {
+		c = *a-b
+	} else {
+		c = b-*a
+	}
+	return &c
 }
 
 func main() {
-	fmt.Printf("exo2")
+	fmt.Println("exo2")
+	temp := 1
+
+	res1 := f(&temp, 2)
+	res2 := f(&temp, -2)
+	fmt.Println(res1, *res1)
+	fmt.Println(res2, *res2)
 }
