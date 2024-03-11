@@ -10,9 +10,15 @@
           {
             "id": "059b3d2736219c97",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Système/Réseau/Cours/Amphi 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Système/Réseau/Cours/Amphi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Système/Réseau/Cours/Amphi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Système/Réseau/Cours/Amphi 1.md"
+              }
             }
           },
           {
@@ -162,6 +172,13 @@
   },
   "active": "059b3d2736219c97",
   "lastOpenFiles": [
+    "Système/Réseau/Cours/hernandez-M2102-reseaux1-CM.pdf",
+    "Système/Réseau/Cours/Amphi 1.md",
+    "Système/Réseau/Cours/Cours.md",
+    "Système/Réseau/Réseau.md",
+    "Système/Réseau/Cours",
+    "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
+    "Système/Système.md",
     "Maths/Maths.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
@@ -187,17 +204,10 @@
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
-    "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
-    "Système/Bas Niveau/td/td.md",
-    "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/TD3 Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",

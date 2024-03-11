@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Amphi 1]]
+- [[Système/Bas Niveau/Amphi 1]]
 - [[Amphi 2]]
 - **[[cours]]**
 - [[main_01.pdf]]
