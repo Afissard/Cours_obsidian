@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30d536f1f68a4ac7",
+        "id": "c3f7db5db66ad2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "e2fbb9a887403e46",
+            "id": "f8fee1d81b7c1df7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/English presentation skills/TED presentation.md",
+                "file": "Maths/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/English presentation skills/TED presentation.md",
+                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/English presentation skills/TED presentation.md",
+                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/English presentation skills/TED presentation.md"
+                "file": "Maths/Maths.md"
               }
             }
           },
@@ -168,11 +168,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2fbb9a887403e46",
+  "active": "f8fee1d81b7c1df7",
   "lastOpenFiles": [
+    "Communication/communication.md",
+    "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
+    "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
+    "Communication/English presentation skills/Presentation introduction practice.md",
+    "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+    "Communication/English presentation skills/TED presentation.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
-    "Communication/communication.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
@@ -199,14 +204,8 @@
     "Système/Bas Niveau/td/4-pointeurs/td4.md",
     "Maths/Maths.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
-    "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
-    "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
-    "Communication/English presentation skills/TED presentation.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/TD3 Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo3/Exo3.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/TD2 UML.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/Exo2.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
