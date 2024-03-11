@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "649ab6cac0243765",
+        "id": "a50f634cebfcae8d",
         "type": "tabs",
         "children": [
           {
-            "id": "993c3f6fda21d4c0",
+            "id": "d4599aafe045f5d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/Programmation.md"
+                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md"
               }
             }
           },
@@ -168,13 +168,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "d4599aafe045f5d1",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
+    "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/mini-projet",
+    "Gestion de projet/Gestion de projet.md",
+    "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/07-kotlin-collections.pdf",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "Programmation/Programmation.md",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/td/td.md",
@@ -187,15 +192,12 @@
     "Maths/Méthode Numérique/Slides_cours_etu.pdf",
     "Maths/Méthode Numérique/TP/exo11/main.py",
     "Maths/Méthode Numérique/TP/exo11",
-    "Maths/Méthode Numérique/TP/Dichotomie/main.py",
     "Maths/Méthode Numérique/Méthode Numérique.md",
     "Communication/communication.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
     "Communication/English presentation skills/TED presentation.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/TD/TD.md",
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
@@ -208,7 +210,6 @@
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD4 Planification/TD4 Planification.md",
-    "Maths/Graph/Graph.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
