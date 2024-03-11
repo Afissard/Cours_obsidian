@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a50f634cebfcae8d",
+        "id": "30d536f1f68a4ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "d4599aafe045f5d1",
+            "id": "e2fbb9a887403e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
+                "file": "Communication/English presentation skills/TED presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
+                "file": "Communication/English presentation skills/TED presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
+                "file": "Communication/English presentation skills/TED presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md"
+                "file": "Communication/English presentation skills/TED presentation.md"
               }
             }
           },
@@ -168,13 +168,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4599aafe045f5d1",
+  "active": "e2fbb9a887403e46",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
-    "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/mini-projet",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Communication/communication.md",
     "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+    "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD.md",
+    "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM6 - Risques 4.1.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
+    "Gestion de projet/Gestion projet informatique/mini-projet",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
@@ -184,32 +197,19 @@
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Système/Bas Niveau/td/4-pointeurs/exo2/main.go",
-    "Système/Bas Niveau/td/4-pointeurs/exo2",
-    "Système/Bas Niveau/td/4-pointeurs/src/main.go",
-    "Système/Bas Niveau/td/4-pointeurs/src/go.mod",
     "Maths/Maths.md",
-    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
-    "Maths/Méthode Numérique/TP/exo11/main.py",
-    "Maths/Méthode Numérique/TP/exo11",
     "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Communication/communication.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
     "Communication/English presentation skills/TED presentation.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/TD3 Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo3/Exo3.md",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/TD2 UML.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/Exo2.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/Exo 2.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD4 Planification/TD4 Planification.md",
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
