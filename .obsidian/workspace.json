@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f7db5db66ad2f1",
+        "id": "9112643ba468b9c0",
         "type": "tabs",
         "children": [
           {
-            "id": "f8fee1d81b7c1df7",
+            "id": "059b3d2736219c97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Maths.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Maths.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8fee1d81b7c1df7",
+  "active": "059b3d2736219c97",
   "lastOpenFiles": [
+    "Maths/Maths.md",
+    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
+    "Maths/Méthode Numérique/Méthode Numérique.md",
+    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+    "Maths/Méthode Numérique/PolyEntier_a2.pdf",
+    "Maths/Méthode Numérique/TP/exo12/main.py",
+    "Maths/Méthode Numérique/TP/exo12",
     "Communication/communication.md",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
@@ -191,21 +190,14 @@
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "Gestion de projet/Gestion projet informatique/mini-projet",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
-    "Programmation/OOP/Cours/07-kotlin-collections.pdf",
-    "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/td/td.md",
     "Système/Bas Niveau/td/4-pointeurs/td4.md",
-    "Maths/Maths.md",
-    "Maths/Méthode Numérique/Méthode Numérique.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/TD3 Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo3/Exo3.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",

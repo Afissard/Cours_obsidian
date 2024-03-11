@@ -11,5 +11,7 @@ type: folder_brief_live
 - **TP**
 	- **exo11**
 		- [[main.py]]
+	- **exo12**
+		- [[main.py]]
 
 %% End Waypoint %%
