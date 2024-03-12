@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9112643ba468b9c0",
+        "id": "47e50590e377ee4f",
         "type": "tabs",
         "children": [
           {
-            "id": "059b3d2736219c97",
+            "id": "e8e04370cb4d3e23",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Système/Réseau/Cours/Amphi 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système/Réseau/Cours/Amphi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système/Réseau/Cours/Amphi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Système/Réseau/Cours/Amphi 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,15 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "059b3d2736219c97",
+  "active": "e8e04370cb4d3e23",
   "lastOpenFiles": [
-    "Système/Réseau/Cours/hernandez-M2102-reseaux1-CM.pdf",
-    "Système/Réseau/Cours/Amphi 1.md",
-    "Système/Réseau/Cours/Cours.md",
+    "Système/Système.md",
     "Système/Réseau/Réseau.md",
+    "Système/Réseau/Cours/Amphi 1.md",
+    "Système/Réseau/Cours/hernandez-M2102-reseaux1-CM.pdf",
+    "Système/Réseau/Cours/Cours.md",
     "Système/Réseau/Cours",
     "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
-    "Système/Système.md",
     "Maths/Maths.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
