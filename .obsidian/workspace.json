@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/communication.md",
+                "file": "Programmation/IHM/Amphi 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/communication.md",
+                "file": "Programmation/IHM/Amphi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/communication.md",
+                "file": "Programmation/IHM/Amphi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/communication.md"
+                "file": "Programmation/IHM/Amphi 1.md"
               }
             }
           },
@@ -170,9 +170,13 @@
   },
   "active": "e8e04370cb4d3e23",
   "lastOpenFiles": [
+    "Programmation/IHM/IHM.md",
+    "Programmation/IHM/Amphi 1.md",
+    "Programmation/Programmation.md",
+    "Programmation/IHM",
+    "Communication/communication.md",
     "Communication/English presentation skills/Describing visual.md",
     "Communication/English presentation skills/sucess factors.docx",
-    "Communication/communication.md",
     "Système/Système.md",
     "Système/Réseau/Réseau.md",
     "Système/Réseau/Cours/Amphi 1.md",
@@ -202,10 +206,7 @@
     "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM6 - Risques 4.1.pdf",
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf",
-    "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
-    "Programmation/OOP/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",

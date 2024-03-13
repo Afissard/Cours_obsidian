@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Amphi 1]]
+- [[Système/Réseau/Cours/Amphi 1]]
 - [[hernandez-M2102-reseaux1-CM.pdf]]
 
 %% End Waypoint %%

@@ -1,12 +1,10 @@
-# Programmation Overview
+# IHM Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[IHM]]**
-- **[[Initiation-dev]]**
-- **[[OOP]]**
+- [[Amphi 1]]
 
 %% End Waypoint %%
