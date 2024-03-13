@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9692462a24351f3",
+        "id": "6af37032dd23096c",
         "type": "tabs",
         "children": [
           {
-            "id": "c87509d4a0c4b606",
+            "id": "4f4685741ed77c7f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -166,15 +160,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c87509d4a0c4b606",
+  "active": "4f4685741ed77c7f",
   "lastOpenFiles": [
+    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM4 - Suivi-CdC 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM2 - Tache-Typologie 4.0.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion de projet.md",
     "conflict-files-obsidian-git.md",
     "Communication/English presentation skills/TED presentation.md",
     "Communication/English presentation skills",
@@ -182,14 +177,12 @@
     "Gestion de projet/Gestion projet informatique/TD5 Git/Prise de note TD.md",
     "Gestion de projet/Gestion projet informatique/TD5 Git/GPO2 - TD5 - GIT v4.2.2 SUJET.pdf",
     "Gestion de projet/Gestion projet informatique/TD5 Git",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
     "Système/Système.md",
     "Système/Bas Niveau/Bas Niveau.md",
     "Système/Bas Niveau/cours/cours.md",
     "Système/Bas Niveau/cours/cours2-isa-x86-64/main.pdf",
     "Système/Bas Niveau/td/td.md",
     "Maths/Maths.md",
-    "Maths/Graph/recherchePlusCourtsChemins.pdf",
     "Maths/Graph/prise de note.md",
     "Maths/Graph/Graph.md",
     "Système/Bas Niveau/tp/tp.md",
