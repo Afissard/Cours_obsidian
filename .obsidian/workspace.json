@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/English presentation skills/Describing visual.md",
+                "file": "Communication/communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/English presentation skills/Describing visual.md",
+                "file": "Communication/communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/English presentation skills/Describing visual.md",
+                "file": "Communication/communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/English presentation skills/Describing visual.md"
+                "file": "Communication/communication.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "e8e04370cb4d3e23",
   "lastOpenFiles": [
+    "Communication/English presentation skills/Describing visual.md",
     "Communication/English presentation skills/sucess factors.docx",
     "Communication/communication.md",
-    "Communication/English presentation skills/Describing visual.md",
     "Système/Système.md",
     "Système/Réseau/Réseau.md",
     "Système/Réseau/Cours/Amphi 1.md",
@@ -203,7 +203,6 @@
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM6 - Risques 4.1.pdf",
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
     "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/GPO2 - TD6 - Risques - 3.2 SUJET.pdf",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM5 - Cours Gestion de version 4.2.pdf",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
