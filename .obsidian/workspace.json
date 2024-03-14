@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/IHM/Amphi 1.md",
+                "file": "Programmation/Programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/IHM/Amphi 1.md",
+                "file": "Programmation/Programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/IHM/Amphi 1.md",
+                "file": "Programmation/Programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/IHM/Amphi 1.md"
+                "file": "Programmation/Programmation.md"
               }
             }
           },
