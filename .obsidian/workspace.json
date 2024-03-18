@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "69837ea9724d64ee",
+        "id": "74238e201c79a47d",
         "type": "tabs",
         "children": [
           {
-            "id": "86bc0d2c38a58eff",
+            "id": "285edd89d523ed67",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Réseau/COUR/hernandez-R205-reseaux1-CM_01_principes-organisation-réseaux.pdf"
+                "file": "Réseau/COUR/COUR.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseau/COUR/hernandez-R205-reseaux1-CM_01_principes-organisation-réseaux.pdf",
+                "file": "Réseau/COUR/COUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseau/COUR/hernandez-R205-reseaux1-CM_01_principes-organisation-réseaux.pdf",
+                "file": "Réseau/COUR/COUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseau/COUR/hernandez-R205-reseaux1-CM_01_principes-organisation-réseaux.pdf"
+                "file": "Réseau/COUR/COUR.md"
               }
             }
           },
@@ -166,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86bc0d2c38a58eff",
+  "active": "285edd89d523ed67",
   "lastOpenFiles": [
+    "Réseau/COUR/hernandez-R205-reseaux1-CM_01_principes-organisation-réseaux.pdf",
     "Réseau/COUR/hernandez-M2102-reseaux1-CM.pdf",
     "Réseau/COUR/COUR.md",
     "Réseau/COUR/Cours.md",
@@ -191,7 +194,6 @@
     "Réseau/COUR/hernandez-R205-reseaux1-CM_09_transport.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_10_applications-dhcp-mail.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_08_réseau-routage.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_08_configuration.pdf",
     "Réseau/COUR/Amphi 1.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/Amphi 1.md",
