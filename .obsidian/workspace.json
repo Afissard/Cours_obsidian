@@ -11,8 +11,12 @@
             "id": "505f0e41a1bbf280",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt"
+              }
             }
           },
           {
@@ -162,6 +170,9 @@
   },
   "active": "505f0e41a1bbf280",
   "lastOpenFiles": [
+    "Communication/English presentation skills/R1.12 booklet.pdf",
+    "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
+    "Communication/communication.md",
     "Maths/Méthode Numérique/TP/notebook_bezier_etu.ipynb",
     "Maths/Méthode Numérique/notebook_bezier_etu.ipynb",
     "Maths/Méthode Numérique/TP/exo13/script_bezier.py",
@@ -171,14 +182,11 @@
     "Maths/Méthode Numérique/TP/ressources_scripts/sae_s2_part1_meth_num_etu.py",
     "Maths/Méthode Numérique/TP/ressources_scripts/bezier_etu.py",
     "Maths/Méthode Numérique/TP/ressources_scripts",
-    "Maths/Méthode Numérique/TP/SAE/sae_s2_part1_meth_num_etu.py",
-    "Maths/Méthode Numérique/TP/SAE/bezier_etu.py",
     "Réseau/COUR/COUR.md",
     "Réseau/COUR/Cours.md",
     "Réseau/TD/TD.md",
     "Réseau/Réseau.md",
     "Système/Système.md",
-    "Communication/communication.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
     "Communication/English presentation skills/Presentation introduction practice.md",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
