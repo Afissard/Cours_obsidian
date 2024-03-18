@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[Cours]]**
+- **[[Programmation/OOP/Cours/Cours]]**
 - [[eval.pdf]]
 - **[[installation-Intellij]]**
 - [[Introduction]]
