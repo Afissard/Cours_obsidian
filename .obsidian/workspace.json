@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "74238e201c79a47d",
+        "id": "5418ee058cc41292",
         "type": "tabs",
         "children": [
           {
-            "id": "285edd89d523ed67",
+            "id": "505f0e41a1bbf280",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Réseau/COUR/COUR.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseau/COUR/COUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseau/COUR/COUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Réseau/COUR/COUR.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +160,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "285edd89d523ed67",
+  "active": "505f0e41a1bbf280",
   "lastOpenFiles": [
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_01_principes-organisation-réseaux.pdf",
-    "Réseau/COUR/hernandez-M2102-reseaux1-CM.pdf",
+    "Maths/Méthode Numérique/TP/notebook_bezier_etu.ipynb",
+    "Maths/Méthode Numérique/notebook_bezier_etu.ipynb",
+    "Maths/Méthode Numérique/TP/exo13/script_bezier.py",
+    "Maths/Méthode Numérique/TP/exo13/bezier.py",
+    "Maths/Méthode Numérique/TP/exo13/main.py",
+    "Maths/Méthode Numérique/TP/exo13/bezier_etu.py",
+    "Maths/Méthode Numérique/TP/ressources_scripts/sae_s2_part1_meth_num_etu.py",
+    "Maths/Méthode Numérique/TP/ressources_scripts/bezier_etu.py",
+    "Maths/Méthode Numérique/TP/ressources_scripts",
+    "Maths/Méthode Numérique/TP/SAE/sae_s2_part1_meth_num_etu.py",
+    "Maths/Méthode Numérique/TP/SAE/bezier_etu.py",
     "Réseau/COUR/COUR.md",
     "Réseau/COUR/Cours.md",
     "Réseau/TD/TD.md",
@@ -179,21 +180,12 @@
     "Système/Système.md",
     "Communication/communication.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
-    "Communication/English presentation skills/R1.12 booklet.pdf",
-    "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
     "Communication/English presentation skills/Presentation introduction practice.md",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
     "Communication/English presentation skills/Describing visual.md",
     "Programmation/Programmation.md",
     "Réseau/TD/exo5 shema.png",
     "Réseau/TD/exo5 shema q3.png",
-    "Réseau/TD/réponse TD1.odt",
-    "Réseau/TD/reseaux1-exercices-7.pdf",
-    "Réseau/COUR/Jeopardy!.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_02_equipements.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_09_transport.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_10_applications-dhcp-mail.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_08_réseau-routage.pdf",
     "Réseau/COUR/Amphi 1.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/Amphi 1.md",
