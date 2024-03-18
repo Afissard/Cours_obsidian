@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5418ee058cc41292",
+        "id": "6e4b2c86933f584b",
         "type": "tabs",
         "children": [
           {
-            "id": "505f0e41a1bbf280",
+            "id": "d39840b13a4619f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt"
+                "file": "Maths/Méthode Numérique/Méthode Numérique.md"
               }
             }
           },
@@ -168,11 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "505f0e41a1bbf280",
+  "active": "d39840b13a4619f0",
   "lastOpenFiles": [
-    "Communication/English presentation skills/R1.12 booklet.pdf",
-    "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
+    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+    "Maths/Méthode Numérique/PolyEntier_a2_etu.pdf",
+    "Maths/Méthode Numérique/Méthode Numérique.md",
+    "Maths/Maths.md",
     "Communication/communication.md",
+    "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
+    "Communication/English presentation skills/R1.12 booklet.pdf",
     "Maths/Méthode Numérique/TP/notebook_bezier_etu.ipynb",
     "Maths/Méthode Numérique/notebook_bezier_etu.ipynb",
     "Maths/Méthode Numérique/TP/exo13/script_bezier.py",
@@ -180,8 +184,6 @@
     "Maths/Méthode Numérique/TP/exo13/main.py",
     "Maths/Méthode Numérique/TP/exo13/bezier_etu.py",
     "Maths/Méthode Numérique/TP/ressources_scripts/sae_s2_part1_meth_num_etu.py",
-    "Maths/Méthode Numérique/TP/ressources_scripts/bezier_etu.py",
-    "Maths/Méthode Numérique/TP/ressources_scripts",
     "Réseau/COUR/COUR.md",
     "Réseau/COUR/Cours.md",
     "Réseau/TD/TD.md",
@@ -199,9 +201,7 @@
     "Programmation/IHM/Amphi 1.md",
     "Système/Réseau/Cours/Amphi 1.md",
     "Système/Réseau/Cours/Cours.md",
-    "Maths/Maths.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
-    "Maths/Méthode Numérique/Méthode Numérique.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Communication/English presentation skills/TED presentation.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",

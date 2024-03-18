@@ -17,27 +17,29 @@ def courbe_bezier_bern(points_control,N):
     # N : le nombre de points à tracer entre 0 et 1 (donc float)
     res = [] # liste de point à retourner
     T = np.linspace(0, 1, N)
-    coef_bern = [1, 3, 3, 1]
+    # coef_bern = [1, 3, 3, 1] # exemple de coef
+    coef_bern = [1, 1, 1, 3] # exemple de coef
     
     for t in T:
-        x = (coef_bern[1]-t)**coef_bern[3] * points_control[0]+coef_bern[3]*t * points_control[1]+coef_bern[3] * t**coef_bern[2] * points_control[2]+t**coef_bern[3] * points_control[1]
-        y = (coef_bern[1]-t)**coef_bern[3] * points_control[0]+coef_bern[3]*t * points_control[1]+coef_bern[3] * t**coef_bern[2] * points_control[2]+t**coef_bern[3] * points_control[1]
+        # P(t) = ...
+        x = (1-t)**3 * points_control[0][0] + 3 * t * (1-t)**2 * points_control[1][0] + 3 * t**2 * (1-t) * points_control[2][0] + t**3 * points_control[3][0]
+        y = (1-t)**3 * points_control[0][1] + 3 * t * (1-t)**2 * points_control[1][1] + 3 * t**2 * (1-t) * points_control[2][1] + t**3 * points_control[3][1]
         res.append((x,y))
     
     return res
-    
-def test_courbe_bezier_bern():
-    plt.figure(figsize=(8,6))
-    P0 = (0,0)
-    P1 = (0.3,1)
-    P2 = (1,1)
-    P3 = (1,0)
-    P4 = (1,-1)
-    P5 = (1.4,-0.3)
-    P6 = (2,0)
-    Points=[P0,P1,P2,P3,P4,P5,P6]
-    #Points=[globals()['P'+str(i)] for i in range(7)]
 
+plt.figure(figsize=(8,6))
+P0 = (0,0)
+P1 = (0.3,1)
+P2 = (1,1)
+P3 = (1,0)
+P4 = (1,-1)
+P5 = (1.4,-0.3)
+P6 = (2,0)
+Points=[P0,P1,P2,P3,P4,P5,P6]
+#Points=[globals()['P'+str(i)] for i in range(7)]
+
+def test_courbe_bezier_bern():
     res = courbe_bezier_bern(Points[:4],50)
     test_res=[(0.0, 0.0), (0.01885778884648403, 0.05997501041232819), (0.03865906212547492, 0.11745106205747603), (0.05934772076260742, 0.17242815493544358), (0.08086766568351621, 0.22490628904623072), (0.10316279781383604, 0.2748854643898375), (0.12617701807920167, 0.322365680966264), (0.14985422740524781, 0.3673469387755103), (0.17413832671760915, 0.409829237817576), (0.19897321694192047, 0.4498125780924615), (0.2243027990038164, 0.48729695960016645), (0.2500709738289318, 0.5222823823406914), (0.2762216423429013, 0.5547688463140358), (0.30269870547135963, 0.5847563515201998), (0.3294460641399417, 0.6122448979591837), (0.35640761927428194, 0.6372344856309871), (0.3835272718000153, 0.6597251145356101), (0.4107489226427764, 0.679716784673053), (0.4380164727281999, 0.6972094960433153), (0.46527382298192077, 0.7122032486463974), (0.4924648743295734, 0.7246980424822989), (0.519533527696793, 0.7346938775510203), (0.5464236840092138, 0.7421907538525614), (0.5730792441924707, 0.747188671386922), (0.5994441091721987, 0.7496876301541024), (0.6254621798740321, 0.7496876301541024), (0.6510773572236056, 0.747188671386922), (0.6762335421465545, 0.7421907538525614), (0.7008746355685131, 0.7346938775510206), (0.7249445384151162, 0.7246980424822991), (0.7483871516119983, 0.7122032486463974), (0.7711463760847945, 0.6972094960433154), (0.7931661127591394, 0.6797167846730529), (0.8143902625606677, 0.6597251145356102), (0.8347627264150141, 0.6372344856309871), (0.8542274052478134, 0.6122448979591838), (0.8727281999847002, 0.5847563515202), (0.8902090115513094, 0.5547688463140359), (0.9066137408732755, 0.5222823823406915), (0.9218862888762335, 0.4872969596001668), (0.935970556485818, 0.44981257809246167), (0.9488104446276636, 0.40982923781757613), (0.9603498542274053, 0.36734693877551033), (0.9705326862106775, 0.32236568096626406), (0.9793028415031151, 0.27488546438983785), (0.986604221030353, 0.22490628904623094), (0.9923807257180257, 0.17242815493544372), (0.9965762564917678, 0.11745106205747619), (0.9991347142772145, 0.059975010412328264), (1.0, 0.0)]
     test_res=[list(t) for t in test_res]
@@ -61,7 +63,11 @@ def test_courbe_bezier_bern():
 ######DEUXIEME PARTIE GEOMETRIQUE############
 ###########################
 def bary(A,B,t):
-    TODO()
+    # A*1-t
+    # B*t
+    x = A[0]*(1-t) + B[0]*t
+    y = A[1]*(1-t) + B[1]*t
+    return (x, y)
     
 def test_bary():
     res=bary(P4,P5,0.6)
@@ -69,7 +75,10 @@ def test_bary():
     print('test bary : ',np.count_nonzero(np.isclose(list(res),list(test_res)))==2)
 
 def reduction(points_control,t):
-    TODO()
+    res = []
+    for i in range(len(points_control)-1):
+        res.append(bary(points_control[i], points_control[i+1], t))
+    return res
 
 def test_reduction():    
     res=reduction([P0,P1,P2,P3],0.7)
@@ -79,7 +88,9 @@ def test_reduction():
     print('test reduction : ',np.count_nonzero(np.isclose(res,test_res))==len(test_res)*2)
 
 def point_bezier_geom(points_control,t):
-    TODO()
+    while len(points_control) > 1:
+        points_control = reduction(points_control, t)
+    return points_control[0]
 
 def test_point_bezier_geom():  
     res=point_bezier_geom([P0,P1,P2,P3],0.7)
@@ -87,7 +98,14 @@ def test_point_bezier_geom():
     print('test point_bezier_geom : ',np.count_nonzero(np.isclose(list(res),list(test_res)))==2)
 
 def courbe_bezier_geom(points_control,N):
-    TODO()
+    T = np.linspace(0, 1, N)
+    res = []
+    # for n in range(N)
+    for t in T:
+        # res.append(point_bezier_geom(points_control, n/N))
+        res.append(point_bezier_geom(points_control, t))
+    return res
+        
 
 def test_courbe_bezier_geom():
     res=courbe_bezier_geom([P0,P1,P2],10)
@@ -112,15 +130,25 @@ def test_courbe_bezier_geom():
     ###########################
 
 def vecteur_unitaire(P1,P2):
-    TODO()
+    if P1 == P2 :
+        return False
+    else :
+        x = (P2[0]-P1[0]) / (np.sqrt((P2[0]-P1[0])**2 + (P2[1]-P1[1])**2))
+        y = (P2[1]-P1[1]) / (np.sqrt((P2[0]-P1[0])**2 + (P2[1]-P1[1])**2))
+        return (x, y)
 
 def test_vecteur_unitaire():
     res=vecteur_unitaire(P1,P5)
     test_res=(0.6459422414661738, -0.7633862853691146)
     print('test vecteur_unitaire : ',np.count_nonzero(np.isclose(list(res),list(test_res)))==2)
 
-def test_alignement_4pts(points,epsilon):
-    TODO()
+def test_alignement_4pts(points, epsilon):
+    if points[1] == points[2]:
+        if 1 - np.dot(vecteur_unitaire(points[0], points[1]), vecteur_unitaire(points[2], points[3])) < epsilon :
+            return True
+    elif 2 - np.dot(vecteur_unitaire(points[0], points[1]), vecteur_unitaire(points[1], points[2])) - np.dot(vecteur_unitaire(points[1], points[2]), vecteur_unitaire(points[2], points[3]))  < epsilon:
+        return True
+    return False
 
 def test_test_alignement_4pts():
     points1=[(0.9110260009765625, 0.5126953125), (0.918951416015625, 0.4951171875), (0.92642822265625, 0.4765625), (0.9334228515625, 0.45703125)]
@@ -130,7 +158,15 @@ def test_test_alignement_4pts():
     print('test test_alignement_4pts : ',test_alignement_4pts(points2,epsilon)==False)
 
 def division_courbe_bezier(points_control):
-    TODO()
+    # division_courbe_bezier([A_0, A_1, A_2, A_3]) -> ([A_0,B_0,C_0, M],[M, C_1, B_2, A_3])
+    B0 = bary(points_control[0], points_control[1], 0.5)
+    B1 = bary(points_control[1], points_control[2], 0.5)
+    B2 = bary(points_control[2], points_control[3], 0.5)
+    C0 = bary(B0, B1, 0.5)
+    C1 = bary(B1, B2, 0.5)
+    M = bary(C0, C1, 0.5)
+    
+    return [points_control[0], B0, C0, M], [M, C1, B2 , points_control[3]]
 
 def test_division_courbe_bezier():
     res=division_courbe_bezier([P0,P1,P2,P3])
@@ -255,4 +291,16 @@ def test_courbe_bezier_cast():
     plt.show()
     
 if __name__ == "__main__":
+    # Première partie
     test_courbe_bezier_bern()
+    
+    # Seconde partie : géométrique
+    test_bary()
+    test_reduction()
+    test_point_bezier_geom()
+    test_courbe_bezier_geom()
+    
+    # Troisième partie : Casteljau
+    test_vecteur_unitaire()
+    test_test_alignement_4pts()
+    test_division_courbe_bezier()
