@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0cfb2b952c259b28",
+        "id": "f32c9071481333c0",
         "type": "tabs",
         "children": [
           {
-            "id": "e04e5c5bbf8fb193",
+            "id": "1b4f9b80b1be43ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hôte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Réseau/COUR/COUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Réseau/COUR/COUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Réseau/COUR/COUR.md"
+              }
             }
           },
           {
@@ -160,33 +164,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e04e5c5bbf8fb193",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Réseau/TD/TD1/TD1.md",
+    "Réseau/TD/TD1/exo19.md",
+    "Réseau/COUR/hernandez-R205-reseaux1-CM_06_réseau_ipv4.pdf",
+    "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
+    "Réseau/TD/TD1/exo9.md",
+    "Réseau/TD/TD1/exo11.md",
+    "Réseau/COUR/hernandez-R205-reseaux1-CM_05_adressage-mac-ipv4.pdf",
+    "post it.md",
+    "Réseau/TD/TD1/exo8.md",
+    "Réseau/TD/TD1/lu204328e7xcp.tmp",
+    "Réseau/TD/TD1/lu204328e7xcm.tmp",
+    "Réseau/TD/TD1/lu204328e7xcj.tmp",
+    "Réseau/TD/TD1/lu204328e7xcg.tmp",
+    "Réseau/TD/TD1/lu65448dyk83.tmp",
+    "Réseau/COUR/COUR.md",
+    "Réseau/TD/TD.md",
+    "Réseau/TD/TD2",
+    "Réseau/TD/TD1",
+    "Réseau/Réseau.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
-    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
-    "Maths/Méthode Numérique/PolyEntier_a2_etu.pdf",
     "Maths/Maths.md",
     "Communication/communication.md",
-    "Communication/English presentation skills/Notes_Graphe_Succes_Factor.txt",
-    "Communication/English presentation skills/R1.12 booklet.pdf",
-    "Maths/Méthode Numérique/TP/notebook_bezier_etu.ipynb",
-    "Maths/Méthode Numérique/notebook_bezier_etu.ipynb",
-    "Maths/Méthode Numérique/TP/exo13/script_bezier.py",
-    "Maths/Méthode Numérique/TP/exo13/bezier.py",
-    "Maths/Méthode Numérique/TP/exo13/main.py",
-    "Maths/Méthode Numérique/TP/exo13/bezier_etu.py",
-    "Réseau/COUR/COUR.md",
     "Réseau/COUR/Cours.md",
-    "Réseau/TD/TD.md",
-    "Réseau/Réseau.md",
     "Système/Système.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
     "Communication/English presentation skills/Presentation introduction practice.md",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
     "Communication/English presentation skills/Describing visual.md",
     "Programmation/Programmation.md",
-    "Réseau/TD/exo5 shema.png",
-    "Réseau/TD/exo5 shema q3.png",
+    "Réseau/TD/TD1/exo5 shema.png",
+    "Réseau/TD/TD1/exo5 shema q3.png",
     "Réseau/COUR/Amphi 1.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/Amphi 1.md",
@@ -194,12 +204,6 @@
     "Système/Réseau/Cours/Cours.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
-    "Communication/English presentation skills/TED presentation.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
