@@ -5,6 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[Programmation/IHM/Amphi 1]]
+- [[Amphi 1]]
+- [[cours1.pdf]]
 
 %% End Waypoint %%

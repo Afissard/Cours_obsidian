@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f32c9071481333c0",
+        "id": "a0f4a93ea051f5fa",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4f9b80b1be43ef",
+            "id": "78853979ebc459dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseau/COUR/COUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseau/COUR/COUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Réseau/COUR/COUR.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +160,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "78853979ebc459dc",
   "lastOpenFiles": [
+    "Programmation/Programmation.md",
+    "Programmation/IHM/IHM.md",
+    "Programmation/IHM/Amphi 1.md",
+    "Programmation/IHM/cours1.pdf",
+    "Réseau/COUR/COUR.md",
     "Réseau/TD/TD1/TD1.md",
     "Réseau/TD/TD1/exo19.md",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_06_réseau_ipv4.pdf",
@@ -180,10 +181,8 @@
     "Réseau/TD/TD1/lu204328e7xcj.tmp",
     "Réseau/TD/TD1/lu204328e7xcg.tmp",
     "Réseau/TD/TD1/lu65448dyk83.tmp",
-    "Réseau/COUR/COUR.md",
     "Réseau/TD/TD.md",
     "Réseau/TD/TD2",
-    "Réseau/TD/TD1",
     "Réseau/Réseau.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
     "Maths/Maths.md",
@@ -194,12 +193,9 @@
     "Communication/English presentation skills/Presentation introduction practice.md",
     "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
     "Communication/English presentation skills/Describing visual.md",
-    "Programmation/Programmation.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Réseau/COUR/Amphi 1.md",
-    "Programmation/IHM/IHM.md",
-    "Programmation/IHM/Amphi 1.md",
     "Système/Réseau/Cours/Amphi 1.md",
     "Système/Réseau/Cours/Cours.md",
     "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
