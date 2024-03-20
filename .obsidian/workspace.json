@@ -11,11 +11,26 @@
             "id": "78853979ebc459dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programmation/IHM/Amphi 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8492abb9716c37db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programmation/IHM/Amphi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programmation/IHM/Amphi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programmation/IHM/Amphi 1.md"
+              }
             }
           },
           {
@@ -160,10 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78853979ebc459dc",
+  "active": "8492abb9716c37db",
   "lastOpenFiles": [
-    "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
+    "Programmation/Programmation.md",
     "Programmation/IHM/Amphi 1.md",
     "Programmation/IHM/cours1.pdf",
     "Réseau/COUR/COUR.md",

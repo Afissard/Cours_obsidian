@@ -1,4 +1,3 @@
-PDF inexistant pour le moment
 rappel : lié au dev objet -> langage utilisé pour le cours en Kotlin
 
 **IHM : Interface Homme Machine**
