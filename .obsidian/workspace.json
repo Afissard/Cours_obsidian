@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6488bffdc01f1f37",
+        "id": "5b17ea99698b4b37",
         "type": "tabs",
         "children": [
           {
-            "id": "a8f1318c5d491c84",
+            "id": "d0308c507c77e4d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmation/Programmation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/Programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/Programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programmation/Programmation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,12 +160,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8f1318c5d491c84",
+  "active": "d0308c507c77e4d4",
   "lastOpenFiles": [
+    "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
+    "Communication/Milieux professionnels/CC2 Ergonomie Web 4 en ligne 2022 fusionné.pdf",
+    "Communication/Milieux professionnels/exposeSitePub.pdf",
+    "Communication/Milieux professionnels/Site web portfolio.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
+    "Communication/communication.md",
+    "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/cours1.pdf",
     "Programmation/IHM/Amphi 1.md",
-    "Programmation/Programmation.md",
     "Réseau/COUR/COUR.md",
     "Réseau/TD/TD1/TD1.md",
     "Réseau/TD/TD1/exo19.md",
@@ -187,14 +187,10 @@
     "Réseau/TD/TD1/lu204328e7xcp.tmp",
     "Réseau/TD/TD1/lu204328e7xcm.tmp",
     "Réseau/TD/TD1/lu204328e7xcj.tmp",
-    "Réseau/TD/TD1/lu204328e7xcg.tmp",
-    "Réseau/TD/TD1/lu65448dyk83.tmp",
     "Réseau/TD/TD.md",
-    "Réseau/TD/TD2",
     "Réseau/Réseau.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
     "Maths/Maths.md",
-    "Communication/communication.md",
     "Réseau/COUR/Cours.md",
     "Système/Système.md",
     "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
@@ -204,9 +200,6 @@
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Réseau/COUR/Amphi 1.md",
-    "Système/Réseau/Cours/Amphi 1.md",
-    "Système/Réseau/Cours/Cours.md",
-    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
