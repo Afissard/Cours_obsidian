@@ -11,8 +11,12 @@
             "id": "d0308c507c77e4d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md"
+              }
             }
           },
           {
@@ -162,14 +170,17 @@
   },
   "active": "d0308c507c77e4d4",
   "lastOpenFiles": [
+    "Avenir Etudes/Avenir Etudes.md",
+    "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
+    "Avenir Etudes/Rencontre Etudiants et Chercheurs",
+    "Communication/communication.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/CC2 Ergonomie WEB 1 en ligne 2024.pdf",
     "Communication/Milieux professionnels/CC2 Ergonomie Web 4 en ligne 2022 fusionné.pdf",
     "Communication/Milieux professionnels/exposeSitePub.pdf",
     "Communication/Milieux professionnels/Site web portfolio.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
     "Communication/Milieux professionnels/BUT 1 gr 4.pdf",
-    "Communication/communication.md",
     "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/cours1.pdf",
@@ -185,8 +196,6 @@
     "post it.md",
     "Réseau/TD/TD1/exo8.md",
     "Réseau/TD/TD1/lu204328e7xcp.tmp",
-    "Réseau/TD/TD1/lu204328e7xcm.tmp",
-    "Réseau/TD/TD1/lu204328e7xcj.tmp",
     "Réseau/TD/TD.md",
     "Réseau/Réseau.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
@@ -199,7 +208,6 @@
     "Communication/English presentation skills/Describing visual.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
-    "Réseau/COUR/Amphi 1.md",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
