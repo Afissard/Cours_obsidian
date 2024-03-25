@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b17ea99698b4b37",
+        "id": "e9fb69e1064aa4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "d0308c507c77e4d4",
+            "id": "d896924616ca6fa4",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Gestion de projet et des organisations (2).pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Gestion de projet et des organisations (2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Gestion de projet et des organisations (2).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de projet/Gestion projet informatique/mini-projet/Gestion de projet et des organisations (2).pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -168,11 +160,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0308c507c77e4d4",
+  "active": "d896924616ca6fa4",
   "lastOpenFiles": [
-    "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/Gestion de projet et des organisations (2).pdf",
+    "Gestion de projet/Gestion projet informatique/mini-projet/GPO - Projet Informatique - Sacha Léa Rafael Clément Nghia.pdf",
     "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+    "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
     "Gestion de projet/Gestion projet informatique/Cours/prise de note amphi.md",
     "Gestion de projet/Gestion projet informatique/TD/TD.md",
     "Gestion de projet/Gestion projet informatique/TD/TD4 Planification/TD4 Planification.md",
@@ -182,8 +177,6 @@
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM6 - Risques 4.1.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
     "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM3 - Gestionnaire-Planification 4.1.pdf",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion de projet.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
@@ -205,7 +198,6 @@
     "post it.md",
     "Réseau/TD/TD1/exo8.md",
     "Réseau/TD/TD.md",
-    "Réseau/Réseau.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
