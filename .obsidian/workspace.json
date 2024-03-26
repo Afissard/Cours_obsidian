@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ea35845d886be876",
+        "id": "f285596d88e7700c",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd86244b0b5621d",
+            "id": "d95312f7088b7ee6",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programmation/IHM/cours2.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d9809cde84e16342",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/IHM/TD2/Réponse TD2.md",
+                "file": "Programmation/IHM/IHM.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/IHM/cours2.pdf",
+                "file": "Programmation/IHM/IHM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/IHM/cours2.pdf",
+                "file": "Programmation/IHM/IHM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/IHM/cours2.pdf"
+                "file": "Programmation/IHM/IHM.md"
               }
             }
           },
@@ -182,10 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bd86244b0b5621d",
+  "active": "d95312f7088b7ee6",
   "lastOpenFiles": [
-    "Programmation/IHM/TD2/Réponse TD2.md",
     "Programmation/IHM/cours2.pdf",
+    "Programmation/IHM/TD2/Réponse TD2.md",
+    "Programmation/IHM/cours1.pdf",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
@@ -206,7 +193,6 @@
     "Réseau/COUR/hernandez-R205-reseaux1-CM_10_applications-dhcp-mail.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_07_réseau_ipv6.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_08_réseau-routage.pdf",
-    "Programmation/OOP/Cours/05-kotlin.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
@@ -235,9 +221,4 @@
     "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin_next.png",
     "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin.png",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas"
-  ]
-}
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma ent
