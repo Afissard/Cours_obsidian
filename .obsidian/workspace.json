@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d95312f7088b7ee6",
+            "id": "c367ef1c9d012b4f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseau/TD/TD1/exo19.md",
+                "file": "Réseau/TD/TD2/consigneTD.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "34dc148af6ef770b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Réseau/TD/TD2/routage1.png"
+              }
             }
           }
         ]
@@ -87,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseau/TD/TD1/exo19.md",
+                "file": "Réseau/TD/TD2/consigneTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseau/TD/TD1/exo19.md",
+                "file": "Réseau/TD/TD2/consigneTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseau/TD/TD1/exo19.md"
+                "file": "Réseau/TD/TD2/consigneTD.md"
               }
             }
           },
@@ -170,11 +180,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d95312f7088b7ee6",
+  "active": "c367ef1c9d012b4f",
   "lastOpenFiles": [
-    "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
-    "Réseau/TD/TD1/exo19.md",
+    "Réseau/TD/TD2/routage1.png",
+    "Réseau/TD/TD2/routage2.png",
+    "Réseau/TD/TD2/consigneTD.md",
+    "Réseau/TD/TD2/TD2.md",
     "Réseau/TD/TD1/TD1.md",
+    "Réseau/TD/TD2",
+    "Réseau/TD/r2_05.td1/routage2.png",
+    "Réseau/TD/r2_05.td1/routage1.png",
+    "Réseau/TD/r2_05.td1/README.md",
+    "Réseau/TD/r2_05.td1",
+    "Réseau/TD/TD1/exo19.md",
+    "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
     "Réseau/TD/TD.md",
     "Réseau/Réseau.md",
     "Programmation/Programmation.md",
@@ -196,9 +215,6 @@
     "Avenir Etudes/PPP/partie 1",
     "Réseau/COUR/COUR.md",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_09_transport.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_10_applications-dhcp-mail.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_07_réseau_ipv6.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_08_réseau-routage.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
@@ -206,9 +222,6 @@
     "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
     "Gestion de projet/Gestion projet informatique/Cours/prise de note amphi.md",
     "Gestion de projet/Gestion projet informatique/TD/TD.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD4 Planification/TD4 Planification.md",
-    "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
-    "Communication/communication.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
@@ -219,10 +232,6 @@
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
     "Programmation/OOP/installation-Intellij/tuto/img/proxy.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_edit.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin_next.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin.png",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
