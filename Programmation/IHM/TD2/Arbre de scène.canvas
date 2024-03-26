@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1479f190a8a2aa5b","x":-200,"y":-240,"width":250,"height":60,"type":"text","text":"Window : Regions"},
+		{"id":"7b92f56cad065917","x":-200,"y":-100,"width":250,"height":60,"type":"text","text":"Grid"},
+		{"id":"6b10b67869ba59e9","x":-340,"y":100,"width":250,"height":60,"type":"text","text":"flow Pane"},
+		{"id":"62987afdb678d18f","x":-60,"y":100,"width":250,"height":60,"type":"text","text":"border Pane"},
+		{"id":"05b2822d5e5202d7","x":65,"y":283,"width":250,"height":77,"type":"text","text":"buttons ... < ^ >, activation"},
+		{"id":"6987dd46d2f13317","x":-465,"y":280,"width":250,"height":80,"type":"text","text":"buttons 1,2,3,4,5 ..."}
+	],
+	"edges":[
+		{"id":"9777ef0dea74cde2","fromNode":"7b92f56cad065917","fromSide":"top","toNode":"1479f190a8a2aa5b","toSide":"bottom"},
+		{"id":"f4248f68922970e8","fromNode":"6b10b67869ba59e9","fromSide":"top","toNode":"7b92f56cad065917","toSide":"bottom","label":"left"},
+		{"id":"419162c752d7bd08","fromNode":"62987afdb678d18f","fromSide":"top","toNode":"7b92f56cad065917","toSide":"bottom","label":"right"},
+		{"id":"35c824af2060b943","fromNode":"6987dd46d2f13317","fromSide":"top","toNode":"6b10b67869ba59e9","toSide":"bottom"},
+		{"id":"b69939bb6a872d95","fromNode":"05b2822d5e5202d7","fromSide":"top","toNode":"62987afdb678d18f","toSide":"bottom"}
+	]
+}

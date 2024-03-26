@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "4006dd74e98afa91",
+        "id": "ea35845d886be876",
         "type": "tabs",
         "children": [
           {
-            "id": "cd385b8ae445c689",
+            "id": "1bd86244b0b5621d",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Programmation/IHM/cours2.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d9809cde84e16342",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+                "file": "Programmation/IHM/TD2/Réponse TD2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+                "file": "Programmation/IHM/cours2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+                "file": "Programmation/IHM/cours2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md"
+                "file": "Programmation/IHM/cours2.pdf"
               }
             }
           },
@@ -168,28 +182,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd385b8ae445c689",
+  "active": "1bd86244b0b5621d",
   "lastOpenFiles": [
+    "Programmation/IHM/TD2/Réponse TD2.md",
+    "Programmation/IHM/cours2.pdf",
+    "Programmation/OOP/Cours/Cours.md",
+    "Programmation/IHM/TD2/Arbre de scène.canvas",
+    "Programmation/OOP/Cours/08-sequencesuml.pdf",
+    "Programmation/IHM/TD2",
+    "Programmation/IHM/IHM.md",
+    "Programmation/OOP/OOP.md",
+    "Programmation/Programmation.md",
+    "Avenir Etudes/Avenir Etudes.md",
+    "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/partie 1/partie 1.md",
-    "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio",
     "Avenir Etudes/PPP/partie 1",
-    "Avenir Etudes/Avenir Etudes.md",
-    "Programmation/Programmation.md",
-    "Programmation/IHM/cours2.pdf",
     "Réseau/Réseau.md",
     "Réseau/COUR/COUR.md",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_09_transport.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_10_applications-dhcp-mail.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_07_réseau_ipv6.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_08_réseau-routage.pdf",
-    "Programmation/OOP/OOP.md",
-    "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/05-kotlin.pdf",
-    "Programmation/OOP/Cours/06-kotlin-exception.pdf",
-    "Programmation/OOP/Cours/07-kotlin-collections.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
@@ -203,9 +220,6 @@
     "Communication/Milieux professionnels/Milieux professionnels.md",
     "Communication/Milieux professionnels/Site web portfolio.md",
     "Communication/Milieux professionnels/Exposé sites web et publicité.md",
-    "Programmation/IHM/IHM.md",
-    "Programmation/IHM/Amphi 1.md",
-    "Réseau/TD/TD1/TD1.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
@@ -224,7 +238,6 @@
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
-    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas"
+    "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas"
   ]
 }
