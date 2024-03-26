@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/Programmation.md",
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation/Programmation.md"
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md"
               }
             }
           },
@@ -170,6 +170,14 @@
   },
   "active": "cd385b8ae445c689",
   "lastOpenFiles": [
+    "Avenir Etudes/PPP/portefolio/portefolio.md",
+    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+    "Avenir Etudes/PPP/partie 1/partie 1.md",
+    "Avenir Etudes/PPP/PPP.md",
+    "Avenir Etudes/PPP/portefolio",
+    "Avenir Etudes/PPP/partie 1",
+    "Avenir Etudes/Avenir Etudes.md",
+    "Programmation/Programmation.md",
     "Programmation/IHM/cours2.pdf",
     "Réseau/Réseau.md",
     "Réseau/COUR/COUR.md",
@@ -177,24 +185,19 @@
     "Réseau/COUR/hernandez-R205-reseaux1-CM_10_applications-dhcp-mail.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_07_réseau_ipv6.pdf",
     "Réseau/COUR/hernandez-R205-reseaux1-CM_08_réseau-routage.pdf",
-    "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
     "Programmation/OOP/Cours/05-kotlin.pdf",
     "Programmation/OOP/Cours/06-kotlin-exception.pdf",
     "Programmation/OOP/Cours/07-kotlin-collections.pdf",
-    "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_07_réseau-arp-rarp-icmp.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
-    "Gestion de projet/Gestion projet informatique/mini-projet/Gestion de projet et des organisations (2).pdf",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
     "Gestion de projet/Gestion projet informatique/Cours/prise de note amphi.md",
     "Gestion de projet/Gestion projet informatique/TD/TD.md",
     "Gestion de projet/Gestion projet informatique/TD/TD4 Planification/TD4 Planification.md",
-    "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
     "Communication/communication.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
@@ -203,9 +206,6 @@
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/Amphi 1.md",
     "Réseau/TD/TD1/TD1.md",
-    "Réseau/TD/TD1/exo19.md",
-    "Réseau/TD/TD1/exo9.md",
-    "Réseau/TD/TD1/exo11.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
