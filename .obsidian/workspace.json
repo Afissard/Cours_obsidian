@@ -20,16 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "34dc148af6ef770b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Réseau/TD/TD2/routage1.png"
-              }
-            }
           }
         ]
       }
@@ -183,8 +173,8 @@
   "active": "c367ef1c9d012b4f",
   "lastOpenFiles": [
     "Réseau/TD/TD2/routage1.png",
-    "Réseau/TD/TD2/routage2.png",
     "Réseau/TD/TD2/consigneTD.md",
+    "Réseau/TD/TD2/routage2.png",
     "Réseau/TD/TD2/TD2.md",
     "Réseau/TD/TD1/TD1.md",
     "Réseau/TD/TD2",

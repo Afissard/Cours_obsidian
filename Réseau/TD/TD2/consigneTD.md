@@ -28,7 +28,7 @@ La recherche d'une correspondance dans une table de routage se fait en appliquan
 
 On suppose maintenant l'existence d'un accès à internet en `T` via une interface `en1`. Donner les tables de routage modifiées de `R` et `S`.
 
-Peut-on simplifier ?
+Peut-on simplifier ? : Si des destination avec même *next hope* et même *interface* alors remplaçable avec *destination = default* et *next hope* et même *interface*.
 
 On suppose maintenant la présence d'un réseau accessible par `B`. Donner la table de routage de `B`. Peut-on la simplifier ?
 ### Réponses
@@ -42,9 +42,28 @@ On suppose maintenant la présence d'un réseau accessible par `B`. Donner la ta
 4. si réseau non directement accessible, on identifie l'adresse IP du premier routeur qui permet d'y accéder.
 ### Table de routage exo 1
 
-| @reseau / masque | interface | next hope |
-| ---------------- | --------- | --------- |
-|                  |           |           |
+| A   | @reseau / masque | interface | next hope     |
+| --- | ---------------- | --------- | ------------- |
+|     | 178.42.42.0/24   | en0       | -             |
+|     | 66.16.0.0/16     | en0       | 178.42.42.254 |
+|     | 152.18.4.0/24    | en0       | 178.42.42.254 |
+
+| A simplifié                        | @reseau / masque | interface | next hope     |
+| ---------------------------------- | ---------------- | --------- | ------------- |
+|                                    | 178.42.42.0/24   | en0       | -             |
+| (correspond au 2 dernière collumn) | default/0        | en0       | 178.42.42.254 |
+
+| R   | @reseau / masque | interface | next hope |
+| --- | ---------------- | --------- | --------- |
+|     | 152.18.4.0/24    | en1       | 66.16.0.2 |
+|     | 178.42.42.0/24   | en0       | -         |
+|     | 66.16.0.0/16     | en1       | -         |
+
+| S   | @reseau / masque | interface | next hope |
+| --- | ---------------- | --------- | --------- |
+|     | 66.16.0.0/16     | en0       | -         |
+|     | 152.18.4.0/24    | en1       | -         |
+|     | 178.42.42.0/24   | en0       | 66.16.0.1 |
 
 ## Exercice 2 
 Exercice provenant de Tanenbaum, 4<sup>ème</sup> édition, exercice 43.
