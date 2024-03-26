@@ -12,11 +12,16 @@ Il peut inclure une variété d'éléments tels que des travaux écrits, des pro
 
 Le portfolio vous permet de mettre en avant vos compétences acquise ... *voir diapo*
 # Structure d'un portfolio
-## Introduction
+## 1 Introduction
 Brève présentation de qui nous somme, objectif académique et professionnels.
-# Curriculum Vitae
+## 2 Curriculum Vitae
 Un CV à jour détaillant la formation, les expérience de travail, les compétences, les certification et d'autre réalisation pertinentes.
-# Lettre de motivation
+## 3 Lettre de motivation
 La lettre de motivation est un document d'une page maximum, adressé à un recruteur pour lui faire part de votre volonté de travailler avec lui tout lui faisant valoir vos qualités pour le poste. Il existe deux type de lettres de motivation : la candidature spontanée et la lettre qui répond à une annonce.
-# Projet scolaire
+## 4 Projet scolaire
 Il s'agit de parler de son parcours scolaire et de la poursuite de ce dernier. Il faut mettre en évidence tous les projets que vous avez mis en oeuvre dans le cadre de vos études.
+## 5 Mes expériences professionnelles
+Un apercu des stages, emplois à temps partiel, volontariats et autre expériences professionnelles, incluant les responsabilité assumées et mes competences développées.
+## 6 Mes projet personnels
+Il faut parler de vos passion, de vos activities favorites et des actions personnelles éventuelles que vous avez pus mener.
+Autres réalisations personnelles (exemple development d'un jeu)
