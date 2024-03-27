@@ -10,13 +10,15 @@
           {
             "id": "365e6e93ac8ba555",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Avenir Etudes/PPP/portefolio/Jeu point & click.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
