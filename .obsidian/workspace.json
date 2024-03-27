@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "094ada151dc92b92",
+        "id": "00586e9e60903903",
         "type": "tabs",
         "children": [
           {
-            "id": "365e6e93ac8ba555",
+            "id": "8db4fa6d56b26934",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -170,10 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "365e6e93ac8ba555",
+  "active": "8db4fa6d56b26934",
   "lastOpenFiles": [
-    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
+    "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
+    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/Avenir Etudes.md",
@@ -212,7 +213,6 @@
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
     "Gestion de projet/Gestion projet informatique/Cours/prise de note amphi.md",
-    "Gestion de projet/Gestion projet informatique/TD/TD.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
@@ -222,7 +222,6 @@
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/proxy.png",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
