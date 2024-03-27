@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1N5QtrleXfJbdEqvsv4fdr39vXPfhKCNz6XvIoffXcIc/edit?hl=fr
 # Concept du portfolio
 Un point & click simple, qui guide l'utilisateur au travers le portfolio dans l'ordre de lecture attendu, tout en laissent la possibilité de revenir en arrière à tout moment (et peut être aussi en avant ... pour le debug ?)
 ## Thème
