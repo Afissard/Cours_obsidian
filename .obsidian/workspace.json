@@ -20,6 +20,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9289dfc0dae0d38c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Réseau/TD/TD2/routage1.png"
+              },
+              "pinned": true
+            }
           }
         ]
       }
