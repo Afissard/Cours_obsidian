@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f285596d88e7700c",
+        "id": "094ada151dc92b92",
         "type": "tabs",
         "children": [
           {
-            "id": "c367ef1c9d012b4f",
+            "id": "365e6e93ac8ba555",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseau/TD/TD2/consigneTD.md",
+                "file": "Avenir Etudes/PPP/portefolio/Jeu point & click.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9289dfc0dae0d38c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Réseau/TD/TD2/routage1.png"
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseau/TD/TD2/consigneTD.md",
+                "file": "Avenir Etudes/PPP/portefolio/Jeu point & click.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseau/TD/TD2/consigneTD.md",
+                "file": "Avenir Etudes/PPP/portefolio/Jeu point & click.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseau/TD/TD2/consigneTD.md"
+                "file": "Avenir Etudes/PPP/portefolio/Jeu point & click.md"
               }
             }
           },
@@ -182,12 +168,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c367ef1c9d012b4f",
+  "active": "365e6e93ac8ba555",
   "lastOpenFiles": [
+    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+    "Avenir Etudes/PPP/portefolio/Jeu point & click.md",
+    "Avenir Etudes/PPP/portefolio/portefolio.md",
+    "Avenir Etudes/PPP/PPP.md",
+    "Avenir Etudes/Avenir Etudes.md",
+    "Réseau/Réseau.md",
+    "Réseau/TD/TD.md",
+    "Réseau/TD/TD2/TD2.md",
     "Réseau/TD/TD2/routage1.png",
     "Réseau/TD/TD2/consigneTD.md",
     "Réseau/TD/TD2/routage2.png",
-    "Réseau/TD/TD2/TD2.md",
     "Réseau/TD/TD1/TD1.md",
     "Réseau/TD/TD2",
     "Réseau/TD/r2_05.td1/routage2.png",
@@ -196,8 +189,6 @@
     "Réseau/TD/r2_05.td1",
     "Réseau/TD/TD1/exo19.md",
     "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
-    "Réseau/TD/TD.md",
-    "Réseau/Réseau.md",
     "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/cours2.pdf",
@@ -208,10 +199,6 @@
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "Programmation/IHM/TD2",
     "Programmation/OOP/OOP.md",
-    "Avenir Etudes/Avenir Etudes.md",
-    "Avenir Etudes/PPP/PPP.md",
-    "Avenir Etudes/PPP/portefolio/portefolio.md",
-    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/partie 1/partie 1.md",
     "Avenir Etudes/PPP/portefolio",
     "Avenir Etudes/PPP/partie 1",
