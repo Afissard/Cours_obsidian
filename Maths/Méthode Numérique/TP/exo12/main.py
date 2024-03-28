@@ -29,13 +29,13 @@ def interlagrange1(x, listX, listY):
     assert len(listX) == len(listY), "taille listX et listY différente !"
     res = 0
     for j in range(len(listY)):
-        res += baseLagrange(x, listX, j)*listY[j]
+        res += baseLagrange(x, listX, j) * listY[j]
     return res
 
 def testInterLagrange():
     x = np.linspace(start=-1, stop=3, num=50)
     listX = [0, 1, 2]
-    listY = [3, 4, 5]
+    listY = [-1, 3, 2]
     res = interlagrange1(x, listX, listY)
     plt.figure()
     plt.plot(res)

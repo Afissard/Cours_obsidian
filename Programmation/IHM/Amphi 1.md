@@ -1,4 +1,3 @@
-PDF inexistant pour le moment
 rappel : lié au dev objet -> langage utilisé pour le cours en Kotlin
 
 **IHM : Interface Homme Machine**
@@ -6,7 +5,6 @@ rappel : lié au dev objet -> langage utilisé pour le cours en Kotlin
 Notion importante :
 - ergonomie (strict minimum pour le moment)
 - accessibilité
-
 # Interaction avec la machine
 Input: 
 - clavier

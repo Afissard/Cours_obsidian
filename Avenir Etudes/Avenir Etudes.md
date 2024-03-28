@@ -8,5 +8,6 @@ type: folder_brief_live
 - **[[Alternance]]**
 - **[[PPP]]**
 - **[[Quebec]]**
+- **[[Rencontre Etudiants et Chercheurs]]**
 
 %% End Waypoint %%
