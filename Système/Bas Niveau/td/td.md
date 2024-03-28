@@ -39,10 +39,10 @@ type: folder_brief_live
 			- [[main.go]]
 	- [[td3]]
 - **4-pointeurs**
+	- **exo2**
+		- [[main.go]]
 	- **src**
-		- **ptr1**
-			- [[go.mod]]
-			- [[main.go]]
+		- [[main.go]]
 	- [[td4]]
 
 %% End Waypoint %%

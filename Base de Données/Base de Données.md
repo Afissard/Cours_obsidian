@@ -11,7 +11,7 @@ type: folder_brief_live
 	- [[CHAUVEL Sacha - Exploitation BD compte rendu TD_TP2.pdf]]
 	- [[COURS-Exploitation-BD-Chapitre1.pdf]]
 	- [[exploitationBD_td2.sql]]
-	- [[TD 1]]
+	- [[Base de Données/Exploitation/TD 1]]
 	- [[TD 2]]
 	- [[TP1-Mobiles.pdf]]
 

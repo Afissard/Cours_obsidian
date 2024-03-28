@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "6af37032dd23096c",
         "type": "tabs",
         "children": [
@@ -13,6 +14,21 @@
             "state": {
               "type": "empty",
               "state": {}
+=======
+        "id": "47e50590e377ee4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e04370cb4d3e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmation/Programmation.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> 1ca242effbbacc59c02e1908d2a2e0261c46dfc2
             }
           }
         ]
@@ -65,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -81,6 +97,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Programmation/Programmation.md",
+>>>>>>> 1ca242effbbacc59c02e1908d2a2e0261c46dfc2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Programmation/Programmation.md",
+>>>>>>> 1ca242effbbacc59c02e1908d2a2e0261c46dfc2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Programmation/Programmation.md"
+              }
+>>>>>>> 1ca242effbbacc59c02e1908d2a2e0261c46dfc2
             }
           },
           {
@@ -142,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -151,15 +181,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "4f4685741ed77c7f",
   "lastOpenFiles": [
     "Gestion de projet/Gestion de projet.md",
@@ -190,32 +221,73 @@
     "Programmation/OOP/Notes Amphi.md",
     "Maths/Méthode Numérique/Prise de notes amphi.md",
     "Maths/Méthode Numérique/Méthode Numérique.md",
+=======
+  "active": "e8e04370cb4d3e23",
+  "lastOpenFiles": [
+    "Programmation/IHM/IHM.md",
+    "Programmation/IHM/Amphi 1.md",
+>>>>>>> 1ca242effbbacc59c02e1908d2a2e0261c46dfc2
     "Programmation/Programmation.md",
+    "Programmation/IHM",
+    "Communication/communication.md",
+    "Communication/English presentation skills/Describing visual.md",
+    "Communication/English presentation skills/sucess factors.docx",
+    "Système/Système.md",
+    "Système/Réseau/Réseau.md",
+    "Système/Réseau/Cours/Amphi 1.md",
+    "Système/Réseau/Cours/hernandez-M2102-reseaux1-CM.pdf",
+    "Système/Réseau/Cours/Cours.md",
+    "Système/Réseau/Cours",
+    "Système/Réseau/reseaux1-TD-sujets-v210114.pdf",
+    "Maths/Maths.md",
+    "Maths/Outils_Fondamentaux/Outils_Fondamentaux.md",
+    "Maths/Méthode Numérique/Méthode Numérique.md",
+    "Maths/Méthode Numérique/Slides_cours_etu.pdf",
+    "Maths/Méthode Numérique/PolyEntier_a2.pdf",
+    "Maths/Méthode Numérique/TP/exo12/main.py",
+    "Maths/Méthode Numérique/TP/exo12",
+    "Communication/English presentation skills/Note taking to present Maslow's hierarchy of needs.md",
+    "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
+    "Communication/English presentation skills/Presentation introduction practice.md",
+    "Communication/English presentation skills/Retour sur les presentations de TED-show.md",
+    "Communication/English presentation skills/TED presentation.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/Milieux professionnels/Exposé sites web et publicité.md",
+    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
+    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
+    "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
+    "Gestion de projet/Gestion projet informatique/TD/TD.md",
+    "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
+    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM6 - Risques 4.1.pdf",
+    "Gestion de projet/Gestion projet informatique/TD/TD6 Risques/Note TD6.md",
     "Programmation/OOP/OOP.md",
+<<<<<<< HEAD
     "Programmation/OOP/installation-Intellij/installation-Intellij.md",
     "Programmation/OOP/installation-Intellij/tuto.md",
     "Programmation/OOP/installation-Intellij/tuto/dependancies.md",
     "Programmation/OOP/installation-Intellij/tuto/plantuml.md",
     "Programmation/OOP/installation-Intellij/tuto/git.md",
+=======
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
+>>>>>>> 1ca242effbbacc59c02e1908d2a2e0261c46dfc2
     "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
     "Programmation/OOP/installation-Intellij/tuto/img/proxy.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_plantuml.png",
     "Programmation/OOP/installation-Intellij/tuto/img/plantuml_edit.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
     "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin_next.png",
     "Programmation/OOP/installation-Intellij/tuto/img/newproject_kotlin.png",
     "Programmation/OOP/installation-Intellij/tuto/img/newproject.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/junit_result.png",
+    "Programmation/OOP/installation-Intellij/tuto/img/junit_run.png",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
     "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo2.canvas",
-    "Gestion de projet/Gestion projet informatique/TD2 UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
-    "Gestion de projet/Gestion projet informatique/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Programmation/OOP/TD/Etat mémoire L10.canvas",
-    "Gestion de projet/Gestion projet informatique/UML/Schéma entité-association exo2.canvas"
+    "Communication/Anglais Technique/Vocabulary/Compound Word.canvas"
   ]
 }

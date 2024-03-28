@@ -8,5 +8,10 @@ type: folder_brief_live
 - [[PolyEntier_a2.pdf]]
 - [[Prise de notes amphi]]
 - [[Slides_cours_etu.pdf]]
+- **TP**
+	- **exo11**
+		- [[main.py]]
+	- **exo12**
+		- [[main.py]]
 
 %% End Waypoint %%

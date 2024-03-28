@@ -52,7 +52,7 @@ func main() {
     }
 
     f1(&t1[1], &t1[2])
-    f2(1, 2, t1)
+    f2(1, 2, t1) // attention à la nature du tableau donnée : pas les même effet quand passé en paramètres, cf diffrence array / slice.
     f3(1, 2, t2)
     f4(1, 2, t3)
 
@@ -73,11 +73,11 @@ Et le code x86-64 ci-dessous :
 
 ```nasm
 
-<main.fa>
+<main.fa> ; fonction f2
   push   %rbp
   mov    %rsp,%rbp
   sub    $0x10,%rsp
-  cmp    $0x3,%rax
+  cmp    $0x3,%rax ; vérification taille du tableau = 3 ?
   jae    47adf6
   cmp    $0x3,%rbx
   jae    47ade9 
@@ -94,13 +94,13 @@ Et le code x86-64 ci-dessous :
   nopl   0x0(%rax,%rax,1)
   call   45cb20 <runtime.panicIndex>
 
-<main.fb>
+<main.fb> ; fonction : f1
   mov    (%rax),%rcx
   add    (%rbx),%rcx
   mov    %rcx,(%rax)
   ret
 
-<main.fc>
+<main.fc> ; fonction : f4
   push   %rbp
   mov    %rsp,%rbp
   sub    $0x10,%rsp
@@ -124,7 +124,7 @@ Et le code x86-64 ci-dessous :
   nopl   0x0(%rax)
   call   45cb20 <runtime.panicIndex>
 
-<main.fd>
+<main.fd> ; fonction : f3
   push   %rbp
   mov    %rsp,%rbp
   sub    $0x10,%rsp
@@ -146,7 +146,7 @@ Et le code x86-64 ci-dessous :
   call   45cb20 <runtime.panicIndex>
 ```
 
-  1. Prédire ce qu'affiche le programme go lorsqu'il est exécuté.
+  1. Prédire ce qu'affiche le programme go lorsqu'il est exécuté. 
   2. Le code x86-64 a été obtenu après compilation du programme go, mais l'ordre et le nom des fonctions ont été changés. Identifier les fonctions.
   3. Schématiser l'état de la mémoire au début de chacune des fonctions.
   4. Construire le programme et vérifier les réponses données aux questions précédentes.
