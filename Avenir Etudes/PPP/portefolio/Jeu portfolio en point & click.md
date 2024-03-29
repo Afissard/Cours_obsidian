@@ -12,5 +12,10 @@ Une fois arrivé sur une destination, le joueur peu explorer en suivant les règ
 ### Concept art :
 ![[concept-art-jeu-01.png]]
 Après une courte cinématique, le joueur est présenté face à un écran similaire, il peut ensuite choisir d'aller sur l'un des destination proposé.
+Le joueur se déplace sur une petite map (tile map de la taille de l'écran, avec des changement de map en entrant dans un bâtiment)
 # Contenu
 TODO : Aller récupérer ce que j'ai déjà écrit dans le site de portfolio de communication
+# Problématique : Comment afficher le contenu demander, exemple CV ou projet personnel ?
+- par extrait de texte -> problème de forme, manque de contenu ?
+- image -> taille limité
+- interactivité vers le site ? le jeu n'est pas le site à 100%

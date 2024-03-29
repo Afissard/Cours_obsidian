@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bea18c48bb20aca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmation/Programmation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9138066b2be64ef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/v2.md",
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/v2.md",
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/v2.md",
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/v2.md"
+                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md"
               }
             }
           },
@@ -183,9 +170,9 @@
   },
   "active": "9138066b2be64ef4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Avenir Etudes/PPP/portefolio/v2.md",
+    "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
     "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
+    "conflict-files-obsidian-git.md",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Avenir Etudes/PPP/PPP.md",
