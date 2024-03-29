@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
+                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/kezako portefolio.md"
+                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "9138066b2be64ef4",
   "lastOpenFiles": [
+    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
     "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
     "conflict-files-obsidian-git.md",
@@ -184,7 +185,6 @@
     "Programmation/IHM/TD2/Arbre de scène.canvas",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
-    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Réseau/Réseau.md",
     "Réseau/TD/TD.md",
     "Réseau/TD/TD2/TD2.md",
