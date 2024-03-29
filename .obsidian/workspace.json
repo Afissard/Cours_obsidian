@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1591e42858fa09f7",
+        "id": "30f5f40622b1c498",
         "type": "tabs",
         "children": [
           {
-            "id": "bb08043ffbf269be",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programmation/IHM/cours2.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0b5a25d8e295cf74",
+            "id": "de11c97f4962bde8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programmation/IHM/cours1.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation/IHM/cours1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation/IHM/cours1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programmation/IHM/cours1.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -179,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b5a25d8e295cf74",
+  "active": "de11c97f4962bde8",
   "lastOpenFiles": [
+    "Programmation/IHM/cours1.pdf",
     "Programmation/IHM/cours2.pdf",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
     "Programmation/IHM/IHM.md",
@@ -208,7 +190,6 @@
     "Réseau/TD/TD1/exo19.md",
     "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
     "Programmation/IHM/TD2/Réponse TD2.md",
-    "Programmation/IHM/cours1.pdf",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "Programmation/IHM/TD2",
     "Avenir Etudes/PPP/partie 1/partie 1.md",
