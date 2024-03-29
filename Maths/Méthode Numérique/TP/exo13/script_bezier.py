@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import math as mt   
 
 def TODO():
-    return NotImplemented()
+    raise NotImplementedError("TODO")
 
 def plot_points(points_courbe,style):
     x = []
@@ -176,10 +176,33 @@ def test_division_courbe_bezier():
     print('test division_courbe_bezier : ',np.count_nonzero(np.isclose(test_res,res))==np.array(res).size)
 
 def courbe_bezier_cast_helper(points_control,epsilon,points_courbe):
-    TODO()
+    """
+    La fonction courbe_bezier_cast_helper(points_control,epsilon,points_courbe)
+    va effectuer le travail récursif attendu pour l’algorithme de Casteljau en ajoutant
+    à la liste points_courbe le premier point de la liste points_control lorsque
+    ceux-ci sont considérés alignés et va sinon rediviser la liste points_control
+    pour effectuer deux appels récursifs pour approcher la courbe de Bézier attendue 
+    définie par points_control par la jonction de deux courbes définies par
+    cette division de points_control en deux listes.
+    
+    Cette fonction ajoute le premier point de la liste points_control à la liste points_courbe 
+    lorsque ces points sont considérés alignés. Sinon, elle divise la liste points_control en 
+    deux parties et effectue deux appels récursifs pour approximer la courbe de Bézier attendue 
+    en joignant deux courbes définies par cette division
+    """
+    if test_alignement_4pts(points_control, epsilon):
+        points_courbe.append(points_control[0])
+    else :
+        divLPC = division_courbe_bezier(points_control)
+        points_courbe = courbe_bezier_cast_helper(divLPC[0], epsilon, points_courbe)
+        points_courbe = courbe_bezier_cast_helper(divLPC[1], epsilon, points_courbe)
+    
+    return points_courbe
 
 def courbe_bezier_cast(points_control,epsilon):
-    TODO()
+    points_courbe = courbe_bezier_cast_helper(points_control, epsilon, [])
+    points_courbe.append(points_control[len(points_control)-1])
+    return points_courbe
 
 def test_courbe_bezier_cast():
     P0 = (0,0)
@@ -188,7 +211,7 @@ def test_courbe_bezier_cast():
     P3 = (1,0)
     plt.figure()
     epsilon=5e-3
-    points = courbe_bezier_3_cast([P0,P1,P2,P3],epsilon)
+    points = courbe_bezier_cast([P0,P1,P2,P3],epsilon) # courbe_bezier_3_cast
     plot_points(points,style='.')
     plot_points(points,style='r-')
     plot_points([P0,P1,P2,P3],style='o')
@@ -304,3 +327,4 @@ if __name__ == "__main__":
     test_vecteur_unitaire()
     test_test_alignement_4pts()
     test_division_courbe_bezier()
+    test_courbe_bezier_cast()

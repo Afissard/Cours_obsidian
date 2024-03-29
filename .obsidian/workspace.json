@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "30f5f40622b1c498",
+        "id": "b73cdf1a1242a599",
         "type": "tabs",
         "children": [
           {
-            "id": "de11c97f4962bde8",
+            "id": "8bea18c48bb20aca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programmation/Programmation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9138066b2be64ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avenir Etudes/PPP/portefolio/v2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Avenir Etudes/PPP/portefolio/v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Avenir Etudes/PPP/portefolio/v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Avenir Etudes/PPP/portefolio/v2.md"
+              }
             }
           },
           {
@@ -160,21 +181,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de11c97f4962bde8",
+  "active": "9138066b2be64ef4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Avenir Etudes/PPP/portefolio/v2.md",
+    "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
+    "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
+    "Avenir Etudes/PPP/portefolio/portefolio.md",
+    "Avenir Etudes/PPP/PPP.md",
+    "Avenir Etudes/Avenir Etudes.md",
+    "Programmation/Programmation.md",
+    "Programmation/IHM/IHM.md",
     "Programmation/IHM/cours1.pdf",
     "Programmation/IHM/cours2.pdf",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
-    "Programmation/IHM/IHM.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
-    "Programmation/Programmation.md",
-    "Avenir Etudes/PPP/PPP.md",
-    "Avenir Etudes/PPP/portefolio/portefolio.md",
-    "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
-    "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
-    "Avenir Etudes/Avenir Etudes.md",
     "Réseau/Réseau.md",
     "Réseau/TD/TD.md",
     "Réseau/TD/TD2/TD2.md",
@@ -202,7 +225,6 @@
     "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
     "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
-    "Gestion de projet/Gestion projet informatique/Cours/prise de note amphi.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",

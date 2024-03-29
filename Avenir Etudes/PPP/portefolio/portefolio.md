@@ -8,5 +8,6 @@ type: folder_brief_live
 - [[concept-art-jeu-01.png]]
 - [[Jeu portfolio en point & click]]
 - [[kezako portefolio]]
+- [[v2]]
 
 %% End Waypoint %%
