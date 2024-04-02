@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "3f0aed537bc9bc42",
+    "id": "c19d524ed0b3f31a",
     "type": "split",
     "children": [
       {
-        "id": "b73cdf1a1242a599",
+        "id": "6a52f06579dd9e44",
         "type": "tabs",
         "children": [
           {
-            "id": "9138066b2be64ef4",
+            "id": "40d0df149a89f19b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a803d7d809bfafcb",
+    "id": "60d3de0a09b19dd7",
     "type": "split",
     "children": [
       {
-        "id": "53a8b4504231fe77",
+        "id": "49d6c5f7ff5efb3f",
         "type": "tabs",
         "children": [
           {
-            "id": "a9c033008c99906c",
+            "id": "0e82bb3bc460ffe2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +45,12 @@
             }
           },
           {
-            "id": "b9755e4b99bc58e9",
+            "id": "4882103ae1d1f984",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hôte",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +60,7 @@
             }
           },
           {
-            "id": "eef074144b3fd639",
+            "id": "8cfbfe0267816428",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +71,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 226.5
   },
   "right": {
-    "id": "df3371eaebed66e9",
+    "id": "1d4e887032f3094a",
     "type": "split",
     "children": [
       {
-        "id": "62db329fab9073d5",
+        "id": "abd28b204b1e5794",
         "type": "tabs",
         "children": [
           {
-            "id": "36ab70aff675fc6d",
+            "id": "41befc478f487784",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +99,7 @@
             }
           },
           {
-            "id": "b57fb88e51befda1",
+            "id": "d8d47b96b0f45392",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +111,7 @@
             }
           },
           {
-            "id": "739bbe47af14f08f",
+            "id": "e98f8985b7066bfb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +122,7 @@
             }
           },
           {
-            "id": "18f3c6fd4c047dc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md"
-              }
-            }
-          },
-          {
-            "id": "f92634b381d09202",
+            "id": "eddade106ee8fffa",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -142,15 +134,16 @@
             }
           },
           {
-            "id": "b6274e313101a862",
+            "id": "662f6dbad4e7e1c3",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md"
+              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,72 +152,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9138066b2be64ef4",
+  "active": "40d0df149a89f19b",
   "lastOpenFiles": [
     "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
-    "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
-    "conflict-files-obsidian-git.md",
-    "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
+    "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
+    "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
+    "Avenir Etudes/PPP/portefolio/jeu",
+    "Avenir Etudes/PPP/portefolio/jeu/Jeu portfolio en point & click.md",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Avenir Etudes/PPP/PPP.md",
-    "Avenir Etudes/Avenir Etudes.md",
-    "Programmation/Programmation.md",
-    "Programmation/IHM/IHM.md",
-    "Programmation/IHM/cours1.pdf",
-    "Programmation/IHM/cours2.pdf",
-    "Programmation/IHM/TD2/Arbre de scène.canvas",
-    "Programmation/OOP/OOP.md",
-    "Programmation/OOP/Cours/Cours.md",
-    "Réseau/Réseau.md",
-    "Réseau/TD/TD.md",
-    "Réseau/TD/TD2/TD2.md",
-    "Réseau/TD/TD2/routage1.png",
-    "Réseau/TD/TD2/consigneTD.md",
-    "Réseau/TD/TD2/routage2.png",
-    "Réseau/TD/TD1/TD1.md",
-    "Réseau/TD/TD2",
-    "Réseau/TD/r2_05.td1/routage2.png",
-    "Réseau/TD/r2_05.td1/routage1.png",
-    "Réseau/TD/r2_05.td1/README.md",
-    "Réseau/TD/r2_05.td1",
-    "Réseau/TD/TD1/exo19.md",
-    "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
-    "Programmation/IHM/TD2/Réponse TD2.md",
-    "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "Programmation/IHM/TD2",
-    "Avenir Etudes/PPP/partie 1/partie 1.md",
-    "Avenir Etudes/PPP/portefolio",
-    "Avenir Etudes/PPP/partie 1",
-    "Réseau/COUR/COUR.md",
-    "Réseau/COUR/hernandez-R205-reseaux1-CM_09_transport.pdf",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/mini-projet/mini-projet.md",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/mini-projet/Mini projet.md",
-    "Réseau/TD/TD1/exo5 shema.png",
-    "Réseau/TD/TD1/exo5 shema q3.png",
-    "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
-    "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/plantuml_market.png",
-    "Programmation/OOP/installation-Intellij/tuto/img/umlchecker.png",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas"
+    "Avenir Etudes/Avenir Etudes.md"
   ]
 }
