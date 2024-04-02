@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b73cdf1a1242a599",
+        "id": "f4b1c750911a9594",
         "type": "tabs",
         "children": [
           {
-            "id": "9138066b2be64ef4",
+            "id": "6e9377e156c4f5e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication/communication.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Communication/communication.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,15 +160,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9138066b2be64ef4",
+  "active": "6e9377e156c4f5e1",
   "lastOpenFiles": [
+    "Programmation/Programmation.md",
+    "Programmation/IHM/IHM.md",
+    "Programmation/IHM/cours3.pdf",
+    "Programmation/IHM/cours1.pdf",
+    "Communication/communication.md",
     "Communication/Business Communication/Business Communication.md",
     "Communication/Business Communication/Writing email as Interne.md",
     "Communication/Business Communication/Informal vs Formal.md",
     "Communication/English presentation skills/English presentation skills.md",
     "Communication/Business Communication",
     "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/communication.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
@@ -190,9 +186,6 @@
     "conflict-files-obsidian-git.md",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
-    "Programmation/Programmation.md",
-    "Programmation/IHM/IHM.md",
-    "Programmation/IHM/cours1.pdf",
     "Programmation/IHM/cours2.pdf",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
     "Programmation/OOP/OOP.md",
@@ -209,11 +202,9 @@
     "Réseau/TD/r2_05.td1/routage1.png",
     "Réseau/TD/r2_05.td1/README.md",
     "Réseau/TD/r2_05.td1",
-    "Réseau/TD/TD1/exo19.md",
     "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "Programmation/IHM/TD2",
-    "Avenir Etudes/PPP/portefolio",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
