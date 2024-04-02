@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a52f06579dd9e44",
+        "id": "cce62ee3c993c828",
         "type": "tabs",
         "children": [
           {
-            "id": "40d0df149a89f19b",
+            "id": "862014889282c2b4",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +130,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,21 +147,26 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false
     }
   },
-  "active": "40d0df149a89f19b",
+  "active": "862014889282c2b4",
   "lastOpenFiles": [
+    "Avenir Etudes/Avenir Etudes.md",
+    "Avenir Etudes/PPP/PPP.md",
+    "Avenir Etudes/PPP/portefolio/portefolio.md",
+    "Avenir Etudes/PPP/portefolio/Website portfolio.md",
+    "repository.md",
+    "README.md",
+    "Communication/English presentation skills/English presentation skills.md",
+    "Communication/communication.md",
+    "2024-04-02.md",
     "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
-    "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
     "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/jeu",
-    "Avenir Etudes/PPP/portefolio/jeu/Jeu portfolio en point & click.md",
-    "Avenir Etudes/PPP/portefolio/portefolio.md",
-    "Avenir Etudes/PPP/PPP.md",
-    "Avenir Etudes/Avenir Etudes.md"
+    "Avenir Etudes/PPP/portefolio/jeu/Jeu portfolio en point & click.md"
   ]
 }

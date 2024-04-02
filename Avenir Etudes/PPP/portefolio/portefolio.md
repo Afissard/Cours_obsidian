@@ -10,6 +10,6 @@ type: folder_brief_live
 	- [[concept-art-jeu-01.png]]
 	- [[Jeu portfolio en point & click]]
 - [[kezako portefolio]]
-- [[Website portfolio (au cas où)]]
+- [[Website portfolio]]
 
 %% End Waypoint %%
