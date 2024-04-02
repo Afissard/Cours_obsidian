@@ -11,8 +11,12 @@
             "id": "9138066b2be64ef4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/communication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/communication.md"
+              }
             }
           },
           {
@@ -162,8 +170,16 @@
   },
   "active": "9138066b2be64ef4",
   "lastOpenFiles": [
-    "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
+    "Communication/Business Communication/Business Communication.md",
+    "Communication/Business Communication/Writing email as Interne.md",
+    "Communication/Business Communication/Informal vs Formal.md",
     "Communication/English presentation skills/English presentation skills.md",
+    "Communication/Business Communication",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/communication.md",
+    "Avenir Etudes/Avenir Etudes.md",
+    "Avenir Etudes/PPP/PPP.md",
+    "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
     "Avenir Etudes/PPP/portefolio/jeu/Jeu portfolio en point & click.md",
     "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/jeu",
@@ -174,8 +190,6 @@
     "conflict-files-obsidian-git.md",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
-    "Avenir Etudes/PPP/PPP.md",
-    "Avenir Etudes/Avenir Etudes.md",
     "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/cours1.pdf",
@@ -197,15 +211,9 @@
     "Réseau/TD/r2_05.td1",
     "Réseau/TD/TD1/exo19.md",
     "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
-    "Programmation/IHM/TD2/Réponse TD2.md",
     "Programmation/OOP/Cours/08-sequencesuml.pdf",
     "Programmation/IHM/TD2",
-    "Avenir Etudes/PPP/partie 1/partie 1.md",
     "Avenir Etudes/PPP/portefolio",
-    "Avenir Etudes/PPP/partie 1",
-    "Réseau/COUR/COUR.md",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
