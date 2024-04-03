@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4b1c750911a9594",
+        "id": "c3a1841920a8357e",
         "type": "tabs",
         "children": [
           {
-            "id": "6e9377e156c4f5e1",
+            "id": "c60d6e220fb347ad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e9377e156c4f5e1",
+  "active": "c60d6e220fb347ad",
   "lastOpenFiles": [
+    "SAE/SAE.md",
+    "SAE/GPO-AppAsthme/GPO-AppAsthme.md",
+    "SAE/GPO-AppAsthme/repo gitlab.md",
+    "SAE/GPO-AppAsthme/GPO2-CM7-CdC-4.1.pdf",
+    "SAE/GPO-AppAsthme/lu18656yyhbsv.tmp",
+    "Gestion de projet/Gestion de projet.md",
+    "SAE/GPO-AppAsthme/GPO2 - CM7 - CdC 4.1.pptx",
+    "SAE/GPO-AppAsthme",
+    "SAE/Nouveau dossier",
     "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
     "Programmation/IHM/cours3.pdf",
@@ -194,17 +203,9 @@
     "Réseau/TD/TD.md",
     "Réseau/TD/TD2/TD2.md",
     "Réseau/TD/TD2/routage1.png",
-    "Réseau/TD/TD2/consigneTD.md",
     "Réseau/TD/TD2/routage2.png",
-    "Réseau/TD/TD1/TD1.md",
-    "Réseau/TD/TD2",
     "Réseau/TD/r2_05.td1/routage2.png",
     "Réseau/TD/r2_05.td1/routage1.png",
-    "Réseau/TD/r2_05.td1/README.md",
-    "Réseau/TD/r2_05.td1",
-    "Réseau/TD/TD1/reseaux1-exercices-7.pdf",
-    "Programmation/OOP/Cours/08-sequencesuml.pdf",
-    "Programmation/IHM/TD2",
     "Réseau/TD/TD1/exo5 shema.png",
     "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
