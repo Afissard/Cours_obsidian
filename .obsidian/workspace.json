@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9eedea8b9245b82",
+        "id": "b0307185498c4a86",
         "type": "tabs",
         "children": [
           {
-            "id": "075c3af44a1bdf0c",
+            "id": "2628f0983032debc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -161,18 +160,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "075c3af44a1bdf0c",
+  "active": "2628f0983032debc",
   "lastOpenFiles": [
-    "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
-    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
+    "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
+    "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+    "Gestion de projet/Droit des contrats numérique/TD1",
     "Gestion de projet/Droit des contrats numérique/BUT1-20TypesCtrat.pdf",
-    "Gestion de projet/Droit des contrats numérique/BUT1-TdDrContrats.pdf",
+    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
+    "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
     "Gestion de projet/Droit des contrats numérique/lu19904z8yucu.tmp",
     "Gestion de projet/Droit des contrats numérique/lu14996z8y879.tmp",
-    "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
     "Gestion de projet/Droit des contrats numérique/BUT1-TdDrContrats.odt",
     "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.odt",
-    "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Droit des contrats numérique",
     "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
     "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
@@ -180,7 +182,6 @@
     "SAE/SAE.md",
     "SAE/GPO-AppAsthme/GPO-AppAsthme.md",
     "SAE/GPO-AppAsthme/repo gitlab.md",
-    "SAE/GPO-AppAsthme/GPO2-CM7-CdC-4.1.pdf",
     "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
     "Communication/communication.md",
@@ -198,9 +199,7 @@
     "Avenir Etudes/PPP/portefolio/Website portfolio.md",
     "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
-    "conflict-files-obsidian-git.md",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
-    "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
     "Réseau/TD/TD2/routage1.png",
     "Réseau/TD/TD2/routage2.png",

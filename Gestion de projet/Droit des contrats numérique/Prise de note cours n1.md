@@ -1,3 +1,6 @@
 Cour de 6 semaines, évaluation de 30min à la dernière semaine.
 
 Exemple de droit subjectif : 1ère jurisprudence d'abus de droit de propriété : Clément Bayard : https://www.legifrance.gouv.fr/juri/id/JURITEXT000007070363/
+
+**contrat individuel** : un contrat de travail en est un, c'est entre vous et l'employeur, si il y a un problème on peut allez au prudhomme.
+**Contrats intuitu personae** : contrat qui engage la personne physique donc ses bien matériels personnel (exemple hypothèque).
