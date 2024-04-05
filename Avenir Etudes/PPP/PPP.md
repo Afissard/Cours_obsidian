@@ -8,7 +8,6 @@ type: folder_brief_live
 - **[[partie 1]]**
 - **portefolio**
 	- [[kezako portefolio]]
-	- [[renomer]]
 
 %% End Waypoint %%
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0307185498c4a86",
+        "id": "103b4f50d0bb130a",
         "type": "tabs",
         "children": [
           {
-            "id": "2628f0983032debc",
+            "id": "4d725ed0ce9b6471",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2628f0983032debc",
+  "active": "4d725ed0ce9b6471",
   "lastOpenFiles": [
+    "Avenir Etudes/Avenir Etudes.md",
+    "Avenir Etudes/PPP/PPP.md",
+    "Avenir Etudes/PPP/portefolio/portefolio.md",
+    "Avenir Etudes/PPP/partie 1/partie 1.md",
+    "renomer.md",
+    "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
+    "Avenir Etudes/PPP/portefolio/Website portfolio.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
@@ -190,15 +197,9 @@
     "Communication/Business Communication/Informal vs Formal.md",
     "Communication/English presentation skills/English presentation skills.md",
     "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Avenir Etudes/Avenir Etudes.md",
-    "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
     "Avenir Etudes/PPP/portefolio/jeu/Jeu portfolio en point & click.md",
     "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
-    "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
-    "Avenir Etudes/PPP/portefolio/Website portfolio.md",
-    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
-    "Avenir Etudes/PPP/portefolio/Jeu portfolio en point & click.md",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
     "Réseau/TD/TD2/routage1.png",
