@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cce62ee3c993c828",
+        "id": "5ca30771fa7873eb",
         "type": "tabs",
         "children": [
           {
-            "id": "862014889282c2b4",
+            "id": "15f95fc0b46bcd42",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,7 +152,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "862014889282c2b4",
+  "active": "15f95fc0b46bcd42",
   "lastOpenFiles": [
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/PPP/PPP.md",
