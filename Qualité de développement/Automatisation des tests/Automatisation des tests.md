@@ -1,13 +1,10 @@
-# TD Overview
+# Automatisation des tests Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[TD1]]**
-- **[[TD2]]**
-- **[[TD3]]**
-- **[[TD4]]**
+- [[Amphi]]
 
 %% End Waypoint %%

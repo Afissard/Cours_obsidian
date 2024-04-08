@@ -1,13 +1,10 @@
-# TD Overview
+# Qualité de développement Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[TD1]]**
-- **[[TD2]]**
-- **[[TD3]]**
-- **[[TD4]]**
+- **[[Automatisation des tests]]**
 
 %% End Waypoint %%

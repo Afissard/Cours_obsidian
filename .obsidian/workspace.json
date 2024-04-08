@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "103b4f50d0bb130a",
+        "id": "d269514e4296277e",
         "type": "tabs",
         "children": [
           {
-            "id": "4d725ed0ce9b6471",
+            "id": "bf266b5e02a29667",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Qualité de développement/Automatisation des tests/Amphi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Qualité de développement/Automatisation des tests/Amphi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Qualité de développement/Automatisation des tests/Amphi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Qualité de développement/Automatisation des tests/Amphi.md"
+              }
             }
           },
           {
@@ -160,8 +168,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d725ed0ce9b6471",
+  "active": "bf266b5e02a29667",
   "lastOpenFiles": [
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
+    "Qualité de développement/Automatisation des tests/Amphi.md",
+    "Qualité de développement/Qualité de développement.md",
+    "Programmation/Programmation.md",
+    "Qualité de développement/Automatisation des tests",
+    "Qualité de développement",
+    "Réseau/Réseau.md",
+    "Réseau/TD/TD.md",
+    "Réseau/TD/TD4/TD4.md",
+    "Réseau/TD/TD3/TD3.md",
+    "Réseau/TD/TD2/TD2.md",
+    "Réseau/TD/TD3/Diagnostiquer-configuration-réseau+configurer-interface-réseau_20240401.md",
+    "Réseau/TD/TD4/readmeTD4.md",
+    "README.md",
+    "Réseau/TD/TD4/zebra.conf",
+    "Réseau/TD/TD4/situation3.png",
+    "Réseau/TD/TD4/situation2.png",
+    "Réseau/TD/TD4/situation1.png",
+    "Réseau/TD/TD4/ospfd.conf",
+    "Réseau/TD/TD4",
+    "Réseau/TD/r2_05.tp1/zebra.conf",
+    "Réseau/TD/r2_05.tp1/situation3.png",
+    "Réseau/TD/r2_05.tp1/situation2.png",
+    "Réseau/TD/r2_05.tp1/situation1.png",
+    "Réseau/TD/r2_05.tp1/ospfd.conf",
+    "Réseau/TD/r2_05.tp1/README.md",
+    "Réseau/TD/r2_05.tp1",
+    "Maths/Maths.md",
+    "Maths/Statistiques_descriptive/sae_radios.pdf",
+    "Maths/Statistiques_descriptive/PolyEntier_a2.pdf",
+    "Réseau/TD/TD1/TD1.md",
+    "Réseau/TD/TD1/exo8.md",
+    "Réseau/TD/TD2/consigneTD.md",
+    "Réseau/TD/TD2/routage1.png",
+    "Réseau/COUR/COUR.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
@@ -171,48 +214,13 @@
     "Avenir Etudes/PPP/portefolio/Website portfolio.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
-    "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
-    "Gestion de projet/Droit des contrats numérique/TD1",
-    "Gestion de projet/Droit des contrats numérique/BUT1-20TypesCtrat.pdf",
-    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
-    "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
-    "Gestion de projet/Droit des contrats numérique/lu19904z8yucu.tmp",
-    "Gestion de projet/Droit des contrats numérique/lu14996z8y879.tmp",
-    "Gestion de projet/Droit des contrats numérique/BUT1-TdDrContrats.odt",
-    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.odt",
-    "Gestion de projet/Droit des contrats numérique",
-    "Gestion de projet/Gestion projet informatique/Gestion projet informatique.md",
-    "Gestion de projet/Gestion projet informatique/Cours/Cours.md",
-    "Gestion de projet/Gestion projet informatique/Cours/GPO2 - CM1 - Enjeux - UseCase 4.2.1.pdf",
-    "SAE/SAE.md",
-    "SAE/GPO-AppAsthme/GPO-AppAsthme.md",
-    "SAE/GPO-AppAsthme/repo gitlab.md",
-    "Programmation/Programmation.md",
-    "Programmation/IHM/IHM.md",
-    "Communication/communication.md",
-    "Communication/Business Communication/Business Communication.md",
-    "Communication/Business Communication/Writing email as Interne.md",
-    "Communication/Business Communication/Informal vs Formal.md",
-    "Communication/English presentation skills/English presentation skills.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Avenir Etudes/PPP/portefolio/Website portfolio (au cas où).md",
-    "Avenir Etudes/PPP/portefolio/jeu/Jeu portfolio en point & click.md",
     "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
-    "Réseau/TD/TD2/routage1.png",
-    "Réseau/TD/TD2/routage2.png",
-    "Réseau/TD/r2_05.td1/routage2.png",
-    "Réseau/TD/r2_05.td1/routage1.png",
-    "Réseau/TD/TD1/exo5 shema.png",
-    "Réseau/TD/TD1/exo5 shema q3.png",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
-    "Programmation/OOP/installation-Intellij/tuto/img/welcome.png",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
