@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d269514e4296277e",
+        "id": "42af1b902fb4f992",
         "type": "tabs",
         "children": [
           {
-            "id": "bf266b5e02a29667",
+            "id": "8b092bb2f854ba86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/Test Unitaire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/Test Unitaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/Test Unitaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/Test Unitaire.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,12 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9755e4b99bc58e9",
+  "active": "8b092bb2f854ba86",
   "lastOpenFiles": [
-    "Qualité de développement/Automatisation des tests/Amphi1.md",
-    "Qualité de développement/Automatisation des tests/Test Unitaire.md",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Qualité de développement.md",
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
+    "Qualité de développement/Automatisation des tests/Test Unitaire.md",
+    "Qualité de développement/Automatisation des tests/Amphi1.md",
     "Programmation/Programmation.md",
     "Qualité de développement/Automatisation des tests",
     "Qualité de développement",
