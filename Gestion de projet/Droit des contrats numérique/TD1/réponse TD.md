@@ -57,9 +57,9 @@ On veux bénéficier de la compétence des spécialiste dont l'activité externa
 > Ce **contrat informatique** est conclu avec des fournisseurs d'application hébergée.  À la différence du contrat outsourcing, le client ne possède que le droit d'accès et d'utilisation de logiciels hébergés par le prestataire, lui-même disposant d'un droit d'usage concédé par un éditeur. Cette pratique s'est développée grâce aux applications " cloud ".
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
-C'est un signé par un client réclamant l'accès et l'utilisation d'un logiciel hébergé un prestataire, celui-ci possède un droit d'usage vendu par l'éditeur du logiciel.
+C'est un contrat signé par un client réclamant l'accès et l'utilisation d'un logiciel hébergé (dans le cloud) par un prestataire, celui-ci possède un droit d'usage vendu par l'éditeur du progiciel.
 ## 7 Contrat SaaS (Software as a Service)
 > Ce contrat concerne également les prestations d'externalisation du système informatique. Mais  le client peut obtenir une personnalisation des applications à laquelle il a accès exclusivement par Internet. Il s'agit donc d'une prestation personnalisée à distance. Mais dans ce cas précis, le prestataire est propriétaire de ses logiciels, mais les adapte à la demande du client qui devient copropriétaire.
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
-Ce contrat est différent du contrat ASP sur certains points : le prestataire est propriétaire du produit qu'il met à disposition en ligne et personnalise à la demande du client le logiciel vendu.
+Le contrat SaaS est différent du contrat ASP sur certains points : le prestataire est propriétaire du progiciel qu'il met à disposition en ligne et personnalise à la demande du client le logiciel vendu.
