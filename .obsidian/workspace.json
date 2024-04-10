@@ -10,9 +10,27 @@
           {
             "id": "8b092bb2f854ba86",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6f23c6ddde75b634",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md"
+              }
             }
           },
           {
@@ -162,6 +184,11 @@
   },
   "active": "8b092bb2f854ba86",
   "lastOpenFiles": [
+    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
+    "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
+    "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
+    "Gestion de projet/Gestion de projet.md",
     "Qualité de développement/Qualité de développement.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Automatisation des tests/Test Unitaire.md",
@@ -192,7 +219,6 @@
     "Réseau/TD/r2_05.tp1",
     "Maths/Maths.md",
     "Maths/Statistiques_descriptive/sae_radios.pdf",
-    "Maths/Statistiques_descriptive/PolyEntier_a2.pdf",
     "Réseau/TD/TD1/TD1.md",
     "Réseau/TD/TD1/exo8.md",
     "Réseau/TD/TD2/consigneTD.md",
@@ -200,12 +226,7 @@
     "Réseau/COUR/COUR.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/PPP/PPP.md",
-    "Avenir Etudes/PPP/portefolio/portefolio.md",
-    "Avenir Etudes/PPP/partie 1/partie 1.md",
-    "renomer.md",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
-    "Avenir Etudes/PPP/portefolio/Website portfolio.md",
-    "Gestion de projet/Gestion de projet.md",
     "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
