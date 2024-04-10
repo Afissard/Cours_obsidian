@@ -14,17 +14,31 @@ Une licence de logiciel est un contrat d'utilisation dudit logiciel incluant sa 
 
 **Correction :**
 Un propriétaire d'un logiciel donne le *fructus* de son logiciel.
-Concerne les progiciel, produit informatique existant, les licenses concerne principalement les produits logiciel. Il s'agit donc pour un prestataire (un éditeur) de donné un droit d'usage pour son produit, le prestataire reste propriétaire de son progiciel. (exemple les joueur ne sont pas propriétaire des jeux vidéos qu'il achètes (surtout en dématérialisé), *cf* conditions d'utilisations de Steam)
+
+Ce contrat concerne les progiciel, produit informatique existant, les licenses concerne principalement les produits logiciel. Il s'agit donc pour un prestataire (un éditeur) de donné un droit d'usage pour son produit, le prestataire reste propriétaire de son progiciel. (exemple les joueur ne sont pas propriétaire des jeux vidéos qu'il achètes (surtout en dématérialisé), *cf* conditions d'utilisations de Steam)
 ## 3 Contrat de maintenance informatique 
 > Le **contrat de maintenance informatique** est accordé lorsque le prestataire est en charge du maintien du système informatique dans un état de fonctionnement optimal. Le prestataire s'engage donc à contrôler le système et à réparer les erreurs ou à mettre en place des équipements de prévention ou de limitation de problèmes. Il doit également assurer les contrôles périodiques et la mise à jour des outils informatiques. Les éditeurs de logiciels (progiciels) par exemple proposent un **contrat informatique** qui relate leur engagement à vérifier périodiquement (tous les trimestres) le bon fonctionnement du système. Cela est motivé par une volonté [commerciale](https://fiches-pratiques.chefdentreprise.com/Thematique/marketing-1052/FichePratique/Le-social-selling-pour-votre-performance-commerciale-368248.htm "Le social selling, véritable levier de performance commerciale"), mais surtout par l'intention  de sécuriser les " codes sources ".
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
 Ce contrat engage le prestataire à maintenir le produit dans un état de fonctionnement optimal sur toute la durée du contrat.
+
+**Correction :**
+Il s'agit de la maintenance du système par ses trois sous système : 
+- matériel
+- logiciel / progiciel 
+- le réseau de télécommunication
+et cela par des maintenances de type : 
+- curative : réparation
+- préventive : prévenir
+- évolutive : mise à jour
 ## 4 Contrat d'intégration de logiciels 
 > Lorsqu'une entreprise a acquis les droits sur plusieurs logiciels, ces derniers doivent pouvoir fonctionner au sein du système informatique de celle-ci. Un **contrat informatique** sera alors conclu avec un intégrateur pour mettre en place un protocole permettant d'intégrer les logiciels et assurer leur cohérence dans le système. Il y a un **devoir de coopération**.
 >  source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
 Ce contrat est signé entre une entreprise détenant un ou plusieurs logiciel et un prestataire qui est chargé d'intégrer ces logiciels dans le système, ces deux entités se doivent de coopérer pour pour la réalisation de cette intégration.
+
+**Correction :**
+Contrat pour l'intergration de différent logiciel sur une même base, cela passe généralement par le development d'un Progiciel de Gestion Intégrer (PGI) (aussi appeler ERP)
 ## 5 Contrat d'outsoursing (ou d'externalisation ou d'infogérance) 
 > C'est une stratégie commerciale qui consiste pour une entreprise à confier la réalisation de certaines tâches à un prestataire externe, expert dans son domaine.
 > source : [service-public.fr](https://entreprendre.service-public.fr/vosdroits/F36266)
