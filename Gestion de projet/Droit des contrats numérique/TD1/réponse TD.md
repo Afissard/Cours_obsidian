@@ -20,18 +20,20 @@ Ce contrat engage le prestataire à maintenir le produit dans un état de foncti
 
 Ce contrat est signé entre une entreprise détenant un ou plusieurs logiciel et un prestataire qui est chargé d'intégrer ces logiciels dans le système, ces deux entités se doivent de coopérer pour pour la réalisation de cette intégration.
 ## 5 Contrat d'outsoursing (ou d'externalisation ou d'infogérance) 
-Donnée par le prof
-### Quelle est la différence entre externalisation et sous-traitance ? 
-Donnée par le prof
+> C'est une stratégie commerciale qui consiste pour une entreprise à confier la réalisation de certaines tâches à un prestataire externe, expert dans son domaine.
+> source : [service-public.fr](https://entreprendre.service-public.fr/vosdroits/F36266)
+### Quelle est la différence entre externalisation et sous-traitance ?
+La sous-traitance est le choix de faire faire quelque chose. Lorsqu'on parle d'externalisation, c'est la sous-traitance d'une activité qui n'est pas au cœur du métier (exemple : un restaurant externalise la livraison à Uber-Eat)
 ### Qu’est-ce que l’infogérance ? 
-Donnée par le prof
+L'infogérence c'est l'externalisation des activités informatique des entreprise vers un prestataire charger de les réaliser.
+On veux bénéficier de la compétence des spécialiste dont l'activité externalisé est leur cœur de métier.
 ## 6 Contrat ASP (Application Service Provider) ou FAH ( Fournisseur d'Applications Hébergées) 
 > Ce **contrat informatique** est conclu avec des fournisseurs d'application hébergée.  À la différence du contrat outsourcing, le client ne possède que le droit d'accès et d'utilisation de logiciels hébergés par le prestataire, lui-même disposant d'un droit d'usage concédé par un éditeur. Cette pratique s'est développée grâce aux applications " cloud ".
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
-C'est un signé par un client réclament l'accès et l'utilisation d'un logiciel hébergé un prestataire, celui-ci possède un droit d'usage vendu par l'éditeur du logiciel.
+C'est un signé par un client réclamant l'accès et l'utilisation d'un logiciel hébergé un prestataire, celui-ci possède un droit d'usage vendu par l'éditeur du logiciel.
 ## 7 Contrat SaaS (Software as a Service)
 > Ce contrat concerne également les prestations d'externalisation du système informatique. Mais  le client peut obtenir une personnalisation des applications à laquelle il a accès exclusivement par Internet. Il s'agit donc d'une prestation personnalisée à distance. Mais dans ce cas précis, le prestataire est propriétaire de ses logiciels, mais les adapte à la demande du client qui devient copropriétaire.
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
-Ce contrat est différent du contrat ASP sur certains points : le prestataire est propriétaire du logiciel et personnalise à la demande du client le logiciel vendu, ce logiciel est uniquement disponible en ligne.
+Ce contrat est différent du contrat ASP sur certains points : le prestataire est propriétaire du produit qu'il met à disposition en ligne et personnalise à la demande du client le logiciel vendu.
