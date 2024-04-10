@@ -41,9 +41,15 @@ Contrat pour l'intergration de différent logiciel sur une même base, cela pass
 
 L'impartition réside dans le choix de faire soit même ou de faire faire. Cette stratégie comporte :
 - la sous-traitance : c'est le choix de faire faire quelque chose. 
-- l'externalisation/infogérance : la sous-traitance des activités secondaires ou annexes. L'externalisation implique l'internalisation soit le cœur de métier de l'entreprise.
+- l'externalisation : la sous-traitance des activités secondaires ou annexes. L'externalisation implique l'internalisation soit le cœur de métier de l'entreprise.
+- l'infogérence c'est l'externalisation des activité informatique annexe d'une entreprise utilisatrice.
+
+**Objectifs poursuivis :**
+- transformer les coups fixe en coups variable en but de maitriser les coups (et donc baisser).
+- bénéficier de la compétence et de l'expertise auprès des quels les activité annexe externalisé constitue leurs cœur de métier.
 ### Quelle est la différence entre externalisation et sous-traitance ?
 La sous-traitance est le choix de faire faire quelque chose. Lorsqu'on parle d'externalisation, c'est la sous-traitance d'une activité qui n'est pas au cœur du métier (exemple : un restaurant externalise la livraison à Uber-Eat)
+
 ### Qu’est-ce que l’infogérance ? 
 L'infogérence c'est l'externalisation des activités informatique des entreprise vers un prestataire charger de les réaliser.
 On veux bénéficier de la compétence des spécialiste dont l'activité externalisé est leur cœur de métier.
