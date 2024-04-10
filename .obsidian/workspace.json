@@ -152,11 +152,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 230.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -170,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "106e245a17cf4b2c",
+  "active": "18f3c6fd4c047dc7",
   "lastOpenFiles": [
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
     "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",

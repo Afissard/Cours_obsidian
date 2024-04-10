@@ -6,13 +6,11 @@ sources : https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/F
 
 Ce contrat est signé par un prestataire (MOA) et un client (MOE) qui passe commande pour recevoir un logiciel qui apporteras des solutions à des besoins exprimé.
 
-**Correction :**
 Ce contrat met en jeux deux cocontractant : MOE (maitre d'oeuvre : prestataire -> fournisseur -> Entreprise de Services du Numérique) et le MOA (maitrise d'ouvrage : Assistant du Maitre d'Ouvrage -> client -> entreprise utilisatrice).
 Le MOA réalise les besoins spécifiques spécifié par un cahier des charge pour la solution informatique demandé par le MOE.
 ## 2 Licence de logiciel
 Une licence de logiciel est un contrat d'utilisation dudit logiciel incluant sa redistribution et modification.
 
-**Correction :**
 Un propriétaire d'un logiciel donne le *fructus* de son logiciel.
 
 Ce contrat concerne les progiciel, produit informatique existant, les licenses concerne principalement les produits logiciel. Il s'agit donc pour un prestataire (un éditeur) de donné un droit d'usage pour son produit, le prestataire reste propriétaire de son progiciel. (exemple les joueur ne sont pas propriétaire des jeux vidéos qu'il achètes (surtout en dématérialisé), *cf* conditions d'utilisations de Steam)
@@ -22,7 +20,6 @@ Ce contrat concerne les progiciel, produit informatique existant, les licenses c
 
 Ce contrat engage le prestataire à maintenir le produit dans un état de fonctionnement optimal sur toute la durée du contrat.
 
-**Correction :**
 Il s'agit de la maintenance du système par ses trois sous système : 
 - matériel
 - logiciel / progiciel 
@@ -37,16 +34,14 @@ et cela par des maintenances de type :
 
 Ce contrat est signé entre une entreprise détenant un ou plusieurs logiciel et un prestataire qui est chargé d'intégrer ces logiciels dans le système, ces deux entités se doivent de coopérer pour pour la réalisation de cette intégration.
 
-**Correction :**
 Contrat pour l'intergration de différent logiciel sur une même base, cela passe généralement par le development d'un Progiciel de Gestion Intégrer (PGI) (aussi appeler ERP).
 ## 5 Contrat d'outsoursing (ou d'externalisation ou d'infogérance) 
 > C'est une stratégie commerciale qui consiste pour une entreprise à confier la réalisation de certaines tâches à un prestataire externe, expert dans son domaine.
 > source : [service-public.fr](https://entreprendre.service-public.fr/vosdroits/F36266)
 
-**Correction :**
 L'impartition réside dans le choix de faire soit même ou de faire faire. Cette stratégie comporte :
 - la sous-traitance : c'est le choix de faire faire quelque chose. 
-- l'externalisation/infogérance : la sous-traitance des activités secondaires ou annexes.
+- l'externalisation/infogérance : la sous-traitance des activités secondaires ou annexes. L'externalisation implique l'internalisation soit le cœur de métier de l'entreprise.
 ### Quelle est la différence entre externalisation et sous-traitance ?
 La sous-traitance est le choix de faire faire quelque chose. Lorsqu'on parle d'externalisation, c'est la sous-traitance d'une activité qui n'est pas au cœur du métier (exemple : un restaurant externalise la livraison à Uber-Eat)
 ### Qu’est-ce que l’infogérance ? 
