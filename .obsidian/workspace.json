@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4fcb5446cf4a83c2",
+        "id": "25b9bca33509bf56",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1f7b14fd1ea158",
+            "id": "d2418ee844005b33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de projet/Gestion de projet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc1f7b14fd1ea158",
+  "active": "d2418ee844005b33",
   "lastOpenFiles": [
+    "Communication/communication.md",
+    "Communication/Business Communication/Business Communication.md",
+    "Communication/Business Communication/Translating email from informal to formal.md",
+    "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
     "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
     "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
     "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
-    "Gestion de projet/Gestion de projet.md",
     "Qualité de développement/Qualité de développement.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Automatisation des tests/Test Unitaire.md",
@@ -210,8 +205,6 @@
     "Réseau/TD/TD2/consigneTD.md",
     "Réseau/TD/TD2/routage1.png",
     "Réseau/COUR/COUR.md",
-    "Avenir Etudes/Avenir Etudes.md",
-    "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
     "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/concept-art-jeu-01.png",
