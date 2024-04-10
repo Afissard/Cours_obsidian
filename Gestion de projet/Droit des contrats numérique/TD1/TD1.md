@@ -6,6 +6,6 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[BUT1-TdDrContrats.pdf]]
-- [[réponse TD]]
+- [[Réponse TD]]
 
 %% End Waypoint %%

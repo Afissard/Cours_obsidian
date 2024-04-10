@@ -62,4 +62,4 @@ C'est un contrat signé par un client réclamant l'accès et l'utilisation d'un 
 > Ce contrat concerne également les prestations d'externalisation du système informatique. Mais  le client peut obtenir une personnalisation des applications à laquelle il a accès exclusivement par Internet. Il s'agit donc d'une prestation personnalisée à distance. Mais dans ce cas précis, le prestataire est propriétaire de ses logiciels, mais les adapte à la demande du client qui devient copropriétaire.
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
-Le contrat SaaS est différent du contrat ASP sur certains points : le prestataire est propriétaire du progiciel qu'il met à disposition en ligne et personnalise à la demande du client le logiciel vendu.
+Le contrat SaaS est différent du contrat ASP sur certains points : le prestataire est propriétaire (donc développeur) du progiciel qu'il met à disposition en ligne et le personnalise à la demande du client, selon ses pratiques fonctionnelles.
