@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "42af1b902fb4f992",
+        "id": "4fcb5446cf4a83c2",
         "type": "tabs",
         "children": [
           {
-            "id": "8b092bb2f854ba86",
+            "id": "fc1f7b14fd1ea158",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+                "file": "Gestion de projet/Gestion de projet.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6f23c6ddde75b634",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf"
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+                "file": "Gestion de projet/Gestion de projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+                "file": "Gestion de projet/Gestion de projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md"
+                "file": "Gestion de projet/Gestion de projet.md"
               }
             }
           },
@@ -182,12 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b092bb2f854ba86",
+  "active": "fc1f7b14fd1ea158",
   "lastOpenFiles": [
-    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
-    "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
     "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
+    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Qualité de développement/Qualité de développement.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
@@ -218,7 +205,6 @@
     "Réseau/TD/r2_05.tp1/README.md",
     "Réseau/TD/r2_05.tp1",
     "Maths/Maths.md",
-    "Maths/Statistiques_descriptive/sae_radios.pdf",
     "Réseau/TD/TD1/TD1.md",
     "Réseau/TD/TD1/exo8.md",
     "Réseau/TD/TD2/consigneTD.md",

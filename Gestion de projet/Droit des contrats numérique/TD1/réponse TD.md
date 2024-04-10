@@ -4,11 +4,17 @@ sources : https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/F
 > Dans ce type de **contrat de service informatique**, l'entreprise ou le particulier peut faire appel à un prestataire en logiciel spécifique qui correspond parfaitement aux critères définis dans un cahier des charges, en vue de répondre à des besoins spécifiques. C'est-à-dire qu'elle commande un logiciel sur mesure. Dans ce cas, le client détient les droits (d'usage ou de propriété industrielle) sur le logiciel en question. Le contrat fait donc l'objet d'une **propriété intellectuelle**.
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
-Ce contrat est signé par un prestataire (entreprise) et un client qui passe commande pour recevoir un logiciel qui apporteras des solution à des besoins exprimé.
-## 2 Licence de logiciel 
-Un propriétaire d'un logiciel donne le *fructus* de son logiciel.
+Ce contrat est signé par un prestataire (MOA) et un client (MOE) qui passe commande pour recevoir un logiciel qui apporteras des solutions à des besoins exprimé.
 
-Ma définition : Une licence de logiciel est un contrat d'utilisation dudit logiciel incluant sa redistribution et modification.
+**Correction :**
+Ce contrat met en jeux deux cocontractant : MOE (maitre d'oeuvre : prestataire -> fournisseur -> Entreprise de Services du Numérique) et le MOA (maitrise d'ouvrage : Assistant du Maitre d'Ouvrage -> client -> entreprise utilisatrice).
+Le MOA réalise les besoins spécifiques spécifié par un cahier des charge pour la solution informatique demandé par le MOE.
+## 2 Licence de logiciel
+Une licence de logiciel est un contrat d'utilisation dudit logiciel incluant sa redistribution et modification.
+
+**Correction :**
+Un propriétaire d'un logiciel donne le *fructus* de son logiciel.
+Concerne les progiciel, produit informatique existant, les licenses concerne principalement les produits logiciel. Il s'agit donc pour un prestataire (un éditeur) de donné un droit d'usage pour son produit, le prestataire reste propriétaire de son progiciel. (exemple les joueur ne sont pas propriétaire des jeux vidéos qu'il achètes (surtout en dématérialisé), *cf* conditions d'utilisations de Steam)
 ## 3 Contrat de maintenance informatique 
 > Le **contrat de maintenance informatique** est accordé lorsque le prestataire est en charge du maintien du système informatique dans un état de fonctionnement optimal. Le prestataire s'engage donc à contrôler le système et à réparer les erreurs ou à mettre en place des équipements de prévention ou de limitation de problèmes. Il doit également assurer les contrôles périodiques et la mise à jour des outils informatiques. Les éditeurs de logiciels (progiciels) par exemple proposent un **contrat informatique** qui relate leur engagement à vérifier périodiquement (tous les trimestres) le bon fonctionnement du système. Cela est motivé par une volonté [commerciale](https://fiches-pratiques.chefdentreprise.com/Thematique/marketing-1052/FichePratique/Le-social-selling-pour-votre-performance-commerciale-368248.htm "Le social selling, véritable levier de performance commerciale"), mais surtout par l'intention  de sécuriser les " codes sources ".
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
