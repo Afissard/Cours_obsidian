@@ -38,10 +38,15 @@ et cela par des maintenances de type :
 Ce contrat est signé entre une entreprise détenant un ou plusieurs logiciel et un prestataire qui est chargé d'intégrer ces logiciels dans le système, ces deux entités se doivent de coopérer pour pour la réalisation de cette intégration.
 
 **Correction :**
-Contrat pour l'intergration de différent logiciel sur une même base, cela passe généralement par le development d'un Progiciel de Gestion Intégrer (PGI) (aussi appeler ERP)
+Contrat pour l'intergration de différent logiciel sur une même base, cela passe généralement par le development d'un Progiciel de Gestion Intégrer (PGI) (aussi appeler ERP).
 ## 5 Contrat d'outsoursing (ou d'externalisation ou d'infogérance) 
 > C'est une stratégie commerciale qui consiste pour une entreprise à confier la réalisation de certaines tâches à un prestataire externe, expert dans son domaine.
 > source : [service-public.fr](https://entreprendre.service-public.fr/vosdroits/F36266)
+
+**Correction :**
+L'impartition réside dans le choix de faire soit même ou de faire faire. Cette stratégie comporte :
+- la sous-traitance : c'est le choix de faire faire quelque chose. 
+- l'externalisation/infogérance : la sous-traitance des activités secondaires ou annexes.
 ### Quelle est la différence entre externalisation et sous-traitance ?
 La sous-traitance est le choix de faire faire quelque chose. Lorsqu'on parle d'externalisation, c'est la sous-traitance d'une activité qui n'est pas au cœur du métier (exemple : un restaurant externalise la livraison à Uber-Eat)
 ### Qu’est-ce que l’infogérance ? 
