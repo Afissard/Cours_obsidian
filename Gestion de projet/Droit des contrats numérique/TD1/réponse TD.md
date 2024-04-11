@@ -10,7 +10,6 @@ Ce contrat met en jeux deux cocontractant : MOE (maitre d'oeuvre : prestataire -
 Le MOA réalise les besoins spécifiques spécifié par un cahier des charge pour la solution informatique demandé par le MOE.
 ## 2 Licence de logiciel
 Une licence de logiciel est un contrat d'utilisation dudit logiciel incluant sa redistribution et modification.
-
 Un propriétaire d'un logiciel donne le *fructus* de son logiciel.
 
 Ce contrat concerne les progiciel, produit informatique existant, les licenses concerne principalement les produits logiciel. Il s'agit donc pour un prestataire (un éditeur) de donné un droit d'usage pour son produit, le prestataire reste propriétaire de son progiciel. (exemple les joueur ne sont pas propriétaire des jeux vidéos qu'il achètes (surtout en dématérialisé), *cf* conditions d'utilisations de Steam)
@@ -19,8 +18,7 @@ Ce contrat concerne les progiciel, produit informatique existant, les licenses c
 > source : [fiche pratique](https://fiches-pratiques.chefdentreprise.com/Thematique/gestion-1050/FichePratique/Que-savoir-sur-le-contrat-informatique--368239.htm)
 
 Ce contrat engage le prestataire à maintenir le produit dans un état de fonctionnement optimal sur toute la durée du contrat.
-
-Il s'agit de la maintenance du système par ses trois sous système : 
+Il s'agit donc de la maintenance du système par ses trois sous système : 
 - matériel
 - logiciel / progiciel 
 - le réseau de télécommunication
@@ -34,7 +32,7 @@ et cela par des maintenances de type :
 
 Ce contrat est signé entre une entreprise détenant un ou plusieurs logiciel et un prestataire qui est chargé d'intégrer ces logiciels dans le système, ces deux entités se doivent de coopérer pour pour la réalisation de cette intégration.
 
-Contrat pour l'intergration de différent logiciel sur une même base, cela passe généralement par le development d'un Progiciel de Gestion Intégrer (PGI) (aussi appeler ERP).
+Le contrat pour l'intergration de différent logiciel sur une même base, cela passe généralement par le development d'un Progiciel de Gestion Intégrer (PGI) (aussi appeler ERP).
 ## 5 Contrat d'outsoursing (ou d'externalisation ou d'infogérance) 
 > C'est une stratégie commerciale qui consiste pour une entreprise à confier la réalisation de certaines tâches à un prestataire externe, expert dans son domaine.
 > source : [service-public.fr](https://entreprendre.service-public.fr/vosdroits/F36266)
