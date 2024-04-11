@@ -34,6 +34,7 @@ Bye for now, Bob
 ## Formal
 *Object : software's Friday meeting*
 Dear Mr L.
-I am please to inform you that the latest version of the software is working. Would it be possible for us to meet between 2 to 4 pm Friday?
+We are please to inform you that the latest version of the software is now functional. We would therefore welcome the opportunity to present it during a short meeting on Friday afternoon. We are available anytime between 2 an 4, let us know what time is suitable.
+We look forward to hear from you soon,
 Best regards,
 Bob

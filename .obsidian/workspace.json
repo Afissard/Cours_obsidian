@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "962f4390c3403d45",
+        "id": "71b75320153a4fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "39d9f3b8fcc7d5fa",
+            "id": "a595f84d1429a293",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39d9f3b8fcc7d5fa",
+  "active": "a595f84d1429a293",
   "lastOpenFiles": [
+    "Communication/communication.md",
+    "Communication/Anglais Technique/Anglais Technique.md",
+    "Communication/Business Communication/Business Communication.md",
+    "Communication/Business Communication/Even more formal emails.md",
+    "Communication/Business Communication/Writing email as Interne.md",
+    "Communication/Business Communication/Translating email from informal to formal.md",
+    "Communication/Business Communication/Informal vs Formal.md",
+    "Communication/Milieux professionnels/Milieux professionnels.md",
+    "Communication/English presentation skills/English presentation skills.md",
     "Réseau/Réseau.md",
     "Réseau/TD/TD5/TD5.md",
     "Réseau/TD/TD5/readme-TD5.md",
@@ -184,20 +193,12 @@
     "Programmation/IHM/cours3.pdf",
     "Programmation/IHM/cours4.pdf",
     "Programmation/IHM/cours2.pdf",
-    "Communication/communication.md",
-    "Communication/Business Communication/Business Communication.md",
-    "Communication/Business Communication/Translating email from informal to formal.md",
     "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
     "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
     "Qualité de développement/Qualité de développement.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Automatisation des tests/Test Unitaire.md",
-    "Qualité de développement/Automatisation des tests/Amphi1.md",
     "Qualité de développement/Automatisation des tests",
     "Qualité de développement",
-    "Réseau/TD/TD3/Diagnostiquer-configuration-réseau+configurer-interface-réseau_20240401.md",
-    "Réseau/TD/TD4/readmeTD4.md",
-    "README.md",
     "Réseau/TD/TD4/zebra.conf",
     "Réseau/TD/TD4/situation3.png",
     "Réseau/TD/TD4/situation2.png",
@@ -205,7 +206,6 @@
     "Réseau/TD/r2_05.tp1/situation3.png",
     "Réseau/TD/r2_05.tp1/situation2.png",
     "Réseau/TD/r2_05.tp1/situation1.png",
-    "Réseau/TD/r2_05.tp1/README.md",
     "Réseau/TD/TD2/routage1.png",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
