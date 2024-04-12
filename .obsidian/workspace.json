@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71b75320153a4fd6",
+        "id": "faa38c1f4c4ded33",
         "type": "tabs",
         "children": [
           {
-            "id": "a595f84d1429a293",
+            "id": "eda828209359044a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a595f84d1429a293",
+  "active": "eda828209359044a",
   "lastOpenFiles": [
+    "Qualité de développement/Qualité de développement.md",
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
+    "Qualité de développement/Automatisation des tests/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
+    "Qualité de développement/Automatisation des tests/TD/TD1-Test Unitaire-Calcul-5.4.1.pdf",
+    "Qualité de développement/Automatisation des tests/QD1-CM4-JUnit-Kotlin-5.2.pdf",
+    "Qualité de développement/Automatisation des tests/QD1-CM3-Test-unitaire-5.1.pdf",
+    "Qualité de développement/Automatisation des tests/QD1-CM1-intro-enjeux-4.4.pdf",
     "Communication/communication.md",
     "Communication/Anglais Technique/Anglais Technique.md",
     "Communication/Business Communication/Business Communication.md",
@@ -189,17 +196,9 @@
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
     "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD.md",
     "Programmation/Programmation.md",
-    "Programmation/IHM/IHM.md",
     "Programmation/IHM/cours3.pdf",
     "Programmation/IHM/cours4.pdf",
     "Programmation/IHM/cours2.pdf",
-    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
-    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
-    "Qualité de développement/Qualité de développement.md",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Automatisation des tests",
-    "Qualité de développement",
-    "Réseau/TD/TD4/zebra.conf",
     "Réseau/TD/TD4/situation3.png",
     "Réseau/TD/TD4/situation2.png",
     "Réseau/TD/TD4/situation1.png",

@@ -6,29 +6,13 @@ def showDF(df, nbLine=nbLineShowed):
     if nbLine <= 0 :
         print(df,'\n')
     else :
-        print(df.head(nbLine),'\n')
+        print(df.head(nbLine),"\n\n")
 
 dataClient = pd.read_csv('base_comptoir_espace_table_clients.csv', sep=';')
 dataEntreprise = pd.read_csv('base_comptoir_espace_table_decisions_entreprises.csv', sep=';')
 
 
-
-# teamMask = (data_equipes.League == 'French Ligue 1 (1)')
-# teamsDataNeeded = data_equipes[teamMask][['ID', 'Name', 'League']]
-# playerDataNeeded = data_joueurs[['Name', 'Age', 'Club_id', 'WageEUR']]
-# print(playerDataNeeded.head(5), "\n", teamsDataNeeded.head(5), "\n\n")
-
-# mergedTab = pd.merge(left=teamsDataNeeded, right=playerDataNeeded, left_on=['ID'],right_on=['Club_id'])[['Name_x', 'Name_y', 'Age', 'WageEUR']]
-# mergedTab.rename(columns={'Name_x': 'Club_Name', 'Name_y': 'Player_Name'})
-# print(mergedTab.head(5), "\n\n")
-
-# stats_transport=reponses.groupby(['moyens_transport']).count()
-# print(stats_transport)
-# plt.pie(stats_transport['humeurs'],labels=stats_transport.index.values,autopct=lambda pct:'{:.1f}%\neff={:d}'.format(pct,int(pct/100*stats_transport['humeurs'].sum())))
-# #ou plus simplement : autopct='%.1f%%' mais la maîtrise des formats n'est pas exigée
-# plt.show()
-
-def q1g1():
+def g1():
     """
     Produire les graphiques joints à partir de données extraites de ces deux tables
     et donner pour chacun de ces graphiques une interprétation de la représentation en
@@ -55,42 +39,57 @@ def q1g1():
     plt.legend()
     plt.show()
 
-def q1g2():
+def g2():
     # Pandas Stuff
-    maskA1 = (dataEntreprise.ENT_ANNEE==1)
-    maskA2 = (dataEntreprise.ENT_ANNEE==2)
-    dataA1 = dataEntreprise[maskA1][['ENT_ID', 'ENT_PRIX']]
-    dataA2 = dataEntreprise[maskA2][['ENT_ID', 'ENT_PRIX']]
+    prixParClient = pd.merge(left=dataEntreprise, right=dataClient, how='inner', left_on=['ENT_ID', 'ENT_PROD', 'ENT_ANNEE'], right_on=['CLI_CHOIX', 'CLI_PROD', 'CLI_ANNEE'])
+    
+    maskA1 = (prixParClient.ENT_ANNEE==1)
+    maskA2 = (prixParClient.ENT_ANNEE==2)
+    dataA1 = prixParClient[maskA1][['ENT_ID', 'ENT_PRIX']]
+    dataA2 = prixParClient[maskA2][['ENT_ID', 'ENT_PRIX']]
     showDF(dataA1)
     showDF(dataA2)
     
-    statA1 = dataA1.groupby(['ENT_ID']).sum('ENT_PRIX')
-    statA2 = dataA2.groupby(['ENT_ID']).sum('ENT_PRIX')
+    statA1 = dataA1.groupby(['ENT_ID'])[['ENT_PRIX']].sum()
+    statA2 = dataA2.groupby(['ENT_ID'])[['ENT_PRIX']].sum()
+    # print(statA1, "\n\n", statA2)
+    
     
     # Pyplot Stuff
     fig2, axs2 = plt.subplots()
     barWidth = 0.5
     fig2.suptitle("Chiffre d'affaire des entreprise sur les 2 première année")
-    axs2.bar(label="Année 1", width=barWidth/2, align="edge", height=statA1['ENT_PRIX'], x=[f"entreprise n°{i+1}" for i in range(dataA1['ENT_ID'].nunique())])
-    axs2.bar(label="Année 2", width=-barWidth/2, align="edge", height=statA2['ENT_PRIX'], x=[f"entreprise n°{i+1}" for i in range(dataA2['ENT_ID'].nunique())])
+    axs2.bar(label="Année 1", width=-barWidth/2, align="edge", height=statA1['ENT_PRIX'], x=[f"entreprise n°{i+1}" for i in range(dataA1['ENT_ID'].nunique())])
+    axs2.bar(label="Année 2", width=barWidth/2, align="edge", height=statA2['ENT_PRIX'], x=[f"entreprise n°{i+1}" for i in range(dataA2['ENT_ID'].nunique())])
     
     plt.legend()
     plt.show()
 
-def q1g3():
+def g3():
     # Pandas Stuff
     cliMask = (dataClient.CLI_PROD == 1)&(dataClient.CLI_ANNEE == 1)
     e1Mask = (dataClient.CLI_CHOIX == 1)
     e2Mask = (dataClient.CLI_CHOIX == 2)
     e3Mask = (dataClient.CLI_CHOIX == 3)
     e4Mask = (dataClient.CLI_CHOIX == 4)
-    dataCliE1 = dataClient[cliMask&e1Mask][['CLI_ID', 'CLI_PRIX']]
-    dataCliE2 = dataClient[cliMask&e2Mask][['CLI_ID', 'CLI_PRIX']]
-    dataCliE3 = dataClient[cliMask&e3Mask][['CLI_ID', 'CLI_PRIX']]
-    dataCliE4 = dataClient[cliMask&e4Mask][['CLI_ID', 'CLI_PRIX']]
+    dataCliE1 = dataClient[cliMask&e1Mask][['CLI_PRIX']]
+    dataCliE2 = dataClient[cliMask&e2Mask][['CLI_PRIX']]
+    dataCliE3 = dataClient[cliMask&e3Mask][['CLI_PRIX']]
+    dataCliE4 = dataClient[cliMask&e4Mask][['CLI_PRIX']]
     showDF(dataCliE1, 0)
     
     # Pyplot Stuff
+    fig, axs = plt.subplots(ncols=2, nrows=2, figsize=(8,20), sharey=True)
+    fig.suptitle("Distribution des prix max attendus pour les client des différentes entreprises pour le produit 1 sur l'année 1")
+    listBornes = [i*1000+2000 for i in range(16)]
+    
+    axs[0][0].hist(x=dataCliE1,bins=listBornes, label="Entreprise 1", color="green")
+    axs[0][1].hist(x=dataCliE2,bins=listBornes, label="Entreprise 2", color="green")
+    axs[1][0].hist(x=dataCliE3,bins=listBornes, label="Entreprise 3", color="green")
+    axs[1][1].hist(x=dataCliE4,bins=listBornes, label="Entreprise 4", color="green")
+    plt.legend()
+    
+    plt.show()
 
 def main():
     showInfo = False
@@ -98,9 +97,9 @@ def main():
         showDF(dataClient, 0)
         showDF(dataEntreprise, 0)
     
-    q1g1()
-    q1g2()
-    q1g3()
+    # g1()
+    # g2()
+    g3()
     
 if __name__=="__main__":{
     main()
