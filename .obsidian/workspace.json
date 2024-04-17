@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0870dda6aee55c88",
+        "id": "cb35f1b114b5f7c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c86374f7bc7e5ce2",
+            "id": "f538b7d1f8be9c10",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 1.md",
+                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e35663cd79f74ac9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5973b0722f815240",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md"
               }
             }
           },
@@ -197,25 +168,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "f538b7d1f8be9c10",
   "lastOpenFiles": [
-    "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 2.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 1.md",
-    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
-    "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
-    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
-    "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
+    "Qualité de développement/Automatisation des tests/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
+    "Qualité de développement/Automatisation des tests/Amphi 2.md",
+    "Qualité de développement/Automatisation des tests/Amphi1.md",
+    "Qualité de développement/Automatisation des tests/QD1-CM4-JUnit-Kotlin-5.2.pdf",
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
+    "Qualité de développement/Qualité de développement.md",
     "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
+    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
+    "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 2.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
+    "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 1.md",
+    "Maths/Maths.md",
+    "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
+    "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
     "Programmation/Programmation.md",
     "Programmation/IHM/cours3.pdf",
     "Programmation/IHM/cours4.pdf",
     "Programmation/IHM/IHM.md",
-    "Qualité de développement/Qualité de développement.md",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Automatisation des tests/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
     "Qualité de développement/Automatisation des tests/TD/TD1-Test Unitaire-Calcul-5.4.1.pdf",
-    "Qualité de développement/Automatisation des tests/QD1-CM4-JUnit-Kotlin-5.2.pdf",
     "Qualité de développement/Automatisation des tests/QD1-CM3-Test-unitaire-5.1.pdf",
     "Qualité de développement/Automatisation des tests/QD1-CM1-intro-enjeux-4.4.pdf",
     "Communication/communication.md",
@@ -230,10 +204,6 @@
     "Réseau/Réseau.md",
     "Réseau/TD/TD5/TD5.md",
     "Réseau/TD/TD5/readme-TD5.md",
-    "Réseau/TD/TD5/Consigne.md",
-    "Réseau/TD/TD2/TD2.md",
-    "Réseau/TD/TD3/TD3.md",
-    "Réseau/TD/TD4/TD4.md",
     "Réseau/TD/TD5/plan.png",
     "Réseau/TD/TD5",
     "Réseau/TD/r2_05.tp2/plan.png",
