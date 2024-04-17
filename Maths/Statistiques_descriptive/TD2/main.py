@@ -1,4 +1,5 @@
 import pandas as pd, numpy as np, matplotlib, matplotlib.pyplot as plt
+from scipy.stats import linregress
 
 
 nbLineShowed = 10
@@ -90,6 +91,42 @@ def g3():
     plt.legend()
     
     plt.show()
+    
+def g4():
+    """
+    Correlation sur l'année entre l'attente sur le prix et coût confort sur le produit 1/2
+    """
+    # Panda
+    cliProd1 = dataClient[(dataClient.CLI_ANNEE == 1) & (dataClient.CLI_PROD == 1)][['CLI_PRIX', 'CLI_CONFORT']]
+    entProd1 = dataEntreprise[(dataEntreprise.ENT_ANNEE == 1) & (dataEntreprise.ENT_PROD == 1)][['ENT_ID','ENT_PRIX', 'ENT_CONF']]
+    showDF(entProd1)
+    
+    # Pyplot
+    varExplicative = cliProd1['CLI_PRIX']
+    varExpliquee = cliProd1['CLI_CONFORT']
+    plt.scatter(varExplicative, varExpliquee)
+    res = linregress(varExplicative, varExpliquee)
+    a = res.slope
+    b = res.intercept
+    r = res.rvalue
+    print("coef correlation : ", r)
+    
+    plt.plot([varExplicative.min(),varExplicative.max()],[a*varExplicative.min()+b,a*varExplicative.max()+b],color='r')
+    plt.text(x=15000, y=2000, s="confort = a*Prix+b")
+    
+    liCol = ['yellow', 'green', 'purple', 'pink', 'orange']
+    for i in range(entProd1.shape[0]):
+        entI = entProd1[(entProd1.ENT_ID == i+1)]
+        plt.scatter(entI.ENT_PRIX, entI.ENT_CONF, c=liCol[i])
+        plt.text(x=entI.ENT_PRIX+5, y=entI.ENT_CONF+5, s=f"entreprise n°{i+1}")
+    
+    
+    plt.xlabel("prix max attendu par client")
+    plt.ylabel("niveau de confort minimal attendu")
+    plt.title("Correlation sur l'année entre l'attente sur le prix et coût confort sur le produit 1")
+    
+    plt.show()
+    
 
 def main():
     showInfo = False
@@ -99,7 +136,8 @@ def main():
     
     # g1()
     # g2()
-    g3()
+    # g3()
+    g4()
     
 if __name__=="__main__":{
     main()
