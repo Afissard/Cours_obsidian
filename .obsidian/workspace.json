@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb35f1b114b5f7c3",
+        "id": "1296add3638bd5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f538b7d1f8be9c10",
+            "id": "47e4cda07d485f13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/Amphi 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +160,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f538b7d1f8be9c10",
+  "active": "47e4cda07d485f13",
   "lastOpenFiles": [
-    "Qualité de développement/Automatisation des tests/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
+    "Qualité de développement/Qualité de développement.md",
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Automatisation des tests/Amphi 2.md",
+    "Qualité de développement/Automatisation des tests/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
     "Qualité de développement/Automatisation des tests/Amphi1.md",
     "Qualité de développement/Automatisation des tests/QD1-CM4-JUnit-Kotlin-5.2.pdf",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Qualité de développement.md",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
     "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
