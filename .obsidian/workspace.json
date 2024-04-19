@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1296add3638bd5e7",
+        "id": "1b60b002d023c110",
         "type": "tabs",
         "children": [
           {
-            "id": "47e4cda07d485f13",
+            "id": "42ad9f473dd1759a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47e4cda07d485f13",
+  "active": "42ad9f473dd1759a",
   "lastOpenFiles": [
+    "Réseau/TD/TD6/readme-TD6.md",
+    "Réseau/TD/TD5/TD5.md",
+    "Réseau/TD/TD5/readme-TD5.md",
+    "Réseau/TD/TD4/TD4.md",
+    "Réseau/TD/TD6/TD6.md",
+    "Réseau/TD/TD.md",
+    "Réseau/Réseau.md",
+    "Réseau/TD/TD6/README.md",
+    "Réseau/TD/TD6",
+    "Réseau/TD/r2_05.tp3/README.md",
+    "Réseau/TD/r2_05.tp3",
     "Qualité de développement/Qualité de développement.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Automatisation des tests/Amphi 2.md",
@@ -183,21 +194,11 @@
     "Programmation/IHM/IHM.md",
     "Qualité de développement/Automatisation des tests/TD/TD1-Test Unitaire-Calcul-5.4.1.pdf",
     "Qualité de développement/Automatisation des tests/QD1-CM3-Test-unitaire-5.1.pdf",
-    "Qualité de développement/Automatisation des tests/QD1-CM1-intro-enjeux-4.4.pdf",
     "Communication/communication.md",
     "Communication/Anglais Technique/Anglais Technique.md",
     "Communication/Business Communication/Business Communication.md",
     "Communication/Business Communication/Even more formal emails.md",
-    "Communication/Business Communication/Writing email as Interne.md",
-    "Communication/Business Communication/Translating email from informal to formal.md",
-    "Communication/Business Communication/Informal vs Formal.md",
-    "Communication/Milieux professionnels/Milieux professionnels.md",
-    "Communication/English presentation skills/English presentation skills.md",
-    "Réseau/Réseau.md",
-    "Réseau/TD/TD5/TD5.md",
-    "Réseau/TD/TD5/readme-TD5.md",
     "Réseau/TD/TD5/plan.png",
-    "Réseau/TD/TD5",
     "Réseau/TD/r2_05.tp2/plan.png",
     "Réseau/TD/TD4/situation3.png",
     "Réseau/TD/TD4/situation2.png",
