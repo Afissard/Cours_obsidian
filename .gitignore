@@ -22,3 +22,6 @@
 *.tar
 *.gz
 *.exe
+
+# CSV trop lourd pour commits
+*/Statistiques_descriptive/TD3/*.csv
