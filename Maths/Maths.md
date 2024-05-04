@@ -8,6 +8,14 @@ type: folder_brief_live
 - **[[Logique]]**
 - **[[Méthode Numérique]]**
 - **[[Outils_Fondamentaux]]**
+- **Statistiques_descriptive**
+	- [[PolyEntier_a2.pdf]]
+	- [[sae_radios.pdf]]
+	- **TD**
+		- [[players.csv]]
+		- [[teams.csv]]
+		- [[tuto_matplotlib.ipynb]]
+		- [[tuto_pandas.ipynb]]
 
 %% End Waypoint %%
 

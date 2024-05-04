@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca30771fa7873eb",
+        "id": "f5764e802049c949",
         "type": "tabs",
         "children": [
           {
-            "id": "15f95fc0b46bcd42",
+            "id": "eaa331151096ed16",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,21 +152,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f95fc0b46bcd42",
+  "active": "eaa331151096ed16",
   "lastOpenFiles": [
     "Avenir Etudes/Avenir Etudes.md",
+    "Avenir Etudes/Quebec/Quebec.md",
+    "Avenir Etudes/Quebec/Administration/Administration.md",
+    "Avenir Etudes/Quebec/Administration/SE401-Q-106.pdf",
+    "Avenir Etudes/Quebec/Administration/QUEBEC formulaire_SE_401-Q-102.pdf",
+    "Avenir Etudes/Quebec/Administration/Formulaire SE401-Q-104 stages.pdf",
+    "Avenir Etudes/Quebec/ETUDIER AU CANADA - QUEBEC.md",
+    "Avenir Etudes/Quebec/ETS/ETS.md",
+    "Avenir Etudes/Quebec/ETS/PPT ETS IUT 2023-2024.pdf",
+    "Avenir Etudes/Quebec/UQAC/UQAC.md",
+    "Communication/communication.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Communication/Business Communication/Writing email as Interne.md",
+    "Communication/Business Communication/Informal vs Formal.md",
+    "Communication/Business Communication/Business Communication.md",
+    "Communication/Business Communication",
+    "SAE/GPO-AppAsthme/repo gitlab.md",
+    "SAE/GPO-AppAsthme/GPO2-CM7-CdC-4.1.pdf",
+    "SAE/GPO-AppAsthme/GPO-AppAsthme.md",
+    "SAE/GPO-AppAsthme",
+    "Programmation/IHM/cours3.pdf",
+    "Maths/Statistiques_descriptive/sae_radios.pdf",
+    "Maths/Statistiques_descriptive/TD/tuto_pandas.ipynb",
+    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
+    "Gestion de projet/Droit des contrats numérique/TD1/réponse TD.md",
+    "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
+    "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
     "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Avenir Etudes/PPP/portefolio/Website portfolio.md",
     "repository.md",
-    "README.md",
     "Communication/English presentation skills/English presentation skills.md",
-    "Communication/communication.md",
     "2024-04-02.md",
     "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
-    "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
-    "Avenir Etudes/PPP/portefolio/jeu",
-    "Avenir Etudes/PPP/portefolio/jeu/Jeu portfolio en point & click.md"
+    "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png"
   ]
 }
