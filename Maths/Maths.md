@@ -9,6 +9,21 @@ type: folder_brief_live
 - **[[Méthode Numérique]]**
 - **[[Outils_Fondamentaux]]**
 - **[[Statistiques_descriptive]]**
+	- [[PolyEntier_a2.pdf]]
+	- [[sae_radios.pdf]]
+	- [[Slides_cours.pdf]]
+	- **TD1**
+		- [[players.csv]]
+		- [[teams.csv]]
+		- [[tuto_matplotlib.ipynb]]
+		- [[tuto_pandas.ipynb]]
+	- **TD2**
+		- [[base_comptoir_espace_table_clients.csv]]
+		- [[base_comptoir_espace_table_decisions_entreprises.csv]]
+		- [[main.py]]
+	- **TD3**
+		- [[main.py]]
+>>>>>>> origin/main
 
 %% End Waypoint %%
 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "41c1463f7848e411",
+        "id": "c9aeaafb279d9e4a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a9a025a7aa0f231",
+            "id": "3e4b7be1492b9bff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,13 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9c033008c99906c",
+  "active": "3e4b7be1492b9bff",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Maths/Maths.md",
+    "Maths/Statistiques_descriptive/Slides_cours.pdf",
     "Maths/Statistiques_descriptive/Statistiques_descriptive.md",
     "Maths/Statistiques_descriptive/PolyEntier_a2.pdf",
     "Maths/Statistiques_descriptive/TD4/RepertoireGeographiqueCommunes_Info.pdf",
     "Maths/Statistiques_descriptive/Best_of_statusaifaire.pdf",
-    "Maths/Maths.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Automatisation des tests/TD/TD2-Test Fonctionnel-Exception-Calcul-5.5 - SUJET.pdf",
     "Qualité de développement/Automatisation des tests/TD/TD2-réponses.md",
@@ -190,7 +196,6 @@
     "Réseau/TD/TD6/README.md",
     "Réseau/TD/TD6",
     "Réseau/TD/r2_05.tp3/README.md",
-    "Réseau/TD/r2_05.tp3",
     "Qualité de développement/Automatisation des tests/Amphi 2.md",
     "Qualité de développement/Automatisation des tests/Amphi1.md",
     "Gestion de projet/Gestion de projet.md",

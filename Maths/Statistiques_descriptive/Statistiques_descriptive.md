@@ -8,6 +8,7 @@ type: folder_brief_live
 - [[Best_of_statusaifaire.pdf]]
 - [[PolyEntier_a2.pdf]]
 - [[sae_radios.pdf]]
+- [[Slides_cours.pdf]]
 - **TD1**
 	- [[donnees_fifa.zip]]
 	- [[players.csv]]

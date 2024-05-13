@@ -5,11 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **Droit des contrats numérique**
-	- [[BUT1-20TypesCtrat.pdf]]
-	- [[BUT1-Cours-Droit-Contrats-Num.odt]]
-	- [[BUT1-TdDrContrats.odt]]
-	- [[Droit]]
+- **[[Droit des contrats numérique]]**
 - **[[Economie]]**
 - **[[Entreprise]]**
 - **[[Gestion projet informatique]]**
