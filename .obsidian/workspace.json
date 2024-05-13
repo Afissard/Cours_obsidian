@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ac9abdc838b04618",
+        "id": "41c1463f7848e411",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7dea8f01a3652d",
+            "id": "8a9a025a7aa0f231",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
+                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
+                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/Automatisation des tests.md"
+                "file": "Maths/Maths.md"
               }
             }
           },
@@ -168,15 +164,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c7dea8f01a3652d",
+  "active": "a9c033008c99906c",
   "lastOpenFiles": [
+    "Maths/Statistiques_descriptive/Statistiques_descriptive.md",
+    "Maths/Statistiques_descriptive/PolyEntier_a2.pdf",
+    "Maths/Statistiques_descriptive/TD4/RepertoireGeographiqueCommunes_Info.pdf",
+    "Maths/Statistiques_descriptive/Best_of_statusaifaire.pdf",
+    "Maths/Maths.md",
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Automatisation des tests/TD/TD2-Test Fonctionnel-Exception-Calcul-5.5 - SUJET.pdf",
     "Qualité de développement/Automatisation des tests/TD/TD2-réponses.md",
     "Qualité de développement/Automatisation des tests/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
     "Qualité de développement/Automatisation des tests/QD1-CM6-Test fonctionnel 5.4.1.pdf",
     "Qualité de développement/Automatisation des tests/QD1-CM7-Test Levée dExceptions 5.2.3.pdf",
     "Qualité de développement/Automatisation des tests/TD/TD1-Test Unitaire-Calcul-5.4.1.pdf",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Qualité de développement.md",
     "Réseau/Réseau.md",
     "Réseau/COUR/COUR.md",
@@ -192,19 +193,14 @@
     "Réseau/TD/r2_05.tp3",
     "Qualité de développement/Automatisation des tests/Amphi 2.md",
     "Qualité de développement/Automatisation des tests/Amphi1.md",
-    "Qualité de développement/Automatisation des tests/QD1-CM4-JUnit-Kotlin-5.2.pdf",
     "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
-    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
     "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 2.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/BUT1-TdDrContrats.pdf",
     "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 1.md",
-    "Maths/Maths.md",
     "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
     "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
     "Programmation/Programmation.md",
     "Programmation/IHM/IHM.md",
-    "Communication/communication.md",
     "Réseau/TD/TD5/plan.png",
     "Réseau/TD/r2_05.tp2/plan.png",
     "Réseau/TD/TD4/situation3.png",
