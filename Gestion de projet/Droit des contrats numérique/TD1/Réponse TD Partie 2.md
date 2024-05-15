@@ -25,7 +25,7 @@ Toutefois, la notion de perte de chance (chiffre d'affaire réalisé si le contr
 ## C – Pourquoi la notion de « rupture abusive des pourparlers » n’existe-elle pas dans le droit anglo-saxon ? 
  Cette notion n’existe pas dans le droit anglo-saxon car ils ont decider de mettre en place un autre système visant à obliger les parties à s’indemniser en cas de rupture précoces d’un contrats , ou le remboursement total des frais liée à la négociation.
  
- Dans le droit anglo-saxon, la rupture abusive ne peut avoir lieux uniquement en période précontractuel (période de négociation) mais uniquement durant la période contractuel (pendant la durée du contrat), pour éviter les rupture de contrat lors des périodes précontractuel on réalise un contrat pour la facturer les services rendu : "*pass-through-costs*" ou "*breeking fees*".
+ Dans le droit anglo-saxon, la rupture abusive ne peut avoir lieux en période précontractuel (période de négociation) mais uniquement durant la période contractuel (pendant la durée du contrat), pour éviter les rupture de contrat lors des périodes précontractuel on réalise un contrat pour la facturer les services rendu : "*pass-through-costs*" ou "*breeking fees*".
 ## D - Quels sont donc les 2 outils utilisés par les entreprises anglo-saxonnes dans ce domaine ?
 **Pass-through-costs :** il s’agit d’un outil pratique qui évite les difficultés qui pourraient être liées à la rupture abusive et qui consiste en la contractualisation lors de la négociation de l’ensemble des frais, coûts et dépenses qui seront engagés du fait de la négociation (par ex. les frais de conseil).
 **Breeking fees :** c'est un outil qui consiste à définir en amont un montant qui sera payé par chaque partie pour pouvoir sortir des négociations.

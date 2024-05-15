@@ -2,10 +2,10 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 50
   },
   "showLineNumber": false,
   "strictLineBreaks": true,
