@@ -9,11 +9,11 @@ Pas beaucoup de temps pour beaucoup de questions -> brouillons peu recommender
 # Preparation
 ## Task 1
 - Ms, Mr -> Dear Sir or Madam / Dear Mr Johnson / Dear Ms Smith 
-- I am apologies for not answering sooner
-- I am afraid that I can participate to the meeting next Tuesday
-- May it fit for you do move the meeting to Thursday
-- Here is the attachement you were waiting for.
-- If you need extra information, do not hesitate to let us know
+- I am apologies for not answering sooner.
+- I am afraid that I can not participate to the meeting next Tuesday. -> I'm afraid I can't attend the meeting next Tuesday.
+- May it fit for you do move the meeting to Thursday. -> Would it be possible to move the meeting next Thursday.
+- Here is the attachement you were waiting for. / Please find the attachement.
+- If you need extra information, do not hesitate to let us know.
 - We are looking to hear from you soon
 - Thank in advance for you comprehension
 ## Task 2
