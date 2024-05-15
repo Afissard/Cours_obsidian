@@ -27,9 +27,8 @@ data_communes.COM.astype(str)
 data_emplois.astype(str)
 data_communes.insert(loc=2, column="COG", value=data_communes.DEP+data_communes.COM.str.zfill(3))
 
-def associate_arr_mun(num_dep,cog,num_arr_debut,num_arr_fin):
-    list_arr_com=[str(num_dep)+str(num_arr).zfill(3) for num_arr in \
-                  range(num_arr_debut,num_arr_fin+1)]
+def associate_arr_mun(num_dep, cog, num_arr_debut, num_arr_fin):
+    list_arr_com=[str(num_dep)+str(num_arr).zfill(3) for num_arr in range(num_arr_debut,num_arr_fin+1)]
     mask=data_emplois['CODGEO'].str.zfill(5).isin(list_arr_com)
     data_emplois_commune=data_emplois[mask].sum()
     data_emplois_commune['CODGEO']=str(cog)
@@ -46,6 +45,15 @@ def q3_2():
     pour lesquelles le ratio calcul´e renvoie la valeur nan). Réaliser le graphique ci-dessous 
     (plt.boxplot). Pouvez-vous expliquer la différence significative entre la moyenne et la médiane ?
     """
+    # TODO
+    temp_commune = data_communes[data_communes['POPU']!= 0][['COG', 'POPU', 'SURFACE']]
+    # temp_commune.insert(column='DENS', value=(temp_commune.POPU*100)/temp_commune.SURFACE/100))
+    temp_emplois = data_emplois[['CODGEO','EFF_TOT']]
+    showDF(temp_commune)
+    showDF(temp_emplois)
+    # ratio = pd.DataFrame(columns=['CODEGEO', 'DENS'], data=)
+    # plt.boxplot()
+    
     
 
 def main():
@@ -57,6 +65,8 @@ def main():
     associate_arr_mun(75,75056,101,120)
     associate_arr_mun(13,13055,201,216)
     associate_arr_mun(69,69123,381,389)
+    
+    q3_2()
     
 if __name__=="__main__":
     main()

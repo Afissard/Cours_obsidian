@@ -10,9 +10,15 @@
           {
             "id": "1e9508a0d28a0345",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Business Communication/Test information and preparation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication/Business Communication/Test information and preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication/Business Communication/Test information and preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication/Business Communication/Test information and preparation.md"
+              }
             }
           },
           {
@@ -162,6 +172,7 @@
   },
   "active": "1e9508a0d28a0345",
   "lastOpenFiles": [
+    "Communication/Business Communication/Test information and preparation.md",
     "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
     "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
     "Gestion de projet/Droit des contrats numérique/BUT1-20TypesCtrat.pdf",
