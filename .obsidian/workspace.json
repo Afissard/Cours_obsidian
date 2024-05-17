@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3ec6bd831d91b8",
+        "id": "50cb6caef96d963c",
         "type": "tabs",
         "children": [
           {
-            "id": "d685267fe9cbbd57",
+            "id": "6d91b1a92c83ed65",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/QD1-CM8 - Testabilité - 5.5.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b11ef1aeff3d09d7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/TD/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/TD/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualité de développement/Automatisation des tests/TD/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Qualité de développement/Automatisation des tests/TD/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -181,18 +160,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b11ef1aeff3d09d7",
+  "active": "6d91b1a92c83ed65",
   "lastOpenFiles": [
-    "Qualité de développement/Automatisation des tests/QD1-CM8 - Testabilité - 5.5.pdf",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Automatisation des tests/TD/TD4-Dependance - gitlab 6.2.pdf",
     "Qualité de développement/Automatisation des tests/TD/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf",
+    "Qualité de développement/Automatisation des tests/TD/TD4-Dependance - gitlab 6.2.pdf",
+    "Qualité de développement/Automatisation des tests/QD1-CM9 - Dépendances - Mock - 5.5.pdf",
+    "Qualité de développement/Automatisation des tests/QD1-CM8 - Testabilité - 5.5.pdf",
+    "Qualité de développement/Automatisation des tests/TD/TD3-réponses.md",
+    "Qualité de développement/Automatisation des tests/QD1-CM6-Test fonctionnel 5.4.1.pdf",
+    "Qualité de développement/Automatisation des tests/TD/TD2-réponses.md",
+    "Qualité de développement/Automatisation des tests/QD1-CM7-Test Levée dExceptions 5.2.3.pdf",
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Automatisation des tests/QD1-CM2-typologie-4.4.1.pdf",
     "Qualité de développement/Automatisation des tests/QD1-CM3-Test-unitaire-5.1-1.pdf",
-    "Qualité de développement/Automatisation des tests/QD1-CM9 - Dépendances - Mock - 5.5.pdf",
     "Qualité de développement/Automatisation des tests/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf",
     "Qualité de développement/Automatisation des tests/TD4-Dependance - gitlab 6.2.pdf",
-    "Qualité de développement/Automatisation des tests/QD1-CM7-Test Levée dExceptions 5.2.3.pdf",
     "Qualité de développement/Automatisation des tests/Test Unitaire.md",
     "Qualité de développement/Qualité de développement.md",
     "Communication/communication.md",
@@ -202,7 +184,6 @@
     "Communication/Business Communication/Writing email as Interne.md",
     "Communication/Business Communication/Informal vs Formal.md",
     "Communication/Business Communication/Test information and preparation.md",
-    "Communication/Business Communication/R2.12 part 2 booklet.pdf",
     "Communication/Business Communication/Business Communication.md",
     "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
@@ -218,9 +199,7 @@
     "Avenir Etudes/PPP/portefolio/Page Principale.md",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Avenir Etudes/PPP/portefolio/Website portfolio.md",
-    "Avenir Etudes/PPP/portefolio/kezako portefolio.md",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
-    "Avenir Etudes/PPP/PPP.md",
     "Réseau/TD/TD5/plan.png",
     "Réseau/TD/r2_05.tp2/plan.png",
     "Réseau/TD/TD4/situation3.png",
