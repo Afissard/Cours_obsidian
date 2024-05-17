@@ -42,19 +42,22 @@ def q3_2():
     
     On s'intéresse au ratio de l’effectif salarié par habitant sur l’ensemble des communes 
     (on supprimera pour cette seule question les communes aux populations nulles et les communes 
-    pour lesquelles le ratio calcul´e renvoie la valeur nan). Réaliser le graphique ci-dessous 
+    pour lesquelles le ratio calculé renvoie la valeur nan). Réaliser le graphique ci-dessous 
     (plt.boxplot). Pouvez-vous expliquer la différence significative entre la moyenne et la médiane ?
     """
-    # TODO
     temp_commune = data_communes[data_communes['POPU']!= 0][['COG', 'POPU', 'SURFACE']]
-    # temp_commune.insert(column='DENS', value=(temp_commune.POPU*100)/temp_commune.SURFACE/100))
     temp_emplois = data_emplois[['CODGEO','EFF_TOT']]
     showDF(temp_commune)
     showDF(temp_emplois)
-    # ratio = pd.DataFrame(columns=['CODEGEO', 'DENS'], data=)
-    # plt.boxplot()
+    ratio = pd.merge(left=temp_commune, right=temp_emplois, how='inner', left_on=['COG'], right_on=['CODGEO'])[['COG', 'POPU', 'EFF_TOT', 'SURFACE']]
+    ratio.insert(loc=len(ratio.columns), column="RATIO", value=ratio.EFF_TOT.astype(float)/ratio.POPU.astype(float))
+    ratio.insert(loc=len(ratio.columns), column='DENS', value=(ratio.POPU.astype(float)*100)/(ratio.SURFACE.astype(float)/100))
+    showDF(ratio)
+    plt.boxplot(x=ratio['RATIO'], showmeans=True, meanline=True, showfliers=False)
+    plt.show()
     
     
+# * DENS (Hab/Km²) = (POPU*100)/(SURFACE/100) 
 
 def main():
     print("setup done, starting")

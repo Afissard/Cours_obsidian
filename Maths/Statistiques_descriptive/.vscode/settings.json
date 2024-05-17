@@ -9,6 +9,7 @@
         "isin",
         "linregress",
         "nunique",
+        "POPU",
         "suptitle"
     ]
 }

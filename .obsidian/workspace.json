@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87abd4c6ad076468",
+        "id": "11f3a219a22097f9",
         "type": "tabs",
         "children": [
           {
-            "id": "1e9508a0d28a0345",
+            "id": "c171eef678c95745",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication/Business Communication/Test information and preparation.md",
+                "file": "Communication/Business Communication/Issue Email.md",
                 "mode": "source",
                 "source": false
               },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication/Business Communication/Test information and preparation.md",
+                "file": "Communication/Business Communication/Issue Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication/Business Communication/Test information and preparation.md",
+                "file": "Communication/Business Communication/Issue Email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication/Business Communication/Test information and preparation.md"
+                "file": "Communication/Business Communication/Issue Email.md"
               }
             }
           },
@@ -170,12 +170,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e9508a0d28a0345",
+  "active": "c171eef678c95745",
   "lastOpenFiles": [
+    "Communication/Business Communication/Issue Email.md",
+    "Communication/Business Communication/Even more formal emails.md",
+    "Communication/Business Communication/Translating email from informal to formal.md",
+    "Communication/Business Communication/Writing email as Interne.md",
+    "Communication/Business Communication/Informal vs Formal.md",
+    "Communication/Business Communication/Test information and preparation.md",
     "Communication/Business Communication/R2.12 part 2 booklet.pdf",
     "Communication/Business Communication/relative pronouns.pdf",
     "Communication/Business Communication/Business Communication.md",
-    "Communication/Business Communication/Test information and preparation.md",
     "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
     "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
     "Gestion de projet/Droit des contrats numérique/BUT1-20TypesCtrat.pdf",
@@ -201,16 +206,11 @@
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
     "Avenir Etudes/PPP/PPP.md",
     "Qualité de développement/Automatisation des tests/QD1-CM7-Test Levée dExceptions 5.2.3.pdf",
-    "Qualité de développement/Automatisation des tests/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
     "Qualité de développement/Automatisation des tests/Test Unitaire.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
     "Qualité de développement/Qualité de développement.md",
     "Maths/Maths.md",
     "conflict-files-obsidian-git.md",
-    "Maths/Statistiques_descriptive/Statistiques_descriptive.md",
-    "Qualité de développement/Automatisation des tests/TD/TD2-réponses.md",
-    "Réseau/Réseau.md",
-    "Réseau/COUR/COUR.md",
     "Réseau/TD/TD5/plan.png",
     "Réseau/TD/r2_05.tp2/plan.png",
     "Réseau/TD/TD4/situation3.png",

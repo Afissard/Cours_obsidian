@@ -11,4 +11,17 @@ Breakaleg Insurance
 
 *You're Helena Petrov form Security-iz-us. Reply formally thank the customer and providing a price list. Close by offering assistance.*
 
-*Object : re security system pricing**
+*Object : re security system pricing*
+Dear Mr Ward
+Following up your request, here is in attachement price list of our security systems. If you have any questions, do note hesitate to contact us again.
+Best regards,
+Helena Petrov
+Security-iz-us
+
+**Correction :**
+Dear Mr Ward
+Thank you for your enquiry. We will be glad to provide the information your required. Please find attached a list of price as well as a brochure.
+Do not hesitate to contact us should you require further assistance.
+Best regards,
+Helena Petrov
+Security-iz-us
