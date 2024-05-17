@@ -1,4 +1,4 @@
-# Follow-up email: dealing with order issues (A)
+# Follow-up email: dealing with order issues
 You have received the order you place over the phone with Wonderstuff. But the equipment doesn't match you order. Write to Michael Ritt to complain :
 - 1 Dell PC missing
 - 1 HP PC faulty
