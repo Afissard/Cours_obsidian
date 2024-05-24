@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4512fbc88894c6a3",
+        "id": "15947dea2488ead0",
         "type": "tabs",
         "children": [
           {
-            "id": "696c035b9cbf29a5",
+            "id": "fb7d1b9c3ae5563e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Qualité de développement/Automatisation des tests/TD/TD5-Oracle - Outillage 6.3.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Qualité de développement/Automatisation des tests/TD/TD5-Oracle - Outillage 6.3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Qualité de développement/Automatisation des tests/TD/TD5-Oracle - Outillage 6.3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Qualité de développement/Automatisation des tests/TD/TD5-Oracle - Outillage 6.3.pdf"
+              }
             }
           },
           {
@@ -160,53 +168,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "696c035b9cbf29a5",
+  "active": "fb7d1b9c3ae5563e",
   "lastOpenFiles": [
+    "Qualité de développement/Automatisation des tests/TD/TD4-Dependance - gitlab 6.2.pdf",
+    "Qualité de développement/Automatisation des tests/TD/TD5-Oracle - Outillage 6.3.pdf",
+    "Qualité de développement/Automatisation des tests/Cours/QD1-CM9 - Dépendances - Mock - 5.5.pdf",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab2.jpg",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab3.jpg",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab1.jpg",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab4.jpg",
+    "Qualité de développement/Automatisation des tests/Cours/QD1-CM10 - Oracle 5.6.pdf",
+    "Qualité de développement/Automatisation des tests/Cours/QD1-CM11 - Diagnostic 5.4.pdf",
+    "Qualité de développement/Automatisation des tests/TD/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf",
+    "Qualité de développement/Automatisation des tests/Cours/Test Unitaire.md",
+    "Qualité de développement/Automatisation des tests/Cours/QD1-CM1-intro-enjeux-4.4.pdf",
+    "Qualité de développement/Automatisation des tests/Cours/QD1-CM2-typologie-4.4.1.pdf",
+    "Qualité de développement/Automatisation des tests/Cours",
+    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
+    "Qualité de développement/Qualité de développement.md",
+    "Gestion de projet/Gestion de projet.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/qqc_innovant/qqc_innovant.md",
     "Avenir Etudes/PPP/qqc_innovant/Game Boy with E-Ink.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/Sacha Chauvel TD Droit des contrats.pdf",
-    "Gestion de projet/Droit des contrats numérique/BUT1-20TypesCtrat.pdf",
-    "Gestion de projet/Droit des contrats numérique/BUT1-Cours-Droit-Contrats-Num.pdf",
+    "SAE/SAE.md",
+    "SAE/English Boardgame/English Boardgame.md",
+    "SAE/English Boardgame/Making a functioning board game.md",
+    "SAE/English Boardgame",
+    "Communication/communication.md",
+    "Communication/Business Communication/Business Communication.md",
+    "Gestion de projet/Droit des contrats numérique/Sacha Chauvel DS Droit des contrats BUT1.pdf",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
-    "Avenir Etudes/PPP/qqc_innovant",
-    "Gestion de projet/Gestion de projet.md",
     "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
     "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
-    "Qualité de développement/Automatisation des tests/TD/TD3-Testabilite -Dependance - Doublure 6.2.2.pdf",
-    "Qualité de développement/Automatisation des tests/TD/TD4-Dependance - gitlab 6.2.pdf",
-    "Qualité de développement/Automatisation des tests/QD1-CM9 - Dépendances - Mock - 5.5.pdf",
-    "Qualité de développement/Automatisation des tests/QD1-CM8 - Testabilité - 5.5.pdf",
     "Qualité de développement/Automatisation des tests/TD/TD3-réponses.md",
-    "Qualité de développement/Automatisation des tests/QD1-CM6-Test fonctionnel 5.4.1.pdf",
     "Qualité de développement/Automatisation des tests/TD/TD2-réponses.md",
-    "Qualité de développement/Automatisation des tests/QD1-CM7-Test Levée dExceptions 5.2.3.pdf",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Automatisation des tests/Test Unitaire.md",
-    "Qualité de développement/Qualité de développement.md",
-    "Communication/communication.md",
     "Communication/Business Communication/Issue Email.md",
     "Communication/Business Communication/Even more formal emails.md",
     "Communication/Business Communication/Translating email from informal to formal.md",
     "Communication/Business Communication/Writing email as Interne.md",
     "Communication/Business Communication/Informal vs Formal.md",
     "Communication/Business Communication/Test information and preparation.md",
-    "Communication/Business Communication/Business Communication.md",
     "Gestion de projet/Droit des contrats numérique/Prise de note cours n1.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Droit des contrats.md",
-    "Programmation/IHM/IHM.md",
-    "Programmation/Programmation.md",
     "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
     "Avenir Etudes/PPP/portefolio/concept-art-website-02--front-page.png",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
     "Réseau/TD/TD5/plan.png",
     "Réseau/TD/r2_05.tp2/plan.png",
     "Réseau/TD/TD4/situation3.png",
-    "Réseau/TD/TD4/situation2.png",
-    "Réseau/TD/TD4/situation1.png",
-    "Réseau/TD/r2_05.tp1/situation3.png",
-    "Réseau/TD/r2_05.tp1/situation2.png",
     "Programmation/IHM/TD2/Arbre de scène.canvas",
     "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
