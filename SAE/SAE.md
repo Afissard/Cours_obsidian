@@ -13,6 +13,12 @@ type: folder_brief_live
 - **[[PubCDI]]**
 - **[[Quadtree]]**
 - **[[Skyjo_DevApp]]**
+- **Statistique_BD**
+	- [[audience_cumulee_radio.csv]]
+	- [[reponses_radio_sauv.csv]]
+	- [[sae_radio.ipynb]]
+	- [[sae_radios_etu.py]]
+	- [[sae_radios.pdf]]
 - **[[Sudoku]]**
 
 %% End Waypoint %%
