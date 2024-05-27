@@ -12,6 +12,7 @@ type: folder_brief_live
 - **[[Installation Poste]]**
 - **[[PubCDI]]**
 - **[[Quadtree]]**
+- **[[Skyjo_DevApp]]**
 - **[[Sudoku]]**
 
 %% End Waypoint %%
