@@ -8,7 +8,7 @@ type: folder_brief_live
 - **[[Logique]]**
 - **[[Méthode Numérique]]**
 - **[[Outils_Fondamentaux]]**
-- **Statistiques_descriptive**
+- **[[Statistiques_descriptive]]**
 	- [[PolyEntier_a2.pdf]]
 	- [[sae_radios.pdf]]
 	- [[Slides_cours.pdf]]
@@ -23,6 +23,7 @@ type: folder_brief_live
 		- [[main.py]]
 	- **TD3**
 		- [[main.py]]
+>>>>>>> origin/main
 
 %% End Waypoint %%
 

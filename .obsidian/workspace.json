@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c19d524ed0b3f31a",
+    "id": "3f0aed537bc9bc42",
     "type": "split",
     "children": [
       {
-        "id": "35b0434c8164632e",
+        "id": "18c3ed03b9c59a10",
         "type": "tabs",
         "children": [
           {
-            "id": "bb5f67f607710ae0",
+            "id": "baf33ddbd9f59f1d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "60d3de0a09b19dd7",
+    "id": "a803d7d809bfafcb",
     "type": "split",
     "children": [
       {
-        "id": "49d6c5f7ff5efb3f",
+        "id": "53a8b4504231fe77",
         "type": "tabs",
         "children": [
           {
-            "id": "0e82bb3bc460ffe2",
+            "id": "a9c033008c99906c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "4882103ae1d1f984",
+            "id": "b9755e4b99bc58e9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "8cfbfe0267816428",
+            "id": "eef074144b3fd639",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 212.5
   },
   "right": {
-    "id": "1d4e887032f3094a",
+    "id": "df3371eaebed66e9",
     "type": "split",
     "children": [
       {
-        "id": "abd28b204b1e5794",
+        "id": "62db329fab9073d5",
         "type": "tabs",
         "children": [
           {
-            "id": "41befc478f487784",
+            "id": "36ab70aff675fc6d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "d8d47b96b0f45392",
+            "id": "b57fb88e51befda1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "e98f8985b7066bfb",
+            "id": "739bbe47af14f08f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,15 @@
             }
           },
           {
-            "id": "eddade106ee8fffa",
+            "id": "18f3c6fd4c047dc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f92634b381d09202",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -126,75 +134,89 @@
             }
           },
           {
-            "id": "662f6dbad4e7e1c3",
+            "id": "b6274e313101a862",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 230.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb5f67f607710ae0",
+  "active": "baf33ddbd9f59f1d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Communication/Business Communication/Translating email from informal to formal.md",
-    "Communication/Business Communication/Even more formal emails.md",
-    "Réseau/TD/TD6/TD6.md",
-    "Réseau/TD/TD6/readme-TD6.md",
-    "Réseau/TD/TD6",
-    "Réseau/TD/TD5/TD5.md",
-    "Réseau/TD/TD5/readme-TD5.md",
-    "Réseau/TD/TD5/plan.png",
-    "Réseau/TD/TD5/Consigne.md",
-    "Réseau/TD/TD5",
-    "Réseau/TD/TD4/zebra.conf",
-    "Réseau/TD/TD4/TD4.md",
-    "Réseau/TD/TD4/situation3.png",
-    "Réseau/TD/TD4/situation2.png",
-    "Réseau/TD/TD4/situation1.png",
-    "Réseau/TD/TD4/readmeTD4.md",
-    "Réseau/TD/TD4/ospfd.conf",
-    "Réseau/TD/TD4",
-    "Réseau/TD/TD3/TD3.md",
-    "Réseau/TD/TD3/Diagnostiquer-configuration-réseau+configurer-interface-réseau_20240401.md",
-    "Réseau/TD/TD3",
-    "Qualité de développement/Automatisation des tests/TD/TD2-Test Fonctionnel-Exception-Calcul-5.5 - SUJET.pdf",
-    "Qualité de développement/Automatisation des tests/TD/TD2-réponses.md",
-    "Qualité de développement/Automatisation des tests/TD/TD1-Test Unitaire-Calcul-5.4.1.pdf",
-    "Qualité de développement/Automatisation des tests/Test Unitaire.md",
-    "Qualité de développement/Automatisation des tests/TD",
-    "Qualité de développement/Automatisation des tests/QD1-CM7-Test Levée dExceptions 5.2.3.pdf",
+    "Qualité de développement/Automatisation des tests/Cours/Amphi 2.md",
+    "Qualité de développement/Automatisation des tests/Cours/Cours.md",
     "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Automatisation des tests/Amphi1.md",
-    "Qualité de développement/Automatisation des tests/Amphi 2.md",
     "Qualité de développement/Qualité de développement.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 2.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/Réponse TD Partie 1.md",
-    "Avenir Etudes/Avenir Etudes.md",
-    "Avenir Etudes/Quebec/Quebec.md",
-    "Avenir Etudes/Quebec/Administration/Administration.md",
-    "Avenir Etudes/Quebec/ETUDIER AU CANADA - QUEBEC.md",
-    "Avenir Etudes/Quebec/ETS/ETS.md",
-    "Avenir Etudes/Quebec/UQAC/UQAC.md",
+    "SAE/SAE.md",
+    "SAE/SAE-Reseau/SAE-Reseau.md",
+    "Réseau/TD/TD.md",
+    "Réseau/TD/TD6/TD6.md",
+    "Réseau/TD/TD5/readme-TD5.md",
+    "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
+    "SAE/SAE-Reseau/partie1/script-P1.md",
+    "Réseau/TD/TD5/TD5.md",
+    "Réseau/TD/TD5/Consigne.md",
+    "SAE/SAE-Reseau/partie1/rapport1.md",
+    "Réseau/TD/TD6/readme-TD6.md",
+    "Réseau/TD/TD4/readmeTD4.md",
+    "Réseau/TD/TD2/consigneTD.md",
+    "Réseau/TD/TD2/TD2.md",
+    "Réseau/TD/TD4/TD4.md",
+    "SAE/SAE-Reseau/partie1",
+    "Réseau/Réseau.md",
+    "SAE/SAE-Reseau/identifiants-X.pdf",
+    "SAE/SAE-Reseau/rapport3.md",
+    "SAE/SAE-Reseau/rapport2.md",
+    "SAE/SAE-Reseau/rapports/rapport3.md",
+    "SAE/SAE-Reseau/rapports/rapport2.md",
+    "SAE/SAE-Reseau/rapports/rapport1.md",
+    "SAE/SAE-Reseau/rapports",
+    "SAE/SAE-Reseau/rapports.md-20240528/rapport3.md",
+    "SAE/SAE-Reseau/rapports.md-20240528/rapport2.md",
+    "SAE/SAE-Reseau/rapports.md-20240528",
+    "SAE/SAE-Reseau/rapports.md-20240528.zip",
+    "SAE/SAE-Reseau/log",
+    "SAE/SAE-Reseau",
+    "SAE/Nouveau dossier",
+    "Qualité de développement/Automatisation des tests/Cours/QD1-CM11 - Diagnostic 5.4.pdf",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab2.jpg",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab3.jpg",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab1.jpg",
+    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab4.jpg",
+    "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
+    "Avenir Etudes/PPP/portefolio/concept-art-website-02--front-page.png",
     "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
-    "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png"
+    "Réseau/TD/TD5/plan.png",
+    "Réseau/TD/r2_05.tp2/plan.png",
+    "Réseau/TD/TD4/situation3.png",
+    "Programmation/IHM/TD2/Arbre de scène.canvas",
+    "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
+    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
+    "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas"
   ]
 }

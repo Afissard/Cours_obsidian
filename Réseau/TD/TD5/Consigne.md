@@ -78,9 +78,9 @@ Sur ces machines, il faut
 3. ajouter une IP à l'interface  
   
 
-    ip a a 10.0.9.1/24 dev jaune.9 # sur une machine  
-    ip a a 10.0.9.2/24 dev jaune.9 # sur une autre machine avec l'interface vlan  
-    ip a a 10.0.9.3/24 dev jaune # sur une tierce machine sans l'interface vlan mais tout de même sur le même réseau que les deux précédentes
+    ``ip a a 10.0.9.1/24 dev jaune.9 # sur une machine``  
+    ``ip a a 10.0.9.2/24 dev jaune.9 # sur une autre machine avec l'interface vlan``  
+    ``ip a a 10.0.9.3/24 dev jaune # sur une tierce machine sans l'interface vlan mais tout de même sur le même réseau que les deux précédentes``
 
 4. activer l'interface  
 

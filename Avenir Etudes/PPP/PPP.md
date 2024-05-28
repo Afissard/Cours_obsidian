@@ -6,8 +6,8 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - **[[partie 1]]**
-- **portefolio**
-	- [[kezako portefolio]]
+- **[[portefolio]]**
+- **[[qqc_innovant]]**
 
 %% End Waypoint %%
 

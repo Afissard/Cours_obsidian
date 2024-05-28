@@ -1,8 +1,15 @@
 {
     "cSpell.words": [
+        "astype",
         "autopct",
+        "boxplot",
+        "CODGEO",
+        "departements",
+        "geopandas",
+        "isin",
         "linregress",
         "nunique",
+        "POPU",
         "suptitle"
     ]
 }
