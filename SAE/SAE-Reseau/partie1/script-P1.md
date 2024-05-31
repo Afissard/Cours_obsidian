@@ -1,27 +1,3 @@
-# Supprimer la réinitialisation automatique des interfaces réseaux
-```bash
-#!/bin/bash
-echo "Supprimer la réinitialisation automatique des interfaces réseaux"
-
-rm /etc/network/interfaces # supression
-touch /etc/network/interfaces # création
-echo "auto lo  
-iface lo inet loopback  
-  
-allow-hotplug bleue  
-iface bleue inet manual  
-  
-allow-hotplug jaune  
-iface jaune inet manual  
-  
-allow-hotplug rouge  
-iface rouge inet dhcp" > /etc/network/interfaces # écriture
-
-service networking restart
-service network-manager restart
-
-echo "done"
-```
 # Setup VLAN (client et DHCP)
 ```bash
 #!/bin/bash
@@ -126,4 +102,28 @@ ip a d "$ipReseau/$ipMask$" dev "$colChosen.$idChosen"
 ```bash
 ip r d "$ipReseau/$mask" dev "$ipDevice"
 ip r d "$ipReseau/$mask" via "$ipGateAway"
+```
+## Supprimer la réinitialisation automatique des interfaces réseaux (mais n'a pas prouvé son utilité)
+```bash
+#!/bin/bash
+echo "Supprimer la réinitialisation automatique des interfaces réseaux"
+
+rm /etc/network/interfaces # supression
+touch /etc/network/interfaces # création
+echo "auto lo  
+iface lo inet loopback  
+  
+allow-hotplug bleue  
+iface bleue inet manual  
+  
+allow-hotplug jaune  
+iface jaune inet manual  
+  
+allow-hotplug rouge  
+iface rouge inet dhcp" > /etc/network/interfaces # écriture
+
+service networking restart
+service network-manager restart
+
+echo "done"
 ```
