@@ -8,7 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23c143824ed5f92d",
+            "id": "8c688be3d2aafc49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c44a0fc573a094de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAE/SAE-Reseau/rendu_p1/rapport1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ff73232f4df2ff0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf"
+              }
             }
           },
           {
@@ -160,43 +190,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23c143824ed5f92d",
+  "active": "8c688be3d2aafc49",
   "lastOpenFiles": [
-    "SAE/SAE.md",
+    "SAE/SAE-Reseau/scripts.md",
+    "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
+    "SAE/SAE-Reseau/rendu_p1/rapport1.md",
+    "SAE/SAE-Reseau/rendu_p1/rapport1.md",
+    "SAE/SAE-Reseau/rendu_p1/smtp.log",
+    "SAE/SAE-Reseau/rendu_p1/setup_vlan.sh",
+    "SAE/SAE-Reseau/rendu_p1/routeur.log",
+    "SAE/SAE-Reseau/rendu_p1/routage.pcapng",
+    "SAE/SAE-Reseau/rendu_p1/modif_config_reseau.sh",
+    "SAE/SAE-Reseau/rendu_p1/dns.pcapng",
+    "SAE/SAE-Reseau/rendu_p1/dhcp.log",
+    "SAE/SAE-Reseau/rendu_p1/config_route.sh",
+    "SAE/SAE-Reseau/rendu_p1/client.log",
+    "Réseau/TD/TD5/TD5.md",
+    "Réseau/TD/TD4/TD4.md",
+    "Réseau/TD/TD4/readmeTD4.md",
+    "Réseau/TD/TD3/TD3.md",
+    "Réseau/TD/TD3/Diagnostiquer-configuration-réseau+configurer-interface-réseau_20240401.md",
+    "Réseau/TD/TD5/readme-TD5.md",
+    "Réseau/TD/TD5/Consigne.md",
+    "Réseau/TD/TD6/TD6.md",
+    "Réseau/TD/TD6/readme-TD6.md",
+    "Réseau/TD/TD.md",
+    "Réseau/Réseau.md",
     "SAE/SAE-Reseau/SAE-Reseau.md",
-    "SAE/SAE-Reseau/partie1/script-P1.md",
+    "SAE/SAE.md",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
     "Programmation/OOP/Cours/Cours.md",
-    "Programmation/OOP/Cours/04-heritage.pdf",
-    "Programmation/OOP/Cours/03-classesuml.pdf",
     "Programmation/Initiation-dev/Initiation-dev.md",
     "Programmation/IHM/IHM.md",
     "Avenir Etudes/Avenir Etudes.md",
     "Avenir Etudes/PPP/PPP.md",
     "Avenir Etudes/PPP/portefolio/portefolio.md",
     "Avenir Etudes/PPP/portefolio/Page Principale.md",
-    "Programmation/OOP/Cours/02-objets-references.pdf",
-    "Programmation/OOP/Cours/01-bases-kotlin.pdf",
-    "Programmation/OOP/Cours/00-intro.pdf",
-    "Gestion de projet/Gestion de projet.md",
-    "Gestion de projet/Droit des contrats numérique/Droit des contrats numérique.md",
-    "Gestion de projet/Droit des contrats numérique/TD1/TD1.md",
-    "Qualité de développement/Qualité de développement.md",
-    "Qualité de développement/Automatisation des tests/Automatisation des tests.md",
-    "Qualité de développement/Automatisation des tests/Cours/Cours.md",
-    "Qualité de développement/Automatisation des tests/Cours/QD1-CM6-Test fonctionnel 5.4.1.pdf",
-    "Qualité de développement/Automatisation des tests/Cours/QD1-CM5-Parametrized-Test-Kotlin-5.2.pdf",
-    "Qualité de développement/Automatisation des tests/Cours/QD1-CM2-typologie-4.4.1.pdf",
-    "Qualité de développement/Automatisation des tests/Cours/QD1-CM3-Test-unitaire-5.1.pdf",
-    "Qualité de développement/Automatisation des tests/Cours/QD1-CM3-Test-unitaire-5.1-1.pdf",
-    "Qualité de développement/Automatisation des tests/Cours/Amphi 2.md",
-    "Réseau/TD/TD.md",
-    "Réseau/TD/TD6/TD6.md",
-    "Réseau/TD/TD5/readme-TD5.md",
-    "Réseau/TD/TD5/TD5.md",
-    "Réseau/TD/TD5/Consigne.md",
-    "SAE/SAE-Reseau/partie1/rapport1.md",
     "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab2.jpg",
     "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab3.jpg",
     "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab1.jpg",
