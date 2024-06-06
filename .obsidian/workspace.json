@@ -4,41 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "76664e672b62f4a7",
+        "id": "0dfeab5bf9effef7",
         "type": "tabs",
         "children": [
           {
-            "id": "8c688be3d2aafc49",
+            "id": "569c211abc054a6d",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c44a0fc573a094de",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/SAE-Reseau/rendu_p1/rapport1.md",
+                "file": "SAE/English Boardgame/List.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ff73232f4df2ff0e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              }
             }
           }
         ]
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
+                "file": "SAE/English Boardgame/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
+                "file": "SAE/English Boardgame/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf"
+                "file": "SAE/English Boardgame/List.md"
               }
             }
           },
@@ -190,12 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c688be3d2aafc49",
+  "active": "569c211abc054a6d",
   "lastOpenFiles": [
-    "SAE/SAE-Reseau/scripts.md",
+    "SAE/English Boardgame/English Boardgame.md",
+    "SAE/English Boardgame/List.md",
+    "SAE/SAE-Reseau/SAE-Reseau.md",
+    "SAE/SAE-Reseau/rendu_p1/rapport1.md",
     "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
-    "SAE/SAE-Reseau/rendu_p1/rapport1.md",
-    "SAE/SAE-Reseau/rendu_p1/rapport1.md",
+    "SAE/SAE-Reseau/scripts.md",
     "SAE/SAE-Reseau/rendu_p1/smtp.log",
     "SAE/SAE-Reseau/rendu_p1/setup_vlan.sh",
     "SAE/SAE-Reseau/rendu_p1/routeur.log",
@@ -216,7 +196,6 @@
     "Réseau/TD/TD6/readme-TD6.md",
     "Réseau/TD/TD.md",
     "Réseau/Réseau.md",
-    "SAE/SAE-Reseau/SAE-Reseau.md",
     "SAE/SAE.md",
     "Programmation/Programmation.md",
     "Programmation/OOP/OOP.md",
