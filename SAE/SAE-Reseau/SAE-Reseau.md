@@ -5,10 +5,9 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
+- [[dhcpd.conf]]
 - [[identifiants-X.pdf]]
 - [[log]]
-- [[rapport2]]
-- [[rapport3]]
 - [[rapports.md-20240528.zip]]
 - **rendu_p1**
 	- [[client.log]]
@@ -22,7 +21,12 @@ type: folder_brief_live
 	- [[setup_vlan.sh]]
 	- [[smtp.log]]
 	- [[vlan.pcapng]]
+- **rendu_p2**
+	- [[rapport2]]
+	- [[scripts]]
+- **rendu_p3**
+	- [[rapport3]]
 - [[SAÉ S203 Installation de services réseaux 21 juin 2023.pdf]]
-- [[scripts]]
+- [[Scripts-WIP]]
 
 %% End Waypoint %%
