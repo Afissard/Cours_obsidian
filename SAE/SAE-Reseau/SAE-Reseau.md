@@ -8,7 +8,6 @@ type: folder_brief_live
 - [[dhcpd.conf]]
 - [[identifiants-X.pdf]]
 - [[log]]
-- [[rapports.md-20240528.zip]]
 - **rendu_p1**
 	- [[client.log]]
 	- [[config_route.sh]]
@@ -22,11 +21,18 @@ type: folder_brief_live
 	- [[smtp.log]]
 	- [[vlan.pcapng]]
 - **rendu_p2**
+	- [[client.log]]
+	- [[dhcp.pcapng]]
 	- [[rapport2]]
 	- [[scripts]]
 - **rendu_p3**
 	- [[rapport3]]
+	- [[smtp.pcapng]]
 - [[SAÉ S203 Installation de services réseaux 21 juin 2023.pdf]]
 - [[Scripts-WIP]]
+- [[setup.SMTP.sh]]
+- [[setupClient.sh]]
+- [[setupDHCP.sh]]
+- [[setupRouteur.sh]]
 
 %% End Waypoint %%

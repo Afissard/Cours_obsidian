@@ -28,10 +28,21 @@ ip a a 172.20.128.254/24 dev jaune.128
 # Serveur DHCP
 # /etc/default/isc-dhcp-serveur
 rm -rf /etc/default/isc-dhcp-serveur && touch /etc/default/isc-dhcp-serveur && echo "INTERFACESv4=jaune.128" > /etc/default/isc-dhcp-serveur
+
 # /etc/dhcp/dhcpd.conf
-echo "
-configurer le serveur DHCP dans le fichier `/etc/dhcp/dhcpd.conf` pour délivrer des IPs sur la plage `10.0.X.10-100/24` en fournissant route par défaut (via `10.0.X.254`), nom de domaine (`fai.com`), serveur DNS (`192.168.0.254`).
-"
+# configurer le serveur DHCP dans le fichier `/etc/dhcp/dhcpd.conf` pour délivrer des IPs sur la plage `10.0.128.10-100/24` en fournissant route par défaut (via `10.0.128.254`), nom de domaine (`fai.com`), serveur DNS (`192.168.0.254`).
+
+echo '
+option domain-name "fai.com";
+option domain-name-servers 192.168.0.254;
+option routers 10.0.128.254;
+option subnet-mask 255.255.255.0;
+subnet 10.0.128.0 netmask 255.255.255.0 { 
+	range 10.0.128.10 10.0.128.100;
+}
+' > /etc/dhcp/dhcpd.conf
+
+echo "done"
 ```
 ## DHCP utilities
 Pour connaître l'état d'un service : ``systemctl status isc-dhcp-server``

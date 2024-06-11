@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a9669801c5e8400c",
+        "id": "b25f837b4b61c5ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b792affbbb4ab469",
+            "id": "a4964119fdfd503c",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Réseau/TD/TD5/readme-TD5.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9cf1583ddddff0c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAE/SAE-Reseau/rendu_p2/scripts.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/SAE-Reseau/rendu_p2/scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/SAE-Reseau/rendu_p2/scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAE/SAE-Reseau/rendu_p2/scripts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,20 +151,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9cf1583ddddff0c8",
+  "active": "a4964119fdfd503c",
   "lastOpenFiles": [
-    "SAE/SAE-Reseau/dhcpd.conf",
     "Réseau/TD/TD5/readme-TD5.md",
     "SAE/SAE-Reseau/rendu_p2/scripts.md",
+    "SAE/SAE-Reseau/dhcpd.conf",
     "Réseau/TD/TD5/Consigne.md",
     "SAE/SAE-Reseau/rendu_p1/rapport1.md",
     "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
@@ -216,7 +190,6 @@
     "Maths/Graph/fermetureTransitive-connexite.pdf",
     "Maths/Graph/conceptsBase.pdf",
     "Maths/Graph/coloration.pdf",
-    "Maths/Graph/cheminsChaines-ascendantsDescendants.pdf",
     "Maths/Graph/Graph.md",
     "Réseau/TD/TD4/TD4.md",
     "Réseau/TD/TD4/readmeTD4.md",
