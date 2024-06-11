@@ -11,8 +11,10 @@
             "id": "a4964119fdfd503c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Maths/graph/recherchePlusCourtsChemins.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/graph/recherchePlusCourtsChemins.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/graph/recherchePlusCourtsChemins.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/graph/recherchePlusCourtsChemins.pdf"
+              }
             }
           },
           {
@@ -162,6 +168,7 @@
   },
   "active": "a4964119fdfd503c",
   "lastOpenFiles": [
+    "Maths/Maths.md",
     "Réseau/TD/TD5/readme-TD5.md",
     "SAE/SAE-Reseau/rendu_p2/scripts.md",
     "SAE/SAE-Reseau/dhcpd.conf",
@@ -184,7 +191,6 @@
     "SAE/English Boardgame/Question List.md",
     "SAE/English Boardgame/Question List.pdf",
     "Système/Système.md",
-    "Maths/Maths.md",
     "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/introduction.pdf",
     "Maths/Graph/fermetureTransitive-connexite.pdf",
