@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b25f837b4b61c5ec",
+        "id": "c34ad5f981cc763e",
         "type": "tabs",
         "children": [
           {
-            "id": "a4964119fdfd503c",
+            "id": "177d66d256d66473",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Maths/graph/recherchePlusCourtsChemins.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/graph/recherchePlusCourtsChemins.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/graph/recherchePlusCourtsChemins.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/graph/recherchePlusCourtsChemins.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4964119fdfd503c",
+  "active": "177d66d256d66473",
   "lastOpenFiles": [
+    "SAE/SAE.md",
+    "SAE/English Boardgame/English Boardgame.md",
+    "SAE/English Boardgame/DeadlIUT Rules.pdf",
+    "SAE/English Boardgame/DeadlIUT Rules.md",
+    "SAE/English Boardgame/Question List.md",
+    "SAE/English Boardgame/Cartes SAE ANGLAIS.pdf",
+    "SAE/English Boardgame/Question List.pdf",
+    "SAE/English Boardgame/Making a functioning board game.md",
+    "Maths/graph/recherchePlusCourtsChemins.pdf",
     "Maths/Maths.md",
     "Réseau/TD/TD5/readme-TD5.md",
     "SAE/SAE-Reseau/rendu_p2/scripts.md",
@@ -185,24 +188,15 @@
     "SAE/SAE-Reseau/SAE-Reseau.md",
     "SAE/SAE-Reseau/rendu_p3",
     "SAE/SAE-Reseau/rendu_p2",
-    "SAE/English Boardgame/English Boardgame.md",
-    "SAE/SAE.md",
     "Gestion de projet/Gestion de projet.md",
-    "SAE/English Boardgame/Question List.md",
-    "SAE/English Boardgame/Question List.pdf",
     "Système/Système.md",
     "Maths/Graph/poly-concepts-base.pdf",
     "Maths/Graph/introduction.pdf",
-    "Maths/Graph/fermetureTransitive-connexite.pdf",
-    "Maths/Graph/conceptsBase.pdf",
-    "Maths/Graph/coloration.pdf",
     "Maths/Graph/Graph.md",
     "Réseau/TD/TD4/TD4.md",
     "Réseau/TD/TD4/readmeTD4.md",
     "Réseau/TD/TD3/TD3.md",
     "Réseau/TD/TD3/Diagnostiquer-configuration-réseau+configurer-interface-réseau_20240401.md",
-    "Réseau/TD/TD.md",
-    "Programmation/Programmation.md",
     "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab2.jpg",
     "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab3.jpg",
     "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab1.jpg",
