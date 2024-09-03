@@ -1,8 +1,10 @@
 [
-  "obsidian-git",
   "waypoint",
   "folder-note-plugin",
   "txt-as-md-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "obsidian-plantuml",
+  "various-complements"
 ]

@@ -10,5 +10,7 @@
   },
   "showLineNumber": false,
   "strictLineBreaks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "En cour"
 }

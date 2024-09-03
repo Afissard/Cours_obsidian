@@ -4,19 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "c34ad5f981cc763e",
+        "id": "8670729f49319dba",
         "type": "tabs",
         "children": [
           {
-            "id": "177d66d256d66473",
+            "id": "7dcea5379eff351f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAE/English Boardgame/DeadlIUT Rules.md",
+                "file": "Sujets/Architectures des réseaux.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "256b01be7d40098b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "En cour/architectures des réseaux CM1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "886cbd54eab5cde6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c2ebf01f50afde",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/reseaux/cmR3.06_AR.slides.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -69,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -85,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAE/English Boardgame/DeadlIUT Rules.md",
+                "file": "Ressources/reseaux/cmR3.06_AR.slides.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAE/English Boardgame/DeadlIUT Rules.md",
+                "file": "Ressources/reseaux/cmR3.06_AR.slides.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAE/English Boardgame/DeadlIUT Rules.md"
+                "file": "Ressources/reseaux/cmR3.06_AR.slides.pdf"
               }
             }
           },
@@ -168,62 +206,62 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "177d66d256d66473",
+  "active": "98c2ebf01f50afde",
   "lastOpenFiles": [
-    "SAE/English Boardgame/English Boardgame.md",
-    "SAE/SAE.md",
-    "SAE/English Boardgame/DeadlIUT Rules.pdf",
-    "SAE/English Boardgame/DeadlIUT Rules.md",
-    "SAE/English Boardgame/Question List.md",
-    "SAE/English Boardgame/Cartes SAE ANGLAIS.pdf",
-    "SAE/English Boardgame/Question List.pdf",
-    "SAE/English Boardgame/Making a functioning board game.md",
-    "Maths/graph/recherchePlusCourtsChemins.pdf",
-    "Maths/Maths.md",
-    "Réseau/TD/TD5/readme-TD5.md",
-    "SAE/SAE-Reseau/rendu_p2/scripts.md",
-    "SAE/SAE-Reseau/dhcpd.conf",
-    "Réseau/TD/TD5/Consigne.md",
-    "SAE/SAE-Reseau/rendu_p1/rapport1.md",
-    "SAE/SAE-Reseau/SAÉ S203 Installation de services réseaux 21 juin 2023.pdf",
-    "SAE/SAE-Reseau/rendu_p2/rapport2.md",
-    "Réseau/TD/TD5/TD5.md",
-    "Réseau/TD/TD6/TD6.md",
-    "Réseau/TD/TD6/readme-TD6.md",
-    "Réseau/Réseau.md",
-    "SAE/SAE-Reseau/Scripts-WIP.md",
-    "SAE/SAE-Reseau/rendu_p3/rapport3.md",
-    "SAE/SAE-Reseau/SAE-Reseau.md",
-    "SAE/SAE-Reseau/rendu_p3",
-    "SAE/SAE-Reseau/rendu_p2",
-    "Gestion de projet/Gestion de projet.md",
-    "Système/Système.md",
-    "Maths/Graph/poly-concepts-base.pdf",
-    "Maths/Graph/introduction.pdf",
-    "Maths/Graph/Graph.md",
-    "Réseau/TD/TD4/TD4.md",
-    "Réseau/TD/TD4/readmeTD4.md",
-    "Réseau/TD/TD3/TD3.md",
-    "Réseau/TD/TD3/Diagnostiquer-configuration-réseau+configurer-interface-réseau_20240401.md",
-    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab2.jpg",
-    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab3.jpg",
-    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab1.jpg",
-    "Qualité de développement/Automatisation des tests/TD/td_qualitedev_tab4.jpg",
-    "Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
-    "Avenir Etudes/PPP/portefolio/concept-art-website-02--front-page.png",
-    "Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
-    "Réseau/TD/TD5/plan.png",
+    "Ressources/reseaux/cmR3.06_AR.slides.pdf",
+    "En cour/architectures des réseaux CM1.md",
+    "Template/projet.md",
+    "Template/ressource.md",
+    "Sujets/Architectures des réseaux.md",
+    "Template/sujet.md",
+    "Template/note.md",
+    "Sujets/RÉSEAUX.md",
+    "Index.md",
+    "TODO.md",
+    "Ressources/Ressources.md",
+    "Ressources/autres",
+    "Ressources/reseaux",
+    "OLD",
+    "En cour",
+    "Notes",
+    "Sujets",
+    "README.md",
+    "OLD/Communication/Employment/Module informations.md",
+    "Template",
+    "OLD/Maths/Maths.md",
+    "OLD/Communication/Employment",
+    "OLD/Gestion de projet/Analyse/CM1-Développement Logiciel.md",
+    "OLD/Gestion de projet/Analyse/Introduction.md",
+    "OLD/Gestion de projet/Analyse/1_Introduction.pdf",
+    "OLD/Gestion de projet/Gestion de projet.md",
+    "OLD/Base de Données/Base de Données.md",
+    "OLD/Avenir Etudes/Avenir Etudes.md",
+    "OLD/Avenir Etudes/Information 2ème année.md",
+    "Ressources/autres/Maths & JV.md",
+    "OLD/Programmation/Automatisation des tests/Automatisation des tests.md",
+    "OLD/Programmation/Programmation.md",
+    "Qualité de développement/Qualité de développement.md",
+    "OLD/Avenir Etudes/Rencontre Etudiants et Chercheurs/Rencontre Etudiants et Chercheurs.md",
+    "Ressources/autres/Conférence IA générative.md",
+    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab2.jpg",
+    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab3.jpg",
+    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab1.jpg",
+    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab4.jpg",
+    "OLD/Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
+    "OLD/Avenir Etudes/PPP/portefolio/concept-art-website-02--front-page.png",
+    "OLD/Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
+    "OLD/Réseau/TD/TD5/plan.png",
     "Réseau/TD/r2_05.tp2/plan.png",
-    "Réseau/TD/TD4/situation3.png",
-    "Programmation/IHM/TD2/Arbre de scène.canvas",
-    "Communication/English presentation skills/Maslow hierarchy of needs.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
-    "Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
-    "Programmation/OOP/TD/TD1/Etat mémoire L10.canvas"
+    "OLD/Réseau/TD/TD4/situation3.png",
+    "OLD/Programmation/IHM/TD2/Arbre de scène.canvas",
+    "OLD/Communication/English presentation skills/Maslow hierarchy of needs.canvas",
+    "OLD/Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",
+    "OLD/Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Produits.canvas",
+    "OLD/Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité Correction.canvas",
+    "OLD/Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo1/Diagramme WBS.canvas",
+    "OLD/Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo1.canvas",
+    "OLD/Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association exo2.canvas",
+    "OLD/Gestion de projet/Gestion projet informatique/TD/TD2 UML/Schéma entité-association Micro-Onde.canvas",
+    "OLD/Programmation/OOP/TD/TD1/Etat mémoire L10.canvas"
   ]
 }

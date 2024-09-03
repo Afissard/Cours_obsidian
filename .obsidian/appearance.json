@@ -2,5 +2,8 @@
   "accentColor": "",
   "baseFontSize": 23,
   "theme": "system",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
