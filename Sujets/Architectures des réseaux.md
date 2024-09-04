@@ -17,4 +17,6 @@ Savoir de références étudiés :
 - PDF de cour
 	- [[cmR3.06_AR.slides.pdf]]
 - Prise de note des cours
-	- [[architectures des réseaux CM1]]
+	- [[Architectures des réseaux CM1]]
+- TD
+	- [[architecture des réseaux TP0]]

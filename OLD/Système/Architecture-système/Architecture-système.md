@@ -7,7 +7,7 @@ type: folder_brief_live
 - **Calculs-Booléen--Circuit-Combinatoire**
 	- [[Algèbre de Bool (circuit logique)]]
 - **[[Initiation Linux]]**
-- **[[Introduction]]**
+- **[[OLD/Système/Architecture-système/Introduction/Introduction]]**
 
 %% End Waypoint %%
 Il y a un discord pour les cours d'archi-sys, parce que les mail c'est "archaïque".

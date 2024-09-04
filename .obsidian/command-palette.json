@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "insert-template"
+    "insert-template",
+    "workspace:toggle-pin"
   ]
 }

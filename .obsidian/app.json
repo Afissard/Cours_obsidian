@@ -12,5 +12,6 @@
   "strictLineBreaks": true,
   "readableLineLength": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "En cour"
+  "newFileFolderPath": "En cour",
+  "vimMode": false
 }
