@@ -40,5 +40,14 @@ CREATE table concerne AS SELECT * FROM basetd.concerne;
 SELECT * FROM concerne;
 
 
--- Ajout des clefs étranère
+-- Ajout des clefs étranères
 ALTER TABLE employe add CONSTRAINT FK_affect FOREIGN KEY (affect) REFERENCES service (nuserv);
+
+
+-- Test des contraites étrangères
+INSERT INTO EMPLOYE VALUES(
+    20,
+    'toto',
+    35,
+    1
+);

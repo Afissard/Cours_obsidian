@@ -26,6 +26,7 @@ type: folder_brief_live
 		- [[situation1.png]]
 		- [[situation2.png]]
 - **sql avec language de programmation**
+	- [[Cours1-Trigger-2024.pdf]]
 	- **td**
 		- [[history.log]]
 		- [[TD1.pdf]]
