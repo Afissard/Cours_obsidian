@@ -128,7 +128,7 @@ Il est rappelé que bien souvent, les stations ordinaires (qui ne sont pas des r
 
 ### 3.1 Situation 1
 
-![[Ressources/reseaux/r306_tp0/situation1.png]]
+![[OLD/Réseau/architecture des réseaux/r306_tp0/situation1.png]]
 
 - configurer les interfaces des trois stations (normalement, vous avez 4 interfaces à configurer). Il faut impérativement utiliser des interfaces homologues (i.e. de même nom) si vous voulez les faire communiquer.
 - consulter les tables de routages des trois stations
@@ -150,7 +150,7 @@ pour modifier cette valeur, deux possibilités existent :
 
 ### 3.2 Situation 2
 
-![[Ressources/reseaux/r306_tp0/situation2.png]]
+![[OLD/Réseau/architecture des réseaux/r306_tp0/situation2.png]]
 #### Mettre en place la situation :
 * configurer les interfaces 
 * configurer le routage

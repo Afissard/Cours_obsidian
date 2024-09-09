@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- [[00-intro.pdf]]
+- [[OLD/Programmation/OOP/Cours/00-intro.pdf]]
 - [[01-bases-kotlin.pdf]]
 - [[02-objets-references.pdf]]
 - [[03-classesuml.pdf]]

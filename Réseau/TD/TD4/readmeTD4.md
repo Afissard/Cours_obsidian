@@ -164,7 +164,7 @@ interface avec UNE route par défaut.
 
 ### 3.1 Situation 1
 
-![](situation1.png "Situation 1")
+![](OLD/Réseau/TD/TD4/situation1.png "Situation 1")
 
 * configurer les interfaces des trois stations (normalement, vous 
   avez 4 interfaces à configurer)
@@ -219,7 +219,7 @@ réseau). Exemple :
 #ip addr add 192.168.10.66/24 dev bleue
 ```
 
-![](situation2.png "Situation 2")
+![](OLD/Réseau/TD/TD4/situation2.png "Situation 2")
 
 
 #### Mettre en place la situation :
