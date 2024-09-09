@@ -21,5 +21,8 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
   "anuppuccin-theme-settings@@anp-layout-select": "none",
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
-  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": false
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-red",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-everforest-light"
 }

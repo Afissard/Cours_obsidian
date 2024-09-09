@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b4d4f74b76d8c9",
+        "id": "f457cf50306268e0",
         "type": "tabs",
         "children": [
           {
-            "id": "4f28312e1c3725f9",
+            "id": "2233376851d1d0e5",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Base de Données/sql avec language de programmation/Cours2-Procedures.pdf"
-              }
+                "file": "Base de Données/SQL avec language de programmation/td2/Rapport TD2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6f0749403699ed4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 233.5
   },
   "right": {
     "id": "df3371eaebed66e9",
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/sql avec language de programmation/Cours2-Procedures.pdf",
+                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/sql avec language de programmation/Cours2-Procedures.pdf",
+                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Données/sql avec language de programmation/Cours2-Procedures.pdf"
+                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md"
               }
             }
           },
@@ -166,44 +187,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f28312e1c3725f9",
+  "active": "6f0749403699ed4e",
   "lastOpenFiles": [
+    "Base de Données/SQL avec language de programmation/SQL dans un langage de programmation CM1.md",
+    "Base de Données/SQL avec language de programmation/SQL dans un langage de programmation TD1.md",
+    "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
+    "Base de Données/SQL avec language de programmation/Cours1-Trigger-2024.pdf",
+    "Base de Données/SQL avec language de programmation/td2/TD2.pdf",
+    "Base de Données/SQL avec language de programmation/td2/Rapport TD2.md",
     "Base de Données/Base de Données.md",
+    "Base de Données/SQL avec language de programmation/Cours2-Procedures.pdf",
+    "Base de Données/SQL avec language de programmation/td1/TD1.pdf",
+    "Base de Données/SQL avec language de programmation/td2/td2.sql",
+    "Base de Données/SQL avec language de programmation/td2",
+    "Base de Données/SQL avec language de programmation/td1/td1.sql",
+    "Base de Données/SQL avec language de programmation/td1/history.log",
+    "Base de Données/SQL avec language de programmation/td1",
+    "Communication/Employment application/Intel Poland Internship.md",
+    "Communication/Employment application/CV for internsip.md",
+    "Communication/Employment application/cv lesson.pdf",
+    "Communication/Employment application/Anglais Employment module.md",
+    "Sujets/English Employment.md",
+    "Sujets/COMMUNICATION.md",
     "Avenir Etudes/Avenir Etudes.md",
     "OLD/Base de Données/Base de Données.md",
     "OLD/Réseau/Réseau.md",
     "OLD/Programmation/Programmation.md",
     "OLD/Programmation/qualité de développement/qualité de développement TP1.md",
-    "OLD/Communication/Employment application",
     "OLD/Communication/Untitled.md",
     "OLD/Communication/Anglais Technique/Anglais Technique.md",
     "Ressources/Ressources.md",
-    "OLD/Réseau/architecture des réseaux/cmR3.06_AR.slides.pdf",
-    "OLD/Base de Données/sql avec language de programmation/Cours2-Procedures.pdf",
     "OLD/Communication/Employment application/Anglais Employment module.md",
-    "Sujets/English Employment.md",
     "OLD/Communication/Employment/Module informations.md",
     "OLD/Base de Données/sql avec language de programmation/SQL dans un langage de programmation TD1.md",
     "OLD/Base de Données/sql avec language de programmation/SQL dans un langage de programmation CM1.md",
-    "OLD/Base de Données/sql avec language de programmation/Cours1-Trigger-2024.pdf",
     "Sujets/SQL dans un language de programmation.md",
     "Sujets/BASE DE DONNÉES.md",
     "OLD/Communication/Communication  professionelle/communication professionnelle TD1.md",
-    "OLD/Programmation/analyse/analyse TD1.md",
-    "OLD/Communication/Communication  professionelle/CC3 - Com dentreprise 2.pdf",
-    "Sujets/Communication professionnel.md",
-    "OLD/Communication/Communication  professionelle/CC3 - Com dentreprise 1 - Alternance.pdf",
-    "OLD/Communication/Communication  professionelle",
-    "Ressources/communication",
-    "Sujets/COMMUNICATION.md",
-    "OLD/Base de Données/sql avec language de programmation/td/TD1.pdf",
-    "OLD/Base de Données/sql avec language de programmation/td/history.log",
-    "Sujets/Analyse.md",
-    "OLD/Programmation/analyse/Analyse CM1.md",
-    "OLD/Programmation/analyse/Introduction.md",
-    "Sujets/GESTION DE PROJET.md",
-    "En cour/Analyse.md",
-    "Sujets/PROGRAMMATION.md",
     "OLD/Réseau/architecture des réseaux/r306_tp0/situation1.png",
     "OLD/Réseau/architecture des réseaux/r306_tp0/situation2.png",
     "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab2.jpg",

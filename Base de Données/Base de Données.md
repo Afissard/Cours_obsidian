@@ -14,14 +14,17 @@ type: folder_brief_live
 	- [[TD 1]]
 	- [[TD 2]]
 	- [[TP1-Mobiles.pdf]]
-- **sql avec language de programmation**
+- **SQL avec language de programmation**
 	- [[Cours1-Trigger-2024.pdf]]
 	- [[Cours2-Procedures.pdf]]
 	- [[SQL dans un langage de programmation CM1]]
-	- [[SQL dans un langage de programmation TD1]]
-	- **td**
-		- [[history.log]]
+	- **td1**
+		- [[Rapport TD1]]
 		- [[TD1.pdf]]
 		- [[td1.sql]]
+	- **td2**
+		- [[Rapport TD2]]
+		- [[TD2.pdf]]
+		- [[td2.sql]]
 
 %% End Waypoint %%
