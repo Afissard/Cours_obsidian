@@ -4,32 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f457cf50306268e0",
+        "id": "b9fd5fb90975d4e5",
         "type": "tabs",
         "children": [
           {
-            "id": "2233376851d1d0e5",
+            "id": "2bfda9ae4519422d",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Base de Données/SQL avec language de programmation/td2/Rapport TD2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Réseau/architecture des réseaux/cmR3.06_AR.slides.pdf"
               },
               "pinned": true
             }
           },
           {
-            "id": "6f0749403699ed4e",
+            "id": "792512eb3960465f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
+                "file": "Réseau/architecture des réseaux/r306_tp1/tp1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
+                "file": "Réseau/architecture des réseaux/r306_tp1/tp1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
+                "file": "Réseau/architecture des réseaux/r306_tp1/tp1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md"
+                "file": "Réseau/architecture des réseaux/r306_tp1/tp1.md"
               }
             }
           },
@@ -187,25 +184,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f0749403699ed4e",
+  "active": "792512eb3960465f",
   "lastOpenFiles": [
+    "Réseau/architecture des réseaux/cmR3.06_AR.slides.pdf",
+    "Réseau/architecture des réseaux/r306_tp1/tp1.md",
+    "Réseau/architecture des réseaux/r306_tp1/Figs/sites.svg",
+    "Réseau/architecture des réseaux/r306_tp1/Figs/sites.png",
+    "Réseau/architecture des réseaux/r306_tp1/Figs/site.svg",
+    "Réseau/architecture des réseaux/r306_tp1/Figs/site.png",
+    "Réseau/architecture des réseaux/r306_tp0/architecture des réseaux TP0.md",
+    "Réseau/architecture des réseaux/r306_tp1/r3_06.tp1.tgz",
+    "Réseau/architecture des réseaux/r306_tp1/Figs",
+    "Réseau/architecture des réseaux/r306_tp1",
+    "Réseau/architecture des réseaux/r3_06.tp1/r3_06.tp1.tgz",
+    "Réseau/architecture des réseaux/r3_06.tp1/README.md",
+    "Réseau/architecture des réseaux/r3_06.tp1/Figs/sites.svg",
+    "Réseau/architecture des réseaux/r3_06.tp1/Figs/sites.png",
+    "Réseau/architecture des réseaux/r3_06.tp1/Figs/site.svg",
+    "Réseau/architecture des réseaux/r3_06.tp1/Figs/site.png",
+    "Réseau/architecture des réseaux/r3_06.tp1/Figs",
+    "Réseau/architecture des réseaux/r3_06.tp1",
+    "Réseau/COUR/COUR.md",
+    "Réseau/Réseau.md",
+    "Communication/Communication professionelle/CC3 - Com dentreprise 3.pdf",
+    "Communication/Communication professionelle/Création d'une entreprise.md",
+    "Communication/Communication professionelle/communication professionnelle TD1.md",
+    "Communication/Communication professionelle/CC3 - Com dentreprise 2.pdf",
+    "Programmation/Analyse/Cours/3_Analyse.pdf",
+    "Programmation/Analyse/analyse TD1.md",
+    "Programmation/Analyse/Analyse CM1.md",
+    "Programmation/Programmation.md",
+    "Base de Données/SQL avec language de programmation/td2/Rapport TD2.md",
+    "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
     "Base de Données/SQL avec language de programmation/SQL dans un langage de programmation CM1.md",
     "Base de Données/SQL avec language de programmation/SQL dans un langage de programmation TD1.md",
-    "Base de Données/SQL avec language de programmation/td1/Rapport TD1.md",
-    "Base de Données/SQL avec language de programmation/Cours1-Trigger-2024.pdf",
-    "Base de Données/SQL avec language de programmation/td2/TD2.pdf",
-    "Base de Données/SQL avec language de programmation/td2/Rapport TD2.md",
     "Base de Données/Base de Données.md",
-    "Base de Données/SQL avec language de programmation/Cours2-Procedures.pdf",
-    "Base de Données/SQL avec language de programmation/td1/TD1.pdf",
-    "Base de Données/SQL avec language de programmation/td2/td2.sql",
-    "Base de Données/SQL avec language de programmation/td2",
-    "Base de Données/SQL avec language de programmation/td1/td1.sql",
-    "Base de Données/SQL avec language de programmation/td1/history.log",
-    "Base de Données/SQL avec language de programmation/td1",
     "Communication/Employment application/Intel Poland Internship.md",
     "Communication/Employment application/CV for internsip.md",
-    "Communication/Employment application/cv lesson.pdf",
     "Communication/Employment application/Anglais Employment module.md",
     "Sujets/English Employment.md",
     "Sujets/COMMUNICATION.md",
@@ -214,26 +229,8 @@
     "OLD/Réseau/Réseau.md",
     "OLD/Programmation/Programmation.md",
     "OLD/Programmation/qualité de développement/qualité de développement TP1.md",
-    "OLD/Communication/Untitled.md",
-    "OLD/Communication/Anglais Technique/Anglais Technique.md",
-    "Ressources/Ressources.md",
-    "OLD/Communication/Employment application/Anglais Employment module.md",
-    "OLD/Communication/Employment/Module informations.md",
-    "OLD/Base de Données/sql avec language de programmation/SQL dans un langage de programmation TD1.md",
-    "OLD/Base de Données/sql avec language de programmation/SQL dans un langage de programmation CM1.md",
-    "Sujets/SQL dans un language de programmation.md",
-    "Sujets/BASE DE DONNÉES.md",
-    "OLD/Communication/Communication  professionelle/communication professionnelle TD1.md",
     "OLD/Réseau/architecture des réseaux/r306_tp0/situation1.png",
     "OLD/Réseau/architecture des réseaux/r306_tp0/situation2.png",
-    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab2.jpg",
-    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab3.jpg",
-    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab1.jpg",
-    "OLD/Programmation/Automatisation des tests/TD/td_qualitedev_tab4.jpg",
-    "OLD/Avenir Etudes/PPP/portefolio/jeu/concept-art-jeu-01.png",
-    "OLD/Avenir Etudes/PPP/portefolio/concept-art-website-02--front-page.png",
-    "OLD/Avenir Etudes/PPP/portefolio/concept-art-website-01--map.png",
-    "OLD/Réseau/TD/TD5/plan.png",
     "OLD/Programmation/IHM/TD2/Arbre de scène.canvas",
     "OLD/Communication/English presentation skills/Maslow hierarchy of needs.canvas",
     "OLD/Gestion de projet/Gestion projet informatique/TD/TD3 Gestion de projet/Exo2/WBS Activité.canvas",

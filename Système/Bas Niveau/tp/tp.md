@@ -12,7 +12,7 @@ type: folder_brief_live
 		- **findmin**
 			- [[go.mod]]
 			- [[main.go]]
-	- [[tp1]]
+	- [[Système/Bas Niveau/tp/1-init_debug/tp1]]
 - **2-slices_et_tableaux**
 	- **src**
 		- **slicesandarrays1**
